@@ -1,0 +1,18 @@
+numpy
+opencv-python<5  # 5.x dropped cv2.HOGDescriptor, used in image_features.py
+openai
+Pillow
+pypdf
+pytest
+scikit-learn
+torch
+torchvision
+
+# Optional / heavy backends (lazy or conditional imports):
+# beautifulsoup4  # tools/ocr/compare_vlm_backends.py
+# easyocr  # tools/ocr/ruian_ipa_pipeline/hanzi_ocr_runner.py
+# hdbscan  # tools/ocr/ruian_ipa_pipeline/clustering.py
+# paddleocr  # tools/ocr/compare_ocr_backends.py, tools/ocr/compare_vlm_backends.py, tools/ocr/ruian_ipa_pipeline/hanzi_ocr_runner.py
+# pytesseract  # tools/ocr/ocr_ruian_table.py
+# scikit-image  # tools/ocr/ruian_ipa_pipeline/image_features.py
+# transformers  # tools/ocr/compare_vlm_backends.py
