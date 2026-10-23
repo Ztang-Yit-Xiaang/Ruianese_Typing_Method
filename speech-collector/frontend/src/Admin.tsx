@@ -111,7 +111,7 @@ export function AdminPanel() {
     <main className="sheet admin">
       <section className="card">
         <h2>登入</h2>
-        <p className="muted">輸入後端環境變數 <code>ADMIN_TOKEN</code>。</p>
+        <p className="muted">輸入管理密碼，即啟動采集服務器時設定的 <code>ADMIN_TOKEN</code>。</p>
         <form
           className="invite-row"
           onSubmit={(event) => {
@@ -119,7 +119,7 @@ export function AdminPanel() {
             void loadAdminData();
           }}
         >
-          <input type="password" value={token} onChange={(event) => setToken(event.target.value)} placeholder="ADMIN_TOKEN" autoComplete="off" />
+          <input type="password" value={token} onChange={(event) => setToken(event.target.value)} placeholder="管理密碼" aria-label="管理密碼" autoComplete="off" />
           <button className="btn primary" type="submit" disabled={busy || !token}>
             {busy && <Loader2 size={16} className="spin" />}載入
           </button>
