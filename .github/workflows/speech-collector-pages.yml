@@ -40,7 +40,7 @@ jobs:
       - name: Build
         run: npm run build
         env:
-          VITE_BASE_PATH: /Ruianese_Tying_Method/
+          VITE_BASE_PATH: /Ruianese_Typing_Method/
           VITE_API_BASE_URL: ${{ vars.SPEECH_COLLECTOR_API_BASE_URL }}
 
       - name: Upload artifact
