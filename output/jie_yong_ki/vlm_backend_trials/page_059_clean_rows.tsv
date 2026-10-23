@@ -1,0 +1,23 @@
+page	row	hanzi_raw	hanzi	hanzi_source	mandarin_pinyin	fanqie	category_tone	category_rhyme	category_initial	ruian_ipa_raw_vlm	ruian_ipa_corrected	ipa_correction_source	ruian_ipa_body	ruian_initial	ruian_final	tone_glyph_position	tone_glyph_register	tone_glyph_source	tone_glyph_confidence	tone_number	ruian_code	homophone	note	status	review_note
+059	1	万	万	explicit	mò	莫北	入	德	明	m \epsilon _2	m \epsilon _2	vlm_exact	meh	m	eh	right_lower	yang	image_glyph	0.90	8	meh8	墨	万俟（复姓）	ok	
+059	2	万（萬）	万（萬）	explicit	wàn	無販	去	願	明	v \alpha ^2	v \alpha ^2	vlm_exact	va	v	a	right_upper	yang	image_glyph	0.90	7	va7	饭*		ok	
+059	3	丰	丰	explicit	fēng	敷容	平	鍾	滂	c fuŋ	c fuŋ	vlm_exact	fuŋ	f	ong	left_lower	yin	image_glyph	0.85	1	fong1	烽		ok	
+059	4	丰（豐）	丰（豐）	explicit	fēng	敷空	平	東	滂	c fuŋ	c fuŋ	vlm_exact	fuŋ	f	ong	left_lower	yin	image_glyph	0.85	1	fong1	风*		ok	
+059	5	井	井	explicit	jǐng	子郢	上	静	精	c ts \alpha n	c ts \alpha n	vlm_exact	tsan	z	ang	left_upper	yin	image_glyph	0.85	2	zang2	整*		ok	
+059	6	开（開）	开（開）	explicit	kāi	苦哀	平	哈	溪	c k \theta \epsilon	kheh	manual_override	kheh	k	eh	left_lower	yin	image_glyph	0.85	1	keh1	堪*		ok	
+059	7	夫	夫	explicit	fū	甫無	平	虞	非	c fw	c fw	vlm_exact	fw	f	u	left_lower	yin	image_glyph	0.85	1	fu1	呼*	农夫	ok	
+059	8		夫	inherited	fú	防無	平	虞	奉	c vw	c vw	vlm_exact	vw	v	u	left_lower	yang	image_glyph	0.90	5	vu5	河*	发语词	ok	
+059	9	天	天	explicit	tiān	他前	平	先	透	c thie	c thie	vlm_exact	thie	t	ie	left_lower	yin	image_glyph	0.85	1	tie1	铁平		ok	
+059	10	元	元	explicit	yuán	愚袁	平	元	疑	c n \theta \epsilon	c nyə	manual_override	nyə	nj	yue	left_lower	yang	image_glyph	0.90	5	njyue5	原		ok	
+059	11	无（無）	无（無）	explicit	wú	武夫	平	虞	明	c vw	c vw	vlm_exact	vw	v	u	left_lower	yang	image_glyph	0.90	5	vu5	河*		ok	
+059	12		无（無）	inherited	mó					c mo	c mo	vlm_exact	mo	m	o	left_lower	yang	image_glyph	0.90	5	mo5	忙*	南無（梵语音c na \epsilon mo）	ok	
+059	13	韦（韋）	韦（韋）	explicit	wéi	雨非	平	微	于	c v \theta	c v \theta	review	v\theta			left_lower	yang	image_glyph	0.90	5		围		review	ipa_artifact_theta,ruian_code_unresolved
+059	14	专（專、* 耑）	专（專、* 耑）	explicit	zhuān	職緣	平	仙	照	c ts \theta \epsilon	c ts \theta \epsilon	review	ts\thetaeh			left_lower	yin	image_glyph	0.85	1		昭*	c t \epsilon \theta \epsilon (骄)	review	ipa_artifact_theta,ruian_code_unresolved
+059	15	丐	丐	explicit	gài	居曷				k \alpha _3	k \alpha _3	vlm_exact	ka	k	a	right_lower	yin	raw_marker_fallback	0.40	4	ka4		俗音kh \alpha _3（渴）	review	tone_glyph_from_raw_marker
+059	16	廿	廿	explicit	niàn	人執	入	緝	日	za _2	za _2	vlm_exact	za	ss	a	right_lower	yang	image_glyph	0.90	8	ssa8	十*	俗音niæ^2（念）	ok	
+059	17	五	五	explicit	wǔ	疑古	上	姥	疑	c \eta w	c \eta w	vlm_exact	ngw	ng	u	left_upper	yang	image_glyph	0.90	6	ngu6	午		ok	
+059	18	匝（币）	匝（币）	explicit	zā	子答	入	合	精	ts \epsilon _3	ts \epsilon _3	vlm_exact	tseh	z	eh	right_lower	yin	image_glyph	0.85	4	zeh4	则*	俗音ts \epsilon _3（扎）	ok	
+059	19	丐	丐	explicit	miǎn	彌兗				c mie	c mie	vlm_exact	mie	m	ie	left_upper	yang	image_glyph	0.90	6	mie6	免*		ok	
+059	20	卅	卅	explicit	sà	蘇合	入	合	心	s \alpha _3	so	manual_override	so	s	o	right_lower	yin	image_glyph	0.85	4	so4	杀*		ok	
+059	21		卅	inherited		私盍	入	盍	心	s \alpha _3	so	manual_override	so	s	o	right_lower	yin	image_glyph	0.85	4	so4	杀*	俗音lo_2（腊）	ok	
+059	22	不	不	explicit	bù	分物	入	物	幫	pa _3	pa _3	vlm_exact	pa	p	a	right_lower	yin	image_glyph	0.85	4	pa4	伯*		ok	

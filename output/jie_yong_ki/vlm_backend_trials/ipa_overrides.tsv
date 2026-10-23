@@ -1,0 +1,5 @@
+page	row	hanzi	ruian_ipa_corrected	ruian_initial	ruian_final	tone_number	ruian_code	note
+059	6	开（開）	kheh	k	eh	1	keh1	epsilon/ɛ preserved as formal eh final
+059	10	元	c nyə	nj	yue	5	njyue5	image confirms ny + yue; VLM theta is OCR artifact
+059	20	卅	so	s	o	4	so4	image confirms so; VLM alpha is OCR artifact
+059	21	卅	so	s	o	4	so4	image confirms so; inherited hanzi row
