@@ -43,7 +43,7 @@ VITE_API_BASE_URL=https://your-backend.example.org
 也可以用 CLI 生成邀請碼：
 
 ```powershell
-cd D:\瑞安文化研究\Ruianese\Ruianese_upload\Ruianese_Tying_Method\speech-collector\backend
+cd D:\瑞安文化研究\Ruianese\Ruianese_upload\Ruianese_Typing_Method\speech-collector\backend
 python scripts\create_invitations.py --count 20 --dialect ruian --label "瑞安第一批志願者" --max-uses 1
 ```
 
@@ -81,7 +81,7 @@ python scripts\import_dictionary_pdfs.py --full --limit-per-page 80
 
 任務導入腳本會從現有工作區讀取：
 
-- `Ruianese_upload/Ruianese_Tying_Method/ruianese.jie_yong_ki.dict.yaml`
+- `Ruianese_upload/Ruianese_Typing_Method/ruianese.jie_yong_ki.dict.yaml`
 - `rime-wenzhounese/wenzhounese.character_04.dict.yaml`
 - `rime-wenzhounese/wenzhounese.phrases.dict.yaml`
 - `backend/data/sample_sentences.tsv`
