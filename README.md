@@ -383,6 +383,4 @@ If the default `python` command is not configured on Windows, use the installed 
 
 ## License
 
-MIT License. See [LICENSE](LICENSE).
-
-Exception: `rime/ruianese.wenzhou_words.dict.yaml` includes words from [ZWolken/rime-wenzhounese](https://github.com/ZWolken/rime-wenzhounese), which is licensed under [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html). That file is distributed under AGPL-3.0.
+[GNU AGPL-3.0](LICENSE). The keyboard's 溫州話常用詞 dictionary (`rime/ruianese.wenzhou_words.dict.yaml`) includes words from [ZWolken/rime-wenzhounese](https://github.com/ZWolken/rime-wenzhounese), which is also AGPL-3.0.
