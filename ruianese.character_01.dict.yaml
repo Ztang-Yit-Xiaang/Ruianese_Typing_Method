@@ -37,8 +37,8 @@ version: "1.0.0"
 上  zsiae8
 才  zei5
 纔  zzei6 #副詞才的正字
-下  hhoo6
-下  hhoo8
+下  hho6
+下  hho8
 丈  jjia6
 丈  zzia6
 兀  nge7
@@ -59,7 +59,7 @@ version: "1.0.0"
 元  njyu4
 元  njyue4
 無  vu5
-無  moo5
+無  mo5
 韋  vyu5 #韦的正字
 專  zyue1 #专的正字
 專  jyue1
@@ -84,8 +84,8 @@ version: "1.0.0"
 友  iao6
 丑  cou2
 醜  cou2  #醜陋
-牙  ngoo5
-屯  dyu5
+牙  ngo5
+屯  ddou5
 屯  zong1
 互  vu8
 # 四畫
@@ -97,8 +97,8 @@ version: "1.0.0"
 甘  ge1
 且  cei2
 且  zou1
-可  koo2
-可  koo4
+可  ko2
+可  ko4
 冊  ca3 #册的正字
 丙  beng2
 平  beng5
@@ -110,7 +110,7 @@ version: "1.0.0"
 老  lae6
 共  jjyo8
 共  jyo1 #共工
-亞  oo4
+亞  o4
 亙  gang4 #亘的正字
 吏  lei8
 再  zei4 ##
@@ -179,9 +179,9 @@ version: "1.0.0"
 #十畫以上
 焉  ie1  
 堇  jiang2 
-爽  sio2
+爽  song2
 爽  su2
-甦  seu1
+甦  sou1
 棘  jie7
 奡  ngae8
 皕  bei4
@@ -202,13 +202,13 @@ version: "1.0.0"
 黇  zie1
 黇  jie1
 整  zeng2
-噩  ngoo7
+噩  ngo7
 臻  zang1
 鬴  fu2
 釜  fu2
 釐  lei5
 醫  i1
-囊  noo5
+囊  no5
 #丨部
 #二畫
 也  ia2
@@ -218,9 +218,9 @@ version: "1.0.0"
 中  jiong1
 中  jiong4
 内  nai8
-吊  duoo4
-弔  duoo4
-書  seu1
+吊  duo4
+弔  duo4
+書  sou1
 卡  ka2
 卡  ko2
 北  bei3
@@ -333,22 +333,22 @@ version: "1.0.0"
 甩  xia3
 氐  dei2
 氐  dei1
-樂  loo7  #與普通話不同，音樂的樂也是loo7
-樂  ngoo7 #樂清
-処  ceu2
-處  ceu2
-䖏  ceu2
-処  ceu4
-處  ceu4
-䖏  ceu4
+樂  lo7  #與普通話不同，音樂的樂也是loo7
+樂  ngo7 #樂清
+処  cou2
+處  cou2
+䖏  cou2
+処  cou4
+處  cou4
+䖏  cou4
 冬  ddong5
 鼕  ddong5
 務  vyu8
 #五畫
 年  njie5
 秊  njie5
-硃  zeu1
-朱  zeu1
+硃  zou1
+朱  zou1
 丟  dou1
 喬  jjyu5
 乒  peng1
@@ -365,15 +365,15 @@ version: "1.0.0"
 兆  jyu6
 汆  ce1
 危  njyu5
-各  goo3 #各種
-各  goo2 #各自
+各  go3 #各種
+各  go2 #各自
 色  sei3
 #六畫
 我  ngu5
 我  ng5
 每  mei6
 兵  beng1
-兔  teu4
+兔  tou4
 囱  cong1
 希  xi1
 龜  yu1
@@ -384,7 +384,7 @@ version: "1.0.0"
 繫  zsi8
 系  zsi8
 #七畫
-垂  zeu5
+垂  zou5
 乖  ga1
 秉  bong2
 臾  vyu5
