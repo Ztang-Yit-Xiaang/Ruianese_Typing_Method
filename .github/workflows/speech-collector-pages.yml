@@ -1,4 +1,4 @@
-name: Deploy speech collector and keyboard site
+name: Deploy keyboard site and speech collector
 
 on:
   push:
@@ -43,21 +43,24 @@ jobs:
       - name: Build
         run: npm run build
         env:
-          VITE_BASE_PATH: /Ruianese_Typing_Method/
+          VITE_BASE_PATH: /Ruianese_Typing_Method/collect/
           VITE_API_BASE_URL: ${{ vars.SPEECH_COLLECTOR_API_BASE_URL }}
 
-      - name: Add keyboard site at /keyboard/
+      - name: Assemble site (keyboard site at /, collector at /collect/)
         working-directory: .
         run: |
           python3 tools/build_site_lexicon.py
-          mkdir -p speech-collector/frontend/dist/keyboard
-          cp -R site/. speech-collector/frontend/dist/keyboard/
-          (cd rime && zip -qr ../speech-collector/frontend/dist/keyboard/ruianese-rime.zip .)
+          mkdir -p _site/keyboard
+          cp -R site/. _site/
+          cp -R speech-collector/frontend/dist _site/collect
+          (cd rime && zip -qr ../_site/ruianese-rime.zip .)
+          # The site briefly lived at /keyboard/; send old links home.
+          printf '<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=../"><link rel="canonical" href="../"><a href="../">瑞安話輸入法</a>' > _site/keyboard/index.html
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: speech-collector/frontend/dist
+          path: _site
 
   deploy:
     environment:
