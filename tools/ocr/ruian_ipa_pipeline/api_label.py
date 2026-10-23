@@ -103,46 +103,60 @@ def label_clusters_with_openai(
     print(f"API key source: {credential.source}")
     print(f"Custom endpoint allowed: {custom_endpoint and custom_allowed}")
     client = OpenAI(**client_kwargs)
+    import threading
+    from concurrent.futures import ThreadPoolExecutor
+
+    write_lock = threading.Lock()
     labels: list[dict[str, Any]] = []
-    for row in todo:
-        sheet_path = _resolve_path(cluster_manifest_path, row["contact_sheet"])
-        prompt = build_prompt(row, inventory)
-        response = client.responses.create(
-            model=model,
-            input=[
+
+    def process_row(row: dict[str, Any]) -> None:
+        try:
+            sheet_path = _resolve_path(cluster_manifest_path, row["contact_sheet"])
+            prompt = build_prompt(row, inventory)
+            response = client.responses.create(
+                model=model,
+                input=[
+                    {
+                        "role": "user",
+                        "content": [
+                            {"type": "input_text", "text": prompt},
+                            {"type": "input_image", "image_url": _image_data_url(sheet_path)},
+                        ],
+                    }
+                ],
+                text={
+                    "format": {
+                        "type": "json_schema",
+                        "name": "ruian_ipa_cluster_label",
+                        "schema": LABEL_SCHEMA,
+                        "strict": True,
+                    }
+                },
+            )
+            payload = json.loads(response.output_text)
+            payload = _normalize_payload(payload, inventory)
+            payload.update(
                 {
-                    "role": "user",
-                    "content": [
-                        {"type": "input_text", "text": prompt},
-                        {"type": "input_image", "image_url": _image_data_url(sheet_path)},
-                    ],
+                    "cluster_id": row["cluster_id"],
+                    "label_status": "weak",
+                    "source": "openai_api",
+                    "model": model,
+                    "created_at": datetime.now(timezone.utc).isoformat(),
+                    "contact_sheet": row["contact_sheet"],
+                    "representative_cell_ids": row.get("representative_cell_ids", []),
+                    "needs_review": payload["status"] != "labeled" or not payload.get("romanization"),
                 }
-            ],
-            text={
-                "format": {
-                    "type": "json_schema",
-                    "name": "ruian_ipa_cluster_label",
-                    "schema": LABEL_SCHEMA,
-                    "strict": True,
-                }
-            },
-        )
-        payload = json.loads(response.output_text)
-        payload = _normalize_payload(payload, inventory)
-        payload.update(
-            {
-                "cluster_id": row["cluster_id"],
-                "label_status": "weak",
-                "source": "openai_api",
-                "model": model,
-                "created_at": datetime.now(timezone.utc).isoformat(),
-                "contact_sheet": row["contact_sheet"],
-                "representative_cell_ids": row.get("representative_cell_ids", []),
-                "needs_review": payload["status"] != "labeled" or not payload.get("romanization"),
-            }
-        )
-        labels.append(payload)
-        append_jsonl(output_path, [payload])
+            )
+            with write_lock:
+                labels.append(payload)
+                append_jsonl(output_path, [payload])
+            print(f"Labeled cluster {row['cluster_id']}: status={payload['status']}, romanization={payload.get('romanization')}")
+        except Exception as e:
+            print(f"Error labeling cluster {row['cluster_id']}: {e}")
+
+    with ThreadPoolExecutor(max_workers=15) as executor:
+        executor.map(process_row, todo)
+
     return labels
 
 

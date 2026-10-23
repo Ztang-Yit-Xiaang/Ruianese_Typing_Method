@@ -31,6 +31,8 @@ def candidate_bodies(body):
         if value and (value, note) not in candidates:
             candidates.append((value, note))
 
+    if "yuo" in body:
+        add(body.replace("yuo", "yoe"), "yuo->yoe")
     if "uoo" in body:
         add(body.replace("uoo", "uoe"), "uoo->uoe")
     if "oo" in body:
@@ -39,6 +41,33 @@ def candidate_bodies(body):
         add(body.replace("eu", "e"), "eu->e")
     if "ii" in body:
         add(body.replace("ii", "i"), "ii->i")
+    if body == "wa":
+        add("uai", "wa->uai")
+    if body == "ye":
+        add("ie", "ye->ie")
+    if body.startswith("tiae"):
+        add("tia" + body[4:], "tiae->tia")
+    if body.startswith("diae"):
+        add("dia" + body[4:], "diae->dia")
+    if body.startswith("ddiae"):
+        add("ddia" + body[5:], "ddiae->ddia")
+    if body.startswith("dju"):
+        add("jjyu" + body[3:], "dju->jjyu")
+    if body.startswith("tju"):
+        add("qyu" + body[3:], "tju->qyu")
+    
+    # Palatalization before i/y medials
+    if body.startswith("ziae"): add("jiae" + body[4:], "ziae->jiae")
+    if body.startswith("zyue"): add("jyue" + body[4:], "zyue->jyue")
+    if body.startswith("ciae"): add("qiae" + body[4:], "ciae->qiae")
+    if body.startswith("cyue"): add("qyue" + body[4:], "cyue->qyue")
+    if body.startswith("zziae"): add("jjiae" + body[5:], "zziae->jjiae")
+    if body.startswith("zzyue"): add("jjyue" + body[5:], "zzyue->jjyue")
+    if body.startswith("siae"): add("xiae" + body[4:], "siae->xiae")
+    if body.startswith("syue"): add("xyue" + body[4:], "syue->xyue")
+    if body.startswith("ssiae"): add("zsiae" + body[5:], "ssiae->zsiae")
+    if body.startswith("ssyue"): add("zsyue" + body[5:], "ssyue->zsyue")
+
     if body.startswith("dz"):
         add("zz" + body[2:], "dz->zz")
     if body.startswith("fv"):
@@ -72,6 +101,7 @@ def candidate_bodies(body):
     for old, new in (("qjue", "qyue"), ("jjjue", "jjyue"), ("jju", "jyu"), ("jue", "jyue"), ("jii", "ji"), ("qii", "qi"), ("jjii", "jji")):
         if body == old:
             add(new, f"{old}->{new}")
+
     return candidates
 
 

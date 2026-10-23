@@ -13,6 +13,7 @@ from ruian_ipa_pipeline.inventory import load_inventory
 from ruian_ipa_pipeline.label_management import promote_labels, summarize_labels
 from ruian_ipa_pipeline.labels import build_cell_labels
 from ruian_ipa_pipeline.predict import predict_manifest
+from ruian_ipa_pipeline.quarantine import quarantine_labels
 from ruian_ipa_pipeline.review import apply_review_decisions, build_review_queue
 from ruian_ipa_pipeline.review_suggestions import generate_review_fix_suggestions
 from ruian_ipa_pipeline.train import TrainConfig, train_classifier
@@ -141,6 +142,12 @@ def main() -> None:
     predict.add_argument("--device", default=None)
     predict.add_argument("--top-k", type=int, default=5)
     predict.add_argument("--allow-mapping-mismatch", action="store_true")
+
+    quar = sub.add_parser("quarantine", help="Quarantine suspicious predictions via blast radius analysis")
+    quar.add_argument("--labels", type=Path, required=True)
+    quar.add_argument("--cluster-id", required=True)
+    quar.add_argument("--rime-syllable", required=True)
+    quar.add_argument("--out", type=Path, required=True)
 
     args = parser.parse_args()
     if args.command == "extract":
@@ -282,6 +289,9 @@ def main() -> None:
             top_k=args.top_k,
         )
         print(f"Wrote {len(rows)} predictions to {args.out}")
+    elif args.command == "quarantine":
+        _, count = quarantine_labels(args.labels, args.cluster_id, args.rime_syllable, args.out)
+        print(f"Quarantined {count} rows matching cluster={args.cluster_id} or syllable={args.rime_syllable} into {args.out}")
 
 
 def _filter_pages(paths: list[Path], start: int | None, end: int | None) -> list[Path]:
