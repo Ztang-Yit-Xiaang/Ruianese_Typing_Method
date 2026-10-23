@@ -1,0 +1,23 @@
+page	row	hanzi	hanzi_source	ruian_ipa_raw_vlm	ruian_ipa_corrected	ruian_ipa_body	tone_glyph_position	tone_glyph_register	tone_glyph_source	tone_glyph_confidence	tone_glyph_note	category_tone	tone_number	review_note
+059	1	万	explicit	m \epsilon _2	m \epsilon _2	meh	right_lower	yang	image_glyph	0.90	glyph=143,71,14,18;bar=142,100,14,5	入	8	
+059	2	万（萬）	explicit	v \alpha ^2	v \alpha ^2	va	right_upper	yang	image_glyph	0.90	glyph=141,39,5,11;bar=131,62,15,4	去	7	
+059	3	丰	explicit	c fuŋ	c fuŋ	fuŋ	left_lower	yin	image_glyph	0.85	glyph=49,75,15,26;bar=	平	1	
+059	4	丰（豐）	explicit	c fuŋ	c fuŋ	fuŋ	left_lower	yin	image_glyph	0.85	glyph=49,75,15,26;bar=	平	1	
+059	5	井	explicit	c ts \alpha n	c ts \alpha n	tsan	left_upper	yin	image_glyph	0.85	glyph=33,37,14,26;bar=	上	2	
+059	6	开（開）	explicit	c k \theta \epsilon	kheh	kheh	left_lower	yin	image_glyph	0.85	glyph=45,75,15,26;bar=	平	1	
+059	7	夫	explicit	c fw	c fw	fw	left_lower	yin	image_glyph	0.85	glyph=60,75,15,26;bar=	平	1	
+059	8	夫	inherited	c vw	c vw	vw	left_lower	yang	image_glyph	0.90	glyph=54,73,13,26;bar=54,102,14,4	平	5	
+059	9	天	explicit	c thie	c thie	thie	left_lower	yin	image_glyph	0.85	glyph=41,74,15,26;bar=	平	1	
+059	10	元	explicit	c n \theta \epsilon	c nyə	nyə	left_lower	yang	image_glyph	0.90	glyph=41,72,14,26;bar=42,100,13,5	平	5	
+059	11	无（無）	explicit	c vw	c vw	vw	left_lower	yang	image_glyph	0.90	glyph=55,73,13,26;bar=55,101,14,5	平	5	
+059	12	无（無）	inherited	c mo	c mo	mo	left_lower	yang	image_glyph	0.90	glyph=54,131,13,26;bar=54,160,13,5		5	
+059	13	韦（韋）	explicit	c v \theta	c v \theta	v\theta	left_lower	yang	image_glyph	0.90	glyph=63,75,14,27;bar=63,104,14,5	平	5	ipa_artifact_theta,ruian_code_unresolved
+059	14	专（專、* 耑）	explicit	c ts \theta \epsilon	c ts \theta \epsilon	ts\thetaeh	left_lower	yin	image_glyph	0.85	glyph=39,135,15,26;bar=	平	1	ipa_artifact_theta,ruian_code_unresolved
+059	15	丐	explicit	k \alpha _3	k \alpha _3	ka	right_lower	yin	raw_marker_fallback	0.40	tone_glyph_from_raw_marker:3		4	tone_glyph_from_raw_marker
+059	16	廿	explicit	za _2	za _2	za	right_lower	yang	image_glyph	0.90	glyph=137,80,14,18;bar=135,109,15,4	入	8	
+059	17	五	explicit	c \eta w	c \eta w	ngw	left_upper	yang	image_glyph	0.90	glyph=59,41,13,26;bar=59,70,13,5	上	6	
+059	18	匝（币）	explicit	ts \epsilon _3	ts \epsilon _3	tseh	right_lower	yin	image_glyph	0.85	glyph=144,80,15,26;bar=	入	4	
+059	19	丐	explicit	c mie	c mie	mie	left_upper	yang	image_glyph	0.90	glyph=49,41,13,26;bar=49,70,13,5		6	
+059	20	卅	explicit	s \alpha _3	so	so	right_lower	yin	image_glyph	0.85	glyph=135,81,15,26;bar=	入	4	
+059	21	卅	inherited	s \alpha _3	so	so	right_lower	yin	image_glyph	0.85	glyph=136,80,15,26;bar=	入	4	
+059	22	不	explicit	pa _3	pa _3	pa	right_lower	yin	image_glyph	0.85	glyph=140,81,15,26;bar=	入	4	

@@ -1,0 +1,4 @@
+issue	raw_ipa	suggested_initial	suggested_final	tone	suggested_code	count	rows	override_candidates
+Invalid syllable structure (multiple initials), presence of OCR artifact \theta, unable to determine correct final without external evidence.	c v \theta	v		5	v5	1	059:13:韦（韋）	
+Tone marker in raw_ipa (_3) mismatches tone_from_glyph (4).	k \alpha _3	k	a	4	ka4	1	059:15:丐	ka4
+api_error	c ts \theta \epsilon			1		1	059:14:专（專、* 耑）	

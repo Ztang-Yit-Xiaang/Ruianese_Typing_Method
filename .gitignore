@@ -21,3 +21,36 @@ zhang_transcription.py
 /generate_ruian_pinyin_dict.py
 /jie_yong_ki_transcription.py
 /Py_OCR/
+API_KEY.txt
+API_BASE_URL.txt
+.codex/
+.codex_tmp*/
+output/ipa_closed_set*/
+output/pytest_tmp/
+output/.pytest_cache_tmp/
+
+# Local operating-system metadata
+Thumbs.db
+.DS_Store
+
+# Local Python environments and tool caches
+.venv/
+venv/
+.pytest_cache/
+pytest-cache-files-*/
+.ruff_cache/
+.mypy_cache/
+
+# Frontend dependencies and generated builds
+node_modules/
+dist/
+
+# Local environment settings; keep the public template
+.env
+.env.*
+!.env.example
+
+# Speech collector runtime data and test scratch files
+speech-collector/backend/data/*.sqlite3*
+speech-collector/backend/storage/
+speech-collector/backend/tests_work/

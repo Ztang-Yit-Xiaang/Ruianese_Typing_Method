@@ -1,1 +1,23 @@
 page	row	hanzi	pinyin	fanqie	tone_base	tone_register	tone_number	rhyme	initial	ipa	homophone	note	status	review_note
+059	1	万	mò	莫北	平	yin	1	德明	me₂	me₂	墨	万俟(复姓)	review	Tone base is '平' (level tone), which corresponds to '1'.
+059	2	万(萬)	wàn	無販	去	yang	5	明	vɔ²	vɔ²	饭*		review	Tone base is '去' (falling tone), which corresponds to '5'.,tone_number_mismatch_expected_7,Tone base is '去' (falling tone), which corresponds to '5'.
+059	3	丰	fēng	敷容	平	yin	1	鍾滂	fuŋ	fuŋ	烽		review	Tone base is '平' (level tone), which corresponds to '1'.
+059	4	丰(豐)	fēng	敷空	平	yin	1	東滂	fuŋ	fuŋ	风*		review	Tone base is '平' (level tone), which corresponds to '1'.
+059	5	井	jǐng	子郢	上	yin	3	静精	tsəŋ	tsəŋ	整*		review	Tone base is '上' (rising tone), which corresponds to '3'.,tone_number_mismatch_expected_2,Tone base is '上' (rising tone), which corresponds to '3'.
+059	6	开(開)	kāi	苦哀	平	yin	1	咍溪	kʰe	kʰe	堪*		review	Tone base is '平' (level tone), which corresponds to '1'.
+059	7	夫	fū	甫無	平	yin	1	非	cfw	cfw	呼*	农夫	review	Tone base is '平' (level tone), which corresponds to '1'.
+059	8		fú	防無	平	yin	1	奉	cvw	cvw	河*	发语词	review	Tone base is '平' (level tone), which corresponds to '1'.,missing_hanzi,Tone base is '平' (level tone), which corresponds to '1'.
+059	9	天	tiān	他前	平	yin	1	先透	cθie	cθie	铁平		review	Tone base is '平' (level tone), which corresponds to '1'.
+059	10	元	yuán	愚袁	平	yin	1	元疑	cŋyə	cŋyə	原		review	Tone base is '平' (level tone), which corresponds to '1'.
+059	11	无(無)	wú	武夫	平	yin	1	明	cvw	cvw	河*		review	Tone base is '平' (level tone), which corresponds to '1'.
+059	12		mó						cmo	cmo	忙*	南無(梵语音 cnaŋmo)	review	No fanqie provided for this row.,missing_hanzi,No fanqie provided for this row.
+059	13	韦(韋)	wéi	雨非	平	yin	1	微于	cvu	cvu	围		review	Tone base is '平' (level tone), which corresponds to '1'.
+059	14	专(專、*崙)	zhuān	職緣	平	yin	1	仙照	ctsyə	ctsyə	昭*	cteya(骄)	review	Tone base is '平' (level tone), which corresponds to '1'.
+059	15	丐	gài	居曷					kə	kə		俗音 khaʔ(渴)	review	No fanqie provided for this row.
+059	16	廿	niàn	人執	入	yin	4	緝日	za₂	za₂	十*	俗音 niæʔ(念)	review	Tone base is '入' (entering tone), which corresponds to '4'.
+059	17	五	wǔ	疑古	上	yin	3	姥疑	cŋw	cŋw	午		review	Tone base is '上' (rising tone), which corresponds to '3'.,tone_number_mismatch_expected_2,Tone base is '上' (rising tone), which corresponds to '3'.
+059	18	匝(匝)	zā	子答	入	yin	1	合精	tsə̃	tsə̃	则*	俗音 tsoʔ(扎)	review	Tone base is '入' (entering tone), which corresponds to '1'.,tone_number_mismatch_expected_4,Tone base is '入' (entering tone), which corresponds to '1'.
+059	19	丐	miǎn	彌兌					cme	cme	免*		review	No fanqie provided for this row.
+059	20	卅	sà	蘇合	入	yin	1	心	sɔ̃	sɔ̃	杀*	俗音 loʔ(腊)	review	Tone base is '入' (entering tone), which corresponds to '1'.,tone_number_mismatch_expected_4,Tone base is '入' (entering tone), which corresponds to '1'.
+059	21			私盍	入	yin	1	盍心	sɔ̃	sɔ̃	杀*		review	No fanqie provided for this row.,missing_hanzi,tone_number_mismatch_expected_4,No fanqie provided for this row.
+059	22	不	bù	分物	入	yin	1	物幫	pã	pã	伯*		review	Tone base is '入' (entering tone), which corresponds to '1'.,tone_number_mismatch_expected_4,Tone base is '入' (entering tone), which corresponds to '1'.
