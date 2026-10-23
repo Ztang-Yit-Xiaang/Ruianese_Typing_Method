@@ -597,7 +597,7 @@ def main(argv: list[str] | None = None) -> None:
     parser.add_argument("--provider", default="openai")
     parser.add_argument("--base-url")
     parser.add_argument("--api-key-env", default="OPENAI_API_KEY")
-    parser.add_argument("--model", default="gpt-4.1-mini")
+    parser.add_argument("--model", default="gpt-5.4")
     parser.add_argument(
         "--limit",
         type=int,

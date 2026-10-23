@@ -294,3 +294,25 @@ def test_review_queue_regeneration_preserves_human_fields(work_tmp: Path, invent
     assert row["review_note"] == "human kept"
     assert row["current_ipa_initial"] == "p"
     assert "correct_tone" in row
+
+
+def test_spelling_policy_mappings() -> None:
+    # Initials
+    assert roman_from_ipa("ts", "a") == ("z", "a")
+    assert roman_from_ipa("tsʰ", "a") == ("c", "a")
+    assert roman_from_ipa("dz", "a") == ("zz", "a")
+    assert roman_from_ipa("z", "a") == ("ss", "a")
+    assert roman_from_ipa("z̠", "a") == ("zs", "a")
+    assert roman_from_ipa("ʑ", "a") == ("zs", "a")
+    
+    # Finals
+    assert roman_from_ipa("p", "ɔ") == ("b", "oe")
+    assert roman_from_ipa("p", "ɛ") == ("b", "eh")
+    assert roman_from_ipa("p", "əʉ") == ("b", "ou")
+    assert roman_from_ipa("p", "uɔ") == ("b", "uoe")
+    assert roman_from_ipa("p", "yɔ") == ("b", "yoe")
+    
+    # Invalid combinations or unknown initials/finals return None
+    assert roman_from_ipa("unknown", "a") is None
+    assert roman_from_ipa("p", "unknown") is None
+
