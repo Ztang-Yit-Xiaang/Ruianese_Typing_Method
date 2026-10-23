@@ -18,3 +18,5 @@ use_preset_vocabulary: false
 歪	va1
 出	qyue4
 廿	njie8
+# 日：文讀 ssa8（見張永愷、陳海芳字典），白讀 nji4
+日	nji4	49737
