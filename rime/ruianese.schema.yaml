@@ -1,0 +1,109 @@
+# 文件名：ruianese.schema.yaml
+# Rime schema
+# encoding: utf-8
+#
+# 瑞安話輸入方案（吳語·甌江片·溫州話瑞安城區口音）
+# 結構仿照 ZWolken/rime-wenzhounese（溫州話輸入方案）。
+# 主字典：張永愷《瑞安方言讀音字典》；補充：陳海芳《瑞安話語音研究》。
+
+schema:
+  schema_id: ruianese
+  name: 瑞安話
+  version: "0.1.0"
+  icon: "ruian.ico"
+  author:
+    - Ruianese Typing Method contributors
+  description: |
+    瑞安話拼音輸入方案。
+    聲母：b p bb m f v / d t dd n l / g k gg ng h hh / j q jj nj x zs / z c zz s ss
+    韻母：a ia ua o io uo yo e yue ae iae oe ioe uoe eh ie ao iao ai uai
+          ang iang eng ong iong i ei u eu iou yu ou ng
+    聲調可省略；候選旁顯示帶調拼音（¹陰平 ²陰上 ³陰去 ⁴陰入 ⁵陽平 ⁶陽上 ⁷陽去 ⁸陽入）。
+    如需打聲調，請切換到「瑞安話（帶調）」方案。
+    按 ` 鍵後輸入普通話拼音可反查瑞安話讀音。
+  dependencies:
+    - luna_pinyin
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: simplification
+    reset: 0
+      # 0[默認]：輸出原字形（繁體）；1：啓用「繁→簡」轉換，輸出簡體字
+    states: [ 漢字, 汉字 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 中式, 西式 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - reverse_lookup_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    # 碼表帶調，本方案輸入不帶調
+    - xform/[1-8]$//
+    # 尖團合流：張氏字典區分 z(ts)ie / j(tɕ)ie 等，今瑞安話已合流，兩種拼法皆可
+    #   （只作用於 i/y 介音後還有韻母的音節，不影響 zi 之、ci 雌、si 思 等舌尖元音）
+    - derive/^zz(i[a-z]+|y[a-z]*)$/jj$1/
+    - derive/^z(i[a-z]+|y[a-z]*)$/j$1/
+    - derive/^c(i[a-z]+|y[a-z]*)$/q$1/
+    - derive/^ss(i[a-z]+|y[a-z]*)$/zs$1/
+    - derive/^s(i[a-z]+|y[a-z]*)$/x$1/
+    # 今音合流：ie→i（天 tie→ti）、yue→yu（專 jyue→jyu）；z/c/s 組除外以免與舌尖元音 zi ci si 相混
+    - derive/^(b|p|bb|m|f|v|d|t|dd|n|l|g|k|gg|ng|h|hh|j|q|jj|nj|x|zs)?ie$/$1i/
+    - derive/^(b|p|bb|m|f|v|d|t|dd|n|l|g|k|gg|ng|h|hh|j|q|jj|nj|x|zs)?yue$/$1yu/
+
+translator:
+  dictionary: ruianese
+  spelling_hints: 5
+  comment_format:
+    - xlit/12345678/¹²³⁴⁵⁶⁷⁸/
+  preedit_format: []
+
+reverse_lookup:
+  dictionary: luna_pinyin
+  prefix: "`"
+  suffix: "'"
+  tips: 〔拼音反查〕
+  comment_format:
+    - xlit/12345678/¹²³⁴⁵⁶⁷⁸/
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"

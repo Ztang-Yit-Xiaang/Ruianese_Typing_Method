@@ -6,6 +6,7 @@ Contact: [ztangyitxiaang@gmail.com](mailto:ztangyitxiaang@gmail.com)
 
 ## Features
 
+- Ready-to-install Rime keyboard in [`rime/`](rime/) (see [Installation](#installation))
 - Rime schema for Rui'an dialect romanization
 - Initial, final, and tone spelling based on the project pinyin scheme
 - Syllable dictionary generated from legal initial-final pairs
@@ -276,10 +277,86 @@ This writes `ruianese.jie_yong_ki.dict.yaml` with only `ok` and `converted` read
 
 ## Installation
 
-1. Install [Rime](https://rime.im/).
-2. Copy `ruian_pinyin.schema.yaml` and `ruian_pinyin.dict.yaml` into your Rime config folder.
-3. Deploy Rime.
-4. Select `瑞安話拼音`.
+The keyboard runs on [Rime](https://rime.im/), a free input-method engine. You install Rime once, then add the Ruianese layout from the [`rime/`](rime/) folder. Two layouts are included:
+
+| Layout | Input |
+|---|---|
+| `瑞安話` (`ruianese`) | Type without tones: `ssang` → 人 |
+| `瑞安話（帶調）` (`ruianese_tone`) | Tones optional: `ssang5` → 人 |
+
+### 1. Install Rime
+
+| System | Rime app | Rime user folder |
+|---|---|---|
+| macOS | [Squirrel 鼠鬚管](https://rime.im/download/) | `~/Library/Rime` |
+| Windows | [Weasel 小狼毫](https://rime.im/download/) | `%APPDATA%\Rime` |
+| Linux (Fcitx5) | `fcitx5-rime` from your package manager | `~/.local/share/fcitx5/rime` |
+| Linux (IBus) | `ibus-rime` from your package manager | `~/.config/ibus/rime` |
+
+**macOS only:** after installing Squirrel, add it as an input source, or no icon appears in the menu bar. Open **System Settings → Keyboard → Text Input → Edit… → +**, choose **Chinese, Simplified** (or Traditional), select **Squirrel**, and click **Add**. If Squirrel is not listed, log out and back in first.
+
+On Windows, open the user folder from the Start menu: **小狼毫輸入法 → 【小狼毫】用戶文件夾**.
+
+### 2. Copy the layout files
+
+Download this repository (green **Code** button → **Download ZIP**, or `git clone`), then copy every file in the `rime/` folder into your Rime user folder:
+
+```text
+ruian.ico
+ruianese.schema.yaml
+ruianese_tone.schema.yaml
+ruianese.dict.yaml
+ruianese.zhang_yongkai.dict.yaml
+ruianese.chen_haifang.dict.yaml
+ruianese.yunshu.dict.yaml
+ruianese.wenzhou_words.dict.yaml
+ruianese.customize.dict.yaml
+```
+
+### 3. Turn the layout on
+
+In the same Rime user folder, open `default.custom.yaml` (create it if it does not exist) and list the layouts:
+
+```yaml
+patch:
+  schema_list:
+    - schema: ruianese
+    - schema: ruianese_tone
+    - schema: luna_pinyin
+```
+
+This list replaces Rime's default one, so keep any other layouts you use. `luna_pinyin` (Mandarin pinyin) is optional, but the Ruianese layouts use it for reverse lookup, so it should stay installed. Squirrel and Weasel include it. On Linux, install your distribution's `rime-data` package if it is missing.
+
+### 4. Deploy
+
+Rime reads new files only when you deploy:
+
+- **macOS:** click the Squirrel icon in the menu bar → **Deploy (重新部署)**.
+- **Windows:** Start menu → **小狼毫輸入法 → 【小狼毫】重新部署**.
+- **Linux:** Fcitx5: right-click the tray icon → **Deploy**. IBus: click the Rime menu → **Deploy**, or run `ibus restart`.
+
+The first deploy builds the dictionary and can take up to a minute.
+
+### 5. Type
+
+Switch to Rime (Squirrel, Weasel or Rime in your input menu), click into any text box, and type a reading:
+
+| Type | Choose |
+|---|---|
+| `ssang` | 人 |
+| `ssou` | 瑞 |
+| `e` | 安 |
+| `hho` or `va` | 話 |
+
+- **Choose a candidate:** press **Space** for the first one, or its number.
+- **Switch layouts:** press **Ctrl+`** or **F4** to open the 方案選單 and pick `瑞安話` or `瑞安話（帶調）`.
+- **English mode:** if plain letters come out, press **Shift** once to toggle Rime between English and Chinese.
+
+### Troubleshooting
+
+- **No icon on macOS:** Squirrel has not been added as an input source (see step 1).
+- **No candidate window:** deploy again (step 4). If you installed or edited files while Rime was running, it keeps using the old build until you deploy.
+- **The layout is missing from Ctrl+`:** check `default.custom.yaml` (step 3), then deploy.
 
 ## Contributing
 
@@ -307,3 +384,5 @@ If the default `python` command is not configured on Windows, use the installed 
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
+Exception: `rime/ruianese.wenzhou_words.dict.yaml` includes words from [ZWolken/rime-wenzhounese](https://github.com/ZWolken/rime-wenzhounese), which is licensed under [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html). That file is distributed under AGPL-3.0.
