@@ -1,0 +1,17 @@
+# 文件名：ruianese.customize.dict.yaml
+# Rime dictionary
+# encoding: utf-8
+#
+# 自定義字詞。格式：詞語<Tab>帶調拼音（音節以空格分隔）<Tab>權重（可省）
+# 例：
+#   瑞安	zsyu6 oe1	1000
+#   阿娘	a1 njiae5	500
+# 修改後請「重新部署」。
+
+---
+name: ruianese.customize
+version: "0.1.0"
+sort: by_weight
+use_preset_vocabulary: false
+...
+

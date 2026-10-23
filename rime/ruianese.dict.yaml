@@ -1,0 +1,23 @@
+# 文件名：ruianese.dict.yaml
+# Rime dictionary — 本項目拼寫方案 + 《瑞安方言讀音字典》等字音數據
+# encoding: utf-8
+---
+name: ruianese
+version: "0.1.0"
+sort: by_weight
+use_preset_vocabulary: true
+max_phrase_length: 7
+min_phrase_weight: 100
+
+import_tables:
+  - ruianese.zhang_yongkai
+  # 張永愷《瑞安方言讀音字典》
+  - ruianese.wenzhou_words
+  # 溫州話常用詞（溫州方言志、溫州方言詞典、rime-wenzhounese 詞庫）
+  - ruianese.yunshu
+  # 補充字音：《瑞安方言曲藝韻書》
+  - ruianese.chen_haifang
+  # 補充字音：陳海芳《瑞安話語音研究》同音字匯（今瑞安城區讀音）
+  - ruianese.customize
+  # 自定義字詞
+...

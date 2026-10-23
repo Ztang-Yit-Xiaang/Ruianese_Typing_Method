@@ -1,0 +1,106 @@
+# 文件名：ruianese_tone.schema.yaml
+# 基於 rime_ruianese/ruianese_tone.schema.yaml，更名並修正 Shift+2 選字衝突
+# Rime schema
+# encoding: utf-8
+#
+# 瑞安話·帶調：與「瑞安話」共用字典，可在音節後輸入數字聲調 1–8 精確篩選。
+#   1陰平 2陰上 3陰去 4陰入 5陽平 6陽上 7陽去 8陽入
+# 數字鍵用作聲調，故選字請用 空格／方向鍵，或 Shift+數字（!@#$%^&*( 對應第 1–9 個候選）。
+
+schema:
+  schema_id: ruianese_tone
+  name: 瑞安話（帶調）
+  version: "0.1.0"
+  icon: "ruian.ico"
+  author:
+    - Ruianese Typing Method contributors
+  description: |
+    瑞安話拼音（帶數字聲調）。例：zeng1 正、zeng3 政、tie1 天。
+    聲調可省略。選字：空格、方向鍵或 Shift+數字。
+  dependencies:
+    - luna_pinyin
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: simplification
+    reset: 0
+    states: [ 漢字, 汉字 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 中式, 西式 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - selector
+    - punctuator
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - reverse_lookup_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+menu:
+  alternative_select_keys: "!@#$%^&*("
+  alternative_select_labels: [ "1", "2", "3", "4", "5", "6", "7", "8", "9" ]
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba12345678
+  initials: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    # 聲調可省略
+    - derive/[1-8]$//
+    # 尖團合流（見 ruianese.schema.yaml）
+    - derive/^zz(i[a-z]+|y[a-z]*)([1-8]?)$/jj$1$2/
+    - derive/^z(i[a-z]+|y[a-z]*)([1-8]?)$/j$1$2/
+    - derive/^c(i[a-z]+|y[a-z]*)([1-8]?)$/q$1$2/
+    - derive/^ss(i[a-z]+|y[a-z]*)([1-8]?)$/zs$1$2/
+    - derive/^s(i[a-z]+|y[a-z]*)([1-8]?)$/x$1$2/
+    # 今音合流 ie→i、yue→yu
+    - derive/^(b|p|bb|m|f|v|d|t|dd|n|l|g|k|gg|ng|h|hh|j|q|jj|nj|x|zs)?ie([1-8]?)$/$1i$2/
+    - derive/^(b|p|bb|m|f|v|d|t|dd|n|l|g|k|gg|ng|h|hh|j|q|jj|nj|x|zs)?yue([1-8]?)$/$1yu$2/
+
+translator:
+  dictionary: ruianese
+  prism: ruianese_tone
+  spelling_hints: 5
+  comment_format:
+    - xlit/12345678/¹²³⁴⁵⁶⁷⁸/
+
+reverse_lookup:
+  dictionary: luna_pinyin
+  prefix: "`"
+  suffix: "'"
+  tips: 〔拼音反查〕
+  comment_format:
+    - xlit/12345678/¹²³⁴⁵⁶⁷⁸/
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    # @ 用於選第 2 個候選，避免默認郵件規則先吞掉 Shift+2。
+    email: "^$"
+    reverse_lookup: "`[a-z]*'?$"
