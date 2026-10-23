@@ -54,3 +54,10 @@ dist/
 speech-collector/backend/data/*.sqlite3*
 speech-collector/backend/storage/
 speech-collector/backend/tests_work/
+
+# Large generated outputs and the separate review site repo
+output/extracted_pages/
+output/models/
+output/pages/
+output/predictions/
+/review-sync-site/
