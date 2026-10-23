@@ -83,6 +83,54 @@ Tone numbers are typed after the syllable:
 
 Example: `boe`, `boe1`, `boe8`.
 
+## 文獻 / IPA 轉寫規則
+
+本節用於將張永愷《瑞安方言讀音字典》等文獻的記音轉寫為本方案拼音。拼寫以 `ruian_pinyin_scheme_v2 (1).docx` 與 `ruian_legal_pairs.tsv` 為準。
+
+### 轉寫順序
+
+1. 先判聲調（陰 / 陽）
+2. 再判聲母
+3. 最後判韻母
+
+聲調判定的優先級高於拼音與 IPA。
+
+### 聲調判定
+
+- 調號標在音節四角：左下、左上、右上、右下分別為平、上、去、入。
+- 調號下方**沒有橫線** → 陰調（1–4）；**有一橫線** → 陽調（5–8）。調號數字見上方 Tones 表。
+- 出現在音標左下角、字形較小的符號（如 `c`），優先視為聲調標記，不得誤判為聲母。
+
+### 聲母
+
+按上方 Initials 表轉寫。`ts → z` 等合併只發生在拉丁拼寫層，IPA 層仍分別保存，不影響音系分析對 /ts/ 的描述。
+
+### 韻母
+
+| IPA | 拼寫 | 備註 |
+|---|---|---|
+| ə | e | 硬規則：kə → ge、tsəŋ → zeng、dzə → zze |
+| y / ʉ | yu | 輸入碼層合併，IPA 音值仍可分別保存 |
+| ɔ | oe | |
+| o | o | |
+| ɛ | eh | |
+| æ | ae | |
+| əʉ / iəʉ | ou / iou | |
+| iæ / iɔ | iae / io | |
+| uɔ / uo | uoe / uo | |
+| yɛ / yə | yue | |
+| yɔ / yo | yoe / yo | |
+| ɿ（舌尖元音） | i | |
+
+舊稿中的 `ɔ → o`、`o → oo`、`əu → eu`、`uo → uou` 已不再使用。
+
+### 示例
+
+- 于：ʉ，陰平 → `yu1`
+- 上：陽上 → `zsiae6`
+- 乾：kə，陰平 → `ge1`
+- 幹：kəʔ，陰入 → `ge4`
+
 ## Dictionary Generation
 
 Run the full pipeline, including Jie Yong Ki / 張永愷 book-page OCR after page 058:
