@@ -381,6 +381,20 @@ If the default `python` command is not configured on Windows, use the installed 
 & "C:\Path\To\Python\python.exe" -m ruff check tools tests
 ```
 
+## References
+
+Readings and words in this project are based on the following works:
+
+- 张永恺《瑞安方言读音字典》，上海社会科学院出版社，2003。ISBN 9787806813126
+- 陈海芳《瑞安话语音研究》，硕士学位论文。Digitized homophone list via [MCPDict 汉字音典](https://github.com/osfans/MCPDict).
+- 沈克成、何克识《瑞安方言曲艺韵书》，宁波出版社，2017。ISBN 9787552630299
+- 郑张尚芳《温州方言志》，中华书局，2008。ISBN 9787101060362
+- 游汝杰、杨乾明 编纂《温州方言词典》（李荣 主编《现代汉语方言大词典》分卷），江苏教育出版社，1998。ISBN 9787534334337
+- 沈克成、沈迦《温州话》第一册，宁波出版社，2004。ISBN 9787806028117
+- 钱志熙《温州文史论丛》，上海三联书店，2013。ISBN 9787542642493
+- 金柏东 编《温州历代碑刻集》，上海社会科学院出版社，2002。ISBN 9787806810910
+- [ZWolken/rime-wenzhounese](https://github.com/ZWolken/rime-wenzhounese): Wenzhounese Rime input method (AGPL-3.0); word list and schema structure.
+
 ## License
 
 [GNU AGPL-3.0](LICENSE). The keyboard's 溫州話常用詞 dictionary (`rime/ruianese.wenzhou_words.dict.yaml`) includes words from [ZWolken/rime-wenzhounese](https://github.com/ZWolken/rime-wenzhounese), which is also AGPL-3.0.
