@@ -4,10 +4,10 @@
 # Official policy: IPA o -> o, IPA ɔ -> oe, IPA ɛ -> eh, IPA əʉ -> ou,
 # IPA uɔ -> uoe, IPA yɔ -> yoe; ts -> z, IPA z -> ss, ʑ/z̠ -> zs.
 # Tones: 1-8 suffixes; checked-tone codas -p/-t/-k are not required in ordinary input.
-# Generated: 2026-06-17
+# Generated: 2026-07-10
 ---
 name: ruian_pinyin
-version: "2026-06-17"
+version: "2026-07-10"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -5207,3 +5207,39 @@ ssei5	1
 ssei6	1
 ssei7	1
 ssei8	1
+zsiae	1
+zsiae1	1
+zsiae2	1
+zsiae3	1
+zsiae4	1
+zsiae5	1
+zsiae6	1
+zsiae7	1
+zsiae8	1
+zsyu	1
+zsyu1	1
+zsyu2	1
+zsyu3	1
+zsyu4	1
+zsyu5	1
+zsyu6	1
+zsyu7	1
+zsyu8	1
+zsio	1
+zsio1	1
+zsio2	1
+zsio3	1
+zsio4	1
+zsio5	1
+zsio6	1
+zsio7	1
+zsio8	1
+zsiong	1
+zsiong1	1
+zsiong2	1
+zsiong3	1
+zsiong4	1
+zsiong5	1
+zsiong6	1
+zsiong7	1
+zsiong8	1
