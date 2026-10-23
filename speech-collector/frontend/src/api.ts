@@ -88,6 +88,33 @@ async function request<T>(url: string, options?: RequestInit): Promise<T> {
   return response.json() as Promise<T>;
 }
 
+export async function checkHealth() {
+  try {
+    const response = await fetch(apiPath("/api/health"), { signal: AbortSignal.timeout(5000) });
+    if (!response.ok) return false;
+    const body = await response.json().catch(() => null);
+    return Boolean(body?.ok);
+  } catch {
+    return false;
+  }
+}
+
+// Safari only records audio/mp4; Chrome and Firefox prefer webm.
+export function pickRecordingFormat() {
+  const candidates: Array<[string, string]> = [
+    ["audio/webm;codecs=opus", ".webm"],
+    ["audio/webm", ".webm"],
+    ["audio/mp4", ".m4a"],
+    ["audio/ogg;codecs=opus", ".ogg"]
+  ];
+  for (const [mimeType, extension] of candidates) {
+    if (typeof MediaRecorder !== "undefined" && MediaRecorder.isTypeSupported(mimeType)) {
+      return { mimeType, extension };
+    }
+  }
+  return { mimeType: "", extension: ".webm" };
+}
+
 export async function verifyInvitation(code: string) {
   return request<{ code: string; label: string; dialect_hint: string; active: boolean }>("/api/invitations/verify", {
     method: "POST",
@@ -119,6 +146,7 @@ export async function submitRecording(args: {
   duration: number;
   browserInfo: Record<string, unknown>;
   blob: Blob;
+  extension: string;
 }) {
   const form = new FormData();
   form.set("invite_code", args.inviteCode);
@@ -130,7 +158,7 @@ export async function submitRecording(args: {
   form.set("consent", String(args.consent));
   form.set("duration_seconds", args.duration.toFixed(3));
   form.set("browser_info", JSON.stringify(args.browserInfo));
-  form.set("audio", args.blob, `recording-${args.task.id}.webm`);
+  form.set("audio", args.blob, `recording-${args.task.id}${args.extension}`);
 
   return request<{ id: string; review_status: string }>("/api/submissions", {
     method: "POST",
