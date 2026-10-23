@@ -1,0 +1,440 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>瑞安話輸入法 · Ruianese Typing Method</title>
+<meta name="description" content="用電腦打瑞安話：基於 Rime 的瑞安話拼音輸入法，收字 8,000 餘、詞 11,000 餘。Type the Rui'an dialect of Wu Chinese on your computer.">
+<meta property="og:title" content="瑞安話輸入法 · Ruianese Typing Method">
+<meta property="og:description" content="用電腦打瑞安話。A Rime keyboard for the Rui'an dialect of Wu Chinese.">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23b8322a'/%3E%3Ctext x='16' y='23' font-size='20' text-anchor='middle' fill='%23fff' font-family='serif'%3E瑞%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@600;700;900&family=Noto+Sans+TC:wght@400;500;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#f7f3ea; --card:#fffdf8; --ink:#1f1d1a; --ink2:#4d4840; --mute:#8a8276;
+  --line:#e3dccd; --seal:#b8322a; --seal-soft:#f6e3df; --river:#2f5d62; --river-soft:#e1ecea;
+  --serif:"Noto Serif TC","Songti TC",serif; --sans:"Noto Sans TC","PingFang TC",system-ui,sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#16140f; --card:#1f1c16; --ink:#efe9dc; --ink2:#c6bdac; --mute:#8f8676;
+  --line:#353026; --seal:#e0574b; --seal-soft:#3a1d19; --river:#7fb3b8; --river-soft:#1b2c2d; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#16140f; --card:#1f1c16; --ink:#efe9dc; --ink2:#c6bdac; --mute:#8f8676;
+  --line:#353026; --seal:#e0574b; --seal-soft:#3a1d19; --river:#7fb3b8; --river-soft:#1b2c2d; color-scheme:dark}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.75 var(--sans);-webkit-font-smoothing:antialiased}
+a{color:var(--river)}
+.wrap{max-width:1080px;margin:0 auto;padding-inline:20px}
+.en{display:none} html.lang-en .en{display:revert} html.lang-en .zh{display:none}
+code,kbd{font-family:var(--mono);font-size:.88em}
+kbd{border:1px solid var(--line);border-bottom-width:2px;border-radius:5px;padding:1px 6px;background:var(--card)}
+
+/* nav */
+nav{position:sticky;top:env(safe-area-inset-top,0px);z-index:10;background:color-mix(in srgb,var(--paper) 88%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+nav .wrap{display:flex;align-items:center;gap:18px;height:58px}
+.brand{display:flex;align-items:center;gap:10px;font:700 18px var(--serif);color:var(--ink);text-decoration:none;margin-right:auto}
+.seal{width:30px;height:30px;border-radius:6px;background:var(--seal);color:#fff;display:grid;place-items:center;font:900 19px var(--serif)}
+nav .links{display:flex;gap:18px}
+nav .links a{color:var(--ink2);text-decoration:none;font-size:15px}
+nav .links a:hover{color:var(--seal)}
+.lang{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:4px 12px;font:500 14px var(--sans);cursor:pointer}
+@media (max-width:720px){nav .links{display:none}}
+
+/* hero */
+.hero{padding:72px 0 40px}
+.hero-grid{display:grid;grid-template-columns:1.05fr 1fr;gap:48px;align-items:center}
+.hero-grid>*{min-width:0}
+.eyebrow{font:600 13px var(--sans);letter-spacing:.16em;text-transform:uppercase;color:var(--seal)}
+h1{font:900 clamp(44px,7vw,76px)/1.08 var(--serif);margin:14px 0 0;letter-spacing:.02em}
+h1 small{display:block;font:600 clamp(18px,2.4vw,24px)/1.4 var(--serif);color:var(--ink2);letter-spacing:0;margin-top:12px}
+.lede{font-size:18px;color:var(--ink2);margin:22px 0 0;max-width:34em}
+.cta{display:flex;flex-wrap:wrap;gap:12px;margin-top:28px}
+.btn{display:inline-flex;align-items:center;gap:8px;padding:11px 20px;border-radius:10px;font:600 15px var(--sans);text-decoration:none;border:1px solid var(--line);color:var(--ink);background:var(--card)}
+.btn.primary{background:var(--seal);border-color:var(--seal);color:#fff}
+.btn:hover{transform:translateY(-1px)}
+.stats{display:flex;flex-wrap:wrap;gap:28px;margin-top:34px}
+.stat b{display:block;font:700 28px/1 var(--serif)}
+.stat span{font-size:13px;color:var(--mute)}
+@media (max-width:860px){.hero-grid{grid-template-columns:1fr;gap:36px}.hero{padding-top:44px}}
+
+/* demo */
+.demo{background:var(--card);border:1px solid var(--line);border-radius:16px;box-shadow:0 1px 2px rgba(0,0,0,.04),0 14px 40px rgba(60,40,10,.08);padding:20px}
+.demo .head{display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap}
+.demo .head b{font:700 16px var(--serif)}
+.demo .head span{font-size:13px;color:var(--mute)}
+.out{min-height:84px;margin-top:12px;padding:12px 14px;border-radius:10px;background:var(--paper);border:1px solid var(--line);font:500 24px/1.5 var(--serif);word-break:break-all}
+.out:empty::before{content:attr(data-ph);color:var(--mute);font:400 15px var(--sans)}
+.comp{position:relative;margin-top:12px}
+.comp input{width:100%;font:500 18px var(--mono);padding:12px 14px;border-radius:10px;border:1.5px solid var(--line);background:var(--card);color:var(--ink);outline:none}
+.comp input:focus{border-color:var(--seal)}
+.cands{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px;min-height:44px;align-items:center}
+.cand{display:inline-flex;align-items:baseline;gap:6px;padding:6px 10px;border-radius:8px;border:1px solid var(--line);background:var(--paper);cursor:pointer;font:500 20px var(--serif);color:var(--ink)}
+.cand:first-of-type{border-color:var(--seal);background:var(--seal-soft)}
+.cand i{font:500 11px var(--mono);color:var(--mute);font-style:normal}
+.cand sup{font:500 11px var(--mono);color:var(--river)}
+.cands .hint{font-size:13px;color:var(--mute)}
+.pager{display:inline-flex;gap:4px;margin-left:auto}
+.pager button,.tools button{border:1px solid var(--line);background:var(--card);color:var(--ink2);border-radius:7px;padding:3px 9px;cursor:pointer;font:500 13px var(--sans)}
+.tools{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px;align-items:center}
+.tools .try{font-size:13px;color:var(--mute)}
+.chip{border:1px dashed var(--line);background:none;border-radius:999px;padding:2px 10px;font:500 13px var(--mono);color:var(--river);cursor:pointer}
+.tools .right{margin-left:auto;display:flex;gap:8px}
+
+/* sections */
+section{padding:64px 0;border-top:1px solid var(--line)}
+h2{font:700 clamp(28px,4vw,38px)/1.25 var(--serif);margin:10px 0 0}
+.sub{color:var(--ink2);max-width:40em;margin:14px 0 0}
+.grid{display:grid;gap:14px}
+.g-init{grid-template-columns:repeat(auto-fill,minmax(96px,1fr));margin-top:16px}
+.g-fin{grid-template-columns:repeat(auto-fill,minmax(88px,1fr));margin-top:16px}
+.cell{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px}
+.cell b{display:block;font:600 20px var(--mono);color:var(--ink)}
+.cell span{font:400 15px var(--serif);color:var(--river)}
+.cell em{display:block;font-style:normal;font-size:12px;color:var(--mute);line-height:1.4;margin-top:2px}
+h3{font:700 19px var(--serif);margin:34px 0 0}
+h3 small{font:400 14px var(--sans);color:var(--mute);margin-left:8px}
+.tones{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:16px}
+.tone{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;display:grid;grid-template-columns:auto 1fr;gap:4px 12px;align-items:center}
+.tone .n{font:700 30px/1 var(--mono);color:var(--seal);grid-row:span 2}
+.tone .nm{font:700 16px var(--serif)}
+.tone .val{font:500 12px var(--mono);color:var(--mute)}
+.tone svg{grid-column:1/-1;width:100%;height:46px;margin-top:6px}
+.tone .ex{grid-column:1/-1;font-size:14px;color:var(--ink2)}
+.tone .ex b{font:700 20px var(--serif);color:var(--ink);margin-right:6px}
+@media (max-width:760px){.tones{grid-template-columns:repeat(2,1fr)}}
+.note{margin-top:16px;padding:12px 16px;border-left:3px solid var(--river);background:var(--river-soft);border-radius:0 10px 10px 0;font-size:15px;color:var(--ink2)}
+
+/* install */
+.tabs{display:flex;gap:6px;margin-top:22px;flex-wrap:wrap}
+.tab{border:1px solid var(--line);background:var(--card);color:var(--ink2);padding:8px 16px;border-radius:999px;cursor:pointer;font:600 14px var(--sans)}
+.tab[aria-selected="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.steps{counter-reset:s;list-style:none;padding:0;margin:20px 0 0;display:grid;gap:12px}
+.steps>li{counter-increment:s;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px 16px 62px;position:relative}
+.steps>li::before{content:counter(s);position:absolute;left:18px;top:15px;width:30px;height:30px;border-radius:50%;background:var(--seal-soft);color:var(--seal);display:grid;place-items:center;font:700 15px var(--mono)}
+.steps b.t{display:block;font:700 17px var(--serif);margin-bottom:4px}
+.steps p{margin:6px 0 0;color:var(--ink2)}
+pre{background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:10px 14px;overflow-x:auto;font:500 13.5px/1.6 var(--mono);margin:10px 0 0}
+.panel[hidden]{display:none}
+
+/* refs & footer */
+.refs{margin:18px 0 0;padding-left:20px;color:var(--ink2)}
+.refs li{margin:6px 0}
+.help{display:flex;flex-wrap:wrap;gap:20px;align-items:center;justify-content:space-between;background:var(--river-soft);border-radius:16px;padding:26px 28px;margin-top:8px}
+.help h3{margin:0}
+.help p{margin:6px 0 0;color:var(--ink2)}
+footer{padding:36px 0 48px;border-top:1px solid var(--line);font-size:14px;color:var(--mute)}
+footer .wrap{display:flex;flex-wrap:wrap;gap:12px 24px;justify-content:space-between}
+</style>
+</head>
+<body>
+
+<nav><div class="wrap">
+  <a class="brand" href="#top"><span class="seal">瑞</span><span class="zh">瑞安話輸入法</span><span class="en">Ruianese Typing</span></a>
+  <div class="links">
+    <a href="#try"><span class="zh">試打</span><span class="en">Try it</span></a>
+    <a href="#scheme"><span class="zh">拼音方案</span><span class="en">Spelling</span></a>
+    <a href="#install"><span class="zh">安裝</span><span class="en">Install</span></a>
+    <a href="#sources"><span class="zh">來源</span><span class="en">Sources</span></a>
+    <a href="https://github.com/Ztang-Yit-Xiaang/Ruianese_Typing_Method">GitHub</a>
+  </div>
+  <button class="lang" id="lang" type="button" aria-label="Switch language">EN</button>
+</div></nav>
+
+<header class="hero" id="top"><div class="wrap hero-grid">
+  <div>
+    <div class="eyebrow"><span class="zh">吳語 · 甌江片 · 瑞安城區</span><span class="en">Wu Chinese · Oujiang · Rui'an</span></div>
+    <h1><span class="zh">用電腦<br>打瑞安話</span><span class="en">Type<br>Ruianese</span>
+      <small><span class="zh">基於 Rime 的瑞安話拼音輸入法</span><span class="en">A Rime keyboard for the Rui'an dialect</span></small></h1>
+    <p class="lede">
+      <span class="zh">按瑞安話讀音打字：打 <code>ssang</code> 出「人」，打 <code>va</code> 出「話」。字音以張永愷《瑞安方言讀音字典》為主，並補充陳海芳田野調查、《瑞安方言曲藝韻書》與溫州話常用詞。免費、開源，macOS、Windows、Linux 皆可用。</span>
+      <span class="en">Type by Rui'an pronunciation: <code>ssang</code> gives 人, <code>va</code> gives 話. Readings come mainly from Zhang Yongkai's Rui'an pronunciation dictionary, supplemented by Chen Haifang's field survey, a Rui'an rhyme book and common Wenzhounese words. Free and open source for macOS, Windows and Linux.</span>
+    </p>
+    <div class="cta">
+      <a class="btn primary" href="#install"><span class="zh">安裝輸入法</span><span class="en">Install</span></a>
+      <a class="btn" href="#try"><span class="zh">先在網頁上試打</span><span class="en">Try it in the browser</span></a>
+    </div>
+    <div class="stats">
+      <div class="stat"><b>8,078</b><span class="zh">單字</span><span class="en">characters</span></div>
+      <div class="stat"><b>11,109</b><span class="zh">詞語</span><span class="en">words</span></div>
+      <div class="stat"><b>445</b><span class="zh">音節</span><span class="en">syllables</span></div>
+      <div class="stat"><b>8</b><span class="zh">聲調</span><span class="en">tones</span></div>
+    </div>
+  </div>
+
+  <div class="demo" id="try">
+    <div class="head"><b><span class="zh">試打一下</span><span class="en">Try it</span></b>
+      <span id="status"><span class="zh">載入字典中…</span><span class="en">Loading dictionary…</span></span></div>
+    <div class="out" id="out" data-ph="選好的字會出現在這裡"></div>
+    <div class="comp"><input id="inp" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" placeholder="ssang …" aria-label="Type a Ruianese reading"></div>
+    <div class="cands" id="cands"><span class="hint"><span class="zh">打拼音（不用打聲調），按空格選第一個，按數字選其他。</span><span class="en">Type a reading (no tones needed). Space picks the first, digits pick others.</span></span></div>
+    <div class="tools">
+      <span class="try"><span class="zh">試試：</span><span class="en">Try:</span></span>
+      <button class="chip" data-q="ssang">ssang</button>
+      <button class="chip" data-q="sseh">sseh</button>
+      <button class="chip" data-q="e">e</button>
+      <button class="chip" data-q="va">va</button>
+      <button class="chip" data-q="dde">dde</button>
+      <div class="right">
+        <button id="copy" type="button"><span class="zh">複製</span><span class="en">Copy</span></button>
+        <button id="clear" type="button"><span class="zh">清空</span><span class="en">Clear</span></button>
+      </div>
+    </div>
+  </div>
+</div></header>
+
+<section id="scheme"><div class="wrap">
+  <div class="eyebrow"><span class="zh">拼音方案</span><span class="en">Spelling scheme</span></div>
+  <h2><span class="zh">一個字母對一個音</span><span class="en">One spelling for each sound</span></h2>
+  <p class="sub">
+    <span class="zh">瑞安話保留清、送氣、濁三分，所以濁音用雙字母表示：<code>b</code> 補、<code>p</code> 鋪、<code>bb</code> 步。拼寫以 IPA 為依據，輸入時一律用普通鍵盤字母。</span>
+    <span class="en">Rui'an keeps a three-way contrast of plain, aspirated and voiced consonants, so voiced sounds use doubled letters: <code>b</code>, <code>p</code>, <code>bb</code>. Every spelling is based on IPA, and everything is typed with ordinary letters.</span>
+  </p>
+
+  <h3><span class="zh">聲母</span><span class="en">Initials</span><small>28</small></h3>
+  <div class="grid g-init" id="initials"></div>
+
+  <h3><span class="zh">韻母</span><span class="en">Finals</span><small>31</small></h3>
+  <div class="grid g-fin" id="finals"></div>
+
+  <h3><span class="zh">聲調</span><span class="en">Tones</span><small>8</small></h3>
+  <div class="tones" id="tones"></div>
+  <p class="note">
+    <span class="zh">聲調可以不打：打 <code>ssang</code> 就會出「人」。想精確選字時，選「瑞安話（帶調）」方案，在拼音後加 1–8，例如 <code>ssang5</code>。張永愷字典區分的尖團音（如 <code>zie</code> / <code>jie</code>）兩種拼法都能打。</span>
+    <span class="en">Tones are optional: <code>ssang</code> already gives 人. For exact matches, switch to the 瑞安話（帶調） layout and add 1–8, e.g. <code>ssang5</code>. Where Zhang's dictionary distinguishes sibilant pairs such as <code>zie</code> / <code>jie</code>, both spellings work.</span>
+  </p>
+</div></section>
+
+<section id="install"><div class="wrap">
+  <div class="eyebrow"><span class="zh">安裝</span><span class="en">Install</span></div>
+  <h2><span class="zh">四步裝好</span><span class="en">Four steps to install</span></h2>
+  <p class="sub"><span class="zh">輸入法跑在免費的 <a href="https://rime.im/">Rime 中州韻</a> 引擎上。先裝 Rime，再放入瑞安話方案。</span><span class="en">The keyboard runs on <a href="https://rime.im/">Rime</a>, a free input-method engine. Install Rime first, then add the Ruianese layout.</span></p>
+
+  <div class="tabs" role="tablist">
+    <button class="tab" role="tab" data-os="mac" aria-selected="true">macOS</button>
+    <button class="tab" role="tab" data-os="win" aria-selected="false">Windows</button>
+    <button class="tab" role="tab" data-os="linux" aria-selected="false">Linux</button>
+  </div>
+
+  <ol class="steps">
+    <li><b class="t"><span class="zh">安裝 Rime</span><span class="en">Install Rime</span></b>
+      <div class="panel" data-os="mac"><p><span class="zh">下載並安裝 <a href="https://rime.im/download/">鼠鬚管 Squirrel</a>。然後到 <b>系統設定 → 鍵盤 → 文字輸入 → 編輯… → ＋</b>，選「簡體中文」或「繁體中文」裡的 <b>Squirrel</b>，按「加入」。沒看到 Squirrel 的話，先登出再登入一次。</span><span class="en">Download and install <a href="https://rime.im/download/">Squirrel</a>. Then open <b>System Settings → Keyboard → Text Input → Edit… → +</b>, choose <b>Squirrel</b> under Chinese, Simplified or Traditional, and click Add. If Squirrel is not listed, log out and back in first.</span></p></div>
+      <div class="panel" data-os="win" hidden><p><span class="zh">下載並安裝 <a href="https://rime.im/download/">小狼毫 Weasel</a>。</span><span class="en">Download and install <a href="https://rime.im/download/">Weasel</a>.</span></p></div>
+      <div class="panel" data-os="linux" hidden><p><span class="zh">用套件管理器安裝 <code>fcitx5-rime</code>（Fcitx5）或 <code>ibus-rime</code>（IBus），以及 <code>rime-data</code>。</span><span class="en">Install <code>fcitx5-rime</code> (Fcitx5) or <code>ibus-rime</code> (IBus) and <code>rime-data</code> with your package manager.</span></p></div>
+    </li>
+    <li><b class="t"><span class="zh">下載瑞安話方案</span><span class="en">Download the Ruianese layout</span></b>
+      <p><a class="btn primary" href="ruianese-rime.zip" download>ruianese-rime.zip</a></p>
+      <p><span class="zh">解壓後，把全部檔案複製到 Rime 用戶資料夾：</span><span class="en">Unzip it and copy every file into your Rime user folder:</span></p>
+      <div class="panel" data-os="mac"><pre>~/Library/Rime</pre></div>
+      <div class="panel" data-os="win" hidden><pre>%APPDATA%\Rime</pre><p><span class="zh">也可以從開始選單打開：<b>小狼毫輸入法 → 【小狼毫】用戶文件夾</b>。</span><span class="en">Or open it from the Start menu: <b>小狼毫輸入法 → 【小狼毫】用戶文件夾</b>.</span></p></div>
+      <div class="panel" data-os="linux" hidden><pre>~/.local/share/fcitx5/rime   # Fcitx5
+~/.config/ibus/rime          # IBus</pre></div>
+    </li>
+    <li><b class="t"><span class="zh">啟用方案</span><span class="en">Turn the layout on</span></b>
+      <p><span class="zh">在同一個資料夾打開（或新建）<code>default.custom.yaml</code>，寫入：</span><span class="en">In the same folder, open (or create) <code>default.custom.yaml</code> and add:</span></p>
+<pre>patch:
+  schema_list:
+    - schema: ruianese
+    - schema: ruianese_tone
+    - schema: luna_pinyin</pre>
+      <p><span class="zh">這個清單會取代 Rime 預設的方案清單，若有其他常用方案請一併列上。</span><span class="en">This list replaces Rime's default one, so keep any other layouts you use.</span></p>
+    </li>
+    <li><b class="t"><span class="zh">重新部署，開始打字</span><span class="en">Deploy and type</span></b>
+      <div class="panel" data-os="mac"><p><span class="zh">點選單列的 Squirrel 圖示 → <b>重新部署</b>。</span><span class="en">Click the Squirrel icon in the menu bar → <b>Deploy</b>.</span></p></div>
+      <div class="panel" data-os="win" hidden><p><span class="zh">開始選單 → <b>小狼毫輸入法 → 【小狼毫】重新部署</b>。</span><span class="en">Start menu → <b>小狼毫輸入法 → 【小狼毫】重新部署</b>.</span></p></div>
+      <div class="panel" data-os="linux" hidden><p><span class="zh">Fcitx5：右鍵托盤圖示 → <b>重新部署</b>；IBus：Rime 選單 → <b>重新部署</b>，或執行 <code>ibus restart</code>。</span><span class="en">Fcitx5: right-click the tray icon → <b>Deploy</b>. IBus: Rime menu → <b>Deploy</b>, or run <code>ibus restart</code>.</span></p></div>
+      <p><span class="zh">第一次部署要建字典，約需一分鐘。之後切換到 Rime 就能打瑞安話；按 <kbd>Ctrl</kbd>+<kbd>`</kbd> 可切換「瑞安話」與「瑞安話（帶調）」，按 <kbd>Shift</kbd> 切換中英文。</span><span class="en">The first deploy builds the dictionary and takes about a minute. Then switch to Rime and type. Press <kbd>Ctrl</kbd>+<kbd>`</kbd> to switch between 瑞安話 and 瑞安話（帶調）, and <kbd>Shift</kbd> to toggle English.</span></p>
+    </li>
+  </ol>
+  <p class="note"><span class="zh">打不出字？多半是改了檔案後還沒重新部署。macOS 上看不到圖示，則是還沒把 Squirrel 加入輸入法（第 1 步）。</span><span class="en">No candidates? You probably changed files without deploying again. No icon on macOS? Squirrel has not been added as an input source yet (step 1).</span></p>
+</div></section>
+
+<section id="sources"><div class="wrap">
+  <div class="eyebrow"><span class="zh">來源</span><span class="en">Sources</span></div>
+  <h2><span class="zh">字音從哪裡來</span><span class="en">Where the readings come from</span></h2>
+  <ul class="refs">
+    <li>张永恺《瑞安方言读音字典》，上海社会科学院出版社，2003</li>
+    <li>陈海芳《瑞安话语音研究》，硕士学位论文（经 <a href="https://github.com/osfans/MCPDict">MCPDict 汉字音典</a> 数字化）</li>
+    <li>沈克成、何克识《瑞安方言曲艺韵书》，宁波出版社，2017</li>
+    <li>郑张尚芳《温州方言志》，中华书局，2008</li>
+    <li>游汝杰、杨乾明 编纂《温州方言词典》，江苏教育出版社，1998</li>
+    <li>沈克成、沈迦《温州话》，宁波出版社，2004</li>
+    <li><a href="https://github.com/ZWolken/rime-wenzhounese">ZWolken/rime-wenzhounese</a>：<span class="zh">溫州話 Rime 輸入法，詞庫與方案結構</span><span class="en">Wenzhounese Rime keyboard; word list and layout structure</span></li>
+  </ul>
+
+  <div class="help" style="margin-top:36px">
+    <div>
+      <h3><span class="zh">會講瑞安話？幫忙錄音</span><span class="en">Speak Ruianese? Help record it</span></h3>
+      <p><span class="zh">讀幾個字、錄下發音，幫我們校對字音、保存瑞安話。</span><span class="en">Read a few words aloud to help check readings and preserve the dialect.</span></p>
+    </div>
+    <a class="btn primary" href="../"><span class="zh">打開錄音工具</span><span class="en">Open the recorder</span></a>
+  </div>
+</div></section>
+
+<footer><div class="wrap">
+  <span><span class="zh">瑞安話輸入法 · 以 AGPL-3.0 授權</span><span class="en">Ruianese Typing Method · AGPL-3.0</span></span>
+  <span><a href="https://github.com/Ztang-Yit-Xiaang/Ruianese_Typing_Method">GitHub</a> · <a href="https://github.com/Ztang-Yit-Xiaang/Ruianese_Typing_Method/issues"><span class="zh">回報錯字</span><span class="en">Report a wrong reading</span></a></span>
+</div></footer>
+
+<script>
+// ---- language ----
+const root = document.documentElement;
+function setLang(l) {
+  root.classList.toggle("lang-en", l === "en");
+  root.lang = l === "en" ? "en" : "zh-Hant";
+  document.getElementById("lang").textContent = l === "en" ? "中文" : "EN";
+  document.getElementById("out").dataset.ph = l === "en" ? "Chosen characters appear here" : "選好的字會出現在這裡";
+  try { localStorage.setItem("lang", l); } catch (e) {}
+}
+let saved = null;
+try { saved = localStorage.getItem("lang"); } catch (e) {}
+const urlLang = new URLSearchParams(location.search).get("lang");
+setLang(urlLang === "en" || urlLang === "zh" ? urlLang : saved || (navigator.language.startsWith("zh") ? "zh" : "en"));
+document.getElementById("lang").onclick = () => setLang(root.classList.contains("lang-en") ? "zh" : "en");
+
+// ---- scheme tables ----
+const INITIALS = [
+  ["b","p","不送氣","plain"],["p","pʰ","送氣","aspirated"],["bb","b","濁","voiced"],["m","m","",""],["f","f","",""],["v","v","濁","voiced"],
+  ["d","t","不送氣","plain"],["t","tʰ","送氣","aspirated"],["dd","d","濁","voiced"],["n","n","",""],["l","l","",""],
+  ["g","k","不送氣","plain"],["k","kʰ","送氣","aspirated"],["gg","g","濁","voiced"],["ng","ŋ","",""],["h","h","",""],["hh","ɦ","濁","voiced"],
+  ["j","tɕ","不送氣","plain"],["q","tɕʰ","送氣","aspirated"],["jj","dʑ","濁","voiced"],["nj","ȵ","",""],["x","ɕ","",""],["zs","ʑ","濁","voiced"],
+  ["z","ts","不送氣","plain"],["c","tsʰ","送氣","aspirated"],["zz","dz","濁","voiced"],["s","s","",""],["ss","z","濁","voiced"]];
+const FINALS = [["a","a"],["o","o"],["oe","ɔ"],["ae","æ"],["e","ə"],["eh","ɛ"],["i","i, ɿ"],["u","u"],["yu","y, ʉ"],
+  ["ai","ai"],["ei","ei"],["ao","au"],["ou","əʉ"],["ia","ia"],["iae","iæ"],["io","iɔ"],["iao","iau"],["iou","iəʉ"],["ie","ie"],
+  ["uai","uai"],["uo","uo"],["uoe","uɔ"],["yue","yɛ, yə"],["yo","yo"],["yoe","yɔ"],
+  ["ang","aŋ"],["eng","eŋ"],["ong","oŋ"],["iang","iaŋ"],["iong","ioŋ"],["ng","ŋ̍"]];
+const TONES = [[1,"陰平","yin level","33","看","ke1"],[2,"陰上","yin rising","453","好","hae2"],[3,"陰去","yin departing","51","去","qyu3"],[4,"陰入","yin entering","323","說","syue4"],
+  [5,"陽平","yang level","31","人","ssang5"],[6,"陽上","yang rising","14","我","ng6"],[7,"陽去","yang departing","22","話","va7"],[8,"陽入","yang entering","212","日","ssa8"]];
+const esc = s => s.replace(/[&<>]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
+document.getElementById("initials").innerHTML = INITIALS.map(([c,ipa,zh,en]) =>
+  `<div class="cell"><b>${c}</b><span>${ipa}</span>${zh ? `<em><span class="zh">${zh}</span><span class="en">${en}</span></em>` : ""}</div>`).join("");
+document.getElementById("finals").innerHTML = FINALS.map(([c,ipa]) => `<div class="cell"><b>${c}</b><span>${ipa}</span></div>`).join("");
+function contour(v) {
+  const pts = [...v].map(Number), w = 200, h = 46, y = n => 4 + (5 - n) * (h - 8) / 4;
+  const xs = pts.map((_, i) => 12 + i * (w - 24) / Math.max(1, pts.length - 1));
+  const grid = [1,2,3,4,5].map(n => `<line x1="0" x2="${w}" y1="${y(n)}" y2="${y(n)}" stroke="var(--line)" stroke-width="1"/>`).join("");
+  return `<svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" aria-hidden="true">${grid}<polyline points="${xs.map((x,i)=>x+","+y(pts[i])).join(" ")}" fill="none" stroke="var(--seal)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"/></svg>`;
+}
+document.getElementById("tones").innerHTML = TONES.map(([n,zh,en,v,ch,code]) =>
+  `<div class="tone"><span class="n">${n}</span><span class="nm"><span class="zh">${zh}</span><span class="en">${en}</span></span><span class="val">${v}</span>${contour(v)}<div class="ex"><b>${ch}</b><code>${code}</code></div></div>`).join("");
+
+// ---- install tabs ----
+document.querySelectorAll(".tab").forEach(t => t.onclick = () => {
+  document.querySelectorAll(".tab").forEach(x => x.setAttribute("aria-selected", x === t));
+  document.querySelectorAll(".panel").forEach(p => p.hidden = p.dataset.os !== t.dataset.os);
+});
+const ua = navigator.userAgent;
+if (/Windows/.test(ua)) document.querySelector('.tab[data-os="win"]').click();
+else if (/Linux/.test(ua) && !/Android/.test(ua)) document.querySelector('.tab[data-os="linux"]').click();
+
+// ---- try-it keyboard (mirrors the speller rules in rime/ruianese.schema.yaml) ----
+const DERIVE = [
+  [/^zz(i[a-z]+|y[a-z]*)$/, "jj$1"], [/^z(i[a-z]+|y[a-z]*)$/, "j$1"], [/^c(i[a-z]+|y[a-z]*)$/, "q$1"],
+  [/^ss(i[a-z]+|y[a-z]*)$/, "zs$1"], [/^s(i[a-z]+|y[a-z]*)$/, "x$1"],
+  [/^(b|p|bb|m|f|v|d|t|dd|n|l|g|k|gg|ng|h|hh|j|q|jj|nj|x|zs)?ie$/, "$1i"],
+  [/^(b|p|bb|m|f|v|d|t|dd|n|l|g|k|gg|ng|h|hh|j|q|jj|nj|x|zs)?yue$/, "$1yu"]];
+const memo = new Map();
+function spellings(syl) {
+  const base = syl.replace(/[1-8]$/, "");
+  if (memo.has(base)) return memo.get(base);
+  const set = new Set([base]);
+  for (const [re, to] of DERIVE) for (const s of [...set]) if (re.test(s)) set.add(s.replace(re, to));
+  const out = [...set]; memo.set(base, out); return out;
+}
+let INDEX = null, KEYS = null;
+function build(lex) {
+  const idx = new Map();
+  lex.forEach((e, i) => {
+    if (/[\u{20000}-\u{3FFFF}]/u.test(e[0])) return; // most fonts cannot draw these rare characters
+    let combos = [""];
+    for (const syl of e[1].split(" ")) {
+      const next = [];
+      for (const c of combos) for (const s of spellings(syl)) if (next.length < 32) next.push(c + s);
+      combos = next;
+    }
+    for (const k of new Set(combos)) { if (!idx.has(k)) idx.set(k, []); idx.get(k).push(i); }
+  });
+  INDEX = idx; KEYS = [...idx.keys()].sort();
+}
+let LEX = [];
+const $ = id => document.getElementById(id);
+const inp = $("inp"), out = $("out"), candsEl = $("cands");
+let buf = "", cands = [], page = 0;
+function lookup(q) {
+  const seen = new Set(), res = [];
+  const add = (ids, len) => { for (const i of ids) { const [t, c, w] = LEX[i]; if (!seen.has(t)) { seen.add(t); res.push({ t, c, w, len }); } } };
+  const exact = INDEX.get(q) || [];
+  add([...exact].sort((a, b) => LEX[b][2] - LEX[a][2]), q.length);
+  // completions: entries whose spelling starts with what was typed
+  let lo = 0, hi = KEYS.length;
+  while (lo < hi) { const m = (lo + hi) >> 1; KEYS[m] < q ? lo = m + 1 : hi = m; }
+  const more = [];
+  for (let k = lo; k < KEYS.length && KEYS[k].startsWith(q) && more.length < 2000; k++) if (KEYS[k] !== q) more.push(...INDEX.get(KEYS[k]));
+  add(more.sort((a, b) => LEX[b][2] - LEX[a][2]).slice(0, 200), q.length);
+  if (res.length) return res;
+  // nothing matches the whole input: offer the longest leading part that does
+  for (let n = q.length - 1; n > 0; n--) {
+    const ids = INDEX.get(q.slice(0, n));
+    if (ids) { add([...ids].sort((a, b) => LEX[b][2] - LEX[a][2]), n); return res; }
+  }
+  return res;
+}
+const sup = c => c.replace(/[1-8]/g, d => "⁰¹²³⁴⁵⁶⁷⁸"[d]);
+function render() {
+  if (!INDEX) return;
+  if (!buf) { candsEl.innerHTML = ""; return; }
+  cands = lookup(buf);
+  const pages = Math.max(1, Math.ceil(cands.length / 9)); page = Math.min(page, pages - 1);
+  const shown = cands.slice(page * 9, page * 9 + 9);
+  candsEl.innerHTML = shown.length
+    ? shown.map((c, i) => `<button class="cand" data-i="${page * 9 + i}"><i>${i + 1}</i>${esc(c.t)}<sup>${esc(sup(c.c))}</sup></button>`).join("") +
+      (pages > 1 ? `<span class="pager"><button data-p="-1" aria-label="previous">‹</button><button data-p="1" aria-label="next">›</button></span>` : "")
+    : `<span class="hint">${root.classList.contains("lang-en") ? "No match" : "沒有這個拼音"}</span>`;
+}
+function pick(i) {
+  const c = cands[i]; if (!c) return;
+  out.textContent += c.t;
+  buf = buf.slice(c.len); inp.value = buf; page = 0; render();
+}
+candsEl.addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  if (b.dataset.i) pick(+b.dataset.i);
+  else if (b.dataset.p) { page = Math.max(0, page + +b.dataset.p); render(); }
+  inp.focus();
+});
+inp.addEventListener("input", () => {
+  let v = inp.value.toLowerCase();
+  const last = v.slice(-1);
+  if (last === " " || /[1-9]/.test(last)) {
+    v = v.slice(0, -1); inp.value = buf = v.replace(/[^a-z']/g, "");
+    if (buf) pick(last === " " ? page * 9 : page * 9 + +last - 1);
+    return;
+  }
+  inp.value = buf = v.replace(/[^a-z']/g, ""); page = 0; render();
+});
+inp.addEventListener("keydown", e => {
+  if (e.key === "Enter" && buf) { out.textContent += buf; buf = inp.value = ""; render(); e.preventDefault(); }
+  else if (e.key === "Escape") { buf = inp.value = ""; render(); }
+  else if (e.key === "Backspace" && !buf) { out.textContent = [...out.textContent].slice(0, -1).join(""); e.preventDefault(); }
+  else if ((e.key === "=" || e.key === "PageDown") && buf) { page++; render(); e.preventDefault(); }
+  else if ((e.key === "-" || e.key === "PageUp") && buf) { page = Math.max(0, page - 1); render(); e.preventDefault(); }
+});
+document.querySelectorAll(".chip").forEach(b => b.onclick = () => { buf = inp.value = b.dataset.q; page = 0; render(); inp.focus(); });
+$("clear").onclick = () => { out.textContent = ""; buf = inp.value = ""; render(); inp.focus(); };
+$("copy").onclick = () => { navigator.clipboard?.writeText(out.textContent); };
+fetch("data/lexicon.json").then(r => r.json()).then(lex => {
+  LEX = lex; build(lex);
+  if (!buf) { buf = inp.value = "ssang"; }
+  $("status").innerHTML = `<span class="zh">${lex.length.toLocaleString()} 條字詞</span><span class="en">${lex.length.toLocaleString()} entries</span>`;
+  render();
+}).catch(() => {
+  $("status").innerHTML = `<span class="zh">字典載入失敗</span><span class="en">Could not load the dictionary</span>`;
+});
+</script>
+</body>
+</html>

@@ -2,6 +2,8 @@
 
 瑞安話輸入法是一套基於 Rime 的瑞安話（浙南吳語溫州片）拼音輸入方案。方案以現有 schema 與人工校訂規則為準，參考 `ruian_pinyin_scheme_v2 (1).docx`，並參考張永愷《瑞安方言讀音字典》聲韻配合表整理可輸入音節。
 
+**Website:** https://ztang-yit-xiaang.github.io/Ruianese_Typing_Method/keyboard/ (try typing in the browser, install guide)
+
 Contact: [ztangyitxiaang@gmail.com](mailto:ztangyitxiaang@gmail.com)
 
 ## Features
@@ -299,7 +301,7 @@ On Windows, open the user folder from the Start menu: **小狼毫輸入法 → �
 
 ### 2. Copy the layout files
 
-Download this repository (green **Code** button → **Download ZIP**, or `git clone`), then copy every file in the `rime/` folder into your Rime user folder:
+Download [ruianese-rime.zip](https://ztang-yit-xiaang.github.io/Ruianese_Typing_Method/keyboard/ruianese-rime.zip) (or take the files from the `rime/` folder of this repository), unzip it, and copy every file into your Rime user folder:
 
 ```text
 ruian.ico
