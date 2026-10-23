@@ -1,117 +1,38 @@
 # ===== Rui'an dialect dictionary checker (Enhanced) =====
 
+import os
 import re
+import sys
 
-# ===== 1. 聲母 =====
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+TSV_PATH = os.path.join(SCRIPT_DIR, "ruian_legal_pairs.tsv")
 
-initials = [
-    "",
+# ===== 1. 聲調 =====
 
-    "b","p","bb","m","f","v",
-    "d","t","dd","n","l",
-    "g","k","gg","ng","h","hh",
-
-    # 舌面
-    "j","q","jj","nj","x","w",
-
-    # 齒齦
-    "z","c","zz","s","zs",
-
-    # 精確擴展（可選）
-    "zh","ch","sh",
-
-    "y"
-]
-
-# ===== 2. 韻母 =====
-
-finals = [
-    # 單
-    "a","o","oo","ae","e","i","u","yu",
-
-    # 舌尖元音
-    "ii",
-
-    # 複
-    "ai","ei","ao","ou","eu",
-    "iae","io","ia","iao","iou","ie",
-    "ua","uai","uo","uoo",
-    "yue","yo",
-
-    # 鼻
-    "ang","eng","ong","iang","iong",
-
-    # 特殊
-    "ng"
-]
-
-# ===== 3. 聲調 =====
-
-tones = ["1","2","3","4","5","6","7","8"]
-
-# ===== 4. 音系約束（核心） =====
-
-def is_valid(initial, final):
-    # --- ng 韻 ---
-    if final == "ng":
-        return initial == ""
-
-    # --- 舌尖元音 ii ---
-    if final == "ii":
-        return initial in ["z","c","s","zs","zz"]
-
-    # --- 舌面音 ---
-    palatal = ["j","q","x","jj","nj"]
-
-    if initial in palatal:
-        if not (final.startswith("i") or final.startswith("y")):
-            return False
-
-    # --- u 系限制 ---
-    if final.startswith("u"):
-        if initial in ["j","q","x"]:
-            return False
-
-    # --- yu 限制 ---
-    if final.startswith("yu"):
-        if initial in ["b","p","m","f"]:
-            return False
-
-    # --- 鼻韻母細化 ---
-    if final in ["iang","iong"]:
-        if initial not in palatal:
-            return False
-
-    # --- ng 作聲母 ---
-    if initial == "ng":
-        if final not in ["a","o","oo","e","ae","u"]:
-            return False
-
-    # --- h / hh ---
-    if initial in ["h","hh"] and final == "ii":
-        return False
-
-    return True
+tones = ["1", "2", "3", "4", "5", "6", "7", "8"]
 
 
-# ===== 5. 生成合法音節 =====
+# ===== 2. 生成合法音節（來自 ruian_legal_pairs.tsv） =====
 
 valid_syllables = set()
-invalid_pairs = []
 
-for i in initials:
-    for f in finals:
-        if not is_valid(i, f):
-            invalid_pairs.append((i, f))
+with open(TSV_PATH, "r", encoding="utf-8") as f:
+    for line in f:
+        line = line.strip()
+        if not line or line.startswith("#"):
             continue
+        parts = line.split("\t")
+        if len(parts) < 2:
+            continue
+        initial, final = parts[0], parts[1]
+        initial_str = "" if initial == "Ø" else initial
         for t in tones:
-            valid_syllables.add(i + f + t)
+            valid_syllables.add(initial_str + final + t)
 
-print(f"✅ Generated {len(valid_syllables)} valid syllables")
-print(f"🚫 Filtered out {len(invalid_pairs)} illegal initial-final pairs\n")
+print(f"✅ Generated {len(valid_syllables)} valid syllables\n")
 
 
-# ===== 6. normalize =====
+# ===== 3. normalize =====
 
 NORMALIZE = {
     "xy": "zs",
@@ -128,35 +49,41 @@ def normalize(p):
     return p
 
 
-# ===== 7. suspicious 檢測 =====
+# ===== 4. suspicious 檢測 =====
 
 def is_suspicious(p):
-    # ng 出現在中間
-    if "ng" in p and not p.startswith("ng"):
-        return True
-
-    # ii 不合法位置
-    if "ii" in p and not any(p.startswith(x) for x in ["z","c","s","zs","zz"]):
-        return True
 
     # v 濫用
-    if "v" in p and not p.startswith(("v","f","hh")):
+    if "v" in p and not p.startswith(("v", "f", "hh")):
         return True
 
     return False
 
 
-# ===== 8. 檢查 dict =====
+# ===== 5. 檢查 dict =====
 
 def check_dict(file_path):
     errors = []
     suspicious = []
 
+    in_header = False
     with open(file_path, "r", encoding="utf-8") as f:
         for line_num, line in enumerate(f, 1):
             raw = line.strip()
 
-            if not raw or raw.startswith("#") or raw.startswith("---"):
+            if raw == "---":
+                in_header = True
+                continue
+
+            if in_header:
+                if raw == "...":
+                    in_header = False
+                continue
+
+            if raw == "...":
+                continue
+
+            if not raw or raw.startswith("#"):
                 continue
 
             parts = re.split(r"\s+", raw)
@@ -180,13 +107,17 @@ def check_dict(file_path):
     return errors, suspicious
 
 
-# ===== 9. 執行 =====
+# ===== 6. 執行 =====
 
-FILE = "ruianese.character_01.dict.yaml"  # ← 改這裡
+dict_file = sys.argv[1] if len(sys.argv) > 1 else "ruianese.character_01.dict.yaml"
+if not os.path.isabs(dict_file) and not os.path.exists(dict_file):
+    alt = os.path.join(SCRIPT_DIR, dict_file)
+    if os.path.exists(alt):
+        dict_file = alt
 
-errors, suspicious = check_dict(FILE)
+errors, suspicious = check_dict(dict_file)
 
-# ===== 10. 輸出 =====
+# ===== 7. 輸出 =====
 print("❌ 非法拼音（不在音節系統）:")
 for e in errors[:50]:
     print(e)
@@ -200,7 +131,7 @@ for s in suspicious[:50]:
 print(f"\nTotal suspicious: {len(suspicious)}")
 
 
-# ===== 11. Debug（可選） =====
+# ===== 8. Debug（可選） =====
 
 print("\n🔍 Sample valid syllables:")
 for s in list(valid_syllables)[:20]:
