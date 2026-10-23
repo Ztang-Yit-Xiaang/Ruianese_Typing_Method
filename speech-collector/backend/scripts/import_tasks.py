@@ -34,7 +34,7 @@ def build_default_tasks(limit_per_source: int | None = 250) -> list[dict]:
         (
             first_existing(
                 ROOT / "ruianese.jie_yong_ki.dict.yaml",
-                ROOT / "Ruianese_upload" / "Ruianese_Tying_Method" / "ruianese.jie_yong_ki.dict.yaml",
+                ROOT / "Ruianese_upload" / "Ruianese_Typing_Method" / "ruianese.jie_yong_ki.dict.yaml",
             ),
             "ruian",
             "word",
