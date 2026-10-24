@@ -33,3 +33,7 @@ use_preset_vocabulary: false
 # 價：單字 gu3，價格 中變調為 gu6
 價格	gu6 ga4	15000
 他	to1	241080
+# 夭：口語 yu2（夭折）
+夭	yu2	1000
+夭折	yu2 zsi8	15000
+殀	yu2	500
