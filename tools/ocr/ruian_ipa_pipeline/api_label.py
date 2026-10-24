@@ -246,7 +246,7 @@ def build_prompt(cluster_row: dict[str, Any], inventory: Inventory) -> str:
         f"Cluster: {cluster_row.get('cluster_id')} with {cluster_row.get('size')} similar crops.\n"
         "Return the authoritative visual IPA-layer labels only. Rime fields are derived by code. "
         "If two IPA symbols collapse to the same Rime romanization, still distinguish them.\n\n"
-        "Important final mapping: IPA əʉ is romanized as final eu; IPA iəʉ is romanized as final iou. "
+        "Important final mapping: IPA əʉ is romanized as final ou; IPA iəʉ is romanized as final iou. "
         "IPA ɛ is eh; IPA ɔ is oe; IPA æ is ae; IPA ʉ and y̟u both romanize as yu but must stay "
         "distinct in ipa_final when visible. Return ASCII romanization finals only in final.\n\n"
         "Important initial mapping: IPA z̠ or ʑ is romanized as initial zs; IPA dz is zz; IPA dʑ is jj.\n\n"

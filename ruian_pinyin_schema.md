@@ -65,7 +65,7 @@
 |---|---|
 | au | ao |
 | ai | ai |
-| əʉ / ou | eu |
+| əʉ / ou | ou |
 | ei | ei |
 | ia | ia |
 | iau | iao |
