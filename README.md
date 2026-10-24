@@ -67,7 +67,7 @@ This repository uses the document scheme:
 - Simple finals: `a`, `o`, `oe`, `ae`, `e`, `eh`, `i`, `u`, `yu`
 - Compound finals: `ao`, `ai`, `eu`, `ei`, `ia`, `iao`, `iou`, `ie`, `iae`, `io`, `uai`, `uo`, `uoe`, `yo`, `yue`, `yoe`
 - Nasal finals: `ang`, `eng`, `ong`, `iang`, `iong`
-- Special finals: `ng`, `i` for the apical vowel, `vu` after g (`gvu`: 哥、歌、姑、古、過, a lip-pressed u; plain `gu` is 光、家、價)
+- Special finals: `ng`, `i` for the apical vowel, `vu` after g and k (`gvu`: 哥、歌、姑、古、過; `kvu`: 苦、科、哭 — a lip-pressed u; plain `gu` is 光、家、價)
 
 ## Tones
 

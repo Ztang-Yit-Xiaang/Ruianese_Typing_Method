@@ -341,7 +341,7 @@ use_preset_vocabulary: false
 靠	kae3	22011
 㬟	fang1	1
 鼗	ddae5	1
-嚳	ku4	378
+嚳	kvu4	378
 黌	va5	330
 釁	xiang3	429
 爨	ce3	409
@@ -535,7 +535,7 @@ use_preset_vocabulary: false
 刺	loe5	335
 刺	loe8	335
 刮	ba4	1382
-刳	ku1	334
+刳	kvu1	334
 到	dae3	208219
 劌	jyu3	368
 剴	keh2	352
@@ -1200,7 +1200,7 @@ use_preset_vocabulary: false
 設	sei4	3275
 訣	jyue4	766
 訶	fu1	529
-訶	ku1	227
+訶	kvu1	227
 評	bbeng5	2295
 徂	zeu3	369
 徂	sseu5	158
@@ -1276,7 +1276,7 @@ use_preset_vocabulary: false
 讀	ddeu7	4098
 諑	zyo4	389
 誹	fei1	424
-課	ku3	6185
+課	kvu3	6185
 諉	njyu2	403
 諛	vyu5	448
 誰	sseu5	38308
@@ -1715,7 +1715,7 @@ use_preset_vocabulary: false
 坳	oe1	510
 坩	ke1	355
 茔	zsiong5	1
-坷	ku1	473
+坷	kvu1	473
 坷	ko2	202
 㘵	byu3	1
 壠	long6	460
@@ -2004,7 +2004,7 @@ use_preset_vocabulary: false
 掗	o3	218
 撾	zo1	454
 撾	u1	195
-桍	ku1	175
+桍	kvu1	175
 挾	zsie8	606
 撓	noe6	763
 擋	do2	1638
@@ -2321,7 +2321,7 @@ use_preset_vocabulary: false
 苡	zsi6	496
 茉	me4	533
 苷	ge1	581
-苦	ku2	4119
+苦	kvu2	4119
 苯	bang2	985
 苛	vu5	541
 苤	pai1	395
@@ -3003,8 +3003,8 @@ use_preset_vocabulary: false
 嗩	seu2	293
 哩	lei5	1750
 哩	lei6	750
-哭	ku4	6963
-喎	ku1	11309
+哭	kvu4	6963
+喎	kvu1	11309
 哦	hho5	15252
 哦	o3	3268
 哦	ngu5	3268
@@ -3252,7 +3252,7 @@ use_preset_vocabulary: false
 圈	qyue1	3172
 圈	jjyue6	679
 圈	jyue1	679
-圐	ku1	282
+圐	kvu1	282
 圜	vuoe5	407
 圜	zsyue5	174
 㘥	zsiao5	264
@@ -3642,7 +3642,7 @@ use_preset_vocabulary: false
 慶	qiang3	2070
 廡	vu6	449
 庋	jyu1	448
-庫	ku3	4607
+庫	kvu3	4607
 庇	bei3	497
 應	iang1	14847
 應	iang3	6363
@@ -4851,7 +4851,7 @@ use_preset_vocabulary: false
 騎	jji5	2200
 腓	fei1	436
 腓	vei5	187
-騍	ku3	273
+騍	kvu3	273
 騅	zeu1	373
 鬃	zong1	464
 驌	seu4	268
@@ -4939,7 +4939,7 @@ use_preset_vocabulary: false
 綁	buo2	534
 絨	ssong5	743
 結	jie4	3050
-絝	ku3	366
+絝	kvu3	366
 絝	kuo3	156
 繨	ddoe8	298
 絰	ddei8	272
@@ -5263,7 +5263,7 @@ use_preset_vocabulary: false
 栈	zzoe7	1
 柑	ge1	526
 某	mu6	9454
-枯	ku1	830
+枯	kvu1	830
 櫛	za4	434
 櫛	zie4	186
 柯	gvu1	1358
@@ -5404,7 +5404,7 @@ use_preset_vocabulary: false
 棐	fei2	280
 椒	zyue1	648
 棹	zzoe7	436
-棵	ku1	869
+棵	kvu1	869
 棍	gang3	1040
 欏	leu5	465
 椥	zi1	352
@@ -5573,9 +5573,9 @@ use_preset_vocabulary: false
 斬	zoe2	1229
 輪	lang5	2701
 軟	ssyue6	2993
-軲	ku1	301
+軲	kvu1	301
 軲	gvu1	129
-軻	ku1	473
+軻	kvu1	473
 轤	leu5	282
 軸	zzeu8	1461
 軸	zzeu7	626
@@ -6580,7 +6580,7 @@ use_preset_vocabulary: false
 砍	ke2	2457
 砆	foe4	223
 砹	ngeh7	386
-砢	ku1	314
+砢	kvu1	314
 砸	zoe4	5400
 礪	lei7	462
 礱	long5	392
@@ -6989,7 +6989,7 @@ use_preset_vocabulary: false
 錛	bang1	517
 錡	jji5	363
 鍀	deh4	531
-錁	ku3	375
+錁	kvu3	375
 錫	sei4	1312
 錮	gvu3	387
 鑼	leu5	557
@@ -7104,7 +7104,7 @@ use_preset_vocabulary: false
 种	zzong5	1168
 秭	zi2	1
 粳	ga1	387
-科	ku1	4648
+科	kvu1	4648
 秣	me8	408
 秫	ssyue8	366
 秤	ceng3	711
@@ -7128,7 +7128,7 @@ use_preset_vocabulary: false
 稃	fu1	294
 稅	seu3	2466
 稂	lo5	277
-稞	ku1	333
+稞	kvu1	333
 稚	zzi7	569
 稔	ssang6	428
 稠	zzeu5	700
@@ -7420,7 +7420,7 @@ use_preset_vocabulary: false
 窖	goe3	560
 窘	jjiong6	528
 竇	ddao7	872
-窠	ku1	415
+窠	kvu1	415
 窣	se4	389
 窟	kyue4	630
 窬	vyu5	383
@@ -7449,7 +7449,7 @@ use_preset_vocabulary: false
 被	bbei6	97246
 襏	be4	207
 袺	jie4	226
-裤	ku3	1
+裤	kvu3	1
 襠	do1	529
 䄄	iang1	1
 袱	vu8	343
@@ -7584,7 +7584,7 @@ use_preset_vocabulary: false
 頤	zsi5	766
 頻	bbeng5	1110
 頷	hheh6	384
-顆	ku2	1449
+顆	kvu2	1449
 顑	keh2	1
 顒	njiong5	410
 顎	ngo8	473
@@ -7697,7 +7697,7 @@ use_preset_vocabulary: false
 蝠	fu4	463
 蠕	sseu5	371
 蝰	kai1	345
-蝌	ku1	338
+蝌	kvu1	338
 蝮	fu4	338
 蝮	jjyu5	145
 螋	sao1	225
@@ -8077,7 +8077,7 @@ use_preset_vocabulary: false
 釃	sa1	314
 釃	si1	134
 酲	zzeng5	312
-酷	ku4	2254
+酷	kvu4	2254
 酶	meh5	1300
 酴	ddeu5	312
 酹	la7	375
@@ -8506,12 +8506,12 @@ use_preset_vocabulary: false
 骨	gyue1	947
 骭	ge3	216
 骰	ddao5	454
-骷	ku1	409
+骷	kvu1	409
 骶	dei3	494
 骺	hhao5	382
 骼	ga4	389
 骸	hha5	499
-髁	ku1	453
+髁	kvu1	453
 髀	bbei6	383
 髃	njyu5	294
 髏	lao5	379
