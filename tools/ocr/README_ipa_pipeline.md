@@ -2,7 +2,7 @@
 
 這套工具把《瑞安方言讀音字典》正文中的「國際音標」欄當作封閉集合分類問題處理，不再讓通用 OCR 逐字符讀 IPA。
 
-注意：權威真值是 `ipa_initial` / `ipa_final` / `tone`。`rime_initial` / `rime_final` / `rime_syllable` 由 IPA 正向映射；舊欄位 `initial` / `final` / `romanization` 只是相容 alias。比如 IPA 韻母 `əʉ` 在 Rime 層標為 `ou`，但圖像層仍保存 `ipa_final=əʉ`。production 流程不會從 Rime 反推 IPA 訓練真值。
+注意：權威真值是 `ipa_initial` / `ipa_final` / `tone`。`rime_initial` / `rime_final` / `rime_syllable` 由 IPA 正向映射；舊欄位 `initial` / `final` / `romanization` 只是相容 alias。比如 IPA 韻母 `əʉ` 在 Rime 層標為 `eu`，但圖像層仍保存 `ipa_final=əʉ`。production 流程不會從 Rime 反推 IPA 訓練真值。
 
 核心分工：
 

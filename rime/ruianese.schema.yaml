@@ -17,7 +17,7 @@ schema:
     瑞安話拼音輸入方案。
     聲母：b p bb m f v / d t dd n l / g k gg ng h hh / j q jj nj x zs / z c zz s ss
     韻母：a ia ua o io uo yo e yue ae iae oe ioe uoe eh ie ao iao ai uai
-          ang iang eng ong iong i ei u eu iou yu ou ng
+          ang iang eng ong iong i ei u eu iou yu ng
     聲調可省略；候選旁顯示帶調拼音（¹陰平 ²陰上 ³陰去 ⁴陰入 ⁵陽平 ⁶陽上 ⁷陽去 ⁸陽入）。
     如需打聲調，請切換到「瑞安話（帶調）」方案。
     按 ` 鍵後輸入普通話拼音可反查瑞安話讀音。

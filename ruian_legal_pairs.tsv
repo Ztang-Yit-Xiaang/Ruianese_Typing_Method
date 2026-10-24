@@ -1,7 +1,7 @@
 # Legal initial-final pairs for the Rui'an pinyin syllable dictionary.
 # Source basis: Jie Yong Ki / 張永愷, Rui'an dialect reading dictionary tables, pp. 437-439.
 # Codes follow the current reviewed scheme: o=IPA o, oe=IPA ɔ, eh=IPA ɛ,
-# ou=IPA əʉ, uoe=IPA uɔ, yoe=IPA yɔ; IPA z is written ss, while ts stays z and ʑ/z̠ stays zs.
+# eu=IPA əʉ (also the 光/家 rhyme, human review 2026-10-23), uoe=IPA uɔ, yoe=IPA yɔ; IPA z is written ss, while ts stays z and ʑ/z̠ stays zs.
 # Columns: initial<TAB>final<TAB>source
 # Empty initial is written as Ø.
 Ø	a	p437-p439
@@ -14,7 +14,7 @@
 Ø	yu	p437-p439
 Ø	ao	p437-p439
 Ø	ai	p437-p439
-Ø	ou	p437-p439
+Ø	eu	p437-p439
 Ø	ei	p437-p439
 Ø	ia	p437-p439
 Ø	iao	p437-p439
@@ -43,7 +43,7 @@ b	i	p437-p439
 b	u	p437-p439
 b	ao	p437-p439
 b	ai	p437-p439
-b	ou	p437-p439
+b	eu	p437-p439
 b	ei	p437-p439
 b	ia	p437-p439
 b	iao	p437-p439
@@ -64,7 +64,7 @@ p	i	p437-p439
 p	u	p437-p439
 p	ao	p437-p439
 p	ai	p437-p439
-p	ou	p437-p439
+p	eu	p437-p439
 p	ei	p437-p439
 p	ia	p437-p439
 p	iao	p437-p439
@@ -85,7 +85,7 @@ bb	i	p437-p439
 bb	u	p437-p439
 bb	ao	p437-p439
 bb	ai	p437-p439
-bb	ou	p437-p439
+bb	eu	p437-p439
 bb	ei	p437-p439
 bb	ia	p437-p439
 bb	iao	p437-p439
@@ -106,7 +106,7 @@ m	i	p437-p439
 m	u	p437-p439
 m	ao	p437-p439
 m	ai	p437-p439
-m	ou	p437-p439
+m	eu	p437-p439
 m	ei	p437-p439
 m	ia	p437-p439
 m	iao	p437-p439
@@ -128,7 +128,7 @@ f	i	p437-p439
 f	u	p437-p439
 f	ao	p437-p439
 f	ai	p437-p439
-f	ou	p437-p439
+f	eu	p437-p439
 f	ei	p437-p439
 f	ia	p437-p439
 f	iao	p437-p439
@@ -149,7 +149,7 @@ v	i	p437-p439
 v	u	p437-p439
 v	ao	p437-p439
 v	ai	p437-p439
-v	ou	p437-p439
+v	eu	p437-p439
 v	ei	p437-p439
 v	ia	p437-p439
 v	iao	p437-p439
@@ -170,7 +170,7 @@ d	i	p437-p439
 d	u	p437-p439
 d	ao	p437-p439
 d	ai	p437-p439
-d	ou	p437-p439
+d	eu	p437-p439
 d	ei	p437-p439
 d	ia	p437-p439
 d	iao	p437-p439
@@ -190,7 +190,7 @@ t	i	p437-p439
 t	u	p437-p439
 t	ao	p437-p439
 t	ai	p437-p439
-t	ou	p437-p439
+t	eu	p437-p439
 t	ei	p437-p439
 t	ia	p437-p439
 t	iao	p437-p439
@@ -210,7 +210,7 @@ dd	i	p437-p439
 dd	u	p437-p439
 dd	ao	p437-p439
 dd	ai	p437-p439
-dd	ou	p437-p439
+dd	eu	p437-p439
 dd	ei	p437-p439
 dd	ia	p437-p439
 dd	iao	p437-p439
@@ -231,7 +231,7 @@ n	u	p437-p439
 n	yu	p437-p439
 n	ao	p437-p439
 n	ai	p437-p439
-n	ou	p437-p439
+n	eu	p437-p439
 n	ei	p437-p439
 n	ia	p437-p439
 n	iao	p437-p439
@@ -259,7 +259,7 @@ l	u	p437-p439
 l	yu	p437-p439
 l	ao	p437-p439
 l	ai	p437-p439
-l	ou	p437-p439
+l	eu	p437-p439
 l	ei	p437-p439
 l	ia	p437-p439
 l	iao	p437-p439
@@ -285,7 +285,7 @@ g	i	p437-p439
 g	u	p437-p439
 g	ao	p437-p439
 g	ai	p437-p439
-g	ou	p437-p439
+g	eu	p437-p439
 g	ei	p437-p439
 g	ia	p437-p439
 g	iao	p437-p439
@@ -306,7 +306,7 @@ k	i	p437-p439
 k	u	p437-p439
 k	ao	p437-p439
 k	ai	p437-p439
-k	ou	p437-p439
+k	eu	p437-p439
 k	ei	p437-p439
 k	ia	p437-p439
 k	iao	p437-p439
@@ -327,7 +327,7 @@ gg	i	p437-p439
 gg	u	p437-p439
 gg	ao	p437-p439
 gg	ai	p437-p439
-gg	ou	p437-p439
+gg	eu	p437-p439
 gg	ei	p437-p439
 gg	ia	p437-p439
 gg	iao	p437-p439
@@ -348,7 +348,7 @@ ng	i	p437-p439
 ng	u	p437-p439
 ng	ao	p437-p439
 ng	ai	p437-p439
-ng	ou	p437-p439
+ng	eu	p437-p439
 ng	ei	p437-p439
 ng	ia	p437-p439
 ng	iao	p437-p439
@@ -370,7 +370,7 @@ h	u	p437-p439
 h	yu	p437-p439
 h	ao	p437-p439
 h	ai	p437-p439
-h	ou	p437-p439
+h	eu	p437-p439
 h	ei	p437-p439
 h	ia	p437-p439
 h	iao	p437-p439
@@ -400,7 +400,7 @@ hh	u	p437-p439
 hh	yu	p437-p439
 hh	ao	p437-p439
 hh	ai	p437-p439
-hh	ou	p437-p439
+hh	eu	p437-p439
 hh	ei	p437-p439
 hh	ia	p437-p439
 hh	iao	p437-p439
@@ -493,7 +493,7 @@ z	i	p437-p439
 z	u	p437-p439
 z	ao	p437-p439
 z	ai	p437-p439
-z	ou	p437-p439
+z	eu	p437-p439
 z	ei	p437-p439
 z	ia	p437-p439
 z	iao	p437-p439
@@ -511,7 +511,7 @@ c	i	p437-p439
 c	u	p437-p439
 c	ao	p437-p439
 c	ai	p437-p439
-c	ou	p437-p439
+c	eu	p437-p439
 c	ei	p437-p439
 c	ia	p437-p439
 c	iao	p437-p439
@@ -529,7 +529,7 @@ zz	i	p437-p439
 zz	u	p437-p439
 zz	ao	p437-p439
 zz	ai	p437-p439
-zz	ou	p437-p439
+zz	eu	p437-p439
 zz	ei	p437-p439
 zz	ia	p437-p439
 zz	iao	p437-p439
@@ -547,7 +547,7 @@ s	i	p437-p439
 s	u	p437-p439
 s	ao	p437-p439
 s	ai	p437-p439
-s	ou	p437-p439
+s	eu	p437-p439
 s	ei	p437-p439
 s	ia	p437-p439
 s	iao	p437-p439
@@ -565,7 +565,7 @@ zs	i	p437-p439
 zs	u	p437-p439
 zs	ao	p437-p439
 zs	ai	p437-p439
-zs	ou	p437-p439
+zs	eu	p437-p439
 zs	ei	p437-p439
 zs	ia	p437-p439
 zs	iao	p437-p439
@@ -586,4 +586,3 @@ zs	yu	human_review_unresolved_gap
 zs	io	human_review_unresolved_gap
 zs	iong	human_review_unresolved_gap
 t	iae	human_review_2026-10-23
-g	eu	human_review_2026-10-23
