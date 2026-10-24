@@ -42,7 +42,7 @@ use_preset_vocabulary: false
 打風	da2 fong1	30000
 掃帚星	sae2 zeu2 seng1	30423
 掛鱟	gu3 hao3	30000
-星過渡	seng1 gu3 ddeu7	30000
+星過渡	seng1 gvu3 ddeu7	30000
 暴	bbae7	2926
 暴頭	bbae7 ddeu5	30000
 月光佛	njyue8 gu1 va8	30000
@@ -97,7 +97,7 @@ use_preset_vocabulary: false
 埭	ddeh7	935
 塗	ddeu5	2559
 塗壇	ddeu5 ddoe5	30000
-塘股	ddo5 gu2	30000
+塘股	ddo5 gvu2	30000
 壇	ddoe5	1897
 壩	buo3	1776
 小白玉	syue2 bba8 njyo8	30000
@@ -126,7 +126,7 @@ use_preset_vocabulary: false
 河	vu5	5108
 河塘	vu5 ddo5	30037
 河墈	vu5 keh3	30000
-河股	vu5 gu2	30000
+河股	vu5 gvu2	30000
 河臀	vu5 dde5	30000
 洋	zsiae5	4686
 洋油	zsiae5 zsiao5	30400
@@ -482,7 +482,7 @@ use_preset_vocabulary: false
 蠶豆	sse5 ddao7	30736
 西瓜	sei1 gu1	33291
 西瓜子	sei1 gu1 zi2	30478
-谷	gu4	3647
+谷	gvu4	3647
 豆芽	ddao7 ngo5	30907
 豇豆	gu1 ddao7	30576
 辣椒	loe8 zyue1	35380
@@ -495,7 +495,7 @@ use_preset_vocabulary: false
 雞冠花	ji1 gyue1 huo1	30512
 青椒	ceng1 zyue1	31172
 韭菜	jiao2 ceh3	35145
-香菇	xiae1 gu1	31273
+香菇	xiae1 gvu1	31273
 香菜	xiae1 ceh3	32757
 香蔥	xiae1 cong1	30175
 高粱粟	gae1 liae5 syo4	30000
@@ -514,7 +514,7 @@ use_preset_vocabulary: false
 八腳蟹	boe4 jioe4 ha2	30000
 六畜	leu8 ceu3	30501
 刺	ci3	2538
-刺牯	ci3 gu2	30000
+刺牯	ci3 gvu2	30000
 剪絹娘	zie2 jyue3 njiae5	30000
 叫嘴夾	jyue3 zeu2 goe4	30000
 叮	deng1	1288
@@ -542,7 +542,7 @@ use_preset_vocabulary: false
 烏龜	u1 jyu1	31744
 牛	ngao5	14897
 牛娘	ngao5 njiae5	30000
-牛牯	ngao5 gu2	30000
+牛牯	ngao5 gvu2	30000
 牛牸	ngao5 ssi7	30000
 狐狸	vu5 lei5	32426
 狗	gao2	11381
@@ -607,7 +607,7 @@ use_preset_vocabulary: false
 蠅	zsiang5	1184
 蠣膏	lei7 gae1	30000
 豬娘	zeu1 njiae5	30000
-豬牯	zeu1 gu2	30000
+豬牯	zeu1 gvu2	30000
 貓娘	mie5 njiae5	30041
 貓狸	mie5 lei5	30000
 赤蟲	cei4 zzong7	30000
@@ -635,7 +635,7 @@ use_preset_vocabulary: false
 鱗	leng5	1221
 鱸甲	leu5 goe4	30000
 鸕鷀	leu5 ssi5	30000
-鸚哥	iang1 gu1	30485
+鸚哥	iang1 gvu1	30485
 鸚鵡	iang1 vu6	31085
 
 # F饮食
@@ -661,9 +661,9 @@ use_preset_vocabulary: false
 山粉	soe1 fang2	30000
 挼	neu5	726
 暖個水	ne6 gai3 seu2	30000
-暖鍋	ne6 gu1	30374
+暖鍋	ne6 gvu1	30374
 水晶糕	seu2 zeng1 gae1	30000
-油炸餜	zsiao5 zo3 gu2	30000
+油炸餜	zsiao5 zo3 gvu2	30000
 洋粉	zsiae5 fang2	30374
 洗米	sei2 mei6	30017
 湧湯	zsyo6 to1	30000
@@ -886,7 +886,7 @@ use_preset_vocabulary: false
 掛漏	gu3 lao7	30287
 搗泥牆	dae2 nji5 ssiae5	30000
 曬棚	sa3 bba5	30000
-曬穀壇	sa3 gu4 ddoe5	30000
+曬穀壇	sa3 gvu4 ddoe5	30000
 板障	boe2 ziae3	30000
 柵欄齒	soe1 loe5 ci2	30000
 桁條	hha5 dduoe5	30000
@@ -1018,7 +1018,7 @@ use_preset_vocabulary: false
 水桶	seu2 ddong6	30889
 水管	seu2 gyue2	31906
 水綽	seu2 coe1	30000
-沙鍋	so1 gu1	30598
+沙鍋	so1 gvu1	30598
 洋剪	zsiae5 zie2	30000
 洋油燈	zsiae5 zsiao5 dang1	30000
 洋燭	zsiae5 zyo4	30000
@@ -1200,8 +1200,8 @@ use_preset_vocabulary: false
 姊夫	zi2 fu1	30449
 姊妹	zi2 meh7	31091
 姊妹隊	zi2 meh7 ddai7	30000
-姑娘	gu1 njiae5	43390
-姑婆娘	gu1 bbyu5 njiae5	30000
+姑娘	gvu1 njiae5	43390
+姑婆娘	gvu1 bbyu5 njiae5	30000
 姘頭	peng1 ddeu5	30503
 娘娘	njiae5 njiae5	31257
 娘婆	njiae5 bbyu5	30264
@@ -1214,7 +1214,7 @@ use_preset_vocabulary: false
 學生	hho8 sa1	80000
 學生意	hho8 sa1 i3	30000
 巖撞	ngoe5 zzyo7	30000
-師姑娘	si1 gu1 njiae5	30000
+師姑娘	si1 gvu1 njiae5	30000
 師父	si1 vyu6	34981
 帶來個	da3 leh5 gai3	30000
 廚師	zzeu5 si1	34791
@@ -1297,7 +1297,7 @@ use_preset_vocabulary: false
 阿伯	a1 ba4	30583
 阿侄	a1 zza8	30000
 阿叔	a1 seu4	30561
-阿哥	a1 gu1	31121
+阿哥	a1 gvu1	31121
 阿大	a1 dda7	30112
 阿太	a1 ta3	30000
 阿妗	a1 jjiang7	30000
@@ -1349,7 +1349,7 @@ use_preset_vocabulary: false
 奶脯下	na6 bbu5 hho6	30000
 小肚	syue2 ddeu6	30578
 小腿	syue2 tai2	33204
-屁股臀	pei3 gu2 dde5	30000
+屁股臀	pei3 gvu2 dde5	30000
 巴掌	buo1 ziae2	31280
 後枕椎	hhao6 zang2 zzeu5	30000
 心頭	seng1 ddeu5	31887
@@ -1460,7 +1460,7 @@ use_preset_vocabulary: false
 門牙	mang5 ngo5	30759
 雙個頂	syo1 gai3 deng2	30000
 雙台眼	syo1 ddeh5 ngoe6	30000
-面股	mie7 gu2	30000
+面股	mie7 gvu2	30000
 頂	deng2	13951
 順手	ssong7 seu2	35125
 頭	ddeu5	21537
@@ -1497,7 +1497,7 @@ use_preset_vocabulary: false
 吃傷爻	qi4 siae1 hhoe5	30000
 吐	teu2	3914
 呆癡	ngeh5 ci1	30407
-哮咕	hoe3 gu1	30000
+哮咕	hoe3 gvu1	30000
 啞佬	o2 lae6	30000
 嗽	sao3	983
 噁心	o4 seng1	35993
@@ -1581,7 +1581,7 @@ use_preset_vocabulary: false
 
 # M婚丧社俗
 上墳	ssiae6 vang5	30563
-亡故	voe5 gu3	30524
+亡故	voe5 gvu3	30524
 佛	va8	5274
 佛殿	va8 ddie7	30551
 信	sang3	12495
@@ -1669,7 +1669,7 @@ use_preset_vocabulary: false
 許願	xyu2 njyue7	31070
 財禮	sseh5 lei6	30441
 賣奶	ma7 na6	30000
-走過爻	zao2 gu3 hhoe5	30000
+走過爻	zao2 gvu3 hhoe5	30000
 起帖	qi2 tuoe4	30000
 超度	cioe1 ddeu7	30593
 跪落拜	jjyu6 lo8 ba3	30000
@@ -1678,10 +1678,10 @@ use_preset_vocabulary: false
 進舍	zang3 sei3	30000
 運氣	zsiang7 qi3	39387
 運道	zsiang7 ddae6	30488
-過世	gu3 sei3	30995
-過年	gu3 njie5	33253
-過節	gu3 jie1	31777
-過輩	gu3 bai3	30000
+過世	gvu3 sei3	30995
+過年	gvu3 njie5	33253
+過節	gvu3 jie1	31777
+過輩	gvu3 bai3	30000
 道觀	ddae6 gyue1	30613
 還願	vuoe5 njyue7	30569
 銘志	meng5 zi3	30000
@@ -1764,7 +1764,7 @@ use_preset_vocabulary: false
 捺指頭印	noe8 zi2 ddeu5 iang3	30000
 插嘴	coe4 zeu2	30733
 揩油	ka1 zsiao5	30563
-搭股份	deh4 gu2 vang7	30000
+搭股份	deh4 gvu2 vang7	30000
 撞着	zzyo7 jjioe8	30078
 擺架落子	ba2 gu3 lo8 zi2	30000
 擺酒	ba2 zeu2	30550
@@ -1783,7 +1783,7 @@ use_preset_vocabulary: false
 相幫忙	siae1 buo1 mo5	30000
 相打	siae1 da2	30393
 私章	si1 zie1	30487
-租谷	zeu1 gu4	30000
+租谷	zeu1 gvu4	30000
 等	dang2	50300
 答應	doe4 iang1	35553
 篩酒	si1 zeu2	30347
@@ -1822,7 +1822,7 @@ use_preset_vocabulary: false
 
 # O商贸行业
 上賬	ssiae6 ziae3	30370
-主顧	zeu2 gu3	30542
+主顧	zeu2 gvu3	30542
 倒來	dae2 leh5	30486
 倒場	dae2 jjiae6	30000
 借	zei3	7298
@@ -1879,7 +1879,7 @@ use_preset_vocabulary: false
 算盤	se2 bbe5	30833
 糶米	tuoe3 mei6	30000
 繳用	zioe4 zsyo7	30000
-老主顧	lae6 zeu2 gu3	30473
+老主顧	lae6 zeu2 gvu3	30473
 舀油	zsyue6 zsiao5	30000
 茶館店	zzo5 gyue3 diae3	30000
 菜館	ceh3 gyue3	30797
@@ -2073,9 +2073,9 @@ use_preset_vocabulary: false
 老生	lae6 sa1	30625
 花旦	huo1 doe3	30810
 行頭	hha5 ddeu5	30737
-講古人	gu2 gu2 ssang5	30286
-講古話	gu2 gu2 va7	30000
-講故事	gu2 gu3 ssi7	33767
+講古人	gu2 gvu2 ssang5	30286
+講古話	gu2 gvu2 va7	30000
+講故事	gu2 gvu3 ssi7	33767
 講笑話	gu2 syue3 va7	30220
 變把戲	bie3 buo2 xi3	30277
 賤螺陀	ssie7 leu5 ddeu5	30000
@@ -2084,7 +2084,7 @@ use_preset_vocabulary: false
 踢毽子	tei4 jie3 zi2	30555
 踢足球	tei4 zyo4 jjiao5	30754
 車馬炮	jyu1 mo6 poe3	30072
-鑼鼓響	leu5 gu2 xiae2	30000
+鑼鼓響	leu5 gvu2 xiae2	30000
 開鑼	keh1 leu5	30601
 電影	ddie7 iang2	80000
 青衣	ceng1 i1	30852
@@ -2095,7 +2095,7 @@ use_preset_vocabulary: false
 骨牌九	gyue4 bba5 jiao2	30000
 鷂	zsyue7	887
 麻將	mo5 ziae1	32137
-鼓板	gu2 boe2	30386
+鼓板	gvu2 boe2	30386
 
 # S日常生活
 上班	ssiae6 boe1	52685
@@ -2133,7 +2133,7 @@ use_preset_vocabulary: false
 淋	leng5	1824
 烘烘暖	hong1 hong1 ne6	30000
 熬夜	ngae5 zsi7	38386
-燈打過爻	dang1 da2 gu3 hhoe5	30000
+燈打過爻	dang1 da2 gvu3 hhoe5	30000
 燈捺爻	dang1 noe8 hhoe5	30000
 燙頭髮	to3 ddeu5 foe4	30505
 爬爬癢	bbuo5 bbuo5 zsiae6	30000
@@ -2203,7 +2203,7 @@ use_preset_vocabulary: false
 填	ddie5	5688
 壓	oe4	5313
 好罷	hae2 bba6	30000
-好過	hae2 gu3	31408
+好過	hae2 gvu3	31408
 妝好罷	zo1 hae2 bba6	30000
 妝妝爽	zo1 zo1 syo2	30000
 嫌憎	zsie5 zang1	30274
@@ -2368,7 +2368,7 @@ use_preset_vocabulary: false
 連起	lie5 qi2	30496
 遁爻	dde7 hhoe5	30000
 遁落	dde7 lo8	30000
-過爻	gu3 hhoe5	30000
+過爻	gvu3 hhoe5	30000
 遞	ddei6	2004
 遮	zei1	1737
 重起	zzyo6 qi2	30015
@@ -2382,7 +2382,7 @@ use_preset_vocabulary: false
 驚一驚	jiang1 ia4 jiang1	30000
 高興	gae1 xiang1	39469
 點	diae2	50300
-鼓	gu2	2314
+鼓	gvu2	2314
 
 # U形容性状
 一色	ia4 seh4	30893
@@ -2439,7 +2439,7 @@ use_preset_vocabulary: false
 惡	o4	7936
 慢	moe7	15466
 憨氣	he1 qi3	30000
-懵過過	mong6 gu3 gu3	30000
+懵過過	mong6 gvu3 gvu3	30000
 懶	loe6	4177
 扁底	bie2 dei2	30000
 打生	da2 sa1	30000
@@ -2506,7 +2506,7 @@ use_preset_vocabulary: false
 細	sei3	4321
 統身	tong3 sang1	30000
 緊	jiang2	5830
-罪過黴	ssai6 gu3 meh5	30000
+罪過黴	ssai6 gvu3 meh5	30000
 老	lae6	41118
 老實	lae6 ssa8	33229
 脆	cai3	1609
@@ -2533,7 +2533,7 @@ use_preset_vocabulary: false
 陰靜	iang1 sseng6	30000
 難	noe5	16889
 難爲情	noe5 vyu5 sseng5	30739
-難過	noe5 gu3	34466
+難過	noe5 gvu3	34466
 靈	leng5	4904
 靈泛	leng5 foe3	30358
 靈清	leng5 ceng1	30000
@@ -2557,7 +2557,7 @@ use_preset_vocabulary: false
 一定	ia4 ddeng7	80000
 一準	ia4 zong2	30525
 一齣	ia4 cyue4	32919
-不過	ba4 gu3	80000
+不過	ba4 gvu3	80000
 也	ia2	50300
 事先	ssi7 sie1	33819
 亦	zsi8	6663
@@ -2643,7 +2643,7 @@ use_preset_vocabulary: false
 起頭先	qi2 ddeu5 sie1	30000
 趕緊	ge2 jiang2	44514
 逮	ddeh7	1378
-過罷	gu3 bba6	30000
+過罷	gvu3 bba6	30000
 重新	zzyo6 sang1	50744
 阿唷	a1 io1	30000
 隨便	sseu5 bbie7	58602
@@ -2803,7 +2803,7 @@ use_preset_vocabulary: false
 山溝讀	soe1 gao1 ddeu8	20000
 水溝清	seu2 gao1 ceng1	20000
 溫州話	yue1 zeu1 va7	20000
-硬穀雨	nga7 gu4 vyu6	20000
+硬穀雨	nga7 gvu4 vyu6	20000
 蟹眼桶	ha2 ngoe6 ddong6	20000
 
 # pearapple123·𫶝
@@ -2820,13 +2820,13 @@ use_preset_vocabulary: false
 地塥	ddei7 ga4	20000
 恁界	ssang7 ga3	20000
 曬殼坦	sa3 ko4 toe2	20000
-橫柯	va5 gu1	20000
+橫柯	va5 gvu1	20000
 水漈	seu2 zei3	20000
 濁氣	zzyo8 qi3	20550
 蠣灰壇	lei7 fai1 ddoe5	20000
 蠻湯	moe5 to1	20000
 訾奈	zi2 na7	20000
-騎鼓樓	jji5 gu2 leu5	20000
+騎鼓樓	jji5 gvu2 leu5	20000
 
 # 一般動作
 並牀槓	beng3 ssyo5 gu1	15000
@@ -2944,7 +2944,7 @@ use_preset_vocabulary: false
 搭對	deh4 dai3	15000
 搭格	deh4 ga4	15000
 搭隊	deh4 ddai7	15000
-摜沙鍋	guoe3 so1 gu1	15000
+摜沙鍋	guoe3 so1 gvu1	15000
 摸米	mo8 mei6	15000
 撩紙	luoe5 zei2	15000
 擋牢	do2 lae5	15000
@@ -3002,7 +3002,7 @@ use_preset_vocabulary: false
 著色	zeu3 seh4	15000
 蕩駘	ddo7 ddeh5	15000
 蠻駛	moe5 si2	15000
-行來過去	hha5 leh5 gu3 qyu3	15000
+行來過去	hha5 leh5 gvu3 qyu3	15000
 衝刀鋒	zzong5 dae1 fong1	20000
 覷出	ceu3 cyue4	15000
 覷牢	ceu3 lae5	15000
@@ -3016,11 +3016,11 @@ use_preset_vocabulary: false
 走來	zao2 leh5	16372
 走去	zao2 qyu3	16673
 走底	zao2 dei2	15000
-走過	zao2 gu3	19344
+走過	zao2 gvu3	19344
 造孽	ssae6 njie8	15707
-過眼	gu3 ngoe6	15652
-過秤	gu3 ceng3	15462
-過門	gu3 mang5	15599
+過眼	gvu3 ngoe6	15652
+過秤	gvu3 ceng3	15462
+過門	gvu3 mang5	15599
 配飯	pai3 voe7	15000
 釘碗	deng1 yue2	15000
 釘被	deng1 bbei6	15000
@@ -3069,7 +3069,7 @@ use_preset_vocabulary: false
 琴凳	jjiang5 dang3	15000
 矮椅背	a2 i2 bai1	15000
 紙迫箱	zei2 ba4 siae1	15000
-花鼓桶	huo1 gu2 ddong6	15000
+花鼓桶	huo1 gvu2 ddong6	15000
 藤椅	ddang5 i2	15582
 衣櫥箱	i1 zzeu5 siae1	15000
 重櫥	zzyo6 zzeu5	15000
@@ -3080,7 +3080,7 @@ use_preset_vocabulary: false
 麻將桌	mo5 ziae1 zyo4	15072
 
 # 一般稱謂
-三姑六婆	soe1 gu1 leu8 bbyu5	15501
+三姑六婆	soe1 gvu1 leu8 bbyu5	15501
 上山客	ssiae6 soe1 ka4	15000
 下山客	hho6 soe1 ka4	15000
 伴隊	bbe6 ddai7	15000
@@ -3102,7 +3102,7 @@ use_preset_vocabulary: false
 唔好伴	ngu5 hae2 bbe6	15000
 夥掌	vu6 ziae2	15000
 大偷	dda7 tao1	15000
-大哥	dda7 gu1	27182
+大哥	dda7 gvu1	27182
 大好老	dda7 hae2 lae6	15000
 大官頭	dda7 gyue1 ddeu5	15000
 大朦	dda7 mong5	15000
@@ -3192,7 +3192,7 @@ use_preset_vocabulary: false
 阿婆	a1 bbyu5	15901
 隊伴	ddai7 bbe6	15000
 難妝爺	noe5 zo1 zsi5	15000
-難過客	noe5 gu3 ka4	15000
+難過客	noe5 gvu3 ka4	15000
 零碎伯伯	leng5 sai3 ba4 ba4	15000
 馬快	mo6 ka3	15423
 鳳凰胎	vong7 hho5 teh1	15000
@@ -3317,7 +3317,7 @@ use_preset_vocabulary: false
 板車桶	boe2 co1 ddong6	15000
 梭船	seu1 ssyue5	15000
 槳樁	ziae2 zo1	15000
-槳箍	ziae2 gu1	15000
+槳箍	ziae2 gvu1	15000
 樹排	sseu7 bba5	15000
 櫓帶	leu6 da3	15000
 櫓柄	leu6 beng3	15000
@@ -3416,7 +3416,7 @@ use_preset_vocabulary: false
 兩叔侄	liae6 seu4 zza8	15000
 兩地家新婦	liae6 ddei7 gu1 sang1 vyu6	15000
 兩姊妹	liae6 zi2 meh7	15000
-兩姑娘嫂	liae6 gu1 njiae5 sae2	15000
+兩姑娘嫂	liae6 gvu1 njiae5 sae2	15000
 兩對架	liae6 dai3 gu3	15000
 女個屋裏	njyu6 gai3 u4 lei6	15000
 旁單	bbuo5 doe1	15000
@@ -3550,7 +3550,7 @@ use_preset_vocabulary: false
 桑葉黃	so1 zsie8 hho5	15000
 氣管支炎	qi3 gyue2 zei1 zsie5	15000
 水寶	seu2 bae2	15000
-水臌脹	seu2 gu2 ziae3	15000
+水臌脹	seu2 gvu2 ziae3	15000
 泛出	foe3 cyue4	15583
 泛奶	foe3 na6	15000
 泛心	foe3 seng1	15000
@@ -3581,7 +3581,7 @@ use_preset_vocabulary: false
 
 # 其他
 入娘	ssa8 njiae5	15000
-古歷	gu2 lei8	15000
+古歷	gvu2 lei8	15000
 吃用	qi4 zsyo7	15000
 和身勵	vu5 sang1 lei7	15000
 噓噓	xyu1 xyu1	15573
@@ -3710,7 +3710,7 @@ use_preset_vocabulary: false
 柴倉	ssa5 co1	15000
 磨坊	myu5 foe1	15610
 私盆間	si1 bbe5 goe1	15000
-穀倉	gu4 co1	15522
+穀倉	gvu4 co1	15522
 鑊竈洞	hho8 zae3 ddong7	15000
 雞籠	ji1 long5	30588
 馬欄	mo6 loe5	15000
@@ -3740,7 +3740,7 @@ use_preset_vocabulary: false
 洋灰	zsiae5 fai1	20404
 眠宋	mie5 song3	20000
 矮凳	a2 dang3	20455
-砂鍋	so1 gu1	20869
+砂鍋	so1 gvu1	20869
 胰皁	zsi5 ssae6	20000
 鍘刀	ssoe8 dae1	20494
 鐵礅	tie4 de1	20000
@@ -3765,7 +3765,7 @@ use_preset_vocabulary: false
 
 # 分類詞匯·二、時令、時間
 前個月	ssie5 gai3 njyue8	20000
-半夜過	be3 zsi7 gu3	20000
+半夜過	be3 zsi7 gvu3	20000
 夜來	zsi7 leh5	20631
 平時	bbeng5 ssi5	62042
 年冬節到	njie5 dong1 jie1 dae3	20000
@@ -3913,9 +3913,9 @@ use_preset_vocabulary: false
 南無	neh5 vu5	21453
 南無阿彌陀佛	neh5 vu5 a1 mei5 ddeu5 va8	20587
 安耽	e1 deh1	20000
-師姑	si1 gu1	20488
-師姑尼	si1 gu1 nji5	20000
-師姑尼寮	si1 gu1 nji5 luoe5	20000
+師姑	si1 gvu1	20488
+師姑尼	si1 gvu1 nji5	20000
+師姑尼寮	si1 gvu1 nji5 luoe5	20000
 籤詩	cie1 si1	20445
 訴訟	seu3 ssyo7	23808
 顯靈	xie2 leng5	20577
@@ -3952,14 +3952,14 @@ use_preset_vocabulary: false
 
 # 分類詞匯·奶
 後邊身	hhao6 bie1 sang1	20000
-股臀	gu2 dde5	20000
-股臀頭	gu2 dde5 ddeu5	20000
-腳下股臀	jioe4 hho6 gu2 dde5	20000
+股臀	gvu2 dde5	20000
+股臀頭	gvu2 dde5 ddeu5	20000
+腳下股臀	jioe4 hho6 gvu2 dde5	20000
 身段	sang1 dde7	20861
 身瞳	sang1 ddong5	20000
 
 # 分類詞匯·妳
-哥哥	gu1 gu1	32131
+哥哥	gvu1 gvu1	32131
 重孫	zzyo6 se1	20486
 
 # 分類詞匯·娒
@@ -4029,7 +4029,7 @@ use_preset_vocabulary: false
 白鱣生	bba8 zie1 sa1	20000
 紅膏江蟹	hhong5 gae1 gu1 ha2	20000
 蝦叩彈	ho1 kao2 ddoe7	20000
-蝦蛄彈	ho1 gu1 ddoe7	20000
+蝦蛄彈	ho1 gvu1 ddoe7	20000
 蝦蟣	ho1 zi2	20000
 
 # 分類詞匯·阿娘
@@ -4276,8 +4276,8 @@ use_preset_vocabulary: false
 河埭	vu5 ddeh7	15000
 河泥	vu5 nji5	15425
 河磡	vu5 ke3	15000
-河股腳邊	vu5 gu2 jioe4 bie1	15000
-河股頭	vu5 gu2 ddeu5	15000
+河股腳邊	vu5 gvu2 jioe4 bie1	15000
+河股頭	vu5 gvu2 ddeu5	15000
 河身	vu5 sang1	15358
 河頭田	vu5 ddeu5 ddie5	15000
 泥粉	nji5 fang2	15000
@@ -4393,7 +4393,7 @@ use_preset_vocabulary: false
 鹼水	goe2 seu2	15518
 黃泥山	hho5 nji5 soe1	15000
 黃金灰	hho5 jiang1 fai1	15000
-鼓樓	gu2 leu5	16092
+鼓樓	gvu2 leu5	16092
 龍噴水	luo5 pang1 seu2	15000
 
 # 壽辰喪葬
@@ -4574,7 +4574,7 @@ use_preset_vocabulary: false
 骨斷爻	gyue4 dde6 hhoe5	15000
 鬥眼	dao3 ngoe6	15369
 鬼剃頭	jyu2 tei3 ddeu5	15433
-鷓鴣臭	zei3 gu1 ceu3	15000
+鷓鴣臭	zei3 gvu1 ceu3	15000
 黃瘻	hho5 lao7	15000
 黴口	meh5 kao2	15000
 鼻痔	bbei7 zzi7	15000
@@ -4582,7 +4582,7 @@ use_preset_vocabulary: false
 齆鼻頭聲	ong3 bbei7 ddeu5 seng1	15000
 
 # 天文
-七姑星	ca4 gu1 seng1	15000
+七姑星	ca4 gvu1 seng1	15000
 佛拌爻	va8 pe3 hhoe5	15000
 光星	gu1 seng1	15000
 出梅	cyue4 meh5	15468
@@ -4691,7 +4691,7 @@ use_preset_vocabulary: false
 奶名	na6 meng5	15307
 奶吸	na6 xia4	15000
 姆遁爻	mu6 dde7 hhoe5	15000
-姑對嫂	gu1 dai3 sae2	15000
+姑對嫂	gvu1 dai3 sae2	15000
 媒婆	meh5 bbyu5	15697
 媒翁	meh5 ong1	15000
 嫁妝	gu3 zo1	15794
@@ -4722,7 +4722,7 @@ use_preset_vocabulary: false
 月裏	njyue8 lei6	15000
 月里姥	njyue8 lei6 mu6	15000
 月里間	njyue8 lei6 goe1	15000
-果子帶	gu2 zi2 da3	15000
+果子帶	gvu2 zi2 da3	15000
 桃花運	ddae5 huo1 zsiang7	15775
 正酒	zeng1 zeu2	15000
 沖喜	zzong5 xi2	15517
@@ -4814,7 +4814,7 @@ use_preset_vocabulary: false
 和尚寮	vu5 ssiae7 luoe5	15000
 唸經	njiae7 jiang1	15759
 地藏王	ddei7 sso5 zsyo5	15572
-坑姑娘	ka1 gu1 njiae5	15000
+坑姑娘	ka1 gvu1 njiae5	15000
 城隍殿	sseng5 hho5 ddie7	15000
 城隍爺	sseng5 hho5 zsi5	15426
 壽星	sseu7 seng1	15769
@@ -4863,7 +4863,7 @@ use_preset_vocabulary: false
 狐狸精	vu5 lei5 zeng1	15875
 玉皇大帝	njyo8 hho5 dda7 dei3	15589
 現世報	zsie7 sei3 bae3	15457
-白帽姑娘	bba8 mae7 gu1 njiae5	15000
+白帽姑娘	bba8 mae7 gvu1 njiae5	15000
 白虎爺	bba8 fu2 zsi5	15000
 皇天三界	hho5 tie1 soe1 ga3	15000
 盂蘭盆會	vyu5 loe5 bbe5 vai7	15415
@@ -4880,7 +4880,7 @@ use_preset_vocabulary: false
 童子	ddong5 zi2	15929
 算命先生	se2 meng7 sie1 sa1	15585
 紙馬	zei2 mo6	15447
-罪過	ssai6 gu3	16133
+罪過	ssai6 gvu3	16133
 胡公大帝	vu5 gong1 dda7 dei3	15000
 芒神	mo5 ssang5	15000
 菩薩	bbu5 soe4	16776
@@ -4893,7 +4893,7 @@ use_preset_vocabulary: false
 觀音會	gyue1 iang1 vai7	15000
 觀音素	gyue1 iang1 seu3	15000
 講道	gu2 ddae6	15608
-講靈姑	gu2 leng5 gu1	15000
+講靈姑	gu2 leng5 gvu1	15000
 赤佬	cei4 lae6	15000
 道行	ddae6 hha5	15759
 還陽	vuoe5 zsiae5	15508
@@ -4907,7 +4907,7 @@ use_preset_vocabulary: false
 陰間	iang1 goe1	16088
 陳十四娘娘	zzang5 ssa8 si3 njiae5 njiae5	15000
 陽間	zsiae5 goe1	15525
-靈姑	leng5 gu1	15000
+靈姑	leng5 gvu1	15000
 風水先生	fong1 seu2 sie1 sa1	15528
 香灰	xiae1 fai1	15469
 香爐	xiae1 leu5	15752
@@ -5025,8 +5025,8 @@ use_preset_vocabulary: false
 竹籬板	zeu4 lei5 boe2	15000
 竹釘	zeu4 deng1	15000
 筅頭額	sie2 ddeu5 nga8	15000
-箍桶	gu1 ddong6	15436
-箍桶篾	gu1 ddong6 mie8	15000
+箍桶	gvu1 ddong6	15436
+箍桶篾	gvu1 ddong6 mie8	15000
 管子鉗	gyue2 zi2 jjie5	15421
 糊泥刮	vu5 nji5 ba4	15000
 糖絞	ddo5 goe2	15000
@@ -5053,7 +5053,7 @@ use_preset_vocabulary: false
 醬匾	ziae3 bie2	15000
 鉗牀	jjie5 ssyo5	15000
 鉛桶	ka1 ddong6	15000
-銅絲箍	ddong5 si1 gu1	15000
+銅絲箍	ddong5 si1 gvu1	15000
 鋒口	fong1 kao2	15000
 鋪蓋索	pyu1 geh3 so4	15000
 鋸路	jyu3 leu7	15000
@@ -5095,7 +5095,7 @@ use_preset_vocabulary: false
 同輩	ddong5 bai3	15589
 堂房兄弟	ddo5 voe5 xiong1 ddei6	15000
 堂房姊妹	ddo5 voe5 zi2 meh7	15000
-堂房阿哥	ddo5 voe5 a1 gu1	15000
+堂房阿哥	ddo5 voe5 a1 gvu1	15000
 堂房阿奼	ddo5 voe5 a1 co2	15000
 堂房阿妹	ddo5 voe5 a1 meh7	15000
 堂房阿弟	ddo5 voe5 a1 ddei6	15000
@@ -5107,7 +5107,7 @@ use_preset_vocabulary: false
 盟姊妹	meng5 zi2 meh7	15000
 結拜兄弟	jie4 ba3 xiong1 ddei6	15507
 結拜姊妹	jie4 ba3 zi2 meh7	15000
-表哥	bie2 gu1	16629
+表哥	bie2 gvu1	16629
 表奼	bie2 co2	15000
 路頭妻	leu7 ddeu5 cei1	15000
 阿奼	a1 co2	15000
@@ -5118,7 +5118,7 @@ use_preset_vocabulary: false
 三般兩樣	soe1 be1 liae6 zsiae7	15000
 三面見同	soe1 mie7 jie3 ddong5	15000
 上凳上桌	ssiae6 dang3 ssiae6 zyo4	15000
-中等過	zong1 dang2 gu3	15000
+中等過	zong1 dang2 gvu3	15000
 乾燥	ge1 sae3	19588
 些少	sei1 syue2	15530
 個別	gai3 bbie8	21039
@@ -5187,7 +5187,7 @@ use_preset_vocabulary: false
 夾活劃	goe4 vuoe8 va8	15000
 好高	hae2 gae1	15636
 嫩黃	ne7 hho5	15529
-孤獨相	gu1 ddeu8 siae1	15000
+孤獨相	gvu1 ddeu8 siae1	15000
 定板	ddeng7 boe2	15000
 密牙細嚼	mie8 ngo5 sei3 ssioe8	15000
 尋常	ssang5 ssiae5	16356
@@ -5265,7 +5265,7 @@ use_preset_vocabulary: false
 歪廝牢纏	ua1 si1 lae5 zzie5	15000
 歪筋	ua1 jiang1	15000
 歲少	seu3 syue2	15000
-死固執	si2 gu3 za4	15000
+死固執	si2 gvu3 za4	15000
 死拙	si2 zyue4	15000
 水紅	seu2 hhong5	15506
 水綠	seu2 luo8	15508
@@ -5326,7 +5326,7 @@ use_preset_vocabulary: false
 狗使	gao2 si2	15000
 狗皮倒糟	gao2 bbei5 dae2 zae1	15000
 獨自	ddeu8 ssi7	20485
-獨自孤命	ddeu8 ssi7 gu1 meng7	15000
+獨自孤命	ddeu8 ssi7 gvu1 meng7	15000
 獨自腳手	ddeu8 ssi7 jioe4 seu2	15000
 現世	zsie7 sei3	15793
 現真真	zsie7 zang1 zang1	15000
@@ -5403,7 +5403,7 @@ use_preset_vocabulary: false
 緋紅	fei1 hhong5	15757
 翩翩飛	pie1 pie1 fei1	15000
 老到	lae6 dae3	15585
-老古式	lae6 gu2 sei4	15000
+老古式	lae6 gvu2 sei4	15000
 老定	lae6 ddeng7	15000
 老極夾活	lae6 jjie8 goe4 vuoe8	15000
 老灰	lae6 fai1	15000
@@ -5437,7 +5437,7 @@ use_preset_vocabulary: false
 衣丁倒頭	i1 deng1 dae2 ddeu5	15000
 褪寬	tang3 kyue1	15000
 規矩	jyu1 jyu2	19600
-覷難過	ceu3 noe5 gu3	15000
+覷難過	ceu3 noe5 gvu3	15000
 豆沙色	ddao7 so1 seh4	15000
 豬肝黑	zeu1 ge1 heh4	15000
 貴氣	jyu3 qi3	15227
@@ -5447,7 +5447,7 @@ use_preset_vocabulary: false
 辣頭	loe8 ddeu5	15000
 透漏通	tao3 lao7 tong1	15000
 逼迫	bei4 ba4	18267
-過格	gu3 ga4	15000
+過格	gvu3 ga4	15000
 遮平	zei1 bbeng5	15000
 醒索	seng2 so4	15000
 重地	zzyo6 ddei7	15595
@@ -5458,7 +5458,7 @@ use_preset_vocabulary: false
 銀灰	njiang5 fai1	15573
 鏖糟	ae1 zae1	15000
 鏖里巴糟	ae1 lei6 buo1 zae1	15000
-鐵固牢硬	tie4 gu3 lae5 nga7	15000
+鐵固牢硬	tie4 gvu3 lae5 nga7	15000
 鐵硬	tie4 nga7	15000
 長大	zziae5 dda7	20055
 長心	zziae5 seng1	15000
@@ -5496,7 +5496,7 @@ use_preset_vocabulary: false
 鬧暖	noe7 ne6	15000
 鬼抽筋	jyu2 ceu1 jiang1	15000
 鬼講賊講	jyu2 gu2 sseh8 gu2	15000
-鸚哥綠	iang1 gu1 luo8	15000
+鸚哥綠	iang1 gvu1 luo8	15000
 鹹添苦	hhoe5 tiae1 ku2	15000
 麒麟趕龍	jji5 leng5 ge2 luo5	15000
 黃霜霜	hho5 syo1 syo1	15000
@@ -5538,7 +5538,7 @@ use_preset_vocabulary: false
 前台	ssie5 ddeh5	15000
 包頭門	boe1 ddeu5 mang5	15000
 和調	vu5 dduoe5	15000
-唱花鼓	ciae3 huo1 gu2	15000
+唱花鼓	ciae3 huo1 gvu2	15000
 唱詞場	ciae3 ssi5 jjiae6	15000
 四白臉	si3 bba8 lie6	15000
 四花臉	si3 huo1 lie6	15000
@@ -5549,7 +5549,7 @@ use_preset_vocabulary: false
 官戲	gyue1 xi3	15000
 對號	dai3 hhae7	15625
 小調	syue2 dduoe5	16935
-山歌	soe1 gu1	15818
+山歌	soe1 gvu1	15818
 崑腔	gang1 ko1	15433
 彈詞	ddoe7 ssi5	15502
 悲旦	bei1 doe3	15000
@@ -5557,7 +5557,7 @@ use_preset_vocabulary: false
 戲園	xi3 zsyue5	15445
 戲子	xi3 zi2	15748
 戲本	xi3 bang2	15386
-戲股	xi3 gu2	15000
+戲股	xi3 gvu2	15000
 戲金	xi3 jiang1	15000
 戲館	xi3 gyue3	15000
 打八仙	da2 boe4 sie1	15000
@@ -5568,7 +5568,7 @@ use_preset_vocabulary: false
 抬閣	ddeh5 geh4	15000
 挨琴	a1 jjiang5	15000
 探子	te3 zi2	15573
-撞歌	zzyo7 gu1	15000
+撞歌	zzyo7 gvu1	15000
 文明戲	vang5 meng5 xi3	15389
 文武老生	vang5 vu6 lae6 sa1	15000
 晾背	liae5 bai1	15000
@@ -5582,7 +5582,7 @@ use_preset_vocabulary: false
 牛筋琴	ngao5 jiang1 jjiang5	15000
 猴大戲	hhao5 dda7 xi3	15000
 琴師	jjiang5 si1	15544
-田歌	ddie5 gu1	15015
+田歌	ddie5 gvu1	15015
 當家旦	do3 gu1 doe3	15000
 發台瘟	foe4 ddeh5 yue1	20000
 白臉檔	bba8 lie6 do3	15000
@@ -5605,7 +5605,7 @@ use_preset_vocabulary: false
 走台	zao2 ddeh5	15000
 道情	ddae6 sseng5	15522
 道筒	ddae6 ddong5	15000
-銅鼓	ddong5 gu2	15602
+銅鼓	ddong5 gvu2	15602
 開鑼戲	keh1 leu5 xi3	15244
 雉雞稍	zzi6 ji1 soe1	15000
 高腔	gae1 ko1	15489
@@ -5613,7 +5613,7 @@ use_preset_vocabulary: false
 鬥台	dao3 ddeh5	15000
 黃呵	hho5 hha5	15000
 黴班	meh5 boe1	15000
-鼓板老	gu2 boe2 lae6	15000
+鼓板老	gvu2 boe2 lae6	15000
 龍袍	luo5 bbae5	15582
 
 # 房子
@@ -5623,7 +5623,7 @@ use_preset_vocabulary: false
 地板洞	ddei7 boe2 ddong7	15000
 培地基	bbai5 ddei7 ji1	15000
 子屋	zi2 u4	15000
-孤老堂	gu1 lae6 ddo5	15000
+孤老堂	gvu1 lae6 ddo5	15000
 客宕	ka4 ddo7	15000
 屋料	u4 luoe7	15000
 屏牆洞	beng2 ssiae5 ddong7	15000
@@ -5695,7 +5695,7 @@ use_preset_vocabulary: false
 糞鬥樓	fang3 dao2 leu5	15000
 結牆	jie4 ssiae5	15000
 老虎窗	lae6 fu2 co1	15000
-過間	gu3 goe1	15000
+過間	gvu3 goe1	15000
 鎖匙	seu2 ssei5	15561
 鎖身	seu2 sang1	15000
 鎖須	seu2 seu1	15000
@@ -5758,7 +5758,7 @@ use_preset_vocabulary: false
 老趼	lae6 jie2	15215
 肚棚	ddeu6 bba5	15000
 肚棚骨	ddeu6 bba5 gyue4	15000
-股臀髀	gu2 dde5 bbei6	15000
+股臀髀	gvu2 dde5 bbei6	15000
 背脊身骨	bai1 zei4 sang1 gyue4	15000
 腰勁	yue1 jiang3	15000
 腰部	yue1 bbu6	18612
@@ -5784,7 +5784,7 @@ use_preset_vocabulary: false
 順腳	ssong7 jioe4	15392
 領鉤下	leng6 gao1 hho6	15000
 頹漿	ddai5 ziae1	15000
-髀股臀	bbei6 gu2 dde5	15000
+髀股臀	bbei6 gvu2 dde5	15000
 
 # 教室文具
 三角板	soe1 gu4 boe2	15488
@@ -5886,7 +5886,7 @@ use_preset_vocabulary: false
 前兩年	ssie5 liae6 njie5	15001
 前境	ssie5 jiang2	15000
 劃鬥龍	va8 dao2 luo5	15000
-古原先	gu2 njyue5 sie1	15000
+古原先	gvu2 njyue5 sie1	15000
 吃飯水	qi4 voe7 seu2	15000
 嘗新	ssiae5 sang1	15495
 壓歲包	oe4 seu3 boe1	15000
@@ -5947,7 +5947,7 @@ use_preset_vocabulary: false
 白露	bba8 leu7	15724
 秋分	ceu1 fang1	15568
 秋裏	ceu1 lei6	15000
-穀雨	gu4 vyu6	16021
+穀雨	gvu4 vyu6	16021
 立冬	lei8 dong1	15567
 立夏	lei8 hho7	15604
 立春	lei8 cong1	15939
@@ -5970,8 +5970,8 @@ use_preset_vocabulary: false
 透世	tao3 sei3	15000
 透夜	tao3 zsi7	15000
 透年	tao3 njie5	15000
-過年米	gu3 njie5 mei6	15000
-過年飯	gu3 njie5 voe7	15000
+過年米	gvu3 njie5 mei6	15000
+過年飯	gvu3 njie5 voe7	15000
 還冬	vuoe5 dong1	15000
 長命線	zziae5 meng7 sie3	15000
 開門炮	keh1 mang5 poe3	15388
@@ -6231,9 +6231,9 @@ use_preset_vocabulary: false
 # 武術舞蹈
 兩頭錘	liae6 ddeu5 zzeu5	15000
 打對子	da2 dai3 zi2	15000
-打腰鼓	da2 yue1 gu2	15000
-扭秧歌	njiao6 iae1 gu1	15515
-擂鼓	lai5 gu2	15576
+打腰鼓	da2 yue1 gvu2	15000
+扭秧歌	njiao6 iae1 gvu1	15515
+擂鼓	lai5 gvu2	15576
 柳七	leu6 ca4	15000
 瓶腿	bbeng5 tai2	15000
 甩提勁	sa4 ddei5 jiang3	15000
@@ -6321,7 +6321,7 @@ use_preset_vocabulary: false
 做莊	zeu3 zo1	15515
 勵彈子	lei7 ddoe7 zi2	15000
 勵鐵環	lei7 tie4 vuoe5	15000
-古記	gu2 ji3	15000
+古記	gvu2 ji3	15000
 字眼寓	ssi7 ngoe6 njyu7	15000
 彈淮豆子	ddoe7 va5 ddao7 zi2	15000
 手氣	seu2 qi3	15709
@@ -6462,15 +6462,15 @@ use_preset_vocabulary: false
 本山黃牛	bang2 soe1 hho5 ngao5	15000
 機喉	ji1 hhao5	15000
 氣癰豬	qi3 iong1 zeu1	15000
-水牯	seu2 gu2	15000
+水牯	seu2 gvu2	15000
 水牸	seu2 ssi7	15000
 牛草	ngao5 cae2	15000
 狗娘	gao2 njiae5	15014
 獾豬	xyue1 zeu1	15000
 畜生	ceu3 sa1	16332
 羊娘	zsiae5 njiae5	15000
-羊羖	zsiae5 gu2	15000
-羯牯	jie4 gu2	15000
+羊羖	zsiae5 gvu2	15000
+羯牯	jie4 gvu2	15000
 羯羊	jie4 zsiae5	15390
 老豬娘	lae6 zeu1 njiae5	15000
 草子脹	cae2 zi2 ziae3	15000
@@ -6479,7 +6479,7 @@ use_preset_vocabulary: false
 荷蘭牛	vu5 loe5 ngao5	15000
 豬打印	zeu1 da2 iang3	15000
 豬爪	zeu1 zoe2	15000
-豬牯銀	zeu1 gu2 njiang5	15000
+豬牯銀	zeu1 gvu2 njiang5	15000
 豬草	zeu1 cae2	15037
 豬豚	zeu1 dde5	15000
 豬頭髓	zeu1 ddeu5 sei2	15000
@@ -6495,7 +6495,7 @@ use_preset_vocabulary: false
 騷欄	sae1 loe5	15000
 驢馬	leu5 mo6	15000
 黃牛	hho5 ngao5	16579
-黃牯	hho5 gu2	15000
+黃牯	hho5 gvu2	15000
 黃牸	hho5 ssi7	15000
 
 # 特徵詞·一、名物稱謂
@@ -6517,7 +6517,7 @@ use_preset_vocabulary: false
 後手	hhao6 seu2	21195
 心境	seng1 jiang2	22426
 撩頭柴	luoe5 ddeu5 ssa5	20000
-敲罟	koe1 gu2	20000
+敲罟	koe1 gvu2	20000
 料碼	luoe7 mo6	20000
 斯的克	si1 dei4 keh4	20000
 樣式	zsiae7 sei4	26132
@@ -6641,7 +6641,7 @@ use_preset_vocabulary: false
 眙來	zsi5 leh5	20000
 眙落	zsi5 lo8	20000
 眙被牢	zsi5 bbei6 lae5	20000
-眙難過	zsi5 noe5 gu3	20000
+眙難過	zsi5 noe5 gvu3	20000
 眼眙光	ngoe6 zsi5 gu1	20000
 着力	jjioe8 lei8	22093
 着實	jjioe8 ssa8	23938
@@ -6660,12 +6660,12 @@ use_preset_vocabulary: false
 背時	bai1 ssi5	20500
 胎坯恁	teh1 pai1 ssang7	20000
 舢板蕩	soe1 boe2 ddo7	20000
-蒙鼓裏	mong5 gu2 lei6	20000
+蒙鼓裏	mong5 gvu2 lei6	20000
 虔心	jjie5 seng1	20451
 虧你	kai1 nji6	20019
 蟹爬恁	ha2 bbuo5 ssang7	20000
 蟹踅恁	ha2 ssyue8 ssang7	20000
-蠱吵恁	gu2 coe2 ssang7	20000
+蠱吵恁	gvu2 coe2 ssang7	20000
 調勻	dduoe5 zsiang5	20726
 講來	gu2 leh5	20500
 講圓倈	gu2 zsyue5 leh5	20000
@@ -6709,7 +6709,7 @@ use_preset_vocabulary: false
 吱啦汪叫	zei1 loe1 o1 jyue3	20000
 嚴幹正色	nji5 ge3 zeng1 seh4	20000
 天晴落雨	tie1 sseng5 lo8 vyu6	20000
-奇形古怪	jji5 zsiang5 gu2 ga3	20000
+奇形古怪	jji5 zsiang5 gvu2 ga3	20000
 家長里短	gu1 zziae5 lei6 de2	20000
 寅時卯月	zsiang5 ssi5 moe6 njyue8	20000
 寸草無留	ce3 cae2 vu5 leu5	20000
@@ -6717,7 +6717,7 @@ use_preset_vocabulary: false
 小八癩子	syue2 boe4 la7 zi2	20000
 嵌牙齒縫	koe3 ngo5 ci2 vong5	20000
 打大轉匯	da2 dda7 zyue2 vai6	20000
-打退堂鼓	da2 tai3 ddo5 gu2	20548
+打退堂鼓	da2 tai3 ddo5 gvu2	20548
 扭頭擺頸	njiao6 ddeu5 ba2 jiang2	20000
 搗指頭槍	dae2 zi2 ddeu5 ciae1	20000
 擺擺樣子	ba2 ba2 zsiae7 zi2	20000
@@ -6745,8 +6745,8 @@ use_preset_vocabulary: false
 賴歪兇妝	la7 ua1 xyo1 zo1	20000
 賴皮賴臉	la7 bbei5 la7 lie6	20000
 轉彎門角	zyue2 uoe1 mang5 gu4	20000
-隔江過水	ga4 gu1 gu3 seu2	20000
-隔洋過海	ga4 zsiae5 gu3 heh2	20000
+隔江過水	ga4 gu1 gvu3 seu2	20000
+隔洋過海	ga4 zsiae5 gvu3 heh2	20000
 面皮打襉	mie7 bbei5 da2 goe3	20000
 頭痛膏藥	ddeu5 tong3 gae1 zsioe8	20000
 鬼咄咄恁	jyu2 de4 de4 ssang7	20000
@@ -6774,7 +6774,7 @@ use_preset_vocabulary: false
 拍照相	pa4 zyue3 siae1	20000
 掉花槍	dduoe6 huo1 ciae1	20000
 擔肩胛	doe1 jie1 goe4	20000
-敲銅鼓	koe1 ddong5 gu2	20000
+敲銅鼓	koe1 ddong5 gvu2	20000
 會句別	vai7 jyu3 bbie8	20000
 有花頭	zsiao6 huo1 ddeu5	20000
 校脾氣	goe3 bbei5 qi3	20000
@@ -6797,7 +6797,7 @@ use_preset_vocabulary: false
 露馬腳	leu7 mo6 jioe4	20481
 頭礌轉	ddeu5 lai7 zyue2	20000
 頭釁釁	ddeu5 xiang3 xiang3	20000
-飛過海	fei1 gu3 heh2	20321
+飛過海	fei1 gvu3 heh2	20321
 鬼排陣	jyu2 bba5 zzang7	20000
 
 # 特徵詞·二、動作行爲
@@ -6831,7 +6831,7 @@ use_preset_vocabulary: false
 謹視	jiang2 ssi6	20000
 賀喜	vu7 xi2	20561
 連牢	lie5 lae5	20000
-鞔鼓	me5 gu2	20000
+鞔鼓	me5 gvu2	20000
 順情	ssong7 sseng5	20000
 
 # 特徵詞·四、虛詞
@@ -6926,11 +6926,11 @@ use_preset_vocabulary: false
 舊貨攤	jjiao7 fu3 toe1	20340
 花布衫	huo1 byu3 soe1	20000
 菜鹹餅	ceh3 hhoe5 beng2	20000
-藥鍋	zsioe8 gu1	20000
+藥鍋	zsioe8 gvu1	20000
 酒味店	zeu2 mei7 diae3	20000
 醬油瓶	ziae3 zsiao5 bbeng5	20000
 金戒指	jiang1 ga3 zi2	20539
-鉛鍋	ka1 gu1	20000
+鉛鍋	ka1 gvu1	20000
 鹹桃	hhoe5 ddae5	20000
 
 # 特殊語法詞·4.變換
@@ -7237,8 +7237,8 @@ use_preset_vocabulary: false
 熟客	sseu8 ka4	20548
 眙山	zsi5 soe1	20000
 眙山客	zsi5 soe1 ka4	20000
-過路	gu3 leu7	20889
-過路客	gu3 leu7 ka4	20000
+過路	gvu3 leu7	20889
+過路客	gvu3 leu7 ka4	20000
 
 # 特殊語法詞·冷冰
 冷冰冰	la6 beng1 beng1	20826
@@ -7276,13 +7276,13 @@ use_preset_vocabulary: false
 有趣	zsiao6 ceu3	31255
 洋相	zsiae5 siae1	20573
 清水相	ceng1 seu2 siae1	20000
-罪過相	ssai6 gu3 siae1	20000
+罪過相	ssai6 gvu3 siae1	20000
 老相	lae6 siae1	20463
 鏖糟相	ae1 zae1 siae1	20000
 鏖裏	ae1 lei6	20000
 鏖里巴糟相	ae1 lei6 buo1 zae1 siae1	20000
 院主	zsyue7 zeu2	20000
-難過相	noe5 gu3 siae1	20000
+難過相	noe5 gvu3 siae1	20000
 
 # 特殊語法詞·十二、✕通煞氣
 通煞氣	tong1 soe3 qi3	20000
@@ -7341,7 +7341,7 @@ use_preset_vocabulary: false
 胡里夾弄	vu5 lei6 goe4 long7	20000
 花斑	huo1 boe1	20519
 赤腳	cei4 jioe4	20818
-過里過格	gu3 lei6 gu3 ga4	20000
+過里過格	gvu3 lei6 gvu3 ga4	20000
 邋遢	loe8 toe4	20861
 鏖里鏖糟	ae1 lei6 ae1 zae1	20000
 
@@ -7359,8 +7359,8 @@ use_preset_vocabulary: false
 # 特殊語法詞·濘揪
 厚秩	hhao6 zza8	20000
 圓卵	zsyue5 le6	20000
-孤零	gu1 leng5	20487
-孤零零	gu1 leng5 leng5	20814
+孤零	gvu1 leng5	20487
+孤零零	gvu1 leng5 leng5	20814
 渾淘	zsyue5 ddae5	20000
 渾淘淘	zsyue5 ddae5 ddae5	20000
 破衰	pyu3 seu1	20000
@@ -7488,7 +7488,7 @@ use_preset_vocabulary: false
 長顯	zziae5 xie2	20000
 長顯長	zziae5 xie2 zziae5	20000
 開始道	keh1 si2 ddae6	20000
-難過顯	noe5 gu3 xie2	20000
+難過顯	noe5 gvu3 xie2	20000
 香顯	xiae1 xie2	20000
 香顯香	xiae1 xie2 xiae1	20000
 高顯	gae1 xie2	20455
@@ -7632,7 +7632,7 @@ use_preset_vocabulary: false
 橘衣	jyue4 i1	15000
 橘餅	jyue4 beng2	15000
 檸檬	na2 mong5	17727
-水果	seu2 gu2	27988
+水果	seu2 gvu2	27988
 水蜜桃	seu2 mie8 ddae5	15609
 油生仁	zsiao5 sa1 ssang5	15000
 溫勻	yue1 zsiang5	15000
@@ -7661,7 +7661,7 @@ use_preset_vocabulary: false
 蒲桃	bbyu5 ddae5	15000
 蒲桃棚	bbyu5 ddae5 bba5	15000
 藤梨	ddang5 lei5	15000
-蘋果	bbeng5 gu2	51282
+蘋果	bbeng5 gvu2	51282
 蜜柑	mie8 ge1	15555
 遲紅	zzi5 hhong5	15000
 野柿	zsiae6 ssi6	15000
@@ -7824,7 +7824,7 @@ use_preset_vocabulary: false
 拆兌行	ca4 ddai7 hha5	15000
 拆衣店	ca4 i1 diae3	15000
 招牌腳	zyue1 bba5 jioe4	15000
-搭股	deh4 gu2	15000
+搭股	deh4 gvu2	15000
 擦背	coe4 bai1	15483
 攢湯	sse7 to1	15000
 攢豬	sse7 zeu1	15000
@@ -7836,7 +7836,7 @@ use_preset_vocabulary: false
 春筒	cong1 ddong5	15000
 朝奉	zyue1 vong6	15454
 板行	boe2 hha5	15000
-果子店	gu2 zi2 diae3	15000
+果子店	gvu2 zi2 diae3	15000
 柑餅棧	ge1 beng2 zzoe7	15000
 柴行	ssa5 hha5	15000
 柴販	ssa5 foe3	15000
@@ -7915,8 +7915,8 @@ use_preset_vocabulary: false
 走水生意	zao2 seu2 sa1 i3	15000
 跑堂	poe2 ddo5	15553
 遊販	zsiao5 foe3	15000
-過塘行	gu3 ddo5 hha5	15000
-過賬同行	gu3 ziae3 ddong5 hha5	15000
+過塘行	gvu3 ddo5 hha5	15000
+過賬同行	gvu3 ziae3 ddong5 hha5	15000
 酒坊	zeu2 foe1	15542
 酒甏	zeu2 bba7	15000
 野貨	zsiae6 fu3	15000
@@ -7943,7 +7943,7 @@ use_preset_vocabulary: false
 利子	lei7 zi2	15436
 利市	lei7 ssi6	15542
 團豬	dde5 zeu1	15000
-孤老利	gu1 lae6 lei7	15000
+孤老利	gvu1 lae6 lei7	15000
 小彩	syue2 ceh2	15000
 山架	soe1 gu3	15000
 打烊	da2 zsiae5	15585
@@ -7955,7 +7955,7 @@ use_preset_vocabulary: false
 放價	foe3 gu3	15000
 放山	foe3 soe1	15000
 放船頭	foe3 ssyue5 ddeu5	15000
-放谷銀	foe3 gu4 njiang5	15000
+放谷銀	foe3 gvu4 njiang5	15000
 棧力	zzoe7 lei8	15000
 水腳	seu2 jioe4	15000
 班力	boe1 lei8	15000
@@ -8004,7 +8004,7 @@ use_preset_vocabulary: false
 差使	ca1 si2	15526
 師兄弟	si1 xiong1 ddei6	15590
 師太	si1 ta3	15807
-師姑娘寮	si1 gu1 njiae5 luoe5	15000
+師姑娘寮	si1 gvu1 njiae5 luoe5	15000
 師姥	si1 mu6	15000
 幫手	buo1 seu2	16062
 彈棉	ddoe7 mie5	15000
@@ -8051,7 +8051,7 @@ use_preset_vocabulary: false
 當手先生	do3 seu2 sie1 sa1	15000
 白鐵老師	bba8 tie4 lae6 si1	15000
 看護	ke3 vu7	15812
-箍桶老師	gu1 ddong6 lae6 si1	15000
+箍桶老師	gvu1 ddong6 lae6 si1	15000
 粗工	ceu1 gong1	15360
 粗石老師	ceu1 ssei8 lae6 si1	15000
 糞掃客	fang3 sae2 ka4	15000
@@ -8085,7 +8085,7 @@ use_preset_vocabulary: false
 面店老師	mie7 diae3 lae6 si1	15000
 頭櫃先生	ddeu5 jjyu7 sie1 sa1	15000
 飛機師	fei1 ji1 si1	15000
-黑帽姑娘	heh4 mae7 gu1 njiae5	15000
+黑帽姑娘	heh4 mae7 gvu1 njiae5	15000
 
 # 肉蛋
 七星蹄	ca4 seng1 ddei5	15000
@@ -8165,7 +8165,7 @@ use_preset_vocabulary: false
 午時花	ngu6 ssi5 huo1	15000
 午時蓮	ngu6 ssi5 lie5	15000
 卷枝藤	jyue2 zei1 ddang5	15000
-厚菇	hhao6 gu1	15000
+厚菇	hhao6 gvu1	15000
 喇叭花	loe8 buo4 huo1	15521
 單台花	doe1 ddeh5 huo1	15000
 單葉巖珠	doe1 zsie8 ngoe5 zeu1	15000
@@ -8186,7 +8186,7 @@ use_preset_vocabulary: false
 密珠	mie8 zeu1	15000
 小土參	syue2 teu2 ceh1	15000
 小青根	syue2 ceng1 ge1	15000
-山果子	soe1 gu2 zi2	15000
+山果子	soe1 gvu2 zi2	15000
 山桂花	soe1 jyu3 huo1	15000
 山海螺	soe1 heh2 leu5	15000
 山砒霜	soe1 pei1 syo1	15000
@@ -8289,11 +8289,11 @@ use_preset_vocabulary: false
 蓮子草	lie5 zi2 cae2	15000
 蓮子荷花	lie5 zi2 vu5 huo1	15000
 蓮蒲	lie5 bbyu5	15000
-薄菇	bbuo8 gu1	15000
+薄菇	bbuo8 gvu1	15000
 藍花草	loe5 huo1 cae2	15000
 藍花草子	loe5 huo1 cae2 zi2	15000
 藍靛	loe5 ddie7	15538
-蘑菇	myu5 gu1	17269
+蘑菇	myu5 gvu1	17269
 蛇楊梅	ssei5 zsiae5 meh5	15000
 蜈蚣草	ngu5 gong1 cae2	15000
 見水還陽	jie3 seu2 vuoe5 zsiae5	15000
@@ -8350,7 +8350,7 @@ use_preset_vocabulary: false
 新菜鹹	sang1 ceh3 hhoe5	15000
 松豆	ssong5 ddao7	15000
 正菜	zeng1 ceh3	15000
-水果羹	seu2 gu2 ga1	15000
+水果羹	seu2 gvu2 ga1	15000
 水花腐	seu2 huo1 vyu6	15000
 油味	zsiao5 mei7	15000
 油松豆	zsiao5 ssong5 ddao7	15000
@@ -8498,7 +8498,7 @@ use_preset_vocabulary: false
 花粉	huo1 fang2	16052
 金器	jiang1 qi3	15094
 面油	mie7 zsiao5	15015
-頭箍	ddeu5 gu1	15492
+頭箍	ddeu5 gvu1	15492
 
 # 訟事
 上訴	ssiae6 seu3	16465
@@ -8558,7 +8558,7 @@ use_preset_vocabulary: false
 路條	leu7 dduoe5	15402
 輪供飯	lang5 jyo1 voe7	15000
 通知	tong1 zi1	31759
-過堂	gu3 ddo5	15517
+過堂	gvu3 ddo5	15517
 門頭官司	mang5 ddeu5 gyue1 si1	15000
 關起	guoe1 qi2	15565
 革職	ga4 zei4	15523
@@ -8583,7 +8583,7 @@ use_preset_vocabulary: false
 婆婆念	bbyu5 bbyu5 njiae7	15000
 嫖響	bbie5 xiae2	15000
 山頭腔	soe1 ddeu5 ko1	15000
-師姑娘切	si1 gu1 njiae5 qie3	15000
+師姑娘切	si1 gvu1 njiae5 qie3	15000
 幫腔	buo1 ko1	15519
 念嘴蚌	njiae7 zeu2 bba7	15000
 應嘴答對	iang1 zeu2 doe4 dai3	15000
@@ -8666,7 +8666,7 @@ use_preset_vocabulary: false
 子心芥	zi2 seng1 ga3	15000
 尖刀菜	zie1 dae1 ceh3	15000
 山東菜	soe1 dong1 ceh3	15077
-早果淮豆	zae2 gu2 va5 ddao7	15000
+早果淮豆	zae2 gvu2 va5 ddao7	15000
 早芥	zae2 ga3	15000
 朝天姜	zyue1 tie1 jiae1	15000
 榨菜	zo3 ceh3	15729
@@ -8694,7 +8694,7 @@ use_preset_vocabulary: false
 羹豆	ga1 ddao7	15000
 芥菜心	ga3 ceh3 seng1	15000
 苦菜	ku2 ceh3	15043
-茄蘿果菜	jji5 leu5 gu2 ceh3	15000
+茄蘿果菜	jji5 leu5 gvu2 ceh3	15000
 茴香豆	vai5 xiae1 ddao7	15060
 菜園瓜	ceh3 zsyue5 gu1	15000
 菜姜	ceh3 jiae1	15000
@@ -8723,7 +8723,7 @@ use_preset_vocabulary: false
 雪里蕻	syue4 lei6 hhong7	15000
 青姜	ceng1 jiae1	15000
 飯豆	voe7 ddao7	15000
-香菇菜	xiae1 gu1 ceh3	15000
+香菇菜	xiae1 gvu1 ceh3	15000
 鮮蠶豆	sie1 sse5 ddao7	15000
 麻風瓜	mo5 fong1 gu1	15000
 黃葉菜	hho5 zsie8 ceh3	15000
@@ -8776,7 +8776,7 @@ use_preset_vocabulary: false
 貼食	duoe4 ssei8	15000
 賬桌	ziae3 zyo4	15000
 軋賬	ggoe8 ziae3	15014
-過磅	gu3 buo3	15546
+過磅	gvu3 buo3	15546
 銀角子	njiang5 gu4 zi2	15000
 銅盤秤	ddong5 bbe5 ceng3	15000
 雕鷹番	duoe1 iang1 foe1	15000
@@ -8857,13 +8857,13 @@ use_preset_vocabulary: false
 插網	coe4 mo6	15000
 摸海	mo8 heh2	15000
 攏田	long6 ddie5	15000
-攏谷	long6 gu4	15000
-攏谷船	long6 gu4 ssyue5	15000
+攏谷	long6 gvu4	15000
+攏谷船	long6 gvu4 ssyue5	15000
 攔釣	loe5 duoe3	15000
 教拖	goe3 teu3	15000
 敲舶	koe1 bba8	15000
 春汛	cong1 sang3	15403
-曬穀坦	sa3 gu4 toe2	15000
+曬穀坦	sa3 gvu4 toe2	15000
 正租	zeng1 zeu1	15000
 流網	leu5 mo6	15471
 爛腳瘟	loe7 jioe4 yue1	15000
@@ -8911,13 +8911,13 @@ use_preset_vocabulary: false
 塗番	ddeu5 foe1	15000
 山番	soe1 foe1	15000
 山番薯	soe1 foe1 zzeu6	15000
-慈姑	ssi5 gu1	15467
+慈姑	ssi5 gvu1	15467
 扁蒲秧	bie2 bbyu5 iae1	15000
 抽心	ceu1 seng1	15000
 新米	sang1 mei6	15496
-早谷	zae2 gu4	15000
+早谷	zae2 gvu4	15000
 春花	cong1 huo1	15839
-晚谷	moe6 gu4	15000
+晚谷	moe6 gvu4	15000
 朗花	lo6 huo1	15000
 棉桃	mie5 ddae5	15418
 檳榔芋	beng1 lo5 vyu7	15000
@@ -8943,13 +8943,13 @@ use_preset_vocabulary: false
 稻稈髓	ddae6 ge2 sei2	15000
 稻穗	ddae6 sseu7	15536
 稻頭	ddae6 ddeu5	15000
-穅谷	ko1 gu4	15000
+穅谷	ko1 gvu4	15000
 穗稞	sseu7 ku1	15000
 米皮糠	mei6 bbei5 ko1	15000
 粟粉	syo4 fang2	15000
 粟麥段	syo4 ma8 dde7	15000
 糯米粟	neu7 mei6 syo4	15000
-糯谷	neu7 gu4	15000
+糯谷	neu7 gvu4	15000
 紅花芋	hhong5 huo1 vyu7	15000
 紅麻	hhong5 mo5	15460
 絡麻梗	lo8 mo5 ga2	15000
@@ -8961,7 +8961,7 @@ use_preset_vocabulary: false
 蓮子心	lie5 zi2 seng1	15019
 蕉藕	zyue1 ngao6	15000
 薏仁米	i3 ssang5 mei6	15011
-谷種	gu4 zyo2	15000
+谷種	gvu4 zyo2	15000
 金成	jiang1 sseng5	15597
 陳米	zzang5 mei6	15482
 雞爪粟	ji1 zoe2 syo4	15000
@@ -9018,8 +9018,8 @@ use_preset_vocabulary: false
 茅根索	moe5 ge1 so4	15000
 蟹巾	ha2 jiang1	15000
 觀音掃	gyue1 iang1 sae2	15000
-谷囤	gu4 dde6	15000
-谷耙	gu4 bbuo7	15000
+谷囤	gvu4 dde6	15000
+谷耙	gvu4 bbuo7	15000
 鋤錐	sseu5 zeu1	15000
 鎡基	zi1 ji1	15000
 雙極	syo1 jjie8	15569
@@ -9040,7 +9040,7 @@ use_preset_vocabulary: false
 大伯孃	dda7 ba4 njiae5	15000
 大叔	dda7 seu4	22753
 大大	dda7 dda7	23141
-大姑娘	dda7 gu1 njiae5	15713
+大姑娘	dda7 gvu1 njiae5	15713
 大姥	dda7 mu6	15000
 大姨娘	dda7 zsi5 njiae5	15000
 大娘	dda7 njiae5	15946
@@ -9051,16 +9051,16 @@ use_preset_vocabulary: false
 大爸	dda7 bbu6	15000
 女老太	njyu6 lae6 ta3	15000
 妗婆娘	jjiang7 bbyu5 njiae5	15000
-姑公爺	gu1 gong1 zsi5	15000
+姑公爺	gvu1 gong1 zsi5	15000
 姨夫	zsi5 fu1	15702
 姨娘	zsi5 njiae5	15596
 底婆	dei2 bbyu5	15000
 後孃	hhao6 njiae5	15510
-挑嘴姑娘	tuoe1 zeu2 gu1 njiae5	15000
+挑嘴姑娘	tuoe1 zeu2 gvu1 njiae5	15000
 新娘	sang1 njiae5	17087
 晚爺	moe6 zsi5	15000
 瑣大	seu2 dda7	15000
-瑣姑娘	seu2 gu1 njiae5	15000
+瑣姑娘	seu2 gvu1 njiae5	15000
 瑣姨娘	seu2 zsi5 njiae5	15000
 瑣娘	seu2 njiae5	15000
 瑣嬸	seu2 sang2	15000
@@ -9109,7 +9109,7 @@ use_preset_vocabulary: false
 緊襪帶	jiang2 moe8 da3	15000
 膝褲	sa4 ku3	15000
 蒲鞋	bbyu5 hha5	15514
-蒸鍋鞋	zeng1 gu1 hha5	15000
+蒸鍋鞋	zeng1 gvu1 hha5	15000
 襪底	moe8 dei2	15000
 襪桶	moe8 ddong6	15000
 襪爿	moe8 bboe5	15000
@@ -9148,7 +9148,7 @@ use_preset_vocabulary: false
 夾燥煬	goe4 sae3 zsiae5	15000
 夾生吃	goe4 sa1 qi4	15000
 廚到	zzeu5 dae3	15000
-廚過	zzeu5 gu3	15000
+廚過	zzeu5 gvu3	15000
 揉飛面	sseu5 fei1 mie7	15000
 攪飛面	goe2 fei1 mie7	15000
 正廚	zeng1 zzeu5	15000
@@ -9226,7 +9226,7 @@ use_preset_vocabulary: false
 八須	boe4 seu1	15000
 冬烏	dong1 u1	15000
 刺海螺	ci3 heh2 leu5	15000
-刺鼓	ci3 gu2	15000
+刺鼓	ci3 gvu2	15000
 十隻腳	ssa8 zei4 jioe4	15000
 圓臍	zsyue5 ssei5	15000
 圓蟶	zsyue5 ceng1	15000
@@ -9395,7 +9395,7 @@ use_preset_vocabulary: false
 新鴨	sang1 oe4	15000
 早稻黃	zae2 ddae6 hho5	15000
 本地鴨	bang2 ddei7 oe4	15000
-果子狸	gu2 zi2 lei5	15510
+果子狸	gvu2 zi2 lei5	15510
 梅花腳	meh5 huo1 jioe4	15000
 棱毛	lang5 mae5	15000
 楊樹狸	zsiae5 sseu7 lei5	15000
@@ -9463,7 +9463,7 @@ use_preset_vocabulary: false
 鴨棚	oe4 bba5	15000
 鴨船	oe4 ssyue5	15000
 鴨頭	oe4 ddeu5	15553
-鵓鴣	bbe8 gu1	15380
+鵓鴣	bbe8 gvu1	15380
 鵪鶉	eh1 ssong5	15745
 麒麟鳩	jji5 leng5 jiao1	15000
 黃頭鷺鷥	hho5 ddeu5 leu7 si1	15000
@@ -9508,7 +9508,7 @@ use_preset_vocabulary: false
 短切	de2 qie3	15000
 箬糕	ssioe8 gae1	15000
 粟餅	syo4 beng2	15000
-糖粿粉	ddo5 gu2 fang2	15000
+糖粿粉	ddo5 gvu2 fang2	15000
 糯米糕	neu7 mei6 gae1	15426
 綠豆糕	luo8 ddao7 gae1	15522
 老劑	lae6 zei3	15000
@@ -9524,7 +9524,7 @@ use_preset_vocabulary: false
 豆酥糖	ddao7 seu1 ddo5	15000
 豬油糕	zeu1 zsiao5 gae1	15000
 賞月食	siae2 njyue8 ssei8	15000
-鍋貼	gu1 duoe4	15579
+鍋貼	gvu1 duoe4	15579
 開口笑	keh1 kao2 syue3	15546
 開花包	keh1 huo1 boe1	15000
 雙炊糕	syo1 ceu1 gae1	15000
@@ -9630,7 +9630,7 @@ use_preset_vocabulary: false
 該日	geh1 neh8	15519
 轉日	zyue2 neh8	15000
 透長日	tao3 zziae5 neh8	15000
-過日	gu3 neh8	15000
+過日	gvu3 neh8	15000
 重五日	zzyo6 ng6 neh8	15000
 闞兒	ga4 ng5	15000
 
@@ -9662,7 +9662,7 @@ use_preset_vocabulary: false
 狼萁	lo5 zi1	15000
 番人芋	foe1 nang5 vyu7	15000
 白兒	bba8 ng5	15000
-秕穀	ha2 gu4	15370
+秕穀	ha2 gvu4	15370
 稻稼	ddae6 sa4	15000
 笐	hhuoe	588
 紅䒧	hhong5 nji5	15000
@@ -9679,9 +9679,9 @@ use_preset_vocabulary: false
 五爪龍	ng6 zoe2 luo5	15000
 伏雞兒	bbu7 ji1 ng8	15000
 兔兒	teu3 ng5	15542
-八哥兒	boe4 gu1 ng5	15333
+八哥兒	boe4 gvu1 ng5	15333
 包頭魚	boe1 ddeu5 ngeu5	15000
-吃谷將兒	qi4 gu4 ziae1 ng5	15000
+吃谷將兒	qi4 gvu4 ziae1 ng5	15000
 團魚	dde5 ngeu5	15435
 天雁鵝	tie1 ngoe7 ng5	15000
 將兒	ziae1 ng5	15000
@@ -9857,7 +9857,7 @@ use_preset_vocabulary: false
 線礌兒	xie3 lai7 ng5	15000
 耳朵耙兒	ng6 do2 bbuo7 ng5	15000
 酒壺兒	zeu2 vu5 ng5	15000
-鉛鑊兒	ka1 gu1 ng5	15000
+鉛鑊兒	ka1 gvu1 ng5	15000
 鉤兒	gao1 ng5	15354
 鋬	ba3	646
 鋸	geu3	1231
@@ -9921,7 +9921,7 @@ use_preset_vocabulary: false
 妗孃兒	jjiang7 njiae5 ng5	15000
 妹妹兒	meh7 meh7 ng8	15000
 姊妹兒	zi2 meh7 ng8	15000
-姑娘兒	gu1 njiae5 ng8	15000
+姑娘兒	gvu1 njiae5 ng8	15000
 姨娘兒	zsi5 njiae5 ng5	15000
 娭	na1	742
 孫兒	se1 ng5	15575
@@ -9963,14 +9963,14 @@ use_preset_vocabulary: false
 自人	ssi7 nang5	15000
 自賴人	ssi7 la7 nang5	15000
 華僑人	huo1 jjyue5 nang5	15000
-行路過人	hha5 leu7 gu3 nang5	15000
+行路過人	hha5 leu7 gvu3 nang5	15000
 親兒	cang1 ng5	15000
 親奶兒	cang1 na6 ng5	15000
 討飯丐兒	tae2 voe7 kyu4 ng5	15000
 討飯人	tae2 voe7 nang5	15000
 貓屄客	mie5 bei1 ka4	15000
 送人媽	song3 nang5 mo1	15000
-過路人	gu3 leu7 nang5	15575
+過路人	gvu3 leu7 nang5	15575
 道人	ddae6 njang5	15917
 鄉下人	xiae1 hho6 nang5	15825
 院主兒	zsyue7 zeu2 ng5	15000
@@ -10022,7 +10022,7 @@ use_preset_vocabulary: false
 鼻頭錐兒	bbei7 ddeu5 zeu1 ng5	15000
 
 # L疾病医疗
-人不好過	nang5 fu hae2 gu3	15000
+人不好過	nang5 fu hae2 gvu3	15000
 人不暢快	nang5 fu ciae3 ka3	15000
 僂背	hao1 bai1	15000
 僂背佬	hao1 bai1 lae6	15000
@@ -10039,7 +10039,7 @@ use_preset_vocabulary: false
 瘰兒	leu6 ng5	15000
 睇病	ci3 bbeng7	15000
 聾耳朵	long5 ng6 do2	15000
-藥鑊兒	zsioe8 gu1 ng5	15000
+藥鑊兒	zsioe8 gvu1 ng5	15000
 蹺腳人	qyue1 jioe4 nang5	15000
 風瘴	fong1 da2	15000
 
@@ -10404,7 +10404,7 @@ use_preset_vocabulary: false
 丐兒相	kyu4 ng5 siae1	7500
 丐兒頭	kyu4 ng5 ddeu5	7500
 主人家	zeu2 nang5 gu1	8062
-二哥	ng7 gu1	9044
+二哥	ng7 gvu1	9044
 人家人	nang5 gu1 nang5	7500
 代柴兒	ddeh7 ssa5 ng5	7500
 光眼人	gu1 ngoe6 nang5	7500
@@ -10430,7 +10430,7 @@ use_preset_vocabulary: false
 娑腰孃兒	seu1 yue1 njiae5 ng5	7500
 娜兒	neu5 ng5	7500
 嫩頭兒	ne7 ddeu5 ng5	7500
-孤老人	gu1 lae6 nang5	7500
+孤老人	gvu1 lae6 nang5	7500
 守寡老人兒	seu2 gu2 lae6 nang5 ng5	7500
 客地人	ka4 ddei7 nang5	7500
 對頭人	dai3 ddeu5 nang5	7500
@@ -10650,7 +10650,7 @@ use_preset_vocabulary: false
 挈鍾兒	qie4 jyo1 ng5	7500
 棒棒兒	bbo6 bbo6 ng5	7500
 棒棒梗兒	bbo6 bbo6 ga2 ng5	7500
-橡皮箍兒	ssiae6 bbei5 gu1 ng5	7500
+橡皮箍兒	ssiae6 bbei5 gvu1 ng5	7500
 洋線勵兒	zsiae5 sie3 lei7 ng5	7500
 洗手盂兒	sei2 seu2 vyu5 ng5	7500
 洗衣板兒	sei2 i1 boe2 ng5	7500
@@ -10740,13 +10740,13 @@ use_preset_vocabulary: false
 男娒娒	neh5 mai mai	10000
 當大女兒	do3 dda7 njyu6 ng5	10000
 老女兒	lae6 njyu6 ng5	10000
-過房兒子	gu3 voe5 ng5 zi2	10000
+過房兒子	gvu3 voe5 ng5 zi2	10000
 阿妳	a1 na	10000
 
 # 分類詞匯·十、病痛、醫療
 不暢快	fu2 ciae3 ka3	10000
 快大癗兒	ka3 dda7 lai ng5	10000
-瘑𤶁	gu le	10000
+瘑𤶁	gvu le	10000
 癢𤷡痛	zsiae6 sii tong3	10000
 瞙瞊	mo dduo	10000
 瞙瞊人	mo dduo nang5	10000
@@ -10770,7 +10770,7 @@ use_preset_vocabulary: false
 亂彈兒	le7 ddoe7 ng5	10000
 小旦娒兒	syue2 doe3 mai ng5	10000
 打水漂兒	da2 seu2 pie1 ng5	10000
-擺輪鼓兒	ba2 lang5 gu2 ng5	10000
+擺輪鼓兒	ba2 lang5 gvu2 ng5	10000
 筆㔶	bie4 gang	10000
 趕埭兒	ge2 ddeh7 ng5	10000
 趕𡉑兒	ge2 dda ng5	10000
@@ -11128,7 +11128,7 @@ use_preset_vocabulary: false
 唱詞人	ciae3 ssi5 nang5	7500
 唱龍船兒	ciae3 luo5 ssyue5 ng5	7500
 打吵兒	da2 coe2 ng5	7500
-新年鼓兒	sang1 njie5 gu2 ng5	7500
+新年鼓兒	sang1 njie5 gvu2 ng5	7500
 木頭人兒	mu8 ddeu5 nang5 ng5	7500
 老外	lae6 va7	12104
 馬拘兒	mo6 jyu1 ng5	7500
@@ -11156,7 +11156,7 @@ use_preset_vocabulary: false
 
 # 手腳胸背
 兒窠	ng5 ku1	7500
-奶哥鳥兒	na6 gu1 duoe2 ng5	7500
+奶哥鳥兒	na6 gvu1 duoe2 ng5	7500
 妝屄	zo1 bei	7500
 屄子兒	bei zi2 ng5	7500
 屄屄	bei bei	7500
@@ -11241,7 +11241,7 @@ use_preset_vocabulary: false
 該下兒	geh1 hho6 ng5	7500
 該個月日	geh1 gai3 njyue8 neh8	7500
 透日	tao3 neh8	7500
-過年肉	gu3 njie5 njao8	7500
+過年肉	gvu3 njie5 njao8	7500
 重五節	zzyo6 ng6 jie1	7500
 重五糉	zzyo6 ng6 zong3	7500
 重五草	zzyo6 ng6 cae2	7500
@@ -11269,7 +11269,7 @@ use_preset_vocabulary: false
 孩兒裝	hheh5 ng5 zo1	7500
 布頭兒	byu3 ddeu5 ng5	7500
 橫肚兒	va5 ddeu6 ng5	7500
-箍身領甲兒	gu1 sang1 leng6 goe4 ng5	7500
+箍身領甲兒	gvu1 sang1 leng6 goe4 ng5	7500
 肚繞兒	ddeu6 ssyue6 ng5	7500
 花布衫兒	huo1 byu3 soe1 ng5	7500
 衣裳兒服	i1 zsiae5 ng5 vu8	7500
@@ -11336,7 +11336,7 @@ use_preset_vocabulary: false
 兩張牌兒	liae6 ziae1 bba5 ng5	7500
 勵銅錢兒	lei7 ddong5 ddi5 ng5	7500
 印手人兒	iang3 seu2 nang5 ng5	7500
-巴楞鼓兒	buo1 lang5 gu2 ng5	7500
+巴楞鼓兒	buo1 lang5 gvu2 ng5	7500
 打賭人	da2 deu2 nang5	7500
 打賭仙兒	da2 deu2 sie1 ng5	7500
 打銅錢丁	da2 ddong5 ddi5 deng1	7500
@@ -11374,7 +11374,7 @@ use_preset_vocabulary: false
 治魚刀	zzi7 ngeu5 dae1	7500
 瓜子碟兒	gu1 zi2 dduoe8 ng5	7500
 鉋花	bbuoe huo1	7649
-鉛鍋兒	ka1 gu1 ng5	7500
+鉛鍋兒	ka1 gvu1 ng5	7500
 飯籮兒	voe7 leu5 ng5	7500
 飯鑊枷兒	voe7 hho8 gu1 ng5	7500
 
@@ -11564,7 +11564,7 @@ use_preset_vocabulary: false
 搝賬	qau ziae3	10000
 數䛚	seu3 lie	10000
 生娒	sa1 mai	10000
-過人	gu3 nang5	12710
+過人	gvu3 nang5	12710
 𢳀藥	mo zsioe8	10000
 𦩫擔	zzeng doe1	10000
 𦩫頭	zzeng ddeu5	10000
@@ -11572,7 +11572,7 @@ use_preset_vocabulary: false
 
 # 特徵詞·第七節 七字詞
 不是冤家不聚頭	fu2 ssi6 yue1 gu1 fu2 sseu6 ddeu5	10011
-不會打鼓聽聲音	fu2 vai7 da2 gu2 teng1 seng1 iang1	10000
+不會打鼓聽聲音	fu2 vai7 da2 gvu2 teng1 seng1 iang1	10000
 不見棺材不流淚	fu2 jie3 gyue1 sseh5 fu2 leu5 lai7	10000
 人無笑臉覅開店	nang5 vu5 syue3 lie6 fai1 keh1 diae3	10000
 做日和尚撞日鍾	zeu3 neh8 vu5 ssiae7 zzyo7 neh8 jyo1	10000
@@ -11613,7 +11613,7 @@ use_preset_vocabulary: false
 三扁擔打不出個屁	soe1 bie2 doe1 da2 fu2 cyue4 gai3 pei3	10000
 六月個坑蟲命不長	leu8 njyue8 gai3 ka1 zzong7 meng7 fu2 zziae5	10000
 急驚風碰着慢郎中	jia4 jiang1 fong1 po3 jjioe8 moe7 lo5 zong1	10000
-死人硬不過棺材板	si2 nang5 nga7 fu2 gu3 gyue1 sseh5 boe2	10000
+死人硬不過棺材板	si2 nang5 nga7 fu2 gvu3 gyue1 sseh5 boe2	10000
 破燈籠碰着回頭風	pyu3 dang1 long5 po3 jjioe8 vai5 ddeu5 fong1	10000
 硬米餅兒遲早會裂	nga7 mei6 beng2 ng5 zzi5 zae2 vai7 lie8	10000
 自個頭不好匄自剃	ssi7 gai3 ddeu5 fu2 hae2 ha3 ssi7 tei3	10000
@@ -11664,8 +11664,8 @@ use_preset_vocabulary: false
 辮兒橛	bbie6 ng5 jyue4	10000
 辮兒翹	bbie6 ng5 qyue3	10000
 辮兒頭	bbie6 ng5 ddeu5	10000
-鍋兒	gu1 ng5	10405
-鍋兒㔶	gu1 ng5 gang	10000
+鍋兒	gvu1 ng5	10405
+鍋兒㔶	gvu1 ng5 gang	10000
 雀兒屙	vang5 ng5 u3	10000
 雀兒窠	vang5 ng5 ku1	10000
 鳥兒毛	duoe2 ng5 mae5	10000
@@ -11676,7 +11676,7 @@ use_preset_vocabulary: false
 # 特殊語法詞·3.前展
 三歲娒	soe1 seu3 mai	10000
 三歲娒兒	soe1 seu3 mai ng5	10000
-吃谷雀	qi4 gu4 vang5	10000
+吃谷雀	qi4 gvu4 vang5	10000
 單斤瓶兒	doe1 jiang1 bbeng5 ng5	10000
 單爿門兒	doe1 bboe5 mang5 ng5	10000
 城底娒	sseng5 dei2 mai	10000
@@ -12005,7 +12005,7 @@ use_preset_vocabulary: false
 平安茶兒	bbeng5 e1 zzo5 ng5	7500
 摕藥	mo zsioe8	7500
 茶兒	zzo5 ng5	7500
-藥鍋兒	zsioe8 gu1 ng5	7500
+藥鍋兒	zsioe8 gvu1 ng5	7500
 
 # 米食
 圓兒	zsyue5 ng5	7500
@@ -12014,7 +12014,7 @@ use_preset_vocabulary: false
 糯米餅兒	neu7 mei6 beng2 ng5	7500
 貓兒飯	mie5 ng5 voe7	7500
 鏤溜兒	lao7 leu1 ng5	7500
-饘滒飯頭	ji gu voe7 ddeu5	7500
+饘滒飯頭	ji gvu voe7 ddeu5	7500
 
 # 經商行業
 二道批	ng7 ddae6 pei1	7500
@@ -12271,7 +12271,7 @@ use_preset_vocabulary: false
 魚汛	ngeu5 sang3	7870
 
 # 農作物
-五穀	ng6 gu4	8162
+五穀	ng6 gvu4	8162
 晚兒	moe6 ng5	7500
 番薯棗兒	foe1 zzeu6 zae2 ng5	7500
 稻熱病	ddae6 nji8 bbeng7	7700
@@ -12316,7 +12316,7 @@ use_preset_vocabulary: false
 氈帽屜兒	zie1 mae7 tei3 ng5	7500
 白帽兒	bba8 mae7 ng5	7500
 耳朵套	ng6 do2 tae3	7500
-襪箍兒	moe8 gu1 ng5	7500
+襪箍兒	moe8 gvu1 ng5	7500
 軟底鞋兒	njyu6 dei2 hha5 ng5	7500
 鞋靲	hha5 jjiang	7500
 顳顬兒	ssie8 sseu5 ng5	7500
@@ -12395,7 +12395,7 @@ use_preset_vocabulary: false
 銀魚	njiang5 ngeu5	8078
 銀魚絲	njiang5 ngeu5 si1	7500
 雙合魚	syo1 geh4 ngeu5	7500
-青蛄兒	ceng1 gu1 ng5	7500
+青蛄兒	ceng1 gvu1 ng5	7500
 鞋底魚	hha5 dei2 ngeu5	7500
 頌魚	ssyo7 ngeu5	7500
 飛魚	fei1 ngeu5	8315
@@ -12440,7 +12440,7 @@ use_preset_vocabulary: false
 # 鳥獸
 不伏卵	fu2 bbu7 le6	7500
 不尾巴	fu2 mei6 buo1	7500
-吃谷雀兒	qi4 gu4 zioe4 ng5	10000
+吃谷雀兒	qi4 gvu4 zioe4 ng5	10000
 嫩草雞兒	ne7 cae2 ji1 ng5	7500
 沙燕兒	so1 ie3 ng5	7500
 油鴨兒	zsiao5 oe4 ng5	7500
@@ -12464,7 +12464,7 @@ use_preset_vocabulary: false
 雁鵝兒	ngoe7 ngu5 ng5	7500
 雄雞鳥兒	zsiong5 ji1 duoe2 ng5	7500
 雄鴨兒	zsiong5 oe4 ng5	7500
-雞膯鼓兒	ji1 dang gu2 ng	7500
+雞膯鼓兒	ji1 dang gvu2 ng	7500
 雪子鳥兒	syue4 zi2 duoe2 ng5	7500
 麂兒	ji2 ng5	7500
 黃草雞兒	hho5 cae2 ji1 ng5	7500
