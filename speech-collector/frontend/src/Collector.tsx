@@ -25,8 +25,8 @@ const BAR_COUNT = 28;
 // Shown when the collection server is offline, so people can still try the recorder.
 const practiceTasks: Task[] = [
   ["吃飯", "qi4 voe7"],
-  ["天光", "tie1 go1"],
-  ["講話", "go2 va7"],
+  ["天光", "tie1 geu1"],
+  ["講話", "geu2 va7"],
   ["外婆", "va7 bbyu5"],
   ["落雨", "lo8 vyu6"],
   ["日晝", "neh8 zao3"],
