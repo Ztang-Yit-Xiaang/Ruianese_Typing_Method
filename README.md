@@ -65,7 +65,7 @@ This repository uses the document scheme:
 ## Finals
 
 - Simple finals: `a`, `o`, `oe`, `ae`, `e`, `eh`, `i`, `u`, `yu`
-- Compound finals: `ao`, `ai`, `eu`, `ei`, `ia`, `iao`, `iou`, `ie`, `iae`, `io`, `uai`, `uo`, `uoe`, `yo`, `yue`, `yoe`
+- Compound finals: `ao`, `ai`, `ou`, `eu`, `ei`, `ia`, `iao`, `iou`, `ie`, `iae`, `io`, `uai`, `uo`, `uoe`, `yo`, `yue`, `yoe`
 - Nasal finals: `ang`, `eng`, `ong`, `iang`, `iong`
 - Special finals: `ng`, `i` for the apical vowel, `vu` after g and k (`gvu`: 哥、歌、姑、古、過; `kvu`: 苦、科、哭 — a lip-pressed u; plain `gu` is 光、家、價)
 
@@ -118,14 +118,15 @@ Example: `boe`, `boe1`, `boe8`.
 | o | o | |
 | ɛ | eh | |
 | æ | ae | |
-| əʉ / iəʉ | eu / iou | 書、頭、收同韻 |
+| əʉ / iəʉ | ou / iou | 頭、讀、收、他 |
+| （瑞安口語） | eu | 書、度、杜、兔：與 ou 不同韻 |
 | iæ / iɔ | iae / io | |
 | uɔ / uo | uoe / uo | |
 | yɛ / yə | yue | |
 | yɔ / yo | yoe / yo | |
 | ɿ（舌尖元音） | i | |
 
-舊稿中的 `ɔ → o`、`o → oo`、`uo → uou` 已不再使用；`əʉ` 仍寫作 `eu`。
+舊稿中的 `ɔ → o`、`o → oo`、`əu → eu`、`uo → uou` 已不再使用。本分支的 `eu` 是另一個韻：書、度、杜。
 
 ### 示例
 
