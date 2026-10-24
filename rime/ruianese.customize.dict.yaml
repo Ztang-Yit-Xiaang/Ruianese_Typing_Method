@@ -40,6 +40,4 @@ use_preset_vocabulary: false
 # 眙：看（同粵語「睇」）；趞：跑
 眙	ci3	5000
 趞	ssei8	5000
-# 價：單字 go3，價格 中變調為 go6
-價格	go6 ga4	15000
 舌	ssei8	1138
