@@ -103,11 +103,11 @@ version: "1.0.0"
 東  dong1 #东的正字
 絲  si1 #丝的正字
 # 五畫
-攷  kae2
-考  kae2
-老  lae6
-共  jjyo8
-共  jyo1 #共工
+攷  ke2
+考  ke2
+老  le6
+共  jjyu8
+共  jyu1 #共工
 亞  u4
 亙  gang4 #亘的正字
 吏  lei8
@@ -130,7 +130,7 @@ version: "1.0.0"
 甫  fu2
 更  ga1
 更  ga4
-束  xyo4
+束  xyu4
 兩  la6
 兩  liae6
 麗  lei8
@@ -148,7 +148,7 @@ version: "1.0.0"
 畫  va7
 畫  vuo8
 事  zzi8
-棗  zae2
+棗  ze2
 並  beng6
 亟  ji3 ##
 亟  qi4
@@ -172,7 +172,7 @@ version: "1.0.0"
 哥  gvu1
 鬲  ga3
 鬲  lei7
-孬  nae6
+孬  ne6
 夏  hhu8
 #十畫以上
 焉  ie1  
@@ -181,7 +181,7 @@ version: "1.0.0"
 爽  su2
 甦  seu1
 棘  jie7
-奡  ngae8
+奡  nge8
 皕  bei4
 尠  sie2
 尠  xie2

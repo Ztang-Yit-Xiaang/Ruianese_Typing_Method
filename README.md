@@ -64,8 +64,25 @@ This repository uses the document scheme:
 
 ## Finals
 
-- Simple finals: `a`, `o`, `oe`, `ae`, `e`, `eh`, `i`, `u`, `yu`
-- Compound finals: `au`, `ai`, `ou`, `eu`, `ei`, `ia`, `iau`, `iou`, `ie`, `iae`, `io`, `uai`, `uo`, `uoe`, `yo`, `yue`, `yoe`
+> **daily-speech branch.** This branch spells everyday Ruianese rather than the
+> dictionaries. Differences from `main`:
+>
+> | main (dictionaries) | daily-speech | Examples |
+> |---|---|---|
+> | go, ko, hho, ho, ngo, o | gu, ku, hhu, hu, ngu, u | 光 gu1, 康 ku1, 黃 hhu5, 牙 ngu5, 亞 u3 |
+> | gu, ku | gvu, kvu | 哥 gvu1, 古 gvu2, 苦 kvu2 |
+> | eu / ou | ou / eu (swapped) | 頭 ddou5, 收 sou1 / 書 seu1, 度 ddeu7 |
+> | leu | lou | 路 lou7, 爐 lou5 |
+> | ao, iao | au, iau | 狗 gau2 |
+> | ae | e | 好 he2, 刀 de1, 老 le6 |
+> | oe | o | 方 fo1, 飯 vo7, 三 so1 |
+> | yo | yu | 王 zsyu5, 用 zsyu7 |
+>
+> Single-character readings: 他 to1, 橋 jjia5, 小 xyu2, 笑 xyu3, 叫 jyu3, 雨 vyu6.
+> The OCR pipeline keeps the dictionary spelling, since it transcribes the books.
+
+- Simple finals: `a`, `o`, `e`, `eh`, `i`, `u`, `yu`
+- Compound finals: `au`, `ai`, `ou`, `eu`, `ei`, `ia`, `iau`, `iou`, `ie`, `iae`, `io`, `uai`, `uo`, `uoe`, `yue`, `yoe`
 - Nasal finals: `ang`, `eng`, `ong`, `iang`, `iong`
 - Special finals: `ng`, `i` for the apical vowel, `vu` after g and k (`gvu`: 哥、歌、姑、古、過; `kvu`: 苦、科、哭 — a lip-pressed u; plain `gu` is 光、家、價)
 
