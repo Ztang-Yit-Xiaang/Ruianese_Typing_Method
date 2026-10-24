@@ -30,3 +30,5 @@ use_preset_vocabulary: false
 # 典：ddie6 用於組詞（恩典）
 典	ddie6	1000
 恩典	e1 ddie6	15000
+# 價：單字 geu3，價格 中變調為 geu6
+價格	geu6 ga4	15000
