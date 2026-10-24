@@ -308,7 +308,7 @@ def test_spelling_policy_mappings() -> None:
     # Finals
     assert roman_from_ipa("p", "ɔ") == ("b", "oe")
     assert roman_from_ipa("p", "ɛ") == ("b", "eh")
-    assert roman_from_ipa("p", "əʉ") == ("b", "eu")
+    assert roman_from_ipa("p", "əʉ") == ("b", "ou")
     assert roman_from_ipa("p", "uɔ") == ("b", "uoe")
     assert roman_from_ipa("p", "yɔ") == ("b", "yoe")
     
