@@ -24,3 +24,6 @@ use_preset_vocabulary: false
 # 典：ddi5 用於地名（大典下）
 典	ddi5	1000
 兩	la6	12324
+# 明：文讀 meng5，白讀 mang8（明朝）
+明	mang8	7545
+明朝	mang8 zyue1	36000
