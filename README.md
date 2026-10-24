@@ -118,7 +118,7 @@ Example: `boe`, `boe1`, `boe8`.
 | o | o | |
 | ɛ | eh | |
 | æ | ae | |
-| əʉ / iəʉ | eu / iou | 光、家、他、書同韻 |
+| əʉ / iəʉ | eu / iou | 書、頭、收同韻 |
 | iæ / iɔ | iae / io | |
 | uɔ / uo | uoe / uo | |
 | yɛ / yə | yue | |
