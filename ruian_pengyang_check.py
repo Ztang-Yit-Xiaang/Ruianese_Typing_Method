@@ -53,8 +53,8 @@ def normalize(p):
 
 def is_suspicious(p):
 
-    # v 濫用（gvu 是瑞安話 哥、姑、古 的韻母，合法）
-    if "v" in p and not p.startswith(("v", "f", "hh", "gvu")):
+    # v 濫用（gvu、kvu 是瑞安話 哥、姑、苦 的讀法，合法）
+    if "v" in p and not p.startswith(("v", "f", "hh", "gvu", "kvu")):
         return True
 
     return False
