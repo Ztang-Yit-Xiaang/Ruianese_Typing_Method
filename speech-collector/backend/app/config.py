@@ -1,4 +1,5 @@
 import os
+import secrets
 from pathlib import Path
 
 
@@ -9,7 +10,13 @@ RAW_AUDIO_DIR = STORAGE_DIR / "raw"
 WAV_AUDIO_DIR = STORAGE_DIR / "wav"
 DATABASE_PATH = DATA_DIR / "collector_app.sqlite3"
 CONSENT_VERSION = "research-consent-v1"
-ADMIN_TOKEN = os.getenv("ADMIN_TOKEN", "dev-admin-token")
+# Without ADMIN_TOKEN there is no shared default password: a random one is made
+# for this run and printed at startup, so the admin page is never open to a
+# password that is written in the public code.
+ADMIN_TOKEN = os.getenv("ADMIN_TOKEN", "").strip()
+ADMIN_TOKEN_GENERATED = not ADMIN_TOKEN
+if ADMIN_TOKEN_GENERATED:
+    ADMIN_TOKEN = secrets.token_urlsafe(12)
 CORS_ORIGINS = [
     origin.strip()
     for origin in os.getenv(
