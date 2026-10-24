@@ -80,8 +80,8 @@ version: "1.0.0"
 冇  nao6
 友  zsao6
 友  iao6
-丑  ceu2
-醜  ceu2  #醜陋
+丑  cou2
+醜  cou2  #醜陋
 牙  ngo5
 屯  dde5
 屯  zong1
@@ -94,7 +94,7 @@ version: "1.0.0"
 正  zeng1
 甘  ge1
 且  cei2
-且  zeu1
+且  zou1
 可  ko2
 可  ko4
 冊  ca3 #册的正字
@@ -154,12 +154,12 @@ version: "1.0.0"
 亟  qi4
 #八畫
 奏  zao4
-毒  deu7
+毒  dou7
 韭  jiao2
 甚  zzang8
 甚  zzang6
 巷  hho8
-柬  gu2
+柬  go2
 歪  va1
 甭  bong2
 晝  zao4
@@ -169,7 +169,7 @@ version: "1.0.0"
 秦  zzang5
 恭  gong4 ##
 彧  ve3 ##
-哥  gvu1
+哥  gu1
 鬲  ga3
 鬲  lei7
 孬  nae6
@@ -179,7 +179,7 @@ version: "1.0.0"
 堇  jiang2 
 爽  song2
 爽  su2
-甦  seu1
+甦  sou1
 棘  jie7
 奡  ngae8
 皕  bei4
@@ -188,7 +188,7 @@ version: "1.0.0"
 尟  sie2
 尟  xie2
 賴  la8
-壽  zzeu8
+壽  zzou8
 爾  zzi6
 暨  jji8
 奭  sei3
@@ -218,7 +218,7 @@ version: "1.0.0"
 内  nai8
 吊  duo4
 弔  duo4
-書  seu1
+書  sou1
 卡  ka2
 卡  ko2
 北  bei3
@@ -227,7 +227,7 @@ version: "1.0.0"
 舊  jjiao5
 歸  jyu1
 歸  gai1
-甲  gu3
+甲  go3
 申  sang1
 電  ddie8
 由  zsiao5
@@ -254,10 +254,10 @@ version: "1.0.0"
 串  qyue4
 串  cong4
 非  fei1
-果  gvu2
-菓  gvu2
+果  gu2
+菓  gu2
 暢  qiae3
-肅  seu3
+肅  sou3
 #八畫以上
 臨  leng5
 將  jie7
@@ -329,25 +329,25 @@ version: "1.0.0"
 氐  dei1
 樂  lo7  #與普通話不同，音樂的樂也是loo7
 樂  ngo7 #樂清
-処  ceu2
-處  ceu2
-䖏  ceu2
-処  ceu4
-處  ceu4
-䖏  ceu4
+処  cou2
+處  cou2
+䖏  cou2
+処  cou4
+處  cou4
+䖏  cou4
 冬  ddong5
 鼕  ddong5
 務  vyu8
 #五畫
 年  njie5
 秊  njie5
-硃  zeu1
-朱  zeu1
-丟  deu1
+硃  zou1
+朱  zou1
+丟  dou1
 喬  jjyu5
 乒  peng1
 乓  pong1
-甪  leu7
+甪  lou7
 向  xiae4
 嚮  xiae4
 曏  xiae4
@@ -359,15 +359,15 @@ version: "1.0.0"
 兆  jyu6
 汆  ce1
 危  njyu5
-各  gu3 #各種
-各  gu2 #各自
+各  go3 #各種
+各  go2 #各自
 色  sei3
 #六畫
-我  ngu5
-我  ng5
+我  ngu6
+我  ng6
 每  mei6
 兵  beng1
-兔  teu4
+兔  tou4
 囱  cong1
 希  xi1
 龜  yu1
@@ -378,7 +378,7 @@ version: "1.0.0"
 繫  zsi8
 系  zsi8
 #七畫
-垂  zeu5
+垂  zou5
 乖  ga1
 秉  bong2
 臾  vyu5
