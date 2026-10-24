@@ -37,8 +37,8 @@ version: "1.0.0"
 上  zsiae8
 才  zei5
 纔  zzei6 #副詞才的正字
-下  hho6
-下  hho8
+下  hhu6
+下  hhu8
 丈  jjia6
 丈  zzia6
 兀  nge7
@@ -77,9 +77,9 @@ version: "1.0.0"
 卅  lo7
 不  ba3
 不  de2
-冇  nao6
-友  zsao6
-友  iao6
+冇  nau6
+友  zsau6
+友  iau6
 丑  cou2
 醜  cou2  #醜陋
 牙  ngo5
@@ -95,8 +95,8 @@ version: "1.0.0"
 甘  ge1
 且  cei2
 且  zeu1
-可  ko2
-可  ko4
+可  ku2
+可  ku4
 冊  ca3 #册的正字
 丙  beng2
 平  beng5
@@ -114,8 +114,8 @@ version: "1.0.0"
 再  zei4 ##
 在  zzei6 ##
 百  ba3
-有  iao6
-有  iao8  #吾十有五
+有  iau6
+有  iau8  #吾十有五
 而  zzi5
 死  si2
 夷  zsi2
@@ -126,7 +126,7 @@ version: "1.0.0"
 # 六畫
 嚴  nji5 #严的正字
 巫  vyu5
-求  jjiao5
+求  jjiau5
 甫  fu2
 更  ga1
 更  ga4
@@ -153,16 +153,16 @@ version: "1.0.0"
 亟  ji3 ##
 亟  qi4
 #八畫
-奏  zao4
+奏  zau4
 毒  dou7
-韭  jiao2
+韭  jiau2
 甚  zzang8
 甚  zzang6
-巷  hho8
+巷  hhu8
 柬  gu2
 歪  va1
 甭  bong2
-晝  zao4
+晝  zau4
 #九畫
 艷  zsie8 #艳的正字
 泰  ta4
@@ -173,7 +173,7 @@ version: "1.0.0"
 鬲  ga3
 鬲  lei7
 孬  nae6
-夏  hho8
+夏  hhu8
 #十畫以上
 焉  ie1  
 堇  jiang2 
@@ -195,7 +195,7 @@ version: "1.0.0"
 賾  zza7
 鼒  zi1
 鼒  zze5
-憂  iao1
+憂  iau1
 黇  tiae1
 黇  zie1
 黇  jie1
@@ -220,17 +220,17 @@ version: "1.0.0"
 弔  duo4
 書  seu1
 卡  ka2
-卡  ko2
+卡  ku2
 北  bei3
 凸  dde7
-舊  jjiao8
-舊  jjiao5
+舊  jjiau8
+舊  jjiau5
 歸  jyu1
 歸  gai1
 甲  gu3
 申  sang1
 電  ddie8
-由  zsiao5
+由  zsiau5
 冉  zsie6
 冉  zzie6
 央  iae1
@@ -264,7 +264,7 @@ version: "1.0.0"
 將  jiae1
 將  jiae4
 禺  njyu5
-幽  iao1
+幽  iau1
 畢  bei3
 鼎  deng2
 嘦  jyue4
@@ -274,7 +274,7 @@ version: "1.0.0"
 #一至兩畫
 入  zza7
 乂  nji8
-九  jiao2
+九  jiau2
 匕  bei2
 乃  na6
 迺  na6
@@ -290,7 +290,7 @@ version: "1.0.0"
 麽  mo5
 麼  mo5
 庅  mo5
-久  jiao2
+久  jiau2
 丸  zsyu5
 及  jjia7
 #三畫
@@ -305,7 +305,7 @@ version: "1.0.0"
 殀  yu2 #殀折，同夭折
 幣  bbei8
 反  fo2
-爻  hho5
+爻  hhu5
 乏  vo7
 氏  zzi5 #氏族
 氏  zei1 #月氏
@@ -316,8 +316,8 @@ version: "1.0.0"
 玍  ga2
 失  sa3
 乍  zzo8
-丘  qiao1
-坵  qiao1
+丘  qiau1
+坵  qiau1
 卮  zei1
 巵  zei1
 乎  vu5
@@ -353,8 +353,8 @@ version: "1.0.0"
 曏  xiae4
 囟  sang4
 顖  sang4
-後  hhao6
-后  hhao6
+後  hhau6
+后  hhau6
 殺  so3
 兆  jyu6
 汆  ce1
@@ -372,7 +372,7 @@ version: "1.0.0"
 希  xi1
 龜  yu1
 龜  jiang1
-龜  jiao1
+龜  jiau1
 卵  lang6
 係  ji4
 繫  zsi8
@@ -383,7 +383,7 @@ version: "1.0.0"
 秉  bong2
 臾  vyu5
 卑  bai1
-阜  vao6
+阜  vau6
 質  za3
-肴  hho5
-餚  hho5
+肴  hhu5
+餚  hhu5
