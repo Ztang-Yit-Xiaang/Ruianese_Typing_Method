@@ -1,4 +1,5 @@
 import json
+import logging
 import shutil
 import uuid
 from pathlib import Path
@@ -9,7 +10,7 @@ from fastapi.responses import Response
 
 from .audio import convert_to_training_wav
 from .admin import require_admin
-from .config import CONSENT_VERSION, CORS_ORIGINS, RAW_AUDIO_DIR, WAV_AUDIO_DIR
+from .config import ADMIN_TOKEN, ADMIN_TOKEN_GENERATED, CONSENT_VERSION, CORS_ORIGINS, RAW_AUDIO_DIR, WAV_AUDIO_DIR
 from .db import get_conn, init_db, row_to_dict
 from .invitations import generate_invitation_code, invitation_is_usable
 from .manifest import manifest_rows, render_csv, render_jsonl
@@ -30,6 +31,12 @@ app.add_middleware(
 @app.on_event("startup")
 def startup() -> None:
     init_db()
+    if ADMIN_TOKEN_GENERATED:
+        logging.getLogger("uvicorn.error").warning(
+            "ADMIN_TOKEN is not set. This run's admin password (管理密碼) is: %s  "
+            "It changes on every restart; set ADMIN_TOKEN to choose your own.",
+            ADMIN_TOKEN,
+        )
 
 
 @app.get("/api/health")
