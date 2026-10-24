@@ -29,8 +29,8 @@ const practiceTasks: Task[] = [
   ["講話", "gu2 va7"],
   ["外婆", "va7 bbyu5"],
   ["落雨", "lo8 vyu6"],
-  ["日晝", "neh8 zao3"],
-  ["黃昏", "hho5 xyue1"]
+  ["日晝", "neh8 zau3"],
+  ["黃昏", "hhu5 xyue1"]
 ].map(([text, romanization], index) => ({
   id: `practice-${index}`,
   dialect: "ruian",

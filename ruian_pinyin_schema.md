@@ -63,12 +63,12 @@
 
 | IPA / 來源 | 輸入碼 |
 |---|---|
-| au | ao |
+| au | au |
 | ai | ai |
 | əʉ / ou | ou |
 | ei | ei |
 | ia | ia |
-| iau | iao |
+| iau | iau |
 | iəʉ / iou | iou |
 | ie | ie |
 | iæ | iae |
