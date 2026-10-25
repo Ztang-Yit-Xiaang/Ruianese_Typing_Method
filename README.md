@@ -88,7 +88,7 @@ This repository uses the document scheme:
 > | eh | ee | 開 kee1, 菜 cee3, 黑 hee4, 色 see4 (also sei4) |
 > | i, ia, iau, ie, iang… (no initial) | yi, ya, yau, ye, yang… | 衣 yi1, 一 ya4, 優 yau1, 央 yeh1, 因 yang1; pairs like 優 yau1 / 有 yau6 differ only by tone |
 >
-> Single-character readings: 他 to1, 橋 jjia5, 轎 jjia7, 小 xyu2, 笑 xyu3, 叫 jyu3, 雨 vyu6, 鳥 nio2, 跳 tuo3, 要 yu (文) / yi3 (白), 人 ssang5 (文) / nang5 (白), 心 sang1, 姐 姊 za1 (白) / 姐 zei2, 姊 zi2 (文), 綠 lu8, 肉 njiou8, 囡 nang5, 兒 ng5, 媽 ma6, 兩 la6 (lieh6 is the Wenzhou city reading, kept only in the Wenzhou word list), 廿 njieh8, 來 lei5 / lei2, 跑 po2, 河 vu5, 船 yu5, 熱 nji8, 大 ddou7 (白) / dda7 (文).
+> Single-character readings: 他 to1, 橋 jjia5, 轎 jjia7, 小 xyu2, 笑 xyu3, 叫 jyu3, 雨 vyu6, 鳥 nio2, 跳 tuo3, 要 yu (文) / yi3 (白), 人 ssang5 (文) / nang5 (白), 心 sang1, 姐 姊 za1 (白) / 姐 zei2, 姊 zi2 (文), 綠 lu8, 肉 njiou8, 囡 nang5, 兒 ng5, 媽 ma6, 兩 la6 (lieh6 is the Wenzhou city reading), 廿 njieh8, 來 lei5 / lei2, 跑 po2, 河 vu5, 船 yu5, 熱 nji8, 大 ddou7 (白) / dda7 (文).
 > The OCR pipeline keeps the dictionary spelling, since it transcribes the books.
 
 - Simple finals: `a`, `o`, `e`, `eh`, `i`, `u`, `yu`
