@@ -1470,7 +1470,7 @@ use_preset_vocabulary: false
 頭頸下	ddou5 jiang2 hhu6	30000
 頭髮	ddou5 fo4	44550
 額頭	nga8 ddou5	32082
-顏色	ngo5 see4	65144
+顏色	ngo5 sei4	65144
 風屑	fong1 xi4	30000
 骨	gyu4	3457
 高矮	geh1 a2	30573
@@ -2655,9 +2655,9 @@ use_preset_vocabulary: false
 
 # W方位
 上轉	ssieh6 jyu2	30000
-上面	ssieh6 mi7	80000
+上面	ssieh6 mai7	80000
 下轉	hhu6 jyu2	30000
-下面	hhu6 mi7	80000
+下面	hhu6 mai7	80000
 中央	zong1 yeh1	39468
 倒走轉	deh2 zau2 jyu2	30000
 倒退轉	deh2 tai3 jyu2	30000
@@ -2668,14 +2668,14 @@ use_preset_vocabulary: false
 地下	ddei7 hhu6	35497
 地底	ddei7 dei2	30637
 射底	ssei7 dei2	30000
-對面	dai3 mi7	47524
-左手面	zou2 sou2 mi7	30000
+對面	dai3 mai7	47524
+左手面	zou2 sou2 mai7	30000
 底角	dei2 gu4	30519
 底轉	dei2 jyu2	30000
-底面	dei2 mi7	30574
+底面	dei2 mai7	30574
 後半	hhau6 be3	30839
 後結煞	hhau6 ji4 so3	30000
-後面	hhau6 mi7	80000
+後面	hhau6 mai7	80000
 心裏	sang1 lei6	54099
 拉塌	lo8 to4	30000
 拉結塌	lo8 ji4 to4	30000
@@ -2707,7 +2707,7 @@ use_preset_vocabulary: false
 門口頭	mang5 kau2 ddou5	30000
 開頭	kee1 ddou5	45068
 隔壁	ga4 bei4	36928
-順手面	ssong7 sou2 mi7	30000
+順手面	ssong7 sou2 mai7	30000
 
 # X指代
 你	nji6	50300
@@ -2723,7 +2723,7 @@ use_preset_vocabulary: false
 哩	lei5	2800
 單獨自	do1 ddou8 ssi7	30000
 旁耽	bbuo5 dee1	30000
-旁面	bbuo5 mi7	30000
+旁面	bbuo5 mai7	30000
 每個	mai6 gai3	80000
 自	ssi7	15617
 訾那	zi2 na7	30000
@@ -3456,11 +3456,11 @@ use_preset_vocabulary: false
 以前	yi6 ssi5	61578
 以後	yi6 hhau6	65000
 兩對門	la6 dai3 mang5	15000
-兩對面	la6 dai3 mi7	15000
-北面	bee4 mi7	16023
+兩對面	la6 dai3 mai7	15000
+北面	bee4 mai7	16023
 南城下	nee5 sseng5 hhu6	15000
 南門	nee5 mang5	16148
-南面	nee5 mi7	15948
+南面	nee5 mai7	15948
 噹噹中中	do3 do3 zong1 zong1	15000
 大南門	dda7 nee5 mang5	15000
 天上	ti1 ssieh6	17733
@@ -3479,7 +3479,7 @@ use_preset_vocabulary: false
 朝南	jyu1 nee5	15800
 東城下	dong1 sseng5 hhu6	15000
 東門	dong1 mang5	16300
-東面	dong1 mi7	15872
+東面	dong1 mai7	15872
 極地	jji8 ddei7	15896
 橫棚	va5 bba5	15000
 盡上轉	ssang6 ssieh6 jyu2	15000
@@ -3488,7 +3488,7 @@ use_preset_vocabulary: false
 街路上	ga1 lou7 ssieh6	15000
 西城下	sei1 sseng5 hhu6	15000
 西郭	sei1 gu4	15000
-西面	sei1 mi7	15853
+西面	sei1 mai7	15853
 許能界以後	xyu2 nang5 ga3 yi6 hhau6	15000
 路邊廂	lou7 bi1 xieh1	15000
 車底轉	co1 dei2 jyu2	15000
@@ -3790,8 +3790,8 @@ use_preset_vocabulary: false
 # 分類詞匯·二十、方向、位置
 上爿	ssieh6 bbo5	20000
 下爿	hhu6 bbo5	20000
-右面	yau6 mi7	20737
-左面	zou2 mi7	20823
+右面	yau6 mai7	20737
+左面	zou2 mai7	20823
 西廓	sei1 ku4	20000
 
 # 分類詞匯·五、蟲魚、鳥獸
@@ -4656,7 +4656,7 @@ use_preset_vocabulary: false
 龍風	luo5 fong1	15000
 
 # 婚姻生育
-上間面	ssieh6 go1 mi7	15000
+上間面	ssieh6 go1 mai7	15000
 上頭	ssieh6 ddou5	17572
 上頭禮	ssieh6 ddou5 lei6	15000
 上頭麻餈	ssieh6 ddou5 mo5 ssi5	15000
@@ -4761,8 +4761,8 @@ use_preset_vocabulary: false
 開喉奶	kee1 hhau5 na6	15000
 開生	kee1 sa1	15000
 開額	kee1 nga8	15000
-間前面	go1 ssi5 mi7	15000
-間底面	go1 dei2 mi7	15000
+間前面	go1 ssi5 mai7	15000
+間底面	go1 dei2 mai7	15000
 雙生姆	xyu1 sa1 mu6	15000
 
 # 學校
@@ -7090,7 +7090,7 @@ use_preset_vocabulary: false
 # 特殊語法詞·三、方位代詞
 旁頭	bbuo5 ddou5	20000
 該柢	gee1 dei2	20000
-該面	gee1 mi7	20380
+該面	gee1 mai7	20380
 該頭	gee1 ddou5	20000
 
 # 特殊語法詞·九、✕子
@@ -7137,8 +7137,8 @@ use_preset_vocabulary: false
 
 # 特殊語法詞·五、✕頭
 上橫	ssieh6 va5	20000
-上面頭	ssieh6 mi7 ddou5	20000
-下面頭	hhu6 mi7 ddou5	20000
+上面頭	ssieh6 mai7 ddou5	20000
+下面頭	hhu6 mai7 ddou5	20000
 下頭	hhu6 ddou5	20706
 來頭	lei5 ddou5	20783
 光溜頭	gu1 lou1 ddou5	20000
@@ -10255,7 +10255,7 @@ use_preset_vocabulary: false
 反轉	ba2 jyu2	20153
 外角	va7 gu4	15464
 外轉	va7 jyu2	15494
-外面	va7 mi7	27110
+外面	va7 mai7	27110
 拉塌臀兒	lo8 to4 dde5 ng5	15000
 車外	co1 va7	15750
 
@@ -10271,7 +10271,7 @@ use_preset_vocabulary: false
 居厘	gei4 lei5	15000
 居能	gei4 nang5	15000
 居裏	gei4 lei6	15000
-居面	gei4 mi7	15000
+居面	gei4 mai7	15000
 幾倈	gi2 lei5	15000
 幾個	gi2 gai3	65000
 幾厘兒	gi2 lei5 ng	15000
@@ -10295,7 +10295,7 @@ use_preset_vocabulary: false
 許個	hei2 gai3	15050
 許柢	hee2 dei2	15000
 許能	hei2 nang5	15000
-許面	hei2 mi7	15000
+許面	hei2 mai7	15000
 誰人	sseu5 nang5	15659
 
 # Y数量
@@ -10598,13 +10598,13 @@ use_preset_vocabulary: false
 以外	yi6 va7	24500
 南門外	nee5 mang5 va7	7500
 小南門外	xyu2 nee5 mang5 va7	7500
-屏牆外面	beng2 ssieh5 va7 mi7	7500
+屏牆外面	beng2 ssieh5 va7 mai7	7500
 望外轉走	vo7 va7 jyu2 zau2	7500
 東門外	dong1 mang5 va7	7537
 缸臀	guo1 dde5	7500
 西郭外	sei1 gu4 va7	7500
-車外面	co1 va7 mi7	7500
-門外面	mang5 va7 mi7	7500
+車外面	co1 va7 mai7	7500
+門外面	mang5 va7 mai7	7500
 雙門外	xyu1 mang5 va7	7500
 
 # 住
