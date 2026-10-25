@@ -53,3 +53,5 @@ use_preset_vocabulary: false
 來	lei2	20000
 # 面：方位詞讀 mai7（上面、後面、外面）
 面	mai7	2000
+# 一：一般讀 yi8（一個、一下），數數、念號碼讀 ya4（一二三、第一、110 ya ya leng）
+一	yi8	120000
