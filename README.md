@@ -78,9 +78,12 @@ This repository uses the document scheme:
 > | oe | o | 方 fo1, 飯 vo7, 三 so1 |
 > | yo | yu | 王 zsyu5, 用 zsyu7 |
 > | uoe | uo | 料 luo7, 條 dduo5 |
+> | ie | i | 天 ti1, 錢 jji5, 年 nji5 |
+> | iae | ie | 張 jie1, 香 xie1, 兩 lie6 |
+> | z, c, zz, s before i+vowel or y | j, q, jj, x | 張 jie1, 雪 xyu4, 照 jyu3 (plain zi/ci/si keep z/c/s) |
 > | yue | yu | 月 njyu8, 雪 syu4, 燒 syu1, 照 zyu3, 要 yu1 |
 >
-> Single-character readings: 他 to1, 橋 jjia5, 轎 jjia7, 小 xyu2, 笑 xyu3, 叫 jyu3, 雨 vyu6, 鳥 nio2, 跳 tuo3, 要 yu (文) / i3 (白).
+> Single-character readings: 他 to1, 橋 jjia5, 轎 jjia7, 小 xyu2, 笑 xyu3, 叫 jyu3, 雨 vyu6, 鳥 nio2, 跳 tuo3, 要 yu (文) / i3 (白), 人 ssang5 (文) / nang5 (白), 心 sang1.
 > The OCR pipeline keeps the dictionary spelling, since it transcribes the books.
 
 - Simple finals: `a`, `o`, `e`, `eh`, `i`, `u`, `yu`
