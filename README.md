@@ -77,12 +77,13 @@ This repository uses the document scheme:
 > | ae | e | 好 he2, 刀 de1, 老 le6 |
 > | oe | o | 方 fo1, 飯 vo7, 三 so1 |
 > | yo | yu | 王 zsyu5, 用 zsyu7 |
+> | yue | yu | 月 njyu8, 雪 syu4, 燒 syu1, 照 zyu3, 要 yu1 |
 >
-> Single-character readings: 他 to1, 橋 jjia5, 小 xyu2, 笑 xyu3, 叫 jyu3, 雨 vyu6.
+> Single-character readings: 他 to1, 橋 jjia5, 轎 jjia7, 小 xyu2, 笑 xyu3, 叫 jyu3, 雨 vyu6, 料 luo7, 鳥 nio2.
 > The OCR pipeline keeps the dictionary spelling, since it transcribes the books.
 
 - Simple finals: `a`, `o`, `e`, `eh`, `i`, `u`, `yu`
-- Compound finals: `au`, `ai`, `ou`, `eu`, `ei`, `ia`, `iau`, `iou`, `ie`, `iae`, `io`, `uai`, `uo`, `uoe`, `yue`, `yoe`
+- Compound finals: `au`, `ai`, `ou`, `eu`, `ei`, `ia`, `iau`, `iou`, `ie`, `iae`, `io`, `uai`, `uo`, `uoe`, `yoe`
 - Nasal finals: `ang`, `eng`, `ong`, `iang`, `iong`
 - Special finals: `ng`, `i` for the apical vowel, `vu` after g and k (`gvu`: 哥、歌、姑、古、過; `kvu`: 苦、科、哭 — a lip-pressed u; plain `gu` is 光、家、價)
 

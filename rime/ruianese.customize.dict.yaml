@@ -16,7 +16,7 @@ use_preset_vocabulary: false
 ...
 將	jie7
 歪	va1
-出	qyue4
+出	qyu4
 廿	njie8
 # 日：文讀 ssa8（見張永愷、陳海芳字典），白讀 nji8
 日	nji8	49737
@@ -26,7 +26,7 @@ use_preset_vocabulary: false
 兩	la6	12324
 # 明：文讀 meng5，白讀 mang8（明朝）
 明	mang8	7545
-明朝	mang8 zyue1	36000
+明朝	mang8 zyu1	36000
 # 典：ddie6 用於組詞（恩典）
 典	ddie6	1000
 恩典	e1 ddie6	15000

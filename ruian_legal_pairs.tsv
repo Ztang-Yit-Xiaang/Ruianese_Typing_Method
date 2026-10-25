@@ -26,7 +26,7 @@
 Ø	uo	p437-p439
 Ø	uoe	p437-p439
 Ø	yu	p437-p439
-Ø	yue	p437-p439
+Ø	yu	p437-p439
 Ø	yoe	p437-p439
 Ø	ang	p437-p439
 Ø	eng	p437-p439
@@ -242,7 +242,7 @@ n	io	p437-p439
 n	uo	p437-p439
 n	uoe	p437-p439
 n	yu	p437-p439
-n	yue	p437-p439
+n	yu	p437-p439
 n	ang	p437-p439
 n	eng	p437-p439
 n	ong	p437-p439
@@ -270,7 +270,7 @@ l	io	p437-p439
 l	uo	p437-p439
 l	uoe	p437-p439
 l	yu	p437-p439
-l	yue	p437-p439
+l	yu	p437-p439
 l	ang	p437-p439
 l	eng	p437-p439
 l	ong	p437-p439
@@ -382,7 +382,7 @@ h	uai	p437-p439
 h	uo	p437-p439
 h	uoe	p437-p439
 h	yu	p437-p439
-h	yue	p437-p439
+h	yu	p437-p439
 h	yoe	p437-p439
 h	ang	p437-p439
 h	eng	p437-p439
@@ -412,7 +412,7 @@ hh	uai	p437-p439
 hh	uo	p437-p439
 hh	uoe	p437-p439
 hh	yu	p437-p439
-hh	yue	p437-p439
+hh	yu	p437-p439
 hh	yoe	p437-p439
 hh	ang	p437-p439
 hh	eng	p437-p439
@@ -428,7 +428,7 @@ j	ie	p437-p439
 j	iae	p437-p439
 j	io	p437-p439
 j	yu	p437-p439
-j	yue	p437-p439
+j	yu	p437-p439
 j	yoe	p437-p439
 j	iang	p437-p439
 j	iong	p437-p439
@@ -441,7 +441,7 @@ q	ie	p437-p439
 q	iae	p437-p439
 q	io	p437-p439
 q	yu	p437-p439
-q	yue	p437-p439
+q	yu	p437-p439
 q	yoe	p437-p439
 q	iang	p437-p439
 q	iong	p437-p439
@@ -454,7 +454,7 @@ jj	ie	p437-p439
 jj	iae	p437-p439
 jj	io	p437-p439
 jj	yu	p437-p439
-jj	yue	p437-p439
+jj	yu	p437-p439
 jj	yoe	p437-p439
 jj	iang	p437-p439
 jj	iong	p437-p439
@@ -467,7 +467,7 @@ nj	ie	p437-p439
 nj	iae	p437-p439
 nj	io	p437-p439
 nj	yu	p437-p439
-nj	yue	p437-p439
+nj	yu	p437-p439
 nj	yoe	p437-p439
 nj	iang	p437-p439
 nj	iong	p437-p439
@@ -480,7 +480,7 @@ x	ie	p437-p439
 x	iae	p437-p439
 x	io	p437-p439
 x	yu	p437-p439
-x	yue	p437-p439
+x	yu	p437-p439
 x	yoe	p437-p439
 x	iang	p437-p439
 x	iong	p437-p439
@@ -571,13 +571,13 @@ zs	ia	p437-p439
 zs	iau	p437-p439
 zs	iou	p437-p439
 zs	ie	p437-p439
-zs	yue	human_review_pilot_080_099
+zs	yu	human_review_pilot_080_099
 zs	iang	human_review_batch_100_139
 zs	ang	p437-p439
 zs	eng	p437-p439
 zs	ong	p437-p439
 v	yu	human_review_batch_100_139
-k	yue	human_review_batch_100_139
+k	yu	human_review_batch_100_139
 d	eh	human_review_batch_100_139
 t	eh	human_review_batch_100_139
 ss	ei	human_review_batch_100_139
