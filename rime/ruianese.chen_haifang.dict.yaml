@@ -174,12 +174,12 @@ use_preset_vocabulary: false
 變	bi3	9922
 遍	bi3	2816
 筆	bi4	2887
-幫	bo1	21726
+幫	bu1	21726
 巴	bo1	2811
 芭	bo1	651
 疤	bo1	648
 玻	bo1	597
-把	bo2	116356
+把	bu2	116356
 榜	bo2	2319
 綁	bo2	1247
 霸	bo3	1101
@@ -2006,7 +2006,7 @@ use_preset_vocabulary: false
 財	ssee5	1922
 材	ssee5	1239
 裁	ssee5	885
-在	ssee6	681954
+在	ssi6	681954
 賊	ssee8	3350
 雜	ssee8	2334
 徐	ssei5	4251
@@ -2230,7 +2230,6 @@ use_preset_vocabulary: false
 份	vang7	5115
 微	vei5	2683
 肥	vei5	2530
-還	vo5	200349
 房	vo5	5844
 煩	vo5	5398
 忘	vo5	3984
