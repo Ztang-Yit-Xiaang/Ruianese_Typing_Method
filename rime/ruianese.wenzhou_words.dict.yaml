@@ -192,7 +192,7 @@ use_preset_vocabulary: false
 三更半夜	so1 ga1 be3 yi7	30563
 上半夜	yeh6 be3 yi7	30480
 下半夜	hhu6 be3 yi7	30531
-不近	ba4 jjiang6	30618
+不近	fu2 jjiang6	30618
 久後	jiau2 hhau6	30000
 九月九	jiau2 njyu8 jiau2	30013
 以早	yi6 zeh2	30000
@@ -1745,8 +1745,8 @@ use_preset_vocabulary: false
 弄鬆	long7 song1	30373
 張	jieh1	28650
 待客	ddee6 ka4	30615
-得罪	dee4 ssai6	31925
-得賄	dee4 fai2	30000
+得罪	dei4 ssai6	31925
+得賄	dei4 fai2	30000
 慢慢走	mo7 mo7 zau2	30256
 應嘴	yang1 zeu2	30000
 應酬	yang1 zzou5	31284
@@ -2293,7 +2293,7 @@ use_preset_vocabulary: false
 旋	ssyu5	1879
 是	ssi6	50300
 晾	lieh5	1378
-曉得	xio2 dee4	37740
+曉得	xio2 dei4	37740
 曬	sa3	4282
 會	vai7	50300
 有	yau6	50300
@@ -2387,7 +2387,7 @@ use_preset_vocabulary: false
 # U形容性状
 一色	ya4 see4	30893
 乾脆	ge1 cai3	38386
-了得	luo6 dee4	30811
+了得	luo6 dei4	30811
 了滯	luo6 zzei7	30000
 便當	bbi7 do3	30915
 倒霉	deh2 mee5	32618
@@ -2593,7 +2593,7 @@ use_preset_vocabulary: false
 妝緊	zo1 jiang2	30000
 對	dai3	50300
 岔見岔	co3 ji3 co3	30000
-得	dee4	50300
+得	dei4	50300
 應當	yang1 do3	43056
 懵妝	mong6 zo1	30000
 懵講	mong6 gu2	30000
@@ -2622,7 +2622,7 @@ use_preset_vocabulary: false
 甚	ssang7	3269
 用	yu7	50300
 白實	bba8 ssa8	30000
-白得	bba8 dee4	30565
+白得	bba8 dei4	30565
 白白	bba8 bba8	32084
 的確	dei4 ku4	52000
 直頭	zzei8 ddou5	30000
@@ -2997,7 +2997,7 @@ use_preset_vocabulary: false
 臀翹起	dde5 qyu3 qi2	15000
 臨老	leng5 leh6	15019
 落令	lo8 leng7	15000
-落得	lo8 dee4	15897
+落得	lo8 dei4	15897
 落間	lo8 go1	15000
 著色	zeu3 see4	15000
 蕩駘	ddo7 ddee5	15000
@@ -6587,8 +6587,8 @@ use_preset_vocabulary: false
 半中大	be3 zong1 dda7	20000
 半當中	be3 do3 zong1	20000
 另淨	leng7 sseng7	20000
-吃得落	qi4 dee4 lo8	20000
-吃得開	qi4 dee4 kee1	20000
+吃得落	qi4 dei4 lo8	20000
+吃得開	qi4 dei4 kee1	20000
 各別	gu4 bbi8	20502
 哽喉嚨	ga2 hhau5 long5	20000
 單單	do1 do1	22955
@@ -6596,7 +6596,7 @@ use_preset_vocabulary: false
 囉嗉	lou5 sou3	20000
 大支小	dda7 zei1 xyu2	20000
 奐堆	xyu3 dai1	20000
-好得	heh2 dee4	20909
+好得	heh2 dei4	20909
 定心丸	ddeng7 sang1 yu5	20578
 實嶄	ssa8 sso6	20000
 岔見生岔	co3 ji3 sa1 co3	20000
@@ -6607,7 +6607,7 @@ use_preset_vocabulary: false
 懷悶	va5 mang1	20000
 拖油瓶	tou3 yau5 bbeng5	20496
 拖鼻涕	tou3 bbei7 tei3	20000
-捨得	sei2 dee4	22075
+捨得	sei2 dei4	22075
 推扳	tai1 bo1	20000
 搭界	dee4 ga3	20512
 散麻花	so3 mo5 huo1	20000
@@ -6722,7 +6722,7 @@ use_preset_vocabulary: false
 搗指頭槍	deh2 zi2 ddou5 qieh1	20000
 擺擺樣子	ba2 ba2 yeh7 zi2	20000
 文長言多	vang5 jjieh5 nji5 dou1	20000
-曉得頭腦	xio2 dee4 ddou5 neh6	20000
+曉得頭腦	xio2 dei4 ddou5 neh6	20000
 東借西借	dong1 zei3 sei1 zei3	20000
 歪擺誤布	ua1 ba2 ngu7 byu3	20000
 毛管劙刺	meh5 gyu2 lei5 ci3	20000
@@ -6814,7 +6814,7 @@ use_preset_vocabulary: false
 撣新	do2 sang1	20000
 擱闥	gu1 to4	20000
 服侍	vu8 ssi7	20848
-樂得	lo8 dee4	20869
+樂得	lo8 dei4	20869
 樂惠	lo8 vyu7	20000
 歇腳	xi4 jio4	20559
 滴涿	dei4 jyu4	20000
@@ -10164,7 +10164,7 @@ use_preset_vocabulary: false
 
 # T动作感觉
 不啻	fu2 sei3	15565
-不捨得	fu2 sei2 dee4	15811
+不捨得	fu2 sei2 dei4	15811
 不興	fu2 xiang1	15556
 不識	fu sei4	15982
 估	kvu1	1422
@@ -10176,8 +10176,8 @@ use_preset_vocabulary: false
 吃不落	qi4 fu lo8	15000
 嗅	hu3	1274
 囥	kuo3	742
-巴不得	buo1 vu dee4	15862
-得人憎	dee4 nang5 zang1	15000
+巴不得	buo1 vu dei4	15862
+得人憎	dei4 nang5 zang1	15000
 徛	ggee6	618
 手伸出	sou2 qo1 qyu4	15000
 手舉起	sou2 bai1 qi2	15000
@@ -10207,7 +10207,7 @@ use_preset_vocabulary: false
 
 # U形容性状
 不孬	fu2 meh5	15000
-了不得	luo6 fu2 dee4	15613
+了不得	luo6 fu2 dei4	15613
 唔坯	ng5 pai1	15000
 孬	meh5	1069
 熱	nji8	13531
@@ -10217,7 +10217,7 @@ use_preset_vocabulary: false
 軟場	njyu6 jjieh6	15000
 難睇	no5 ci3	15000
 韌	njang7	1179
-驚得人憎	jiang1 dee4 nang5 zang1	15000
+驚得人憎	jiang1 dei4 nang5 zang1	15000
 體格孬	tei2 ga4 meh5	15000
 鬧熱	no7 nji8	15463
 
@@ -10225,7 +10225,7 @@ use_preset_vocabulary: false
 不	fu2	50300
 不嘛	fu2 mo5	15000
 不好	fu2 heh2	65000
-不得	fu2 dee4	25671
+不得	fu2 dei4	25671
 不是	fu2 ssi6	65000
 不會	fu2 vai7	65000
 不用	fu2 yu7	60534
@@ -10356,7 +10356,7 @@ use_preset_vocabulary: false
 # 一般動作
 不歇	fu2 xi4	7500
 不行	fu2 hha5	32005
-吃不得	qi4 fu2 dee4	7500
+吃不得	qi4 fu2 dei4	7500
 喢蠣灰	qyu lei7 fai1	7500
 囥水里摷	kuo gguo lei6 ssang	7500
 學不着	hhu8 fu2 jjio8	7500
@@ -11587,9 +11587,9 @@ use_preset_vocabulary: false
 老實伉你不客氣	leh6 ssa8 ku3 nji6 fu2 ka4 qi3	10000
 
 # 特徵詞·第九節 九字詞
-一干賒及不得八百現	ya4 ge1 sei1 jjia8 fu2 dee4 bo4 ba4 yi7	10000
-不步水曉不得河深淺	fu2 bbyu7 seu2 xio2 fu2 dee4 vu5 sang1 qi2	10000
-不當家曉不得柴米貴	fu2 do3 gu1 xio2 fu2 dee4 ssa5 mei6 jyu3	10000
+一干賒及不得八百現	ya4 ge1 sei1 jjia8 fu2 dei4 bo4 ba4 yi7	10000
+不步水曉不得河深淺	fu2 bbyu7 seu2 xio2 fu2 dei4 vu5 sang1 qi2	10000
+不當家曉不得柴米貴	fu2 do3 gu1 xio2 fu2 dei4 ssa5 mei6 jyu3	10000
 眼靈珠瞪起荸薺白恁	ngo6 leng5 zeu1 tang3 qi2 bbe8 ssei6 bba8 ssang7	10000
 
 # 特徵詞·第五節 五字詞
