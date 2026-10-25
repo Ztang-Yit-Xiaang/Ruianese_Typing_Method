@@ -33,8 +33,8 @@ version: "1.0.0"
 幹  ge4  #軀幹，幹嘛
 榦  ge4  #幹之異體字
 于  yu1
-上  ye6
-上  ye8
+上  yeh6
+上  yeh8
 才  zei5
 纔  zzei6 #副詞才的正字
 下  hhu6
@@ -132,7 +132,7 @@ version: "1.0.0"
 更  ga4
 束  xyu4
 兩  la6
-兩  lie6
+兩  lieh6
 麗  lei8
 麗  lei5
 來  lei5 ##
@@ -141,9 +141,9 @@ version: "1.0.0"
 武  vu6
 錶  bi2 ##
 表  bi2
-忝  tie2
-長  jie2
-長  jjie5
+忝  tieh2
+長  jieh2
+長  jjieh5
 其  jji5
 畫  va7
 畫  vuo8
@@ -196,7 +196,7 @@ version: "1.0.0"
 鼒  zi1
 鼒  zze5
 憂  yau1
-黇  tie1
+黇  tieh1
 黇  ji1
 黇  ji1
 整  zeng2
@@ -233,7 +233,7 @@ version: "1.0.0"
 由  yau5
 冉  yi6
 冉  jji6
-央  ye1
+央  yeh1
 史  si2
 半  be4
 凹  u1
@@ -256,13 +256,13 @@ version: "1.0.0"
 非  fei1
 果  gvu2
 菓  gvu2
-暢  qie3
+暢  qieh3
 肅  sou3
 #八畫以上
 臨  leng5
 將  jie7
-將  jie1
-將  jie4
+將  jieh1
+將  jieh4
 禺  njyu5
 幽  yau1
 畢  bei3
@@ -348,9 +348,9 @@ version: "1.0.0"
 乒  peng1
 乓  pong1
 甪  lou7
-向  xie4
-嚮  xie4
-曏  xie4
+向  xieh4
+嚮  xieh4
+曏  xieh4
 囟  sang4
 顖  sang4
 後  hhau6
