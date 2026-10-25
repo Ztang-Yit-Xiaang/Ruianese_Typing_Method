@@ -37,8 +37,8 @@ use_preset_vocabulary: false
 腱	jji7	427
 蠍	xi4	589
 歙	xi4	387
-睫	zsi8	464
-擷	zsi8	417
+睫	yi8	464
+擷	yi8	417
 埭	ddeh7	444
 嗇	seh4	411
 餎	leh8	325
@@ -94,8 +94,8 @@ use_preset_vocabulary: false
 歧	jji5	555
 蜞	jji5	345
 鈮	nji5	440
-詒	zsi5	450
-蛇	zsi5	2000
+詒	yi5	450
+蛇	yi5	2000
 篳	bei4	371
 睥	pei3	331
 癖	pei4	604
@@ -116,7 +116,7 @@ use_preset_vocabulary: false
 徛	jji6	222
 蟻	nji7	667
 伲	nji7	395
-已	zsi6	30981
+已	yi6	30981
 椅	i2	760
 晡	bu1	359
 菰	gvu1	427
@@ -169,7 +169,7 @@ use_preset_vocabulary: false
 陶	dde5	1759
 撈	le5	1520
 高	ge1	32267
-嬙	zsie5	396
+嬙	ye5	396
 帽	me7	1106
 眊	me7	273
 捯	de2	365
@@ -219,9 +219,9 @@ use_preset_vocabulary: false
 薰	xiang1	1175
 炘	xiang1	335
 氳	iang1	452
-嬴	zsiang5	505
+嬴	yang5	505
 攖	iang1	346
-瀛	zsiang5	543
+瀛	yang5	543
 縝	zang2	430
 畛	zang2	377
 振	zang3	1610
@@ -233,7 +233,7 @@ use_preset_vocabulary: false
 覲	jjiang7	394
 逕	jiang3	446
 拋	po1	2664
-潁	zsiang6	505
+潁	yang6	505
 瀾	lo5	793
 跚	so1	400
 蛟	go1	546
@@ -265,8 +265,8 @@ use_preset_vocabulary: false
 臢	ze1	289
 簪	ze1	505
 邨	ce1	395
-湲	zsyu5	334
-櫞	zsyu5	339
+湲	yu5	334
+櫞	yu5	339
 鈸	bbe8	387
 嫩	ne7	2381
 纂	ze2	477
@@ -280,7 +280,7 @@ use_preset_vocabulary: false
 闕	qyu4	647
 洫	xyu4	339
 血	xyu4	7997
-緩	zsyu6	1178
+緩	yu6	1178
 搜	sau1	1787
 緱	gau1	387
 虯	jjiau5	457

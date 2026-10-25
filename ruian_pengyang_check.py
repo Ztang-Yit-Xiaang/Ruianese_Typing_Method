@@ -35,8 +35,6 @@ print(f"✅ Generated {len(valid_syllables)} valid syllables\n")
 # ===== 3. normalize =====
 
 NORMALIZE = {
-    "xy": "zs",
-
     # 常見錯誤
     "ju": "jyu",
     "qu": "qyu",

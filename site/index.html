@@ -302,7 +302,7 @@ const INITIALS = [
   ["b","p","不送氣","plain"],["p","pʰ","送氣","aspirated"],["bb","b","濁","voiced"],["m","m","",""],["f","f","",""],["v","v","濁","voiced"],
   ["d","t","不送氣","plain"],["t","tʰ","送氣","aspirated"],["dd","d","濁","voiced"],["n","n","",""],["l","l","",""],
   ["g","k","不送氣","plain"],["k","kʰ","送氣","aspirated"],["gg","g","濁","voiced"],["ng","ŋ","",""],["h","h","",""],["hh","ɦ","濁","voiced"],
-  ["j","tɕ","不送氣","plain"],["q","tɕʰ","送氣","aspirated"],["jj","dʑ","濁","voiced"],["nj","ȵ","",""],["x","ɕ","",""],["zs","ʑ","濁","voiced"],
+  ["j","tɕ","不送氣","plain"],["q","tɕʰ","送氣","aspirated"],["jj","dʑ","濁","voiced"],["nj","ȵ","",""],["x","ɕ","",""],
   ["z","ts","不送氣","plain"],["c","tsʰ","送氣","aspirated"],["zz","dz","濁","voiced"],["s","s","",""],["ss","z","濁","voiced"]];
 const FINALS = [["a","a"],["o","o, ɔ"],["e","ə, æ"],["eh","ɛ"],["i","i, ɿ, ie"],["u","u"],["yu","y, ʉ, yo, yɛ, yə"],
   ["ai","ai"],["ei","ei"],["au","au"],["ou","əʉ"],["ia","ia"],["io","iɔ"],["iau","iau"],["iou","iəʉ"],["ie","iæ"],
@@ -335,9 +335,9 @@ else if (/Linux/.test(ua) && !/Android/.test(ua)) document.querySelector('.tab[d
 // ---- try-it keyboard (mirrors the speller rules in rime/ruianese.schema.yaml) ----
 const DERIVE = [
   [/^zz(i[a-z]+|y[a-z]*)$/, "jj$1"], [/^z(i[a-z]+|y[a-z]*)$/, "j$1"], [/^c(i[a-z]+|y[a-z]*)$/, "q$1"],
-  [/^ss(i[a-z]+|y[a-z]*)$/, "zs$1"], [/^s(i[a-z]+|y[a-z]*)$/, "x$1"],
-  [/^(b|p|bb|m|f|v|d|t|dd|n|l|g|k|gg|ng|h|hh|j|q|jj|nj|x|zs)?ie$/, "$1i"],
-  [/^(b|p|bb|m|f|v|d|t|dd|n|l|g|k|gg|ng|h|hh|j|q|jj|nj|x|zs)?yue$/, "$1yu"]];
+  [/^ssi([a-z]+)$/, "y$1"], [/^ssy([a-z]*)$/, "y$1"], [/^s(i[a-z]+|y[a-z]*)$/, "x$1"],
+  [/^(b|p|bb|m|f|v|d|t|dd|n|l|g|k|gg|ng|h|hh|j|q|jj|nj|x)?ie$/, "$1i"],
+  [/^(b|p|bb|m|f|v|d|t|dd|n|l|g|k|gg|ng|h|hh|j|q|jj|nj|x)?yue$/, "$1yu"]];
 const memo = new Map();
 function spellings(syl) {
   const base = syl.replace(/[1-8]$/, "");

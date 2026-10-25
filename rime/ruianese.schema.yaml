@@ -15,8 +15,8 @@ schema:
     - Ruianese Typing Method contributors
   description: |
     瑞安話拼音輸入方案。
-    聲母：b p bb m f v / d t dd n l / g k gg ng h hh / j q jj nj x zs / z c zz s ss
-    韻母：a ia ua o io uo yo e yue ae iae oe ioe uoe eh ie au iau ai uai
+    聲母：b p bb m f v / d t dd n l / g k gg ng h hh / j q jj nj x / z c zz s ss
+    韻母：a ia ua o io uo yo e yue ae iae oe uoe eh ie au iau ai uai
           ang iang eng ong iong i ei u eu iou yu ou ng
     聲調可省略；候選旁顯示帶調拼音（¹陰平 ²陰上 ³陰去 ⁴陰入 ⁵陽平 ⁶陽上 ⁷陽去 ⁸陽入）。
     如需打聲調，請切換到「瑞安話（帶調）」方案。
@@ -72,11 +72,12 @@ speller:
     - derive/^zz(i[a-z]+|y[a-z]*)$/jj$1/
     - derive/^z(i[a-z]+|y[a-z]*)$/j$1/
     - derive/^c(i[a-z]+|y[a-z]*)$/q$1/
-    - derive/^ss(i[a-z]+|y[a-z]*)$/zs$1/
+    - derive/^ssi([a-z]+)$/y$1/
+    - derive/^ssy([a-z]*)$/y$1/
     - derive/^s(i[a-z]+|y[a-z]*)$/x$1/
     # 今音合流：ie→i（天 tie→ti）、yue→yu（專 jyue→jyu）；z/c/s 組除外以免與舌尖元音 zi ci si 相混
-    - derive/^(b|p|bb|m|f|v|d|t|dd|n|l|g|k|gg|ng|h|hh|j|q|jj|nj|x|zs)?ie$/$1i/
-    - derive/^(b|p|bb|m|f|v|d|t|dd|n|l|g|k|gg|ng|h|hh|j|q|jj|nj|x|zs)?yue$/$1yu/
+    - derive/^(b|p|bb|m|f|v|d|t|dd|n|l|g|k|gg|ng|h|hh|j|q|jj|nj|x)?ie$/$1i/
+    - derive/^(b|p|bb|m|f|v|d|t|dd|n|l|g|k|gg|ng|h|hh|j|q|jj|nj|x)?yue$/$1yu/
 
 translator:
   dictionary: ruianese
