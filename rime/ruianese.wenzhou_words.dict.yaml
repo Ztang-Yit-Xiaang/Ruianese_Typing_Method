@@ -213,7 +213,7 @@ use_preset_vocabulary: false
 天暗落	ti1 ee3 lo8	30000
 好乎長久	heh2 vu5 jjieh5 jiau2	30000
 好厘年	heh2 lei5 nji5	30000
-季節	ji3 ji1	34787
+季節	ji3 ji4	34787
 將來	jieh1 lei5	41266
 將來三	jieh1 lei5 so1	30000
 年初	nji5 cou1	35812
@@ -232,7 +232,7 @@ use_preset_vocabulary: false
 明朝	mang8 jyu1	35703
 星期兩	seng1 jji5 la6	30000
 昨夜	sso8 yi7	31235
-時節	ssi5 ji1	31339
+時節	ssi5 ji4	31339
 月加月	njyu8 gu1 njyu8	30000
 月半	njyu8 be3	30592
 月底	njyu8 dei2	35194
@@ -1594,7 +1594,7 @@ use_preset_vocabulary: false
 做孝	zou3 ho3	30000
 做小月裏	zou3 xyu2 njyu8 lei6	30000
 做月裏	zou3 njyu8 lei6	30000
-做節	zou3 ji1	30000
+做節	zou3 ji4	30000
 做素	zou3 sou3	30000
 健	jji7	2936
 冇爻	nau6 hho5	30000
@@ -1680,7 +1680,7 @@ use_preset_vocabulary: false
 運道	yang7 ddeh6	30488
 過世	gvu3 sei3	30995
 過年	gvu3 nji5	33253
-過節	gvu3 ji1	31777
+過節	gvu3 ji4	31777
 過輩	gvu3 bai3	30000
 道觀	ddeh6 gyu1	30613
 還願	hhuo5 njyu7	30569
@@ -2761,10 +2761,10 @@ use_preset_vocabulary: false
 一爿	yi8 bbo5	30000
 一牀	yi8 ssyu5	30711
 一瓶	yi8 bbeng5	34630
-一百	ya4 ba4	32778
-一百七十三	ya4 ba4 ca4 ssa8 so1	30000
-一百六十	ya4 ba4 lou8 ssa8	30052
-一百零八	ya4 ba4 leng5 bo4	30067
+一百	yi8 ba4	32778
+一百七十三	yi8 ba4 ca4 ssa8 so1	30000
+一百六十	yi8 ba4 lou8 ssa8	30052
+一百零八	yi8 ba4 leng5 bo4	30067
 一盞	yi8 zo2	30949
 一窠	yi8 kvu1	30000
 一筆	yi8 bi4	37047
@@ -3177,7 +3177,7 @@ use_preset_vocabulary: false
 華僑老	huo1 jjyu5 leh6	15000
 討飯相	teh2 vo7 xieh1	15000
 豬頭三	zeu1 ddou5 so1	15013
-貞節女	zeng1 ji1 njyu6	15000
+貞節女	zeng1 ji4 njyu6	15000
 賤貨	ssi7 fu3	15707
 賤骨頭	ssi7 gyu4 ddou5	15484
 輕骨頭	qiang1 gyu4 ddou5	15285
@@ -3391,7 +3391,7 @@ use_preset_vocabulary: false
 手段	sou2 dde7	43059
 拜望	ba3 vo7	15476
 有份	yau6 vang7	15857
-望節	vo7 ji1	15000
+望節	vo7 ji4	15000
 板頭	bo2 ddou5	15000
 正本額	zeng1 bang2 nga8	15000
 死話	si2 va7	15000
@@ -3407,7 +3407,7 @@ use_preset_vocabulary: false
 請帖	ceng2 tuo4	15683
 走好厘	zau2 heh2 lei5	15000
 送客	song3 ka4	15572
-送節	song3 ji1	15000
+送節	song3 ji4	15000
 陪客	bbai5 ka4	15578
 
 # 代詞
@@ -3760,7 +3760,7 @@ use_preset_vocabulary: false
 太陽穴	ta3 yeh5 yu8	20759
 小肚下	xyu2 ddeu6 hhu6	20000
 手彎挾	sou2 uo1 yi8	20000
-手節骨	sou2 ji1 gyu4	20000
+手節骨	sou2 ji4 gyu4	20000
 水牛暈	seu2 ngau5 yang7	20000
 
 # 分類詞匯·二、時令、時間
@@ -3768,7 +3768,7 @@ use_preset_vocabulary: false
 半夜過	be3 yi7 gvu3	20000
 夜來	yi7 lei5	20631
 平時	bbeng5 ssi5	62042
-年冬節到	nji5 dong1 ji1 deh3	20000
+年冬節到	nji5 dong1 ji4 deh3	20000
 成長年	sseng5 jjieh5 nji5	20000
 成長月	sseng5 jjieh5 njyu8	20000
 旁世	bbuo5 sei3	20000
@@ -4779,7 +4779,7 @@ use_preset_vocabulary: false
 書院	seu1 yu7	16397
 發矇	fo4 mong5	15497
 私塾	si1 ssou8	16688
-節庚包	ji1 ga1 bo1	15000
+節庚包	ji4 ga1 bo1	15000
 脩金	sou1 jiang1	15381
 蒙館	mong5 gyu3	15346
 請假	ceng2 gu2	18184
@@ -5737,7 +5737,7 @@ use_preset_vocabulary: false
 手勁	sou2 jiang3	15500
 手彎摜	sou2 uo1 guo3	15000
 手指甲	sou2 zi2 go4	15557
-手指節	sou2 zi2 ji1	15000
+手指節	sou2 zi2 ji4	15000
 手掌	sou2 jieh2	17375
 手疔	sou2 deng1	15000
 手肢肚	sou2 zei1 ddeu6	15000
@@ -5845,7 +5845,7 @@ use_preset_vocabulary: false
 十下個	ssa8 hhu6 gai3	15000
 十號	ssa8 hheh7	15716
 千下個	qi1 hhu6 gai3	15000
-四時八節	si3 ssi5 bo4 ji1	15363
+四時八節	si3 ssi5 bo4 ji4	15363
 四號	si3 hheh7	15931
 對半	dai3 be3	15591
 對開	dai3 kee1	15611
@@ -5868,15 +5868,15 @@ use_preset_vocabulary: false
 下半年	hhu6 be3 nji5	18146
 交冬	go1 dong1	15000
 交秋	go1 cou1	15000
-何時節	vu5 ssi5 ji1	15000
+何時節	vu5 ssi5 ji4	15000
 傍月	bbuo7 njyu8	15000
 儘早	ssang6 zeh2	23431
-元宵節	njyu5 xio1 ji1	15862
+元宵節	njyu5 xio1 ji4	15862
 元寶	njyu5 beh2	16399
 兩頭春	la6 ddou5 cong1	15000
 六月六	lou8 njyu8 lou8	15000
 六梅	lou8 mee5	15000
-冬節	dong1 ji1	15437
+冬節	dong1 ji4	15437
 凳板龍	dang3 bo2 luo5	15000
 出年	qyu4 nji5	15000
 分歲燭	fang1 seu3 jyu4	15000
@@ -5906,9 +5906,9 @@ use_preset_vocabulary: false
 工夫	gong1 fu1	16561
 巧食	ko2 ssei8	15000
 布龍	byu3 luo5	15000
-平時節	bbeng5 ssi5 ji1	15000
+平時節	bbeng5 ssi5 ji4	15000
 年甲	nji5 go4	15000
-年終節到	nji5 zong1 ji1 deh3	15000
+年終節到	nji5 zong1 ji4 deh3	15000
 廠禮拜	qieh2 lei6 ba3	15112
 後來	hhau6 lei5	65000
 後見煞	hhau6 ji3 so3	15000
@@ -5940,7 +5940,7 @@ use_preset_vocabulary: false
 濟力下	zei3 lei8 hhu6	15000
 濟力能界	zei3 lei8 nang5 ga3	15000
 煨春	uai1 cong1	15000
-燈節	dang1 ji1	15521
+燈節	dang1 ji4	15521
 狗頭圈	gau2 ddou5 qyu1	15000
 瑣月	sou2 njyu8	15000
 當忙工夫	do3 mo5 gong1 fu1	15000
@@ -5952,8 +5952,8 @@ use_preset_vocabulary: false
 立夏	lei8 hhu7	15604
 立春	lei8 cong1	15939
 立秋	lei8 cou1	15761
-節到	ji1 deh3	15000
-節到節市	ji1 deh3 ji1 ssi6	15000
+節到	ji4 deh3	15000
+節到節市	ji4 deh3 ji4 ssi6	15000
 老早	leh6 zeh2	16033
 臘貨	lo8 fu3	15000
 芒種	mo5 jyu2	15524
@@ -5976,7 +5976,7 @@ use_preset_vocabulary: false
 長命線	jjieh5 meng7 xi3	15000
 開門炮	kee1 mang5 po3	15388
 閏年	ssong7 nji5	15679
-閑時節	hho5 ssi5 ji1	15000
+閑時節	hho5 ssi5 ji4	15000
 閑月	hho5 njyu8	15000
 關門炮	guo1 mang5 po3	15000
 雄黃酒	yong5 hhu5 zou2	15511
@@ -6054,7 +6054,7 @@ use_preset_vocabulary: false
 白水草	bba8 seu2 ceh2	15000
 祏肩	ssei8 ji1	15000
 筒布	ddong5 byu3	15000
-節約領	ji1 yo4 leng6	15000
+節約領	ji4 yo4 leng6	15000
 紐珠洞	njiau6 zeu1 ddong7	15000
 紡綢衫	fo2 zzou5 so1	15000
 絨大衣	ssong5 dda7 yi1	15000
@@ -6146,7 +6146,7 @@ use_preset_vocabulary: false
 桐蒲	ddong5 bbyu5	15000
 桴疤	fyu1 buo1	15000
 梲子樹	jyu4 zi2 sseu7	15000
-棒篩節	bbo6 si1 ji1	15000
+棒篩節	bbo6 si1 ji4	15000
 椰皮樹	yi5 bbei5 sseu7	15000
 榲杉	yu1 so1	15000
 樟樹	jieh1 sseu7	15635
@@ -6182,7 +6182,7 @@ use_preset_vocabulary: false
 真杉板	zang1 so1 bo2	15000
 福建桐	fu4 ji3 ddong5	15000
 空心竹	kong1 sang1 zou4	15000
-竹節	zou4 ji1	15575
+竹節	zou4 ji4	15575
 竹鞭	zou4 bi1	15018
 筍乾	song2 ge1	15540
 筍尖	song2 ji1	15478
@@ -6615,7 +6615,7 @@ use_preset_vocabulary: false
 斷個板	dde6 gai3 bo2	20000
 月里底	njyu8 lei6 dei2	20000
 有倈	yau6 lee5	20000
-有時節	yau6 ssi5 ji1	20000
+有時節	yau6 ssi5 ji4	20000
 有竅	yau6 qyu3	20000
 格會死	ga4 vai7 si2	20000
 正好吃	zeng1 heh2 qi4	20000
@@ -7209,7 +7209,7 @@ use_preset_vocabulary: false
 
 # 特殊語法詞·五、疑問代詞
 何乜事幹	vu5 mi6 ssi7 ge3	20000
-何乜時節	vu5 mi6 ssi5 ji1	20000
+何乜時節	vu5 mi6 ssi5 ji4	20000
 何乜物事	vu5 mi6 va8 ssi7	20000
 做何乜	zou3 vu5 mi6	20000
 妝乜	zo1 mi6	20000
@@ -8525,7 +8525,7 @@ use_preset_vocabulary: false
 律師	li8 si1	37726
 手印	sou2 yang3	15801
 打臀爿	da2 dde5 bbo5	15000
-打關節	da2 guo1 ji1	15236
+打關節	da2 guo1 ji4	15236
 捉拿	jyu4 no5	15592
 捐稅	yi5 seu3	15437
 掛譜	gu3 byu2	15000
@@ -9368,7 +9368,7 @@ use_preset_vocabulary: false
 黃龜	hhu5 jyu1	15000
 
 # 鳥獸
-九節狸	jiau2 ji1 lei5	15000
+九節狸	jiau2 ji4 lei5	15000
 半斤頭	be3 jiang1 ddou5	15000
 半番	be3 fo1	15000
 南風鵝	nee5 fong1 ngu5	15000
@@ -9591,7 +9591,7 @@ use_preset_vocabulary: false
 下日	hhu6 nee8	15000
 個半月日	gai3 be3 njyu8 nee8	15000
 八月十五	bo4 njyu8 ssa8 ng6	15083
-冬節日	dong1 ji1 nee8	15000
+冬節日	dong1 ji4 nee8	15000
 前個月日	yi5 gai3 njyu8 nee8	15000
 前幾日	yi5 gi2 nee8	15285
 前日	yi5 nee8	16001
@@ -11234,7 +11234,7 @@ use_preset_vocabulary: false
 清明餅兒	ceng1 meng5 beng2 ng5	7500
 清空白日	ceng1 kong1 bba8 nee8	7500
 眼睛頭	ngo6 leng5 ddou5	7500
-節日頭	ji1 nee8 ddou5	7500
+節日頭	ji4 nee8 ddou5	7500
 臨時邊兒	leng5 ssi5 bi1 ng5	7500
 號頭日	hheh7 ddou5 nee8	7500
 許日	xyu2 nee8	7500
@@ -11242,7 +11242,7 @@ use_preset_vocabulary: false
 該個月日	gee1 gai3 njyu8 nee8	7500
 透日	tau3 nee8	7500
 過年肉	gvu3 nji5 njau8	7500
-重五節	jjyu6 ng6 ji1	7500
+重五節	jjyu6 ng6 ji4	7500
 重五糉	jjyu6 ng6 zong3	7500
 重五草	jjyu6 ng6 ceh2	7500
 長八日	jjieh5 bo4 nee8	7500
@@ -11519,7 +11519,7 @@ use_preset_vocabulary: false
 蠻人蠻講	mo5 nang5 mo5 gu2	10000
 角落峽兒	gu4 lo8 hho8 ng5	10000
 迫滋膠粘	ba4 zi go1 ji1	10000
-閑時不節	hho5 ssi5 fu2 ji1	10000
+閑時不節	hho5 ssi5 fu2 ji4	10000
 隨隊瞎弄	sseu5 ddai7 dduo5 long7	10000
 青光白日	ceng1 gu1 bba8 nee8	10000
 鬼抬轎恁	jyu2 nee5 jjia7 ssang7	10000
@@ -12472,7 +12472,7 @@ use_preset_vocabulary: false
 黑老鴉兒	hee4 leh6 u1 ng5	7500
 
 # 麵食
-冬節圓兒	dong1 ji1 yu5 ng5	7500
+冬節圓兒	dong1 ji4 yu5 ng5	7500
 水餃兒	seu2 jyu2 ng5	7667
 油餃兒	yau5 jyu2 ng5	7500
 番薯餅兒	fo1 zzeu6 beng2 ng5	7500
