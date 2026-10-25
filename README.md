@@ -21,6 +21,7 @@ This repository uses the document scheme:
 - IPA `o` is written `o`.
 - IPA `ɔ` is written `oe`.
 - IPA `ɛ` is written `ee` on this branch (`eh` on `main`).
+- IPA `æ` is written `eh` on this branch (`ae` on `main`): 好 heh2.
 - IPA `uɔ` is written `uoe`.
 - IPA `yɔ` is written `yoe`.
 - IPA `ts` is written `z`.
@@ -74,7 +75,7 @@ This repository uses the document scheme:
 > | eu / ou | ou / eu (swapped) | 頭 ddou5, 收 sou1 / 書 seu1, 度 ddeu7 |
 > | leu | lou | 路 lou7, 爐 lou5 |
 > | ao, iao | au, iau | 狗 gau2 |
-> | ae | e | 好 he2, 刀 de1, 老 le6 |
+> | ae | eh | 好 heh2, 刀 deh1, 老 leh6, 高 geh1 (看 ke3 keeps e; 海 hee2 is ee) |
 > | oe | o | 方 fo1, 飯 vo7, 三 so1 |
 > | yo | yu | 王 yu5, 用 yu7 |
 > | uoe | uo | 料 luo7, 條 dduo5 |
