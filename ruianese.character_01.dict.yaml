@@ -21,7 +21,7 @@ version: "1.0.0"
 
 #方言讀音P1
 #一部
-一	ia3
+一	ya3
 ##一畫
 丁  deng1
 丁  zang1
@@ -79,7 +79,7 @@ version: "1.0.0"
 不  de2
 冇  nau6
 友  yau6
-友  iau6
+友  yau6
 丑  cou2
 醜  cou2  #醜陋
 牙  ngu5
@@ -114,12 +114,12 @@ version: "1.0.0"
 再  zei4 ##
 在  zzei6 ##
 百  ba3
-有  iau6
-有  iau8  #吾十有五
+有  yau6
+有  yau8  #吾十有五
 而  zzi5
 死  si2
 夷  yi2
-夷  i2
+夷  yi2
 丞  zeng5
 堯  njio5
 至  zi4
@@ -175,7 +175,7 @@ version: "1.0.0"
 孬  ne6
 夏  hhu8
 #十畫以上
-焉  i1  
+焉  yi1  
 堇  jiang2 
 爽  song2
 爽  su2
@@ -195,7 +195,7 @@ version: "1.0.0"
 賾  zza7
 鼒  zi1
 鼒  zze5
-憂  iau1
+憂  yau1
 黇  tie1
 黇  ji1
 黇  ji1
@@ -205,11 +205,11 @@ version: "1.0.0"
 鬴  fu2
 釜  fu2
 釐  lei5
-醫  i1
+醫  yi1
 囊  no5
 #丨部
 #二畫
-也  ia2
+也  ya2
 #三畫
 中  zong1
 中  zong4
@@ -233,7 +233,7 @@ version: "1.0.0"
 由  yau5
 冉  yi6
 冉  jji6
-央  ie1
+央  ye1
 史  si2
 半  be4
 凹  u1
@@ -264,7 +264,7 @@ version: "1.0.0"
 將  jie1
 將  jie4
 禺  njyu5
-幽  iau1
+幽  yau1
 畢  bei3
 鼎  deng2
 嘦  jyu4
