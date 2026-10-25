@@ -55,5 +55,6 @@ use_preset_vocabulary: false
 面	mai7	2000
 # 一：一般讀 yi8（一個、一下），數數、念號碼讀 ya4（一二三、第一、110 ya ya leng）
 一	yi8	120000
-# 睡着：口語一般說睏着
-睏着	kang3 jjio8	40000
+# 睡着：口語一般說睏着；睏 白讀 kyu3，文讀 kang3
+睏	kyu3	3000
+睏着	kyu3 jjio8	40000
