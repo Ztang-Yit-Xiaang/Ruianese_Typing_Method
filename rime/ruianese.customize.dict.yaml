@@ -41,7 +41,11 @@ use_preset_vocabulary: false
 眙	ci3	5000
 趞	ssei8	5000
 舌	ssei8	1138
-# 要：文讀 yu，白讀 i（我要）
+# 要：文讀 yu，白讀 yi（我要）
 要	yi3	119189
 # 人：文讀 ssang5，白讀 nang5
 人	nang5	300000
+# 色：see4，也有人說 sei4（腔調不同）
+色	sei4	3000
+綠色	lu8 see4	15000
+綠色	lu8 sei4	15000
