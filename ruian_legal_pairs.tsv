@@ -24,7 +24,7 @@
 Ø	io	p437-p439
 Ø	uai	p437-p439
 Ø	uo	p437-p439
-Ø	uoe	p437-p439
+Ø	uo	p437-p439
 Ø	yu	p437-p439
 Ø	yu	p437-p439
 Ø	yoe	p437-p439
@@ -51,7 +51,7 @@ b	iou	p437-p439
 b	ie	p437-p439
 b	uai	p437-p439
 b	uo	p437-p439
-b	uoe	p437-p439
+b	uo	p437-p439
 b	ang	p437-p439
 b	eng	p437-p439
 b	ong	p437-p439
@@ -72,7 +72,7 @@ p	iou	p437-p439
 p	ie	p437-p439
 p	uai	p437-p439
 p	uo	p437-p439
-p	uoe	p437-p439
+p	uo	p437-p439
 p	ang	p437-p439
 p	eng	p437-p439
 p	ong	p437-p439
@@ -93,7 +93,7 @@ bb	iou	p437-p439
 bb	ie	p437-p439
 bb	uai	p437-p439
 bb	uo	p437-p439
-bb	uoe	p437-p439
+bb	uo	p437-p439
 bb	ang	p437-p439
 bb	eng	p437-p439
 bb	ong	p437-p439
@@ -114,7 +114,7 @@ m	iou	p437-p439
 m	ie	p437-p439
 m	uai	p437-p439
 m	uo	p437-p439
-m	uoe	p437-p439
+m	uo	p437-p439
 m	ang	p437-p439
 m	eng	p437-p439
 m	ong	p437-p439
@@ -136,7 +136,7 @@ f	iou	p437-p439
 f	ie	p437-p439
 f	uai	p437-p439
 f	uo	p437-p439
-f	uoe	p437-p439
+f	uo	p437-p439
 f	ang	p437-p439
 f	eng	p437-p439
 f	ong	p437-p439
@@ -157,7 +157,7 @@ v	iou	p437-p439
 v	ie	p437-p439
 v	uai	p437-p439
 v	uo	p437-p439
-v	uoe	p437-p439
+v	uo	p437-p439
 v	ang	p437-p439
 v	eng	p437-p439
 v	ong	p437-p439
@@ -177,7 +177,7 @@ d	iau	p437-p439
 d	iou	p437-p439
 d	ie	p437-p439
 d	uo	p437-p439
-d	uoe	p437-p439
+d	uo	p437-p439
 d	ang	p437-p439
 d	eng	p437-p439
 d	ong	p437-p439
@@ -197,7 +197,7 @@ t	iau	p437-p439
 t	iou	p437-p439
 t	ie	p437-p439
 t	uo	p437-p439
-t	uoe	p437-p439
+t	uo	p437-p439
 t	ang	p437-p439
 t	eng	p437-p439
 t	ong	p437-p439
@@ -217,7 +217,7 @@ dd	iau	p437-p439
 dd	iou	p437-p439
 dd	ie	p437-p439
 dd	uo	p437-p439
-dd	uoe	p437-p439
+dd	uo	p437-p439
 dd	ang	p437-p439
 dd	eng	p437-p439
 dd	ong	p437-p439
@@ -240,7 +240,7 @@ n	ie	p437-p439
 n	iae	p437-p439
 n	io	p437-p439
 n	uo	p437-p439
-n	uoe	p437-p439
+n	uo	p437-p439
 n	yu	p437-p439
 n	yu	p437-p439
 n	ang	p437-p439
@@ -268,7 +268,7 @@ l	ie	p437-p439
 l	iae	p437-p439
 l	io	p437-p439
 l	uo	p437-p439
-l	uoe	p437-p439
+l	uo	p437-p439
 l	yu	p437-p439
 l	yu	p437-p439
 l	ang	p437-p439
@@ -293,7 +293,7 @@ g	iou	p437-p439
 g	ie	p437-p439
 g	uai	p437-p439
 g	uo	p437-p439
-g	uoe	p437-p439
+g	uo	p437-p439
 g	ang	p437-p439
 g	eng	p437-p439
 g	ong	p437-p439
@@ -314,7 +314,7 @@ k	iou	p437-p439
 k	ie	p437-p439
 k	uai	p437-p439
 k	uo	p437-p439
-k	uoe	p437-p439
+k	uo	p437-p439
 k	ang	p437-p439
 k	eng	p437-p439
 k	ong	p437-p439
@@ -335,7 +335,7 @@ gg	iou	p437-p439
 gg	ie	p437-p439
 gg	uai	p437-p439
 gg	uo	p437-p439
-gg	uoe	p437-p439
+gg	uo	p437-p439
 gg	ang	p437-p439
 gg	eng	p437-p439
 gg	ong	p437-p439
@@ -356,7 +356,7 @@ ng	iou	p437-p439
 ng	ie	p437-p439
 ng	uai	p437-p439
 ng	uo	p437-p439
-ng	uoe	p437-p439
+ng	uo	p437-p439
 ng	ang	p437-p439
 ng	eng	p437-p439
 ng	ong	p437-p439
@@ -380,7 +380,7 @@ h	iae	p437-p439
 h	io	p437-p439
 h	uai	p437-p439
 h	uo	p437-p439
-h	uoe	p437-p439
+h	uo	p437-p439
 h	yu	p437-p439
 h	yu	p437-p439
 h	yoe	p437-p439
@@ -410,7 +410,7 @@ hh	iae	p437-p439
 hh	io	p437-p439
 hh	uai	p437-p439
 hh	uo	p437-p439
-hh	uoe	p437-p439
+hh	uo	p437-p439
 hh	yu	p437-p439
 hh	yu	p437-p439
 hh	yoe	p437-p439
