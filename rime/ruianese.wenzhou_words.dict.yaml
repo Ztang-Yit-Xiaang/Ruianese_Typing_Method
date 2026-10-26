@@ -155,8 +155,8 @@ use_preset_vocabulary: false
 畚掃	bang2 seh2	30000
 畚掃塘	bang2 seh2 ddo5	30000
 白玉	bba8 njyu8	31050
-石板卵	ssei8 bo2 le6	30000
-石板卵卵	ssei8 bo2 le6 le6	30000
+石板卵	ssei8 bo2 lang6	30000
+石板卵卵	ssei8 bo2 lang6 lang6	30000
 石灰	ssei8 fai1	30924
 石頭	ssei8 ddou5	37837
 磚	jyu1	2819
@@ -307,7 +307,7 @@ use_preset_vocabulary: false
 犁	lei5	1167
 犁尾巴	lei5 mei6 bu1	30000
 犁田	lei5 ddi5	30476
-番薯簾	fo1 zzeu6 lee5	30000
+番薯簾	fo1 ssei7 lee5	30000
 石礌	ssei8 lai7	30000
 碓	dai3	887
 碾米	nji6 mei6	30539
@@ -375,7 +375,7 @@ use_preset_vocabulary: false
 松香	song1 xieh1	30612
 枇杷	bbei5 bbuo5	30819
 柚	yau5	1054
-柴枝卵卵	ssa5 zei1 le6 le6	30000
+柴枝卵卵	ssa5 zei1 lang6 lang6	30000
 栽樹	zee1 sseu7	30528
 栽花	zee1 hu1	30513
 桐子	ddong5 zi2	30000
@@ -414,8 +414,8 @@ use_preset_vocabulary: false
 生毛芋	sa1 meh5 vyu7	30000
 生菜	sa1 cee3	30890
 番茄	fo1 ga4	32557
-番薯	fo1 zzeu6	30751
-番薯藤	fo1 zzeu6 ddang5	30000
+番薯	fo1 ssei7	30751
+番薯藤	fo1 ssei7 ddang5	30000
 白腳蟆衣	bba8 jio4 mo5 yi1	30000
 白菜	bba8 cee3	32349
 白豆	bba8 ddau7	30000
@@ -476,7 +476,7 @@ use_preset_vocabulary: false
 蒿菜	heh1 cee3	30000
 蓮子	li5 zi2	30941
 薄荷	bbuo8 vu5	32712
-薯蕷	zzeu6 vyu7	30022
+薯蕷	ssei7 vyu7	30022
 薸	bbi5	738
 藕	ngau6	1503
 蠶豆	sse5 ddau7	30736
@@ -549,7 +549,7 @@ use_preset_vocabulary: false
 狼狗	lo5 gau2	30708
 猴大	hhau5 dda7	30000
 獅子	si1 zi2	32975
-生卵	sa1 le6	30000
+生卵	sa1 lang6	30000
 田螺	ddi5 lou5	30732
 田雞	ddi5 ji1	30587
 番鴨	fo1 o4	30282
@@ -600,7 +600,7 @@ use_preset_vocabulary: false
 螺螄	lou5 si1	30580
 蟀蟀	sa4 sa4	30000
 蟑蜢	jieh1 ma6	30000
-蟲卵	zzong7 le6	30562
+蟲卵	zzong7 lang6	30562
 蟲子	zzong7 zi2	32136
 蟶子	ceng1 zi2	30295
 蟹	ha2	1926
@@ -644,12 +644,12 @@ use_preset_vocabulary: false
 冰糖	beng1 ddo5	31060
 冷水	la6 seu2	31832
 千張	qi1 jieh1	30576
-卵清	le6 ceng1	30000
-卵湯	le6 to1	30000
-卵白	le6 bba8	30410
-卵糕	le6 geh1	30000
-卵飯	le6 vo7	30000
-卵黃	le6 hhu5	30524
+卵清	lang6 ceng1	30000
+卵湯	lang6 to1	30000
+卵白	lang6 bba8	30410
+卵糕	lang6 geh1	30000
+卵飯	lang6 vo7	30000
+卵黃	lang6 hhu5	30524
 吃天光	qi4 ti1 gu1	30000
 吃閑昏	qi4 hho5 xyu1	30000
 吃黃昏	qi4 hhu5 xyu1	30000
@@ -672,7 +672,7 @@ use_preset_vocabulary: false
 溫暾湯	yu1 te1 to1	30000
 潷	bi4	872
 澆頭	jyu1 ddou5	30498
-炒卵飯	co2 le6 vo7	30000
+炒卵飯	co2 lang6 vo7	30000
 煮飯	zei2 vo7	31064
 熬	eh1	2745
 燒火	xyu1 fu2	30587
@@ -728,7 +728,7 @@ use_preset_vocabulary: false
 開水	kee1 seu2	31656
 陰豆豉	yang1 ddau7 ssi7	30000
 陳飯	zzang5 vo7	30000
-雞卵	ji1 le6	30000
+雞卵	ji1 lang6	30000
 雞肫	ji1 zong1	30000
 零食	leng5 ssei8	35906
 面	mi7	7675
@@ -741,13 +741,13 @@ use_preset_vocabulary: false
 飲	yang2	3146
 餛飩	vang5 dde5	30926
 餳糖	yang5 ddo5	30000
-饅頭	me5 ddou5	33271
+饅頭	meu5 ddou5	33271
 香料	xieh1 luo7	33490
 馬蹄松	mu6 ddei5 song1	30000
 鬆糕	song1 geh1	30505
 鮐	tee1	721
 鮮面	xi1 mi7	30000
-鹹卵	hho5 le6	30000
+鹹卵	hho5 lang6	30000
 鹹菜	hho5 cee3	30879
 鹽	yi5	3311
 麻油	mo5 yau5	30790
@@ -1330,7 +1330,7 @@ use_preset_vocabulary: false
 力道	lei8 ddeh6	30899
 勁	jiang3	3890
 勁道	jiang3 ddeh6	30561
-卵袋	le6 ddee7	30000
+卵袋	lang6 ddee7	30000
 口灡水	kau2 lo5 seu2	30000
 口舌頭	kau2 ssi8 ddou5	30000
 叫嘴	jyu3 zeu2	30000
@@ -1417,7 +1417,7 @@ use_preset_vocabulary: false
 肚腸	ddeu6 jjieh5	30501
 肚膀	ddeu6 bbuo5	30000
 肚膀骨	ddeu6 bbuo5 gyu4	30000
-肚臍窟	ddeu6 ssei5 kyu4	30000
+肚臍窟	ddou6 ssei5 kyu4	30000
 肩胛頭	ji1 go4 ddou5	30000
 肩胛骨	ji1 go4 gyu4	31344
 胃	vyu7	3315
@@ -1441,7 +1441,7 @@ use_preset_vocabulary: false
 腳髁頭	jio4 kvu1 ddou5	30000
 膽	do2	2140
 臀	dde5	1368
-臀卵孔	dde5 le6 kong2	30000
+臀卵孔	dde5 lang6 kong2	30000
 臀爿	dde5 bbo5	30000
 臀爿腿	dde5 bbo5 tai2	30000
 荒額	hu1 nga8	30000
@@ -3352,7 +3352,7 @@ use_preset_vocabulary: false
 老大艙	leh6 dda7 co1	15000
 舢板	so1 bo2	15516
 航船	hhu5 yu5	15559
-舵卵袋	ddou6 le6 ddee7	15000
+舵卵袋	ddou6 lang6 ddee7	15000
 舵明	ddou6 meng5	15000
 舵板	ddou6 bo2	15000
 舵牙	ddou6 ngu5	15000
@@ -3987,7 +3987,7 @@ use_preset_vocabulary: false
 鷺鷀臭	lou7 ssi5 cou3	20000
 
 # 分類詞匯·稻
-薯芋	zzeu6 vyu7	20000
+薯芋	ssei7 vyu7	20000
 
 # 分類詞匯·肐落
 圓洞門	yu5 ddong7 mang5	20000
@@ -4459,7 +4459,7 @@ use_preset_vocabulary: false
 百壙墳	ba4 ku3 vang5	15000
 矮椅墳	a2 yi2 vang5	15000
 糕桃燭面	geh1 ddeh5 jyu4 mi7	15000
-紅卵	hhong5 le6	15000
+紅卵	hhong5 lang6	15000
 紙紮	zei2 zo4	15024
 紵身	zzeu6 sang1	15000
 老衣	leh6 yi1	15000
@@ -4488,7 +4488,7 @@ use_preset_vocabulary: false
 風水樹	fong1 seu2 sseu7	15000
 風水瓶	fong1 seu2 bbeng5	15000
 骸骨	hha5 gyu4	15578
-鹽卵葬	yi5 le6 zo3	15000
+鹽卵葬	yi5 lang6 zo3	15000
 
 # 外科
 下巴骨脫脬	hhu6 bu1 gyu4 te4 po1	15000
@@ -4508,7 +4508,7 @@ use_preset_vocabulary: false
 嘴丫爛起	zeu2 yo1 lo7 qi2	15000
 四隻眼	si3 zei4 ngo6	15000
 塌銷	to4 xyu1	15000
-大卵袋	dda7 le6 ddee7	15000
+大卵袋	dda7 lang6 ddee7	15000
 大毒痱	dda7 ddou8 fei3	15000
 大頜風	dda7 gee4 fong1	15000
 對口癰	dai3 kau2 yong1	15000
@@ -5166,7 +5166,7 @@ use_preset_vocabulary: false
 嚴正色	nji5 zeng1 see4	15000
 四四方方	si3 si3 fo1 fo1	15514
 困夢散燥	kang3 mong7 so3 seh3	15000
-圓卵卵	yu5 le6 le6	15000
+圓卵卵	yu5 lang6 lang6	15000
 圓實	yu5 ssa8	15000
 圓眼黃	yu5 ngo6 hhu5	15000
 圓通	yu5 tong1	16236
@@ -5473,7 +5473,7 @@ use_preset_vocabulary: false
 隱約	yang2 yo4	16437
 雀躍	jio4 yo8	15788
 雜雜合合	ssee8 ssee8 hhee8 hhee8	15000
-雞卵清	ji1 le6 ceng1	15000
+雞卵清	ji1 lang6 ceng1	15000
 難覷	no5 ceu3	15000
 雪腥之白	xyu4 seng1 zi1 bba8	15000
 雪荷	xyu4 vu5	15000
@@ -5718,8 +5718,8 @@ use_preset_vocabulary: false
 # 手腳胸背
 倒膈	deh2 ga4	15000
 八字步	bo4 ssi7 bbyu7	15419
-卵子	le6 zi2	15929
-卵脬	le6 po1	15000
+卵子	lang6 zi2	15929
+卵脬	lang6 po1	15000
 反手	fo2 sou2	17592
 反手巴張	fo2 sou2 bu1 jieh1	15000
 塌陰	to4 yang1	15000
@@ -5776,7 +5776,7 @@ use_preset_vocabulary: false
 腳頭	jio4 ddou5	15000
 腳骨	jio4 gyu4	15000
 腳髁頭額	jio4 kvu1 ddou5 nga8	15000
-臀卵孔頭	dde5 le6 kong2 ddou5	15000
+臀卵孔頭	dde5 lang6 kong2 ddou5	15000
 臀髖	dde5 kuo1	15000
 陰袋	yang1 ddee7	15000
 陰袋子	yang1 ddee7 zi2	15000
@@ -6139,7 +6139,7 @@ use_preset_vocabulary: false
 板皮	bo2 bbei5	15426
 柳杉	lou6 so1	15464
 柳樹	lou6 sseu7	15897
-柴枝卵	ssa5 zei1 le6	15000
+柴枝卵	ssa5 zei1 lang6	15000
 桉樹	e1 sseu7	15563
 桐子樹	ddong5 zi2 sseu7	15000
 桐白	ddong5 bba8	15000
@@ -6402,8 +6402,8 @@ use_preset_vocabulary: false
 冰淇淋	beng1 jji5 leng5	17479
 冷茶	la6 zzo5	15000
 十月臘	ssa8 njyu8 lo8	15000
-卵茶	le6 zzo5	15000
-卵酒	le6 zou2	15000
+卵茶	lang6 zzo5	15000
+卵酒	lang6 zou2	15000
 吃香菸	qi4 xieh1 yi1	15000
 堆花燒	dai1 hu1 xyu1	15000
 打火刀	da2 fu2 deh1	15000
@@ -6413,7 +6413,7 @@ use_preset_vocabulary: false
 烏煙宕	vu1 yi1 ddo7	15000
 烏煙鬼	vu1 yi1 jyu2	15000
 狀元紅	jjyu7 njyu5 hhong5	15000
-番薯乾燒	fo1 zzeu6 ge1 xyu1	15000
+番薯乾燒	fo1 ssei7 ge1 xyu1	15000
 白眼燒	bba8 ngo6 xyu1	15000
 白粉	bba8 fang2	15712
 白開水	bba8 kee1 seu2	16001
@@ -6915,8 +6915,8 @@ use_preset_vocabulary: false
 清明餅	ceng1 meng5 beng2	20000
 燒酒瓶	xyu1 zou2 bbeng5	20000
 玻璃瓶	bu1 lei5 bbeng5	20816
-番薯棗	fo1 zzeu6 zeh2	20000
-番薯餅	fo1 zzeu6 beng2	20000
+番薯棗	fo1 ssei7 zeh2	20000
+番薯餅	fo1 ssei7 beng2	20000
 短褲頭	de2 kvu3 ddou5	20000
 破布頭	pyu3 byu3 ddou5	20000
 破漏船	pyu3 lau7 yu5	20000
@@ -7358,7 +7358,7 @@ use_preset_vocabulary: false
 
 # 特殊語法詞·濘揪
 厚秩	hhau6 zza8	20000
-圓卵	yu5 le6	20000
+圓卵	yu5 lang6	20000
 孤零	gvu1 leng5	20487
 孤零零	gvu1 leng5 leng5	20814
 渾淘	yu5 ddeh5	20000
@@ -7739,8 +7739,8 @@ use_preset_vocabulary: false
 炸飯粥	zo3 vo7 zou4	15000
 烏焦飯	vu1 jyu1 vo7	15000
 生眼粒	sa1 ngo6 la8	15000
-番薯乾飯	fo1 zzeu6 ge1 vo7	15000
-番薯飯	fo1 zzeu6 vo7	15000
+番薯乾飯	fo1 ssei7 ge1 vo7	15000
+番薯飯	fo1 ssei7 vo7	15000
 白米飯	bba8 mei6 vo7	15450
 白糉	bba8 zong3	15000
 硬飯羹	nga7 vo7 ga1	15000
@@ -7864,7 +7864,7 @@ use_preset_vocabulary: false
 生意場	sa1 yi3 jjieh6	15064
 生意經	sa1 yi3 jiang1	15589
 生財	sa1 ssee5	15630
-番薯鏤	fo1 zzeu6 lau7	15000
+番薯鏤	fo1 ssei7 lau7	15000
 當店	do3 dieh3	15000
 當票	do3 pi3	15421
 發洋財	fo4 yeh5 ssee5	15373
@@ -7987,7 +7987,7 @@ use_preset_vocabulary: false
 出街先生	qyu4 ga1 xi1 sa1	15000
 割稻客	ge4 ddeh6 ka4	15000
 劇額	jji8 nga8	15000
-卵販	le6 fo3	15000
+卵販	lang6 fo3	15000
 司機	si1 ji1	28794
 圓木	yu5 mu8	15529
 圓木老師	yu5 mu8 leh6 si1	15000
@@ -8093,10 +8093,10 @@ use_preset_vocabulary: false
 全蹄	yu5 ddei5	15000
 全雞	yu5 ji1	15000
 前胛	yi5 go4	15000
-卵個	le6 gai3	15000
-卵腐	le6 vyu6	15000
-卵花	le6 hu1	15000
-卵莢	le6 ma6	15000
+卵個	lang6 gai3	15000
+卵腐	lang6 vyu6	15000
+卵花	lang6 hu1	15000
+卵莢	lang6 ma6	15000
 口近	kau2 jjiang6	15000
 夾心精	go4 sang1 zeng1	15000
 彩蛋	cee2 ddo7	19504
@@ -8118,7 +8118,7 @@ use_preset_vocabulary: false
 牛背筋	ngau5 bai1 jiang1	15000
 牛蹄筋	ngau5 ddei5 jiang1	15000
 牛鞭	ngau5 bi1	15039
-白卵	bba8 le6	15000
+白卵	bba8 lang6	15000
 白脫油	bba8 te4 yau5	15000
 精搭肥	zeng1 dee4 vei5	15000
 糯米肝	nou7 mei6 ge1	15000
@@ -8130,7 +8130,7 @@ use_preset_vocabulary: false
 膨脝	bba5 ha1	15000
 花油	hu1 yau5	15000
 花腸	hu1 jjieh5	15000
-茶葉卵	zzo5 yi8 le6	15000
+茶葉卵	zzo5 yi8 lang6	15000
 豬帶	zeu1 da3	15000
 豬帶皮	zeu1 da3 bbei5	15000
 豬心	zeu1 sang1	15531
@@ -8146,7 +8146,7 @@ use_preset_vocabulary: false
 雞血	ji1 xyu4	15857
 雲頭油	yang5 ddou5 yau5	15000
 風雞	fong1 ji1	15000
-鹽卵	yi5 le6	15000
+鹽卵	yi5 lang6	15000
 
 # 花草菌類
 一丈紅	yi8 jjieh6 hhong5	15000
@@ -8199,7 +8199,7 @@ use_preset_vocabulary: false
 木犀	mu8 sei1	15490
 木蟹柴	mu8 ha2 ssa5	15000
 杜鵑花	ddeu6 jyu1 hu1	15604
-染卵草	ssi6 le6 ceh2	15000
+染卵草	ssi6 lang6 ceh2	15000
 格公莓	ga4 gong1 mee5	15000
 桂花	jyu3 hu1	16157
 梅花	mee5 hu1	16696
@@ -8424,7 +8424,7 @@ use_preset_vocabulary: false
 洋蟲	yeh5 zzong7	15000
 烏牛	vu1 ngau5	15000
 烏蛇	vu1 ssei5	15000
-番薯臭蟲	fo1 zzeu6 cou3 zzong7	15000
+番薯臭蟲	fo1 ssei7 cou3 zzong7	15000
 白地蠶	bba8 ddei7 sse5	15000
 皮蟲	bbei5 zzong7	15000
 硬殼蟲	nga7 ku4 zzong7	15000
@@ -8833,7 +8833,7 @@ use_preset_vocabulary: false
 壅力	yong1 lei8	15000
 壅土	yong1 teu2	15000
 壅本	yong1 bang2	15000
-壓番薯	o4 fo1 zzeu6	15000
+壓番薯	o4 fo1 ssei7	15000
 壓麥	o4 ma8	15000
 定置張網	ddeng7 zi3 jieh1 mo6	15000
 對網	dai3 mo6	15000
@@ -8910,7 +8910,7 @@ use_preset_vocabulary: false
 單季稻	do1 ji3 ddeh6	15434
 塗番	ddeu5 fo1	15000
 山番	so1 fo1	15000
-山番薯	so1 fo1 zzeu6	15000
+山番薯	so1 fo1 ssei7	15000
 慈姑	ssi5 gvu1	15467
 扁蒲秧	bi2 bbyu5 yeh1	15000
 抽心	cou1 sang1	15000
@@ -8921,19 +8921,19 @@ use_preset_vocabulary: false
 朗花	lo6 hu1	15000
 棉桃	mi5 ddeh5	15418
 檳榔芋	beng1 lo5 vyu7	15000
-洋番薯	yeh5 fo1 zzeu6	15000
+洋番薯	yeh5 fo1 ssei7	15000
 溪白	qi1 bba8	15000
 澆粉	jyu1 fang2	15000
 燥稻	seh3 ddeh6	15000
 珍珠粟	zang1 zeu1 xyu4	15000
-番薯奶	fo1 zzeu6 na6	15000
-番薯幹	fo1 zzeu6 ge1	15000
-番薯種	fo1 zzeu6 jyu2	15000
-番薯粉	fo1 zzeu6 fang2	15000
-番薯絲	fo1 zzeu6 si1	15000
+番薯奶	fo1 ssei7 na6	15000
+番薯幹	fo1 ssei7 ge1	15000
+番薯種	fo1 ssei7 jyu2	15000
+番薯粉	fo1 ssei7 fang2	15000
+番薯絲	fo1 ssei7 si1	15000
 白木香	bba8 mu8 xieh1	15000
 白棕	bba8 zong1	15000
-白番薯	bba8 fo1 zzeu6	15000
+白番薯	bba8 fo1 ssei7	15000
 硬米	nga7 mei6	15000
 稻板麥	ddeh6 bo2 ma8	15000
 稻熟	ddeh6 ssou8	15000
@@ -9260,7 +9260,7 @@ use_preset_vocabulary: false
 泥鯰	nji5 nji5	15000
 泥鰍幹	nji5 cou1 ge1	15000
 海燈心	hee2 dang1 sang1	15000
-海番薯	hee2 fo1 zzeu6	15000
+海番薯	hee2 fo1 ssei7	15000
 海蜓	hee2 ddeng5	15000
 海蝨	hee2 sa4	15000
 海螄螺	hee2 si1 lou5	15000
@@ -9282,7 +9282,7 @@ use_preset_vocabulary: false
 烏叉赤	vu1 co1 cei4	15000
 烏膏	vu1 geh1	15000
 烏螺	vu1 lou5	15000
-烏賊卵	vu1 ssee8 le6	15000
+烏賊卵	vu1 ssee8 lang6	15000
 烏賊棗	vu1 ssee8 zeh2	15000
 烏賊膏	vu1 ssee8 geh1	15000
 烏鱗鯧	vu1 leng5 qieh1	15000
@@ -9372,9 +9372,9 @@ use_preset_vocabulary: false
 半斤頭	beu3 jiang1 ddou5	15000
 半番	beu3 fo1	15000
 南風鵝	nee5 fong1 ngu5	15000
-卵卵	le6 le6	15000
-卵桴	le6 fyu1	15000
-卵殼	le6 ku4	15434
+卵卵	lang6 lang6	15000
+卵桴	lang6 fyu1	15000
+卵殼	lang6 ku4	15434
 嘎嘎	go4 go4	18240
 土雞	teu2 ji1	15607
 塌翼	to4 yi8	15000
@@ -9407,7 +9407,7 @@ use_preset_vocabulary: false
 水貂	seu2 duo1	15524
 水雞	seu2 ji1	15422
 水鳥鳥	seu2 nio2 nio2	15000
-沙殼卵	so1 ku4 le6	15000
+沙殼卵	so1 ku4 lang6	15000
 海和尚	hee2 vu5 ssieh7	15000
 灰鷺鷥	fai1 lou7 si1	15000
 烏雞	vu1 ji1	15620
@@ -9418,8 +9418,8 @@ use_preset_vocabulary: false
 猴面鷹	hhau5 mi7 yang1	15000
 獺狼	to4 lo5	15000
 珍珠雞	zang1 zeu1 ji1	15472
-生卵雞	sa1 le6 ji1	15000
-生卵鴨	sa1 le6 o4	15000
+生卵雞	sa1 lang6 ji1	15000
+生卵鴨	sa1 lang6 o4	15000
 田狗	ddi5 gau2	15000
 田鼠	ddi5 cei2	15573
 白朋鴨	bba8 bbong5 o4	15000
@@ -9450,7 +9450,7 @@ use_preset_vocabulary: false
 長腳鷺鷥	jjieh5 jio4 lou7 si1	15000
 雉雞	zzi6 ji1	15492
 雕鷹虎	duo1 yang1 fu2	15000
-雙個卵黃卵	xyu1 gai3 le6 hhu5 le6	15000
+雙個卵黃卵	xyu1 gai3 lang6 hhu5 lang6	15000
 雞拉白惡	ji1 lo8 bba8 u4	15000
 雞瘟	ji1 yu1	15438
 雞肫皮	ji1 zong1 bbei5	15000
@@ -9458,8 +9458,8 @@ use_preset_vocabulary: false
 靈昆雞	leng5 gang1 ji1	15000
 青翠	ceng1 cai3	15749
 頓鳥	dang3 nio2	15000
-頭生卵	ddou5 sa1 le6	15000
-鴨卵	o4 le6	15000
+頭生卵	ddou5 sa1 lang6	15000
+鴨卵	o4 lang6	15000
 鴨棚	o4 bba5	15000
 鴨船	o4 yu5	15000
 鴨頭	o4 ddou5	15553
@@ -9488,7 +9488,7 @@ use_preset_vocabulary: false
 枇杷梗	bbei5 bbuo5 ga2	15000
 棱面	lang5 mi7	15000
 橘紅糕	jyu4 hhong5 geh1	15000
-油卵	yau5 le6	15000
+油卵	yau5 lang6	15000
 油棗	yau5 zeh2	15000
 油炮圓	yau5 po3 yu5	15000
 油繩	yau5 sseng5	15000
@@ -9500,8 +9500,8 @@ use_preset_vocabulary: false
 炒面	co2 mi7	15000
 烏盔	vu1 kai1	15000
 燈盞糕	dang1 zo2 geh1	15000
-生煎饅頭	sa1 ji1 me5 ddou5	15014
-番薯鬆糕	fo1 zzeu6 ssong5 geh1	15000
+生煎饅頭	sa1 ji1 meu5 ddou5	15014
+番薯鬆糕	fo1 ssei7 ssong5 geh1	15000
 發食	fo4 ssei8	15000
 白眼湯圓	bba8 ngo6 to1 yu5	15000
 盆糕	bbe5 geh1	15000
@@ -9532,7 +9532,7 @@ use_preset_vocabulary: false
 餅貨	beng2 fu3	15000
 餛飩煬	vang5 dde5 yeh5	15000
 餛飩皮	vang5 dde5 bbei5	15000
-饅頭煬	me5 ddou5 yeh5	15000
+饅頭煬	meu5 ddou5 yeh5	15000
 香糕	xieh1 geh1	15000
 香飯糕	xieh1 vo7 geh1	15000
 麥煬鏤	ma8 yeh5 lau7	15000
@@ -9540,7 +9540,7 @@ use_preset_vocabulary: false
 麥餅	ma8 beng2	15000
 麻心	mo5 sang1	15000
 麻球	mo5 jjiau5	15025
-黃饅頭	hhu5 me5 ddou5	15000
+黃饅頭	hhu5 meu5 ddou5	15000
 
 # ===== 近似拼寫：含字典未收的口語讀音（按溫州音拼寫，待校正）=====
 
@@ -10822,7 +10822,7 @@ use_preset_vocabulary: false
 
 # 分類詞匯·奶
 後䪴才	hhau6 zang ssee5	10000
-肚臍丼	ddeu6 ssei5 dang	10000
+肚臍丼	ddou6 ssei5 dang	10000
 鬍鬚樁兒	vu5 seu1 zo1 ng5	10000
 
 # 分類詞匯·妳
@@ -10958,7 +10958,7 @@ use_preset_vocabulary: false
 五十肩	ng6 ssa8 ji1	7879
 厚老子兒	hhau6 leh6 zi2 ng5	7500
 小口舌兒遁落	xyu2 kau2 ssi8 ng5 dde7 lo8	7500
-屄卵	bei le6	7500
+屄卵	bei lang6	7500
 快大子兒	ka3 dda7 zi2 ng5	7500
 快大瘤兒	ka3 dda7 lou5 ng5	7500
 熱皰	nji8 po3	7500
@@ -11168,7 +11168,7 @@ use_preset_vocabulary: false
 瓜子拳兒	gu1 zi2 jjyu5 ng5	7500
 短短腳兒	de2 de2 jio4 ng5	7500
 肉錘兒	njau8 zzeu5 ng5	7500
-肚臍兒	ddeu6 ssei5 ng5	7500
+肚臍兒	ddou6 ssei5 ng5	31000
 脬兒	po1 ng5	7500
 脬袋兒	po1 ddee7 ng5	7500
 腦丁兒	neh6 deng1 ng5	7500
@@ -11178,7 +11178,7 @@ use_preset_vocabulary: false
 腳肚子兒	jio4 ddeu6 zi2 ng5	7500
 腳肚髈	jio4 ddeu6 puo	7500
 腳趾頭兒	jio4 zi2 ddou5 ng5	7500
-臀卵屄	dde5 le6 bei	7500
+臀卵屄	dde5 lang6 bei	7500
 蹻姆三	qee mu6 so1	7500
 
 # 教室文具
@@ -12139,7 +12139,7 @@ use_preset_vocabulary: false
 吊瓜兒	duo3 gu1 ng5	7500
 杖兒	jjieh6 ng5	7500
 溜溜草兒	lou1 lou1 ceh2 ng5	7500
-炸卵草兒	zo3 le6 ceh2 ng5	7500
+炸卵草兒	zo3 lang6 ceh2 ng5	7500
 番人荷花	fo1 nang5 vu5 hu1	7500
 白玉甌兒	bba8 njyu8 au1 ng5	7500
 百日紅	ba4 nee8 hhong5	7974
@@ -12273,7 +12273,7 @@ use_preset_vocabulary: false
 # 農作物
 五穀	ng6 gvu4	8162
 晚兒	mo6 ng5	7500
-番薯棗兒	fo1 zzeu6 zeh2 ng5	7500
+番薯棗兒	fo1 ssei7 zeh2 ng5	7500
 稻熱病	ddeh6 nji8 bbeng7	7700
 米碎兒	mei6 sai3 ng5	7500
 芋子兒	vyu7 zi2 ng5	7500
@@ -12438,7 +12438,7 @@ use_preset_vocabulary: false
 黃顙魚	hhu5 so2 ngeu5	7514
 
 # 鳥獸
-不伏卵	fu2 bbu7 le6	7500
+不伏卵	fu2 bbu7 lang6	7500
 不尾巴	fu2 mei6 bu1	7500
 吃谷雀兒	qi4 gvu4 jio4 ng5	10000
 嫩草雞兒	ne7 ceh2 ji1 ng5	7500
@@ -12458,7 +12458,7 @@ use_preset_vocabulary: false
 花背油鴨兒	hu1 bai1 yau5 o4 ng5	7500
 賴伏	la7 bbu7	7500
 蹻辮兒	qee bbi6 ng5	7500
-軟殼卵	njyu6 ku4 le6	7500
+軟殼卵	njyu6 ku4 lang6	7500
 銜牌雀兒	hho5 bba5 jio4 ng5	7500
 雀兒	jio4 ng5	7516
 雁鵝兒	ngo7 ngu5 ng5	7500
@@ -12475,7 +12475,7 @@ use_preset_vocabulary: false
 冬節圓兒	dong1 ji4 yu5 ng5	7500
 水餃兒	seu2 jyu2 ng5	7667
 油餃兒	yau5 jyu2 ng5	7500
-番薯餅兒	fo1 zzeu6 beng2 ng5	7500
+番薯餅兒	fo1 ssei7 beng2 ng5	7500
 糕兒	geh1 ng5	7500
 鹽餅兒	yi5 beng2 ng5	7500
 麥子珠兒	ma8 zi2 zeu1 ng5	7500
