@@ -5986,7 +5986,7 @@ use_preset_vocabulary: false
 驚蟄	jiang1 zzei8	15580
 鰲山	ngeh5 so1	15486
 麻巧	mo5 ko2	15000
-黃昏	hhu5 xyu1	17055
+黃昏	oe5 xyu1	17055
 黃昏邊	hhu5 xyu1 bi1	15000
 龍燈	luo5 dang1	15548
 龍船	luo5 yu5	15574
@@ -9618,8 +9618,8 @@ use_preset_vocabulary: false
 日地	nee8 ddei7	15138
 日子	nee8 zi2	29349
 日日	nee8 nee8	16611
-日晝	nee8 zau3	15000
-日晝陣	nee8 zau3 zzang7	15000
+日晝	nee8 zou3	15000
+日晝陣	nee8 zou3 zzang7	15000
 日裏	nee8 lei6	15585
 早日	zeh2 nee8	18129
 星期日	seng1 jji5 nee8	16097
@@ -9627,7 +9627,7 @@ use_preset_vocabulary: false
 清明日	ceng1 meng5 nee8	15000
 當日	do3 nee8	17818
 禮拜日	lei6 ba3 nee8	15477
-該日	gee1 nee8	15519
+該日	gee1 nee8	32000
 轉日	jyu2 nee8	15000
 透長日	tau3 jjieh5 nee8	15000
 過日	gvu3 nee8	15000
@@ -9758,12 +9758,12 @@ use_preset_vocabulary: false
 黃魚	hhu5 ngeu5	15612
 
 # F饮食
-吃日晝	qi4 nee8 zau3	15000
+吃日晝	qi4 nee8 zou3	15000
 挺	qi3	21886
 搨	ta4	652
 炮程	po3 bbu5	15000
 煠	ssa8	618
-煮日晝	zei2 nee8 zau3	15000
+煮日晝	zei2 nee8 zou3	15000
 熝	le5	573
 熯	he3	622
 燜	fai2	1211
@@ -10591,7 +10591,7 @@ use_preset_vocabulary: false
 阿渠	a1 ggei5	7500
 
 # 伙食
-日晝廚	nee8 zau3 zzeu5	7500
+日晝廚	nee8 zou3 zzeu5	7500
 食咍	ssei8 dda	7500
 
 # 位置
@@ -11220,11 +11220,11 @@ use_preset_vocabulary: false
 日半	nee8 beu3	7500
 日夾星夜	nee8 go4 seng1 yi7	7500
 日日黃昏	nee8 nee8 hhu5 xyu1	7500
-日晝遲	nee8 zau3 zzi5	7500
-日晝邊	nee8 zau3 bi1	7500
-日晝頭	nee8 zau3 ddou5	7500
+日晝遲	nee8 zou3 zzi5	7500
+日晝邊	nee8 zou3 bi1	7500
+日晝頭	nee8 zou3 ddou5	7500
 早日初	zeh2 nee8 cou1	7500
-早日晝	zeh2 nee8 zau3	7500
+早日晝	zeh2 nee8 zou3	7500
 明朝後日	meng5 jyu1 hhau6 nee8	7500
 昢旦	bbai do3	7500
 月日	njyu8 nee8	7500
