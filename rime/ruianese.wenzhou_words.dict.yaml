@@ -1395,7 +1395,7 @@ use_preset_vocabulary: false
 眼幬	ngo6 ddeh7	30000
 眼汪	ngo6 u1	30000
 眼烏	ngo6 u1	30000
-眼烏珠	ngo6 u1 zeu1	30000
+眼烏珠	ngo6 vu1 zeu1	30000
 眼白	ngo6 bba8	30534
 眼皮	ngo6 bbei5	31848
 眼睫毛	ngo6 yi8 meh5	30567
@@ -1424,7 +1424,7 @@ use_preset_vocabulary: false
 背脊身	bai1 zei4 sang1	30000
 胎盤	tee1 bbe5	30922
 胎記	tee1 ji3	30598
-胸脯	xyu1 bbu5	30903
+胸脯	xyu1 pu5	30903
 脈門	ma8 mang5	30457
 腦蓋髓	neh6 gee3 sei2	30000
 腰脯	yu1 bbu5	30000
@@ -2297,7 +2297,7 @@ use_preset_vocabulary: false
 曬	sa3	4282
 會	vai7	50300
 有	yau6	50300
-朵	do2	2139
+朵	deu2	2139
 樂事	lo8 ssi7	30738
 步	bbyu7	5121
 殺	so4	23647
@@ -2751,7 +2751,7 @@ use_preset_vocabulary: false
 一張	yi8 jieh1	60076
 一把	yi8 bu2	44174
 一支	yi8 zei1	39070
-一朵	yi8 do2	31646
+一朵	yi8 deu2	31646
 一枚	yi8 mee5	35061
 一架	yi8 gu3	31681
 一株	yi8 zeu1	30990
@@ -6101,7 +6101,7 @@ use_preset_vocabulary: false
 領口	leng6 kau2	15788
 頭頸套	ddou5 jiang2 teh3	15000
 香港衫	xieh1 gu2 so1	15000
-馬甲	mo6 go4	27104
+馬甲	mu6 gvu4	27104
 馬褲	mo6 kvu3	15484
 
 # 樹木
