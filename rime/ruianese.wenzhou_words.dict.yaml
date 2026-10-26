@@ -250,10 +250,10 @@ use_preset_vocabulary: false
 皇曆	hhu5 lei8	30479
 盡世	ssang6 sei3	30366
 礌頭轉	lai7 ddou5 jyu2	30000
-禮拜兩	lei6 ba3 la6	30000
+禮拜兩	lei6 bba3 la6	30000
 能界	nang5 ga3	30000
 舊年	jjiau7 nji5	30547
-該年	gee1 nji5	30528
+該年	gee1 nji5	32000
 該能界	gee1 nang5 ga3	30000
 透長夜	tau3 jjieh5 yi7	30000
 鐘頭	jyu1 ddou5	31091
@@ -1655,7 +1655,7 @@ use_preset_vocabulary: false
 相喚	xieh1 xyu3	30000
 神櫥	ssang5 zzeu5	30000
 神童	ssang5 ddong5	30884
-禮拜堂	lei6 ba3 ddo5	30530
+禮拜堂	lei6 bba3 ddo5	30530
 算命	syu3 meng7	31249
 老壽	leh6 ssou7	30000
 耶穌堂	yi5 seu1 ddo5	30000
@@ -3780,10 +3780,10 @@ use_preset_vocabulary: false
 清早	ceng1 zeh2	20800
 烏暗夜	vu1 ee3 yi7	20000
 爲小	vyu5 xyu2	20000
-禮拜一	lei6 ba3 ya4	20711
-禮拜三	lei6 ba3 so1	20484
-禮拜六	lei6 ba3 lou8	20750
-禮拜四	lei6 ba3 si3	20480
+禮拜一	lei6 bba3 ya4	20711
+禮拜三	lei6 bba3 so1	20484
+禮拜六	lei6 bba3 lou8	20750
+禮拜四	lei6 bba3 si3	20480
 隔夜	ga4 yi7	20851
 頭回	ddou5 vai5	20504
 
@@ -4876,7 +4876,7 @@ use_preset_vocabulary: false
 祖師爺	zeu2 si1 yi5	15715
 神桶	ssang5 ddong6	15000
 祠堂	ssi5 ddo5	15805
-禮拜	lei6 ba3	18754
+禮拜	lei6 bba3	18754
 童子	ddong5 zi2	15929
 算命先生	syu3 meng7 xi1 sa1	15585
 紙馬	zei2 mu6	15447
@@ -5909,7 +5909,7 @@ use_preset_vocabulary: false
 平時節	bbeng5 ssi5 ji4	15000
 年甲	nji5 gu4	15000
 年終節到	nji5 zong1 ji4 deh3	15000
-廠禮拜	qieh2 lei6 ba3	15112
+廠禮拜	qieh2 lei6 bba3	15112
 後來	hhau6 lei5	65000
 後見煞	hhau6 ji3 so3	15000
 忙月	mo5 njyu8	15303
@@ -5986,7 +5986,7 @@ use_preset_vocabulary: false
 驚蟄	jiang1 zzei8	15580
 鰲山	ngeh5 so1	15486
 麻巧	mo5 ko2	15000
-黃昏	oe5 xyu1	17055
+黃昏	oe7 xyu1	17055
 黃昏邊	hhu5 xyu1 bi1	15000
 龍燈	luo5 dang1	15548
 龍船	luo5 yu5	15574
@@ -9626,7 +9626,7 @@ use_preset_vocabulary: false
 正月十五	zeng1 njyu8 ssa8 ng6	15113
 清明日	ceng1 meng5 nee8	15000
 當日	do3 nee8	17818
-禮拜日	lei6 ba3 nee8	15477
+禮拜日	lei6 bba3 nee8	15477
 該日	gee1 nee8	32000
 轉日	jyu2 nee8	15000
 透長日	tau3 jjieh5 nee8	15000
@@ -10716,8 +10716,8 @@ use_preset_vocabulary: false
 
 # 分類詞匯·二、時令、時間
 廿九夜	njieh8 jiau2 yi7	10000
-禮拜二	lei6 ba3 ng7	10482
-禮拜五	lei6 ba3 ng6	10684
+禮拜二	lei6 bba3 ng7	10482
+禮拜五	lei6 bba3 ng6	10684
 重五	jjyu6 ng6	10446
 閑日	hho5 nee8	10000
 
