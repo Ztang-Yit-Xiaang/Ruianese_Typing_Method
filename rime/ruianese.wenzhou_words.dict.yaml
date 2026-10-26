@@ -358,7 +358,7 @@ use_preset_vocabulary: false
 山茶花	so1 zzo5 hu1	30572
 懦柿	nou7 ssi6	30000
 扁豆	bi2 ddau7	30607
-指甲花	zi2 go4 hu1	30000
+指甲花	zi2 gu4 hu1	30000
 摘花	za4 hu1	30540
 攀粟	po1 xyu4	30000
 斫樹	jio4 sseu7	30000
@@ -1363,7 +1363,7 @@ use_preset_vocabulary: false
 手背	sou2 bai1	30829
 拳頭	jjyu5 ddou5	32460
 指天指	zi2 ti1 zi2	30000
-指甲	zi2 go4	32054
+指甲	zi2 gu4	32054
 指頭印	zi2 ddou5 yang3	30000
 擤鼻涕	seng2 bbei7 tei3	30492
 月經	njyu8 jiang1	32597
@@ -2105,7 +2105,7 @@ use_preset_vocabulary: false
 出門	qyu4 mang5	42250
 刷牙	seu4 ngu5	34465
 剃頭	tei3 ddou5	30704
-剪指甲	jji6 zi2 go4	30141
+剪指甲	jji6 zi2 gu4	30141
 吃煙	qi4 yi1	30000
 呷茶	ho4 zzo5	30000
 呷酒	ho4 zou2	30000
@@ -3527,7 +3527,7 @@ use_preset_vocabulary: false
 走賺戶	zau2 zzo7 vu6	15000
 轉仄	jyu2 zee4	15000
 鋪牀	pyu1 yu5	15548
-鍺指甲	jieh2 zi2 go4	15000
+鍺指甲	jieh2 zi2 gu4	15000
 頭頸困諾爻	ddou5 jiang2 kang3 no8 hho5	15000
 
 # 內科
@@ -4050,7 +4050,7 @@ use_preset_vocabulary: false
 腳後窟頭	jio4 hhau6 kyu4 ddou5	20000
 腳板背	jio4 bo2 bai1	20000
 腳筒骨	jio4 ddong5 gyu4	20000
-腳趾甲	jio4 zi2 go4	20514
+腳趾甲	jio4 zi2 gu4	20514
 鼻頭屙	bbei7 ddou5 u3	20000
 鼻頭毛	bbei7 ddou5 meh5	20000
 鼻頭水	bbei7 ddou5 seu2	20000
@@ -5736,7 +5736,7 @@ use_preset_vocabulary: false
 後髖	hhau6 kuo1	15000
 手勁	sou2 jiang3	15500
 手彎摜	sou2 uo1 guo3	15000
-手指甲	sou2 zi2 go4	15557
+手指甲	sou2 zi2 gu4	15557
 手指節	sou2 zi2 ji4	15000
 手掌	sou2 jieh2	17375
 手疔	sou2 deng1	15000
@@ -5745,8 +5745,8 @@ use_preset_vocabulary: false
 手脬頭	sou2 po1 ddou5	15000
 拉紮下	lo8 zo4 hhu6	20000
 拉紮下毛	lo8 zo4 hhu6 meh5	15000
-指甲眼	zi2 go4 ngo6	15000
-指甲縫	zi2 go4 vong5	15000
+指甲眼	zi2 gu4 ngo6	15000
+指甲縫	zi2 gu4 vong5	15000
 指頭槍	zi2 ddou5 qieh1	15000
 指頭面	zi2 ddou5 mi7	15000
 正手	zeng1 sou2	16475
@@ -6905,7 +6905,7 @@ use_preset_vocabulary: false
 小船	xyu2 yu5	20974
 小門	xyu2 mang5	20599
 布頭	byu3 ddou5	20540
-手指頭	sou2 zi2 ddou5	20806
+手指頭	sou2 zi2 ddong5	20806
 手掌甌	sou2 jieh2 au1	20000
 指頭	zi2 ddou5	21095
 板牀	bo2 yu5	20023
@@ -9855,7 +9855,7 @@ use_preset_vocabulary: false
 箱鐶	xieh1 gga7	15000
 籃兒	lo5 ng5	15344
 線礌兒	xi3 lai7 ng5	15000
-耳朵耙兒	ng6 do2 bbuo7 ng5	15000
+耳朵耙兒	ng6 du2 bbuo7 ng5	15000
 酒壺兒	zou2 vu5 ng5	15000
 鉛鑊兒	ka1 gvu1 ng5	15000
 鉤兒	gau1 ng5	15354
@@ -10003,9 +10003,9 @@ use_preset_vocabulary: false
 眼睛珠窟	ngo6 leng5 zeu1 kyu4	15000
 矮人兒	a2 nang5 ng5	15000
 笑靨兒	xyu3 yi4 ng5	15000
-耳朵	ng6 do2	23218
-耳朵孔	ng6 do2 kong2	15000
-耳朵污	ng6 do2 u1	15000
+耳朵	ng6 du2	23218
+耳朵孔	ng6 du2 kong2	15000
+耳朵污	ng6 du2 u1	15000
 腔款	qi1 ke2	15000
 腳指頭兒	jio4 zi2 ddou5 ng5	15000
 腳眼睜兒	jio4 ngo6 zee1 ng5	15000
@@ -10038,7 +10038,7 @@ use_preset_vocabulary: false
 痛肚	gang2 ddeu6	15000
 瘰兒	lou6 ng5	15000
 睇病	ci3 bbeng7	15000
-聾耳朵	long5 ng6 do2	15000
+聾耳朵	long5 ng6 du2	15000
 藥鑊兒	yo8 gvu1 ng5	15000
 蹺腳人	qyu1 jio4 nang5	15000
 風瘴	fong1 da2	15000
@@ -10123,7 +10123,7 @@ use_preset_vocabulary: false
 皮筋兒	bbei5 qau1 ng5	15000
 硯瓦	yu2 ngu6	15481
 簿兒	bbu6 ng5	15000
-耳朵排邊	ng6 do2 bba5 bi1	15000
+耳朵排邊	ng6 du2 bba5 bi1	15000
 讀書人	ddou8 seu1 nang5	16371
 雙徛人	xyu1 ggee6 nang5	15000
 
@@ -10157,7 +10157,7 @@ use_preset_vocabulary: false
 嬉下兒	xi1 hhu6 ng	15000
 打困嘈	da2 kang3 kai3	15000
 打辮兒	da2 bbi6 ng5	15000
-挖耳朵	lau1 ng6 do2	15426
+挖耳朵	lau1 ng6 du2	15426
 漱口	fu4 kau2	15790
 爭起吃	jjee5 qi2 qi4	15000
 鼾起	xyu1 qi2	15000
@@ -10514,7 +10514,7 @@ use_preset_vocabulary: false
 兩條辮兒	la6 dduo5 bbi6 ng5	7500
 單條辮兒	do1 dduo5 bbi6 ng5	7500
 水牛毛兒	seu2 ngau5 meh5 ng5	7500
-油耳朵	yau5 ng6 do2	7500
+油耳朵	yau5 ng6 du2	7500
 烏螺瓢兒	u1 lou5 bbi5 ng5	7500
 發兒	fo4 ng5	7500
 發兒路	fo4 ng5 lou7	7500
@@ -10525,12 +10525,12 @@ use_preset_vocabulary: false
 睉光	sso gu1	7500
 美人發兒	mei6 nang5 fo4 ng5	7500
 老鼠牙兒	leh6 cei2 ngu5 ng5	7500
-耳朵垂兒	ng6 do2 sseu5 ng5	7500
-耳朵後	ng6 do2 hhau6	7500
-耳朵惡	ng6 do2 u4	7500
-耳朵空	ng6 do2 kong1	7500
-耳朵窟	ng6 do2 kyu4	7500
-耳朵脣	ng6 do2 ssong5	7500
+耳朵垂兒	ng6 du2 sseu5 ng5	7500
+耳朵後	ng6 du2 hhau6	7500
+耳朵惡	ng6 du2 u4	7500
+耳朵空	ng6 du2 kong1	7500
+耳朵窟	ng6 du2 kyu4	7500
+耳朵脣	ng6 du2 ssong5	7500
 蜈蚣辮兒	ngu5 gong1 bbi6 ng5	7500
 辮兒不	bbi6 ng5 fu2	7500
 長條面臉兒	jjieh5 dduo5 mi7 li6 ng5	7500
@@ -10608,7 +10608,7 @@ use_preset_vocabulary: false
 雙門外	xyu1 mang5 va7	7500
 
 # 住
-㓨耳朵	lau ng do2	7500
+㓨耳朵	lau ng du2	7500
 嬉下兒先	xi1 hhu6 ng5 xi1	7500
 幯身體	jee sang1 tei2	7500
 扴臀	ga dde5	7500
@@ -10664,8 +10664,8 @@ use_preset_vocabulary: false
 線勵兒	xi3 lei7 ng5	7500
 線頭兒	xi3 ddou5 ng5	7754
 繃兒	ba1 ng5	10000
-耳朵爬兒	ng6 do2 bbuo5 ng5	7500
-耳朵筅兒	ng6 do2 xi2 ng5	7500
+耳朵爬兒	ng6 du2 bbuo5 ng5	7500
+耳朵筅兒	ng6 du2 xi2 ng5	7500
 鐵盒兒	ti4 hhee8 ng5	7500
 面盂兒	mi7 vyu5 ng5	7500
 鞋筅屜兒	hha5 xi2 tei3 ng5	7500
@@ -10751,7 +10751,7 @@ use_preset_vocabulary: false
 瞙瞊	mo dduo	10000
 瞙瞊人	mo dduo nang5	10000
 破傷冷熱	pyu3 xieh1 la6 nji8	10000
-耳朵屙	ng6 do2 u3	10000
+耳朵屙	ng6 du2 u3	10000
 腳骨手軟	jio4 gyu4 sou2 njyu6	10000
 
 # 分類詞匯·十一、衣着、穿戴
@@ -10966,8 +10966,8 @@ use_preset_vocabulary: false
 瘤兒	lou5 ng5	7500
 瘤子兒	lou5 zi2 ng5	7500
 硬頭瘤兒	nga7 ddou5 lou5 ng5	7500
-耳朵爛起	ng6 do2 lo7 qi2	7500
-耳朵疔	ng6 do2 deng1	7500
+耳朵爛起	ng6 du2 lo7 qi2	7500
+耳朵疔	ng6 du2 deng1	7500
 蛇兒	ssei5 ng5	7500
 金魚眼	jiang1 ngeu5 ngo6	7500
 面子兒	mi7 zi2 ng5	7500
@@ -11033,10 +11033,10 @@ use_preset_vocabulary: false
 
 # 寫字
 信肉	sang3 njau8	7500
-單耳朵	do1 ng6 do2	7500
+單耳朵	do1 ng6 du2	7500
 單隑人	do1 ggee nang5	7500
 隑刀爿邊	ggee deh1 bbo5 bi1	7500
-雙耳朵	xyu1 ng6 do2	7500
+雙耳朵	xyu1 ng6 du2	7500
 雙隑人	xyu1 ggee nang5	7500
 
 # 工匠用具
@@ -11143,7 +11143,7 @@ use_preset_vocabulary: false
 樓梯髈	lou5 tei1 puo	7500
 牆窠兒	ssieh5 kvu1 ng5	7500
 番人館	fo1 nang5 gyu2	7500
-軒耳朵兒	xi1 ng6 do2 ng5	7500
+軒耳朵兒	xi1 ng6 du2 ng5	7500
 
 # 房屋結構
 宕頭兒	ddo7 ddou5 ng5	7500
@@ -11495,7 +11495,7 @@ use_preset_vocabulary: false
 不上不落	fu2 yeh6 fu2 lo8	10000
 不郎不秀	fu2 lo5 fu2 sou3	10000
 光眼膜瞊	gu1 ngo6 mu5 dduo	10000
-割耳朵兒	ge4 ng6 do2 ng5	10000
+割耳朵兒	ge4 ng6 du2 ng5	10000
 吃倒水兒	qi4 deh2 seu2 ng5	10000
 吊兒郎當	duo3 ng5 lo5 do3	10565
 囥吭里揕	kuo3 hhu5 lei6 ssang	10000
@@ -11543,7 +11543,7 @@ use_preset_vocabulary: false
 燂燂暖	dda dda ne6	10000
 用着不	yu7 jjio8 fu2	10000
 腳昫攏	jio4 xv long6	10000
-𠞭耳朵	lau ng6 do2	10000
+𠞭耳朵	lau ng6 du2	10000
 𢄺身體	ji sang1 tei2	10000
 𢖈三埭	ddi so1 ddee7	10000
 𢳀賺爻	mo zzo7 hho5	10000
@@ -12031,7 +12031,7 @@ use_preset_vocabulary: false
 糖兒客	ddo5 ng5 ka4	7500
 細兒貨	sei3 ng5 fu3	7500
 缸窰	guo1 yee	7500
-耳朵兒	ng6 do2 ng5	7500
+耳朵兒	ng6 du2 ng5	7500
 肉砧板	njau8 zang1 bo2	7500
 豬兒行	zeu1 ng5 hha5	7500
 賣缸客	ma7 guo1 ka4	7500
@@ -12144,7 +12144,7 @@ use_preset_vocabulary: false
 白玉甌兒	bba8 njyu8 au1 ng5	7500
 百日紅	ba4 nee8 hhong5	7974
 益母草	yi4 ng6 ceh2	8073
-耳朵草兒	ng6 do2 ceh2 ng5	7500
+耳朵草兒	ng6 du2 ceh2 ng5	7500
 草子盤兒	ceh2 zi2 bbe5 ng5	7500
 落地金錢	lo8 ddei7 jiang1 ddi5	7500
 踏地蜈蚣	dda8 ddei7 ngu5 gong1	7500
@@ -12315,7 +12315,7 @@ use_preset_vocabulary: false
 帽幡兒	meh7 fo1 ng5	7500
 氈帽屜兒	ji1 meh7 tei3 ng5	7500
 白帽兒	bba8 meh7 ng5	7500
-耳朵套	ng6 do2 teh3	7500
+耳朵套	ng6 du2 teh3	7500
 襪箍兒	mo8 gvu1 ng5	7500
 軟底鞋兒	njyu6 dei2 hha5 ng5	7500
 鞋靲	hha5 jjiang	7500
