@@ -344,8 +344,8 @@ use_preset_vocabulary: false
 吃米	qi4 mei6	30000
 四季豆	si3 ji3 ddau7	30569
 圓眼	yu5 ngo6	30000
-大蒜	dda7 se3	31591
-大蒜子	dda7 se3 zi2	30000
+大蒜	dda7 syu3	31591
+大蒜子	dda7 syu3 zi2	30000
 大頭菜	dda7 ddou5 cee3	30530
 大麥	dda7 ma8	30964
 天羅瓜	ti1 lou5 gu1	30000
@@ -470,7 +470,7 @@ use_preset_vocabulary: false
 菠棱菜	bu1 lang5 cee3	30156
 葡萄	bbyu5 ddeh5	33555
 葫蘆	vu5 lou5	31330
-蒜苗	se3 mi5	30576
+蒜苗	syu3 mi5	30576
 蒲瓜	bbyu5 gu1	30344
 蒲薺	bbyu5 ssei6	30000
 蒿菜	heh1 cee3	30000
@@ -709,7 +709,7 @@ use_preset_vocabulary: false
 菜油	cee3 yau5	30599
 菜鹹	cee3 hho5	30000
 葷個	xiang1 gai3	30000
-藠蒜	jyu2 se3	30000
+藠蒜	jyu2 syu3	30000
 蜜林檎	mi8 leng5 jjiang5	30000
 豆腐	ddau7 vyu6	32575
 豆腐乳	ddau7 vyu6 sseu6	30506
@@ -1445,7 +1445,7 @@ use_preset_vocabulary: false
 臀爿	dde5 bbo5	30000
 臀爿腿	dde5 bbo5 tai2	30000
 荒額	hu1 nga8	30000
-蒜髮	se3 fo4	30135
+蒜髮	syu3 fo4	30135
 虎口	fu2 kau2	30758
 血	xyu4	11725
 血脈	xyu4 ma8	31597
@@ -1656,7 +1656,7 @@ use_preset_vocabulary: false
 神櫥	ssang5 zzeu5	30000
 神童	ssang5 ddong5	30884
 禮拜堂	lei6 ba3 ddo5	30530
-算命	se2 meng7	31249
+算命	syu3 meng7	31249
 老壽	leh6 ssou7	30000
 耶穌堂	yi5 seu1 ddo5	30000
 聽講	teng1 gu2	30902
@@ -1876,7 +1876,7 @@ use_preset_vocabulary: false
 秤錘	ceng3 zzeu5	30400
 稅屋宕	seu3 u4 ddo7	30000
 稱	ceng1	15072
-算盤	se2 bbe5	30833
+算盤	syu3 bbe5	30833
 糶米	tuo3 mei6	30000
 繳用	jio4 yu7	30000
 老主顧	leh6 zeu2 gvu3	30473
@@ -2965,7 +2965,7 @@ use_preset_vocabulary: false
 生成	sa1 sseng5	30750
 用着	yu7 jjio8	18177
 甩大衫袖	sa4 dda7 so1 ssou7	15000
-當算	do3 se2	15000
+當算	do3 syu3	15000
 白闖	bba8 qyu2	15000
 盒口	hhee8 kau2	15000
 盤花	bbe5 hu1	15000
@@ -4878,7 +4878,7 @@ use_preset_vocabulary: false
 祠堂	ssi5 ddo5	15805
 禮拜	lei6 ba3	18754
 童子	ddong5 zi2	15929
-算命先生	se2 meng7 xi1 sa1	15585
+算命先生	syu3 meng7 xi1 sa1	15585
 紙馬	zei2 mo6	15447
 罪過	ssai6 gvu3	16133
 胡公大帝	vu5 gong1 dda7 dei3	15000
@@ -8263,7 +8263,7 @@ use_preset_vocabulary: false
 紅雞冠	hhong5 ji1 gyu1	15000
 紅頭繩	hhong5 ddou5 sseng5	15000
 紫菜薹	zi2 cee3 ddee5	15323
-紫蒜	zi2 se3	15000
+紫蒜	zi2 syu3	15000
 紫薇	zi2 vei5	15908
 細珠草	sei3 zeu1 ceh2	15000
 老奶頭	leh6 na6 ddou5	15000
@@ -8660,7 +8660,7 @@ use_preset_vocabulary: false
 含泥茭筍	hhe5 nji5 go1 song2	15000
 圓匏	yu5 bbo5	15000
 塌棵菜	to4 kvu1 cee3	15280
-塗蒜	ddeu5 se3	15000
+塗蒜	ddeu5 syu3	15000
 大心芥	dda7 sang1 ga3	15000
 姜娘	jieh1 njieh5	15000
 子心芥	zi2 sang1 ga3	15000
@@ -8671,9 +8671,9 @@ use_preset_vocabulary: false
 朝天姜	jyu1 ti1 jieh1	15000
 榨菜	zo3 cee3	15729
 水菜	seu2 cee3	15000
-沙蒜	so1 se3	15000
+沙蒜	so1 syu3	15000
 油冬菜	yau5 dong1 cee3	15000
-泥蒜	nji5 se3	15000
+泥蒜	nji5 syu3	15000
 泥鰍豆	nji5 cou1 ddau7	15000
 洋金瓜	yeh5 jiang1 gu1	15000
 淮豆子	va5 ddau7 zi2	15000
@@ -8713,7 +8713,7 @@ use_preset_vocabulary: false
 赤豆	cei4 ddau7	15541
 辣姜	lo8 jieh1	15000
 遲芥	zzi5 ga3	15000
-野蒜	yeh6 se3	15000
+野蒜	yeh6 syu3	15000
 金瓜子	jiang1 gu1 zi2	15000
 銀豆	njiang5 ddau7	15000
 鍺莢豆	jieh2 ma6 ddau7	15000
@@ -8769,7 +8769,7 @@ use_preset_vocabulary: false
 秤錘繩	ceng3 zzeu5 sseng5	15000
 秤頭	ceng3 ddou5	15000
 稅銀	seu3 njiang5	15000
-老婆算	leh6 bbyu5 se2	15000
+老婆算	leh6 bbyu5 syu3	15000
 老秤	leh6 ceng3	15000
 蠻尺	mo5 cei4	15000
 裁縫尺	ssee5 vong5 cei4	15000
@@ -10244,7 +10244,7 @@ use_preset_vocabulary: false
 死人	si2 nang5	17492
 爭眼兒	za1 ngo6 ng5	15000
 特特兒	ddee8 ddee8 ng5	15000
-算不牢	se2 fu2 leh5	15000
+算不牢	syu3 fu2 leh5	15000
 老人	leh6 nang5	31769
 覅	fai1	700
 許嘛	hei2 mo5	15000
@@ -10693,7 +10693,7 @@ use_preset_vocabulary: false
 山頭嶴窟	so1 ddou5 e kyu4	10000
 
 # 分類詞匯·七、家具、器具
-不恰算	fu2 ko4 se2	10000
+不恰算	fu2 ko4 syu3	10000
 大匋	dda7 dde	10000
 尺六鑊兒	cei4 lou8 hhu8 ng5	10000
 尿褲硼兒	si2 kvu3 pa1 ng5	10000
@@ -11455,7 +11455,7 @@ use_preset_vocabulary: false
 不肯歇	fu2 kang2 xi4	10000
 人來瘋	nang5 lei5 fong1	10500
 佮着	gv jjio8	10000
-佮算	gv se2	10000
+佮算	gv syu3	10000
 動不動	ddong6 fu2 ddong6	11992
 半燥涊	be3 seh3 njang	10000
 厘兒	lei5 ng5	10000
@@ -12234,7 +12234,7 @@ use_preset_vocabulary: false
 田岸豆	ddi5 yu7 ddau7	7500
 白殕冬瓜	bba8 feu dong1 gu1	7500
 菠薐菜	bu1 lang cee3	7500
-蕌蒜	jjee se3	7500
+蕌蒜	jjee syu3	7500
 
 # 賬目度量衡
 一角番錢	yi8 gu4 fo1 ddi5	7500
@@ -12451,7 +12451,7 @@ use_preset_vocabulary: false
 白眉野水雞兒	bba8 mei5 yeh6 seu2 ji1 ng5	7500
 瞑瞎趟鼠	meng5 dduo5 qi3 cei2	7500
 瞑瞎雞	meng5 dduo5 ji1	7500
-算命鳥兒	se2 meng7 nio2 ng5	7500
+算命鳥兒	syu3 meng7 nio2 ng5	7500
 紅頭油鴨兒	hhong5 ddou5 yau5 o4 ng5	7500
 脹膯	jieh3 dang	7500
 腳髈	jio4 puo	7500
