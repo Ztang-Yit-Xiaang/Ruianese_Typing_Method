@@ -515,7 +515,7 @@ use_preset_vocabulary: false
 六畜	lou8 cou3	30501
 刺	ci3	2538
 刺牯	ci3 gvu2	30000
-剪絹娘	jji2 jyu3 njieh5	30000
+剪絹娘	jji6 jyu3 njieh5	30000
 叫嘴夾	jyu3 zeu2 go4	30000
 叮	deng1	1288
 咬螄	ngo6 si1	30000
@@ -581,7 +581,7 @@ use_preset_vocabulary: false
 草雞娘	ceh2 ji1 njieh5	30000
 草鴨	ceh2 o4	30000
 蒼蠅	cu1 yang5	31745
-蚊蟲	vang5 zzong7	30771
+蚊蟲	mang5 jiong7	30771
 蛇	ssei5	3158
 蜂窠	fong1 kvu1	30000
 蜂蜜	fong1 mi8	32661
@@ -966,7 +966,7 @@ use_preset_vocabulary: false
 刨	bbo7	1301
 刨花	bbo7 hu1	30577
 剃頭刀	tei3 ddou5 deh1	30016
-剃頭剪	tei3 ddou5 jji2	30000
+剃頭剪	tei3 ddou5 jji6	30000
 吃飯桌	qi4 vo7 jyu4	30000
 器物家生	qi3 va8 gu1 sa1	30000
 困椅	kang3 yi2	30000
@@ -1019,7 +1019,7 @@ use_preset_vocabulary: false
 水管	seu2 gyu2	31906
 水綽	seu2 co1	30000
 沙鍋	so1 gvu1	30598
-洋剪	yeh5 jji2	30000
+洋剪	yeh5 jji6	30000
 洋油燈	yeh5 yau5 dang1	30000
 洋燭	yeh5 jyu4	30000
 洋皁	yeh5 sseh6	30000
@@ -1049,7 +1049,7 @@ use_preset_vocabulary: false
 牀板	yu5 bo2	30572
 牀槓	yu5 gu1	30000
 牀鋪	yu5 pyu1	30825
-牙刷	ngu5 se4	32432
+牙刷	ngu5 seu4	32432
 物事	va8 ssi7	30576
 瓜瓢	gu1 bbi5	30000
 畚斗	bang2 dau2	30395
@@ -1114,7 +1114,7 @@ use_preset_vocabulary: false
 針窟	zang1 kyu4	30000
 針腳	zang1 jio4	30571
 鉛碗	ka1 yu2	30000
-鉸剪	go2 jji2	30000
+鉸剪	go2 jji6	30000
 銅勺	ddong5 ssio8	30000
 銚	dduo7	767
 銼	cou3	967
@@ -1175,7 +1175,7 @@ use_preset_vocabulary: false
 剃面毛	tei3 mi7 meh5	30000
 剃頭老師	tei3 ddou5 leh6 si1	30000
 前婚	yi5 xyu1	30000
-剪綹	jji2 lou6	30000
+剪綹	jji6 lou6	30000
 十三點	ssa8 so1 dieh2	30496
 叔伯兄弟	sou4 ba4 xiong1 ddei6	30024
 叔伯姊妹	sou4 ba4 zi2 mee7	30000
@@ -1832,7 +1832,7 @@ use_preset_vocabulary: false
 僑	jjyu5	1372
 利息	lei7 sei4	39989
 剃頭店	tei3 ddou5 dieh3	30000
-剪布	jji2 byu3	30000
+剪布	jji6 byu3	30000
 取賬	ceu2 jieh3	30000
 單個	do1 gai3	35673
 單分	do1 fang1	30000
@@ -2103,9 +2103,9 @@ use_preset_vocabulary: false
 做夢	zou3 mong7	32561
 兜飯	dau1 vo7	30000
 出門	qyu4 mang5	42250
-刷牙	se4 ngu5	34465
+刷牙	seu4 ngu5	34465
 剃頭	tei3 ddou5	30704
-剪指甲	jji2 zi2 go4	30141
+剪指甲	jji6 zi2 go4	30141
 吃煙	qi4 yi1	30000
 呷茶	ho4 zzo5	30000
 呷酒	ho4 zou2	30000
@@ -2163,7 +2163,7 @@ use_preset_vocabulary: false
 冇	nau6	4450
 切	qi3	10820
 切開	qi3 kee1	31483
-刷	se4	15420
+刷	seu4	15420
 剁	dou3	1220
 削	xio1	1539
 剝	buo4	1541
@@ -2203,7 +2203,7 @@ use_preset_vocabulary: false
 填	ddi5	5688
 壓	o4	5313
 好罷	heh2 bba6	30000
-好過	heh2 gvu3	31408
+好過	heh2 gvu3	40000
 妝好罷	zo1 heh2 bba6	30000
 妝妝爽	zo1 zo1 su2	30000
 嫌憎	yi5 zang1	30274
@@ -3689,7 +3689,7 @@ use_preset_vocabulary: false
 鉛杯	ka1 bai1	15000
 錫台	sei4 ddee5	15000
 鐵聽	ti4 teng1	15000
-雞毛刷	ji1 meh5 se4	15000
+雞毛刷	ji1 meh5 seu4	15000
 面湯	mi7 to1	20211
 頭髮繩	ddou5 fo4 sseng5	15000
 香波	xieh1 bu1	15573
@@ -3796,7 +3796,7 @@ use_preset_vocabulary: false
 
 # 分類詞匯·五、蟲魚、鳥獸
 百腳	ba4 jio4	20000
-虎蚊	fu2 vang5	20000
+虎蚊	fu2 mang5	20000
 蛺蟲	go4 zzong7	20000
 
 # 分類詞匯·八、人品、稱謂
@@ -4171,7 +4171,7 @@ use_preset_vocabulary: false
 緞被	dde6 bbei6	15000
 花夾被	hu1 go4 bbei6	15000
 藤繃	ddang5 ba1	20000
-蚊蟲帳	vang5 zzong7 jieh3	15000
+蚊蟲帳	mang5 jiong7 jieh3	15000
 被套	bbei6 teh3	16200
 被桶	bbei6 ddong6	15000
 被褥	bbei6 ssou8	15794
@@ -4984,7 +4984,7 @@ use_preset_vocabulary: false
 培林	bbai5 leng5	15000
 墨簀	mee8 za4	15000
 多孔板	dou1 kong2 bo2	15000
-官剪	gyu1 jji2	15000
+官剪	gyu1 jji6	15000
 尖刀	ji1 deh1	15760
 快口	ka3 kau2	15000
 扳手	bo1 sou2	15797
@@ -5031,7 +5031,7 @@ use_preset_vocabulary: false
 糊泥刮	vu5 nji5 ba4	15000
 糖絞	ddo5 go2	15000
 系篾	ji3 mi8	15000
-紙刷	zei2 se4	15000
+紙刷	zei2 seu4	15000
 紙槽	zei2 sseh5	15000
 紙簾	zei2 lee5	15000
 紙紉	zei2 njiang5	15000
@@ -5046,7 +5046,7 @@ use_preset_vocabulary: false
 螺絲刀	lou5 si1 deh1	15736
 螺絲釘	lou5 si1 deng1	16151
 蠣灰桶	lei7 fai1 ddong6	15000
-裁縫剪	ssee5 vong5 jji2	15000
+裁縫剪	ssee5 vong5 jji6	15000
 裁縫機	ssee5 vong5 ji1	15296
 角尺	gu4 cei4	15495
 車變	co1 bi3	15000
@@ -5060,7 +5060,7 @@ use_preset_vocabulary: false
 鋼皮尺	gu1 bbei5 cei4	15000
 鋼絲鉗	gu1 si1 jji5	15000
 鐵墩	ti4 de1	15000
-電剪	ddi7 jji2	15000
+電剪	ddi7 jji6	15000
 鞋鑽	hha5 ze1	15000
 駁子	buo4 zi2	15176
 鹹草繩	hho5 ceh2 sseng5	15000
@@ -5068,7 +5068,7 @@ use_preset_vocabulary: false
 麻經	mo5 jiang1	15000
 麻線	mo5 xi3	15484
 黑鐵皮	hee4 ti4 bbei5	15000
-齒剪	ci2 jji2	15000
+齒剪	ci2 jji6	15000
 龍車	luo5 co1	15453
 
 # 常用口語/語氣詞·詞匯
@@ -5815,7 +5815,7 @@ use_preset_vocabulary: false
 讀書桌	ddou8 seu1 jyu4	15000
 鉛筆紅	ka1 bi4 hhong5	15000
 鋼筆	gu1 bi4	16332
-黑板刷	hee4 bo2 se4	15000
+黑板刷	hee4 bo2 seu4	15000
 點名冊	dieh2 meng5 ca4	15419
 
 # 數字
@@ -6540,7 +6540,7 @@ use_preset_vocabulary: false
 花路	hu1 lou7	20523
 萬金油	vo7 jiang1 yau5	21003
 葡萄棚	bbyu5 ddeh5 bba5	20000
-蚊蟲香	vang5 zzong7 xieh1	20000
+蚊蟲香	mang5 jiong7 xieh1	20000
 講台桌	gu2 ddee5 jyu4	20000
 賊骨頭	ssee8 gyu4 ddou5	20357
 酒老龍	zou2 leh6 luo5	20000
@@ -7126,7 +7126,7 @@ use_preset_vocabulary: false
 角落頭	gu4 lo8 ddou5	20000
 調羹頭	dduo5 ga1 ddou5	20000
 鉛筆頭	ka1 bi4 ddou5	20000
-鉸剪頭	go2 jji2 ddou5	20000
+鉸剪頭	go2 jji6 ddou5	20000
 香菸頭	xieh1 yi1 ddou5	20367
 
 # 特殊語法詞·二、后加法
@@ -8226,7 +8226,7 @@ use_preset_vocabulary: false
 燙燙紅	to3 to3 hhong5	15000
 牆頭三七	ssieh5 ddou5 so1 ca4	15000
 片薑黃	pi3 jieh1 hhu5	15000
-牙刷草	ngu5 se4 ceh2	15000
+牙刷草	ngu5 seu4 ceh2	15000
 牽牛花	qi1 ngau5 hu1	15579
 猴大藤	hhau5 dda7 ddang5	15000
 玉蘭	njyu8 lo5	15871
@@ -8440,7 +8440,7 @@ use_preset_vocabulary: false
 草鞋蟲	ceh2 hha5 zzong7	15000
 菜蝨	cee3 sa4	15000
 蒼蠅螫	cu1 yang5 sei4	15000
-蚊蠅	vang5 yang5	15562
+蚊蠅	mang5 yang5	15562
 蛀心蟲	zeu3 sang1 zzong7	15000
 蛀蟲	zeu3 zzong7	15686
 蛆蟲	ceu1 zzong7	15554
@@ -8454,7 +8454,7 @@ use_preset_vocabulary: false
 蠶繭	sse5 ji2	15571
 蠶蛹	sse5 yu6	15554
 袋蟲	ddee7 zzong7	15000
-鉸剪蜓	go2 jji2 ddeng5	15000
+鉸剪蜓	go2 jji6 ddeng5	15000
 鋸木蟲	jyu3 mu8 zzong7	15000
 長角蟲	jjieh5 gu4 zzong7	15000
 雞蛘	ji1 yeh5	15000
@@ -10724,7 +10724,7 @@ use_preset_vocabulary: false
 # 分類詞匯·五、蟲魚、鳥獸
 毛蛓辣	meh5 cei lo8	10000
 米蛘兒	mei6 yeh5 ng5	10000
-蚊螾	vang5 yang	10000
+蚊螾	mang5 yang	10000
 
 # 分類詞匯·八、人品、稱謂
 上輩人	yeh6 bai3 nang5	10000
@@ -11853,7 +11853,7 @@ use_preset_vocabulary: false
 角落頭兒	gu4 lo8 ddou5 ng5	10000
 調羹頭兒	dduo5 ga1 ddou5 ng5	10000
 鉛筆頭兒	ka1 bi4 ddou5 ng5	10000
-鉸剪頭兒	go2 jji2 ddou5 ng5	10000
+鉸剪頭兒	go2 jji6 ddou5 ng5	10000
 
 # 特殊語法詞·五、✕頭
 五角	ng6 gu4	10683
