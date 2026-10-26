@@ -1044,11 +1044,11 @@ use_preset_vocabulary: false
 燈罩	dang1 zo3	30611
 燙鬥	to3 dau3	30000
 爪籬	zo2 lei5	30000
-牀	ssyu5	5158
-牀單	ssyu5 do1	31255
-牀板	ssyu5 bo2	30572
-牀槓	ssyu5 gu1	30000
-牀鋪	ssyu5 pyu1	30825
+牀	yu5	5158
+牀單	yu5 do1	31255
+牀板	yu5 bo2	30572
+牀槓	yu5 gu1	30000
+牀鋪	yu5 pyu1	30825
 牙刷	ngu5 se4	32432
 物事	va8 ssi7	30576
 瓜瓢	gu1 bbi5	30000
@@ -1062,7 +1062,7 @@ use_preset_vocabulary: false
 穿針	qyu1 zang1	30584
 窖配刀	go3 pai3 deh1	30000
 窗簾	qyu1 lee5	32840
-竹牀	zou4 ssyu5	30012
+竹牀	zou4 yu5	30012
 筅帚	xi2 zou2	30000
 筲箕	so1 ji1	30460
 箸	zzei7	912
@@ -1708,7 +1708,7 @@ use_preset_vocabulary: false
 事幹	ssi7 ge3	30633
 人情	ssang5 sseng5	32150
 伴手	bbe6 sou2	30394
-來往	lei5 yu6	31606
+來往	lei5 mu6	31606
 假懵	gu2 mong6	30000
 假病	gu2 bbeng7	30012
 做作	zou3 zo4	31122
@@ -1721,7 +1721,7 @@ use_preset_vocabulary: false
 冤家	yu1 gu1	30887
 冤枉	yu1 yu2	31612
 口供	kau2 jyu1	30717
-合夥	gee4 vu6	31391
+合夥	hhee8 fu2	31391
 名片	meng5 pi3	32882
 吩咐	fang1 fyu3	31314
 呈	zzeng5	4680
@@ -1906,7 +1906,7 @@ use_preset_vocabulary: false
 酒店	zou2 dieh3	44431
 酒戶	zou2 vu6	30000
 醬園	jieh3 yu5	30480
-鈔票	co1 pi1	31702
+鈔票	co1 pi3	31702
 鉛角子	ka1 gu4 zi2	30000
 銀秤	njiang5 ceng3	30000
 銅板	ddong5 bo2	30754
@@ -2122,7 +2122,7 @@ use_preset_vocabulary: false
 打飽嗝	da2 bo2 ga4	30015
 拉尿	lo8 si2	30504
 拉污	lo8 u1	30000
-挨牀	nga5 ssyu5	30000
+挨牀	nga5 yu5	30000
 掃地下	seh2 ddei7 hhu6	30000
 曬暖暖	sa3 ne6 ne6	30000
 梳頭	sou1 ddou5	30770
@@ -2683,7 +2683,7 @@ use_preset_vocabulary: false
 桌上	jyu4 yeh6	32507
 桌裏	jyu4 lei6	30000
 橫旁	va5 bbuo5	30000
-牀下	ssyu5 hhu6	30727
+牀下	yu5 hhu6	30727
 當中	do3 zong1	52551
 盡臀	ssang6 dde5	30000
 碗臀	yu2 dde5	30000
@@ -2759,7 +2759,7 @@ use_preset_vocabulary: false
 一樣	yi8 yeh7	80000
 一段	yi8 dde7	53471
 一爿	yi8 bbo5	30000
-一牀	yi8 ssyu5	30711
+一牀	yi8 yu5	30711
 一瓶	yi8 bbeng5	34630
 一百	yi8 ba4	32778
 一百七十三	yi8 ba4 ca4 ssa8 so1	30000
@@ -2829,7 +2829,7 @@ use_preset_vocabulary: false
 騎鼓樓	jji5 gvu2 lou5	20000
 
 # 一般動作
-並牀槓	beng3 ssyu5 gu1	15000
+並牀槓	beng3 yu5 gu1	15000
 假妝	gu2 zo1	15000
 做事幹	zou3 ssi7 ge3	15000
 做酒	zou3 zou2	15000
@@ -3064,7 +3064,7 @@ use_preset_vocabulary: false
 櫥格	zzeu5 ga4	15000
 沙發椅	so1 fo4 yi2	15564
 浪凳	lo7 dang3	15000
-牀頭櫃	ssyu5 ddou5 jjyu7	15738
+牀頭櫃	yu5 ddou5 jjyu7	15738
 牢奶	leh5 na6	15000
 琴凳	jjiang5 dang3	15000
 矮椅背	a2 yi2 bai1	15000
@@ -3526,7 +3526,7 @@ use_preset_vocabulary: false
 覆埲困	fu4 bbong6 kang3	15000
 走賺戶	zau2 zzo7 vu6	15000
 轉仄	jyu2 zee4	15000
-鋪牀	pyu1 ssyu5	15548
+鋪牀	pyu1 yu5	15548
 鍺指甲	jieh2 zi2 go4	15000
 頭頸困諾爻	ddou5 jiang2 kang3 no8 hho5	15000
 
@@ -3564,7 +3564,7 @@ use_preset_vocabulary: false
 發蛔	fo4 vai5	15000
 盲腸炎	ma5 jjieh5 yi5	15441
 神昏	ssang5 xyu1	15010
-私拉牀裏	si1 lo8 ssyu5 lei6	15000
+私拉牀裏	si1 lo8 yu5 lei6	15000
 肚痛	ddeu6 tong3	15564
 肝炎	ge1 yi5	16054
 肝經	ge1 jiang1	15000
@@ -4133,40 +4133,40 @@ use_preset_vocabulary: false
 騰騰響	ddang5 ddang5 xieh2	15000
 
 # 卧室用具
-匠牀	ssieh7 ssyu5	15000
+匠牀	ssieh7 yu5	15000
 地鋪	ddei7 pyu1	15699
 大網帳	dda7 mo6 jieh3	15000
 大衣架	dda7 yi1 gu3	15000
-客牀	ka4 ssyu5	15000
+客牀	ka4 yu5	15000
 布帳腳	byu3 jieh3 jio4	15000
 布帳門	byu3 jieh3 mang5	15000
 布帳頂	byu3 jieh3 deng2	15000
 帳額	jieh3 nga8	15292
 插花被	co4 hu1 bbei6	15000
-板半牀	bo2 beu3 ssyu5	15000
+板半牀	bo2 beu3 yu5	15000
 枕頭席	zang2 ddou5 ssei8	15000
 格子鋪	ga4 zi2 pyu1	15000
 梳妝籠	sou1 zo1 long5	15000
 棉被	mi5 bbei6	15871
 棉褥	mi5 ssou8	15000
 毛巾被	meh5 jiang1 bbei6	15528
-涼牀	lieh5 ssyu5	15000
-牀圍	ssyu5 vyu5	15000
-牀底角	ssyu5 dei2 gu4	15000
-牀橫頭	ssyu5 va5 ddou5	15000
-牀毯	ssyu5 to2	15401
-牀簣	ssyu5 jjyu7	15000
+涼牀	lieh5 yu5	15000
+牀圍	yu5 vyu5	15000
+牀底角	yu5 dei2 gu4	15000
+牀橫頭	yu5 va5 ddou5	15000
+牀毯	yu5 to2	15401
+牀簣	yu5 jjyu7	15000
 玻璃鏡	bu1 lei5 jiang3	15000
-眠牀	mi5 ssyu5	15000
-眠牀板	mi5 ssyu5 bo2	15000
-眠牀簣	mi5 ssyu5 jjyu7	15000
-眠牀頭	mi5 ssyu5 ddou5	15000
-眠牀頭本	mi5 ssyu5 ddou5 bang2	15000
+眠牀	mi5 yu5	15000
+眠牀板	mi5 yu5 bo2	15000
+眠牀簣	mi5 yu5 jjyu7	15000
+眠牀頭	mi5 yu5 ddou5	15000
+眠牀頭本	mi5 yu5 ddou5 bang2	15000
 私壺	si1 vu5	15000
 私盆櫃	si1 bbe5 jjyu7	15000
 秋被	cou1 bbei6	15000
 稻桶圓	ddeh6 ddong6 yu5	15000
-竹牀板	zou4 ssyu5 bo2	15000
+竹牀板	zou4 yu5 bo2	15000
 絲綿被	si1 mi5 bbei6	15000
 緞被	dde6 bbei6	15000
 花夾被	hu1 go4 bbei6	15000
@@ -4175,9 +4175,9 @@ use_preset_vocabulary: false
 被套	bbei6 teh3	16200
 被桶	bbei6 ddong6	15000
 被褥	bbei6 ssou8	15794
-車變牀	co1 bi3 ssyu5	15000
+車變牀	co1 bi3 yu5	15000
 鋪蓋	pyu1 gee3	15581
-鋼絲牀	gu1 si1 ssyu5	15452
+鋼絲牀	gu1 si1 yu5	15452
 鴨毛被	o4 meh5 bbei6	15000
 龍鬚席	luo5 seu1 ssei8	15000
 
@@ -4484,7 +4484,7 @@ use_preset_vocabulary: false
 雙壙墳	xyu1 ku3 vang5	15000
 靈位	leng5 vyu7	15522
 靈堂	leng5 ddo5	15764
-靈牀	leng5 ssyu5	15390
+靈牀	leng5 yu5	15390
 風水樹	fong1 seu2 sseu7	15000
 風水瓶	fong1 seu2 bbeng5	15000
 骸骨	hha5 gyu4	15578
@@ -5051,7 +5051,7 @@ use_preset_vocabulary: false
 角尺	gu4 cei4	15495
 車變	co1 bi3	15000
 醬匾	jieh3 bi2	15000
-鉗牀	jji5 ssyu5	15000
+鉗牀	jji5 yu5	15000
 鉛桶	ka1 ddong6	15000
 銅絲箍	ddong5 si1 gvu1	15000
 鋒口	fong1 kau2	15000
@@ -5643,7 +5643,7 @@ use_preset_vocabulary: false
 洋房式	yeh5 vo5 sei4	15000
 漁寮	njyu5 luo5	15000
 火燒基	fu2 xyu1 ji1	15000
-眠牀間	mi5 ssyu5 go1	15000
+眠牀間	mi5 yu5 go1	15000
 老屋	leh6 u4	15736
 走馬樓	zau2 mo6 lou5	15045
 遊廊	yau5 lo5	15493
@@ -6901,14 +6901,14 @@ use_preset_vocabulary: false
 單爿門	do1 bbo5 mang5	20000
 塑料瓶	seu3 luo7 bbeng5	20214
 墨水瓶	mee8 seu2 bbeng5	20472
-小牀	xyu2 ssyu5	20129
+小牀	xyu2 yu5	20129
 小船	xyu2 yu5	20974
 小門	xyu2 mang5	20599
 布頭	byu3 ddou5	20540
 手指頭	sou2 zi2 ddou5	20806
 手掌甌	sou2 jieh2 au1	20000
 指頭	zi2 ddou5	21095
-板牀	bo2 ssyu5	20023
+板牀	bo2 yu5	20023
 水餃	seu2 jyu2	20870
 洋奶瓶	yeh5 na6 bbeng5	20000
 洋油瓶	yeh5 yau5 bbeng5	20000
@@ -7161,7 +7161,7 @@ use_preset_vocabulary: false
 河埠	vu5 bbyu7	20000
 火媚	fu2 mei7	20000
 火媚頭	fu2 mei7 ddou5	20000
-牀橫	ssyu5 va5	20000
+牀橫	yu5 va5	20000
 猴頭	hhau5 ddou5	20587
 瓦檐	ngu6 ya6	20000
 瓦背	ngu6 bai1	20000
@@ -7866,7 +7866,7 @@ use_preset_vocabulary: false
 生財	sa1 ssee5	15630
 番薯鏤	fo1 zzeu6 lau7	15000
 當店	do3 dieh3	15000
-當票	do3 pi1	15421
+當票	do3 pi3	15421
 發洋財	fo4 yeh5 ssee5	15373
 白鐵店	bba8 ti4 dieh3	15000
 皮鞋佬	bbei5 hha5 leh6	15000
@@ -8075,7 +8075,7 @@ use_preset_vocabulary: false
 達爺	ddo8 yi5	15000
 郵差	yau5 ca1	15592
 野和尚	yeh6 vu5 ssieh7	15000
-鉗牀老師	jji5 ssyu5 leh6 si1	15000
+鉗牀老師	jji5 yu5 leh6 si1	15000
 門房	mang5 vo5	15553
 門房伯	mang5 vo5 ba4	15000
 開巖	kee1 ngo5	15000
@@ -8505,7 +8505,7 @@ use_preset_vocabulary: false
 交待	go1 ddee6	16412
 保出	beh2 qyu4	15000
 修譜	sou1 byu2	15476
-傳票	jjyu5 pi1	15667
+傳票	jjyu5 pi3	15667
 公休	gong1 xiau1	15572
 分家書	fang1 gu1 seu1	15000
 刑事官司	yang5 ssi7 gyu1 si1	15000
@@ -8731,7 +8731,7 @@ use_preset_vocabulary: false
 龍牙菜	luo5 ngu5 cee3	15000
 
 # 賬目度量衡
-一張鈔票	yi8 jieh1 co1 pi1	15000
+一張鈔票	yi8 jieh1 co1 pi3	15000
 倒款	deh2 ke2	15000
 做傢俬	zou3 gu1 si1	15000
 剩會	sseng7 vai7	15000
@@ -8758,7 +8758,7 @@ use_preset_vocabulary: false
 湊秤	cau3 ceng3	15000
 澆用	jyu1 yu7	15000
 現摸摸	yi7 mo8 mo8	15000
-發票	fo4 pi1	21967
+發票	fo4 pi3	21967
 白口沓	bba8 kau2 ddee8	15000
 碼子	mo6 zi2	15505
 磅秤	buo3 ceng3	15548
@@ -8780,7 +8780,7 @@ use_preset_vocabulary: false
 銀角子	njiang5 gu4 zi2	15000
 銅盤秤	ddong5 bbe5 ceng3	15000
 雕鷹番	duo1 yang1 fo1	15000
-零碎鈔票	leng5 sai3 co1 pi1	15000
+零碎鈔票	leng5 sai3 co1 pi3	15000
 零頭找尾	leng5 ddou5 zo2 mei6	15000
 魯班尺	lou6 bo1 cei4	15000
 龍番	luo5 fo1	15000
@@ -9995,7 +9995,7 @@ use_preset_vocabulary: false
 手甌兒	sou2 au1 ng5	15000
 抑癢	lau6 yeh6	15000
 指頭兒	zi2 ddou5 ng5	15000
-牙牀肉	ngu5 ssyu5 njau8	15000
+牙牀肉	ngu5 yu5 njau8	15000
 瑣蠻指頭兒	sou2 mo5 zi2 ddou5 ng5	15000
 當中指頭兒	do3 zong1 zi2 ddou5 ng5	15000
 眼睛珠	ngo6 leng5 zeu1	15000
@@ -10807,7 +10807,7 @@ use_preset_vocabulary: false
 黃魚車	hhu5 ngeu5 co1	10403
 
 # 分類詞匯·十四、婚嫁、喪葬
-人來客往	nang5 lei5 ka4 yu6	10000
+人來客往	nang5 lei5 ka4 mu6	10000
 人棺	nang5 gyu1	10000
 做生日	zou3 sa1 nee8	10503
 入殮	njai8 li7	10588
@@ -10911,10 +10911,10 @@ use_preset_vocabulary: false
 兩頭掇兒	la6 ddou5 de4 ng5	7500
 吊帳兒	duo3 jieh3 ng5	7500
 布帳筅兒	byu3 jieh3 xi2 ng5	7500
-板牀兒	bo2 ssyu5 ng5	7500
-牀外角	ssyu5 va7 gu4	7500
+板牀兒	bo2 yu5 ng5	7500
+牀外角	yu5 va7 gu4	7500
 被兒	bbei6 ng5	7500
-踏牀	dda8 ssyu5	7500
+踏牀	dda8 yu5	7500
 鏡枱	jiang3 ddee	7500
 
 # 地理
@@ -11684,7 +11684,7 @@ use_preset_vocabulary: false
 塑料瓶兒	seu3 luo7 bbeng5 ng5	10000
 墨水瓶兒	mee8 seu2 bbeng5 ng5	10000
 娒兒	mai ng5	10000
-小牀兒	xyu2 ssyu5 ng5	10000
+小牀兒	xyu2 yu5 ng5	10000
 小船兒	xyu2 yu5 ng5	10000
 小門兒	xyu2 mang5 ng5	10000
 布衫兒	byu3 so1 ng5	10254
@@ -11695,7 +11695,7 @@ use_preset_vocabulary: false
 洋奶瓶兒	yeh5 na6 bbeng5 ng5	10000
 洋油瓶兒	yeh5 yau5 bbeng5 ng5	10000
 燒酒瓶兒	xyu1 zou2 bbeng5 ng5	10000
-牀兒	ssyu5 ng5	10000
+牀兒	yu5 ng5	10000
 玻璃瓶兒	bu1 lei5 bbeng5 ng5	10000
 皮𥫷	bbei5 qau	10000
 皮𥫷兒	bbei5 qau ng5	10000
