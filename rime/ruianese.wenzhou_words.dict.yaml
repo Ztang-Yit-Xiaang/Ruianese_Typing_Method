@@ -355,7 +355,7 @@ use_preset_vocabulary: false
 姜	jieh1	2324
 小白菜	xyu2 bba8 cee3	30722
 小麥	xyu2 ma8	33191
-山茶花	so1 zzo5 hu1	30572
+山茶花	so1 zzu5 hu1	30572
 懦柿	nou7 ssi6	30000
 扁豆	bi2 ddou7	30607
 指甲花	zi2 gu4 hu1	30000
@@ -645,7 +645,7 @@ use_preset_vocabulary: false
 冷水	la6 seu2	31832
 千張	qi1 jieh1	30576
 卵清	lang6 ceng1	30000
-卵湯	lang6 to1	30000
+卵湯	lang6 tu1	30000
 卵白	lang6 bba8	30410
 卵糕	lang6 geh1	30000
 卵飯	lang6 vo7	30000
@@ -666,10 +666,10 @@ use_preset_vocabulary: false
 油炸餜	yau5 zo3 gvu2	30000
 洋粉	yeh5 fang2	30374
 洗米	sei2 mei6	30017
-湧湯	yu6 to1	30000
-湯	to1	6057
-湯圓	to1 yu5	30909
-溫暾湯	yu1 te1 to1	30000
+湧湯	yu6 tu1	30000
+湯	tu1	6057
+湯圓	tu1 yu5	30909
+溫暾湯	yu1 te1 tu1	30000
 潷	bi4	872
 澆頭	jyu1 ddou5	30498
 炒卵飯	co2 lang6 vo7	30000
@@ -680,7 +680,7 @@ use_preset_vocabulary: false
 燒餅	xyu1 beng2	30969
 爛	lo7	6135
 生硬粒	sa1 nga7 la8	30000
-白滾湯	bba8 gang2 to1	30000
+白滾湯	bba8 gang2 tu1	30000
 皮蛋	bbei5 ddo7	30826
 窖配	go3 pai3	30000
 粉	fang2	5489
@@ -694,7 +694,7 @@ use_preset_vocabulary: false
 糖霜	ddo5 xyu1	30108
 素個	sou3 gai3	30000
 索面	so4 mi7	30000
-索面湯	so4 mi7 to1	30000
+索面湯	so4 mi7 tu1	30000
 老酒	leh6 zou2	30718
 肚內	ddeu6 nai7	30000
 腰子	yu1 zi2	30553
@@ -702,9 +702,9 @@ use_preset_vocabulary: false
 臘腸	lo8 jjieh5	30684
 芝麻醬	zi1 mo5 jieh3	30555
 花捲	hu1 jyu2	30557
-茶濃	zzo5 nong5	30000
-茶葉	zzo5 yi8	34325
-茶葉渣	zzo5 yi8 zo1	30000
+茶濃	zzu5 nong5	30000
+茶葉	zzu5 yi8	34325
+茶葉渣	zzu5 yi8 zo1	30000
 菜乾	cee3 ge1	30476
 菜油	cee3 yau5	30599
 菜鹹	cee3 hho5	30000
@@ -1026,11 +1026,11 @@ use_preset_vocabulary: false
 洋皁瀑	yeh5 sseh6 bbyu8	30000
 洗浴個腳盂	sei2 yu8 gai3 jio4 vyu5	30000
 洗衣板	sei2 yi1 bo2	30438
-洗面湯	sei2 mi7 to1	30000
-湯壺	to1 vu5	30323
-湯管	to1 gyu2	30000
-湯罐	to1 gyu3	30367
-湯袋	to1 ddee7	30000
+洗面湯	sei2 mi7 tu1	30000
+湯壺	tu1 vu5	30323
+湯管	tu1 gyu2	30000
+湯罐	tu1 gyu3	30367
+湯袋	tu1 ddee7	30000
 火盆	fu2 bbe5	30545
 火箱	fu2 xieh1	30345
 火籠	fu2 long5	30416
@@ -1080,7 +1080,7 @@ use_preset_vocabulary: false
 腳盂	jio4 vyu5	30000
 自來火	ssi7 lei5 fu2	30000
 花樽	hu1 ze1	30000
-茶壺	zzo5 vu5	30844
+茶壺	zzu5 vu5	30844
 草柴	ceh2 ssa5	30000
 草紙	ceh2 zei2	30539
 草荐	ceh2 ji3	30316
@@ -1556,7 +1556,7 @@ use_preset_vocabulary: false
 藥房	yo8 vo5	31040
 藥渣	yo8 zo1	30513
 藥粉	yo8 fang2	30566
-藥茶	yo8 zzo5	30522
+藥茶	yo8 zzu5	30522
 血流出	xyu4 lou5 qyu4	30000
 表汗	bi2 hhe7	30000
 解毒	ga2 ddou8	31104
@@ -1773,7 +1773,7 @@ use_preset_vocabulary: false
 欺侮	qi1 vu6	30577
 死對頭	si2 dai3 ddou5	30570
 殺頭	so4 ddou5	30546
-泡茶	po3 zzo5	30829
+泡茶	po3 zzu5	30829
 牢監	leh5 go1	30000
 班房	bo1 vo5	30532
 田契	ddi5 qi3	30370
@@ -1792,8 +1792,8 @@ use_preset_vocabulary: false
 罰款	vo8 ke2	34204
 腳鏈	jio4 li7	30070
 腳鐐	jio4 luo5	30526
-茶食	zzo5 ssei8	30471
-茶點	zzo5 dieh2	30580
+茶食	zzu5 ssei8	30471
+茶點	zzu5 dieh2	30580
 蓋圖章	gee3 ddeu5 ji1	30000
 蕩	ddo7	1258
 行賄	hha5 fai2	31045
@@ -1865,7 +1865,7 @@ use_preset_vocabulary: false
 發興	fo4 xiang1	30000
 發薪水	fo4 sang1 seu2	30462
 百貨店	ba4 fu3 dieh3	30595
-盆湯	bbe5 to1	30387
+盆湯	bbe5 tu1	30387
 盤存	bbe5 sse5	30480
 盤纏	bbe5 jji5	30531
 盤貨	bbe5 fu3	30382
@@ -1881,7 +1881,7 @@ use_preset_vocabulary: false
 繳用	jio4 yu7	30000
 老主顧	leh6 zeu2 gvu3	30473
 舀油	yu6 yau5	30000
-茶館店	zzo5 gyu2 dieh3	30000
+茶館店	zzu5 gyu2 dieh3	30000
 菜館	cee3 gyu2	30797
 行俏	hha5 qio3	30000
 行用	hha5 yu7	30000
@@ -2107,7 +2107,7 @@ use_preset_vocabulary: false
 剃頭	tei3 ddou5	30704
 剪指甲	jji6 zi2 gu4	30141
 吃煙	qi4 yi1	30000
-呷茶	ho4 zzo5	30000
+呷茶	ho4 zzu5	30000
 呷酒	ho4 zou2	30000
 噎牢	yi4 leh5	30000
 困	kang3	4836
@@ -2824,7 +2824,7 @@ use_preset_vocabulary: false
 水漈	seu2 zei3	20000
 濁氣	jjyu8 qi3	20550
 蠣灰壇	lei7 fai1 ddo5	20000
-蠻湯	mo5 to1	20000
+蠻湯	mo5 tu1	20000
 訾奈	zi2 na7	20000
 騎鼓樓	jji5 gvu2 lou5	20000
 
@@ -3337,7 +3337,7 @@ use_preset_vocabulary: false
 火車站	fu2 co1 zo3	17912
 烏鯊	vu1 so1	15000
 爛污泥路	lo7 u1 nji5 lou7	15000
-盤湯	bbe5 to1	15000
+盤湯	bbe5 tu1	15000
 石子路	ssei8 zi2 lou7	15509
 石板路	ssei8 bo2 lou7	15586
 石頭路	ssei8 ddou5 lou7	15000
@@ -3614,7 +3614,7 @@ use_preset_vocabulary: false
 肚底貨	ddeu6 dei2 fu3	15000
 背對	bai1 dai3	15780
 腳力	jio4 lei8	15525
-茶子餅	zzo5 zi2 beng2	15000
+茶子餅	zzu5 zi2 beng2	15000
 親家	cang1 gu1	15612
 轉匯	jyu2 vai6	15403
 轉磁	jyu2 ssi5	15000
@@ -3642,7 +3642,7 @@ use_preset_vocabulary: false
 時辰鍾	ssi5 ssang5 jyu1	20000
 望遠鏡	vo7 yu6 jiang3	18339
 樹面盂	sseu7 mi7 vyu5	15000
-橡皮湯袋	ssieh6 bbei5 to1 ddee7	15000
+橡皮湯袋	ssieh6 bbei5 tu1 ddee7	15000
 油皁	yau5 sseh6	15000
 洋巾	yeh5 jiang1	15000
 洋糊泥	yeh5 vu5 nji5	15000
@@ -3653,7 +3653,7 @@ use_preset_vocabulary: false
 火媒頭紙	fu2 mee5 ddou5 zei2	15000
 火把燈	fu2 bu2 dang1	15000
 火篾	fu2 mi8	15000
-灰湯	fai1 to1	15000
+灰湯	fai1 tu1	15000
 煤氣燈	mee5 qi3 dang1	15422
 燈油	dang1 yau5	15491
 燈盤	dang1 bbe5	15013
@@ -3690,7 +3690,7 @@ use_preset_vocabulary: false
 錫台	sei4 ddee5	15000
 鐵聽	ti4 teng1	15000
 雞毛刷	ji1 meh5 seu4	15000
-面湯	mi7 to1	20211
+面湯	mi7 tu1	20211
 頭髮繩	ddou5 fo4 sseng5	15000
 香波	xieh1 bu1	15573
 香皂	xieh1 sseh6	15869
@@ -3895,13 +3895,13 @@ use_preset_vocabulary: false
 接力	ji4 lei8	21153
 桔紅糕	ji4 hhong5 geh1	20012
 油炮丸	yau5 po3 yu5	20000
-清湯面	ceng1 to1 mi7	20000
-溫燉湯	yu1 dang3 to1	20000
+清湯面	ceng1 tu1 mi7	20000
+溫燉湯	yu1 dang3 tu1	20000
 濟力	zei3 lei8	20000
 生冷	sa1 la6	20584
 白塔油	bba8 to4 yau5	20000
 紗面	so1 mi7	20000
-紗面湯	so1 mi7 to1	20000
+紗面湯	so1 mi7 tu1	20000
 調調口味	dduo5 dduo5 kau2 mei7	20000
 豬腳爪	zeu1 jio4 zo2	20000
 走味	zau2 mei7	20425
@@ -4293,7 +4293,7 @@ use_preset_vocabulary: false
 海臀	hee2 dde5	15000
 清水坑	ceng1 seu2 ka1	15000
 清油	ceng1 yau5	15527
-湯氣	to1 qi3	15000
+湯氣	tu1 qi3	15000
 滷水	lou6 seu2	15767
 漫大水	mo7 dda7 seu2	15000
 潮平	jjyu5 bbeng5	15000
@@ -4352,7 +4352,7 @@ use_preset_vocabulary: false
 紙山	zei2 so1	15000
 細蠣灰	sei3 lei7 fai1	15000
 臘石	lo8 ssei8	15000
-茶湯	zzo5 to1	15626
+茶湯	zzu5 tu1	15626
 草坦	ceh2 to2	15000
 菜園	cee3 yu5	15758
 萬丈深潭	vo7 jjieh6 sang1 ddee5	15000
@@ -4379,7 +4379,7 @@ use_preset_vocabulary: false
 鏖糟水	eh1 zeh1 seu2	15000
 鐵惡	ti4 u4	15000
 鐵皮	ti4 bbei5	15900
-鑾湯	le5 to1	15000
+鑾湯	le5 tu1	15000
 閑田	hho5 ddi5	15000
 靈昆	leng5 gang1	15000
 青灰	ceng1 fai1	15500
@@ -5925,7 +5925,7 @@ use_preset_vocabulary: false
 新年酒	sang1 nji5 zou2	15000
 春三八九	cong1 so1 bo4 jiau2	15000
 春分	cong1 fang1	15779
-春茶	cong1 zzo5	15586
+春茶	cong1 zzu5	15586
 春裏	cong1 lei6	15000
 月大	njyu8 dda7	15000
 朝世	jyu1 sei3	15000
@@ -6194,7 +6194,7 @@ use_preset_vocabulary: false
 篾簀	mi8 za4	15000
 米真柏	mei6 zang1 ba4	15000
 糉箬	zong3 ssio8	15000
-紅花茶子	hhong5 hu1 zzo5 zi2	15000
+紅花茶子	hhong5 hu1 zzu5 zi2	15000
 紅豆樹	hhong5 ddou7 sseu7	15000
 紫玉蘭	zi2 njyu8 lo5	15000
 紫珠	zi2 zeu1	15000
@@ -6306,7 +6306,7 @@ use_preset_vocabulary: false
 花椒	hu1 jyu1	16763
 花椒鹽	hu1 jyu1 yi5	15015
 茴香	vai5 xieh1	15625
-茶油	zzo5 yau5	15564
+茶油	zzu5 yau5	15564
 落花生糖	lo8 hu1 sa1 ddo5	15000
 落花生酥	lo8 hu1 sa1 seu1	15000
 落花生醬	lo8 hu1 sa1 jieh3	15000
@@ -6382,8 +6382,8 @@ use_preset_vocabulary: false
 箸升	zzei7 seng1	15000
 聽頭	teng1 ddou5	15396
 自來火梗	ssi7 lei5 fu2 ga2	15000
-茶杯	zzo5 bai1	15973
-茶盞	zzo5 zo2	15040
+茶杯	zzu5 bai1	15973
+茶盞	zzu5 zo2	15040
 蓋碗碟	gee3 yu2 dduo8	15000
 蜂窠煤球	fong1 kvu1 mee5 jjiau5	15000
 鑊額	hhu8 nga8	15000
@@ -6400,9 +6400,9 @@ use_preset_vocabulary: false
 # 煙茶酒
 元燒	njyu5 xyu1	15000
 冰淇淋	beng1 jji5 leng5	17479
-冷茶	la6 zzo5	15000
+冷茶	la6 zzu5	15000
 十月臘	ssa8 njyu8 lo8	15000
-卵茶	lang6 zzo5	15000
+卵茶	lang6 zzu5	15000
 卵酒	lang6 zou2	15000
 吃香菸	qi4 xieh1 yi1	15000
 堆花燒	dai1 hu1 xyu1	15000
@@ -6420,17 +6420,17 @@ use_preset_vocabulary: false
 皮絲	bbei5 si1	15000
 米林檎	mei6 leng5 jjiang5	15000
 米燒	mei6 xyu1	15000
-粗茶爿	ceu1 zzo5 bbo5	15000
-糖茶	ddo5 zzo5	15000
+粗茶爿	ceu1 zzu5 bbo5	15000
+糖茶	ddo5 zzu5	15000
 糯米酒	nou7 mei6 zou2	15000
 紅丸	hhong5 yu5	15086
 紅曲	hhong5 qiou4	15540
-細茶葉	sei3 zzo5 yi8	15000
+細茶葉	sei3 zzu5 yi8	15000
 紹興酒	ssyu6 xiang1 zou2	15492
 老酒汗	leh6 zou2 hhe7	15000
-茶子	zzo5 zi2	15000
-茶子樹	zzo5 zi2 sseu7	15000
-茶葉茶	zzo5 yi8 zzo5	15000
+茶子	zzu5 zi2	15000
+茶子樹	zzu5 zi2 sseu7	15000
+茶葉茶	zzu5 yi8 zzu5	15000
 荷蘭水	vu5 lo5 seu2	15000
 酒氣	zou2 qi3	15596
 酒水	zou2 seu2	15971
@@ -6550,7 +6550,7 @@ use_preset_vocabulary: false
 馬光鐵	mu6 gu1 ti4	20000
 駭覆蛇	hha6 fu4 ssei5	20000
 骷髏爿	kvu1 lau5 bbo5	20000
-黃湯	hhu5 to1	20506
+黃湯	hhu5 tu1	20506
 
 # 特徵詞·一、摹狀結構
 光眼盯盯	gu1 ngo6 zza5 zza5	20000
@@ -6622,7 +6622,7 @@ use_preset_vocabulary: false
 歪叭	ua1 buo4	20000
 歲小	seu3 xyu2	20000
 毛草	meh5 ceh2	20000
-泡湯	po3 to1	20870
+泡湯	po3 tu1	20870
 活絡	vuo8 lo8	20633
 淨空	sseng7 kong1	20126
 清心	ceng1 sang1	20769
@@ -6864,7 +6864,7 @@ use_preset_vocabulary: false
 
 # 特徵詞·第九節 九字詞
 未進山門就想做方丈	vei7 zang3 so1 mang5 ssou7 xieh2 zou3 fo1 jjieh6	20000
-茶壺打破爻只剩張嘴	zzo5 vu5 da2 pyu3 hho5 zi2 sseng7 jieh1 zeu2	20000
+茶壺打破爻只剩張嘴	zzu5 vu5 da2 pyu3 hho5 zi2 sseng7 jieh1 zeu2	20000
 
 # 特徵詞·第五節 五字詞
 一懶生百病	yi8 lo6 sa1 ba4 bbeng7	20000
@@ -7651,7 +7651,7 @@ use_preset_vocabulary: false
 糯柿	nou7 ssi6	15000
 紅棗	hhong5 zeh2	16239
 羅浮	lou5 veh5	15000
-茶山梅	zzo5 so1 mee5	15000
+茶山梅	zzu5 so1 mee5	15000
 荸薺	bbe8 ssei6	15583
 荸薺圓	bbe8 ssei6 yu5	15000
 荸薺蔥	bbe8 ssei6 cong1	15000
@@ -7679,7 +7679,7 @@ use_preset_vocabulary: false
 黃金瓜	hhu5 jiang1 gu1	15000
 
 # 疾病一般
-七賢湯	ca4 yi5 to1	15000
+七賢湯	ca4 yi5 tu1	15000
 丹方	do1 fo1	15474
 傷藥	xieh1 yo8	15482
 先生包	xi1 sa1 bo1	15000
@@ -7695,7 +7695,7 @@ use_preset_vocabulary: false
 死坯	si2 pai1	15000
 死症	si2 zeng1	15346
 毛病	meh5 bbeng7	20230
-涼茶	lieh5 zzo5	15891
+涼茶	lieh5 zzu5	15891
 溫溫痛	yu1 yu1 tong3	15000
 溻冷汗	to4 la6 hhe7	15000
 瑣病	sou2 bbeng7	15000
@@ -7735,7 +7735,7 @@ use_preset_vocabulary: false
 炒粉幹	co2 fang2 ge1	15000
 炒糕	co2 geh1	15000
 炸飯	zo3 vo7	15000
-炸飯湯	zo3 vo7 to1	15000
+炸飯湯	zo3 vo7 tu1	15000
 炸飯粥	zo3 vo7 zou4	15000
 烏焦飯	vu1 jyu1 vo7	15000
 生眼粒	sa1 ngo6 la8	15000
@@ -7755,7 +7755,7 @@ use_preset_vocabulary: false
 綠豆粥	lu8 ddou7 zou4	15521
 芝腳糖	zi1 jio4 ddo5	15000
 菜飯	cee3 vo7	15052
-薄粥湯	bbuo8 zou4 to1	15000
+薄粥湯	bbuo8 zou4 tu1	15000
 豬髒粉	zeu1 sso7 fang2	15000
 鏖糕	eh1 geh1	15000
 飯幹	vo7 ge1	15000
@@ -7826,7 +7826,7 @@ use_preset_vocabulary: false
 招牌腳	jyu1 bba5 jio4	15000
 搭股	dee4 gvu2	15000
 擦背	co4 bai1	15483
-攢湯	sse7 to1	15000
+攢湯	sse7 tu1	15000
 攢豬	sse7 zeu1	15000
 散賣	so3 ma7	15000
 料器店	luo7 qi3 dieh3	15000
@@ -7848,10 +7848,10 @@ use_preset_vocabulary: false
 油車	yau5 co1	15762
 泡貨	po3 fu3	15399
 洗大池	sei2 dda7 zzei5	15000
-洗盆湯	sei2 bbe5 to1	15000
+洗盆湯	sei2 bbe5 tu1	15000
 海味行	hee2 mei7 hha5	15000
 淡曬	ddo6 sa3	15000
-湯豬	to1 zeu1	15000
+湯豬	tu1 zeu1	15000
 潮船行	jjyu5 yu5 hha5	15000
 炒貨間	co2 fu3 go1	15000
 炭行	to3 hha5	15000
@@ -7890,9 +7890,9 @@ use_preset_vocabulary: false
 苓戶	leng5 vu6	15000
 苧麻店	njiang5 mo5 dieh3	15000
 茅竹行	mo5 zou4 hha5	15000
-茶棧	zzo5 zzo7	15000
-茶行	zzo5 hha5	15000
-茶食店	zzo5 ssei8 dieh3	15000
+茶棧	zzu5 zzo7	15000
+茶行	zzu5 hha5	15000
+茶食店	zzu5 ssei8 dieh3	15000
 草行貨	ceh2 hha5 fu3	15000
 菜場	cee3 jjieh6	15876
 落腳貨	lo8 jio4 fu3	15000
@@ -8130,7 +8130,7 @@ use_preset_vocabulary: false
 膨脝	bba5 ha1	15000
 花油	hu1 yau5	15000
 花腸	hu1 jjieh5	15000
-茶葉卵	zzo5 yi8 lang6	15000
+茶葉卵	zzu5 yi8 lang6	15000
 豬帶	zeu1 da3	15000
 豬帶皮	zeu1 da3 bbei5	15000
 豬心	zeu1 sang1	15531
@@ -8175,7 +8175,7 @@ use_preset_vocabulary: false
 土三七	teu2 so1 ca4	15000
 土大黃	teu2 dda7 hhu5	15000
 地茄	ddei7 jji5	15000
-地茶	ddei7 zzo5	15000
+地茶	ddei7 zzu5	15000
 夏枯草	hhu7 kvu1 ceh2	15325
 大紅袍	dda7 hhong5 bbeh5	15354
 天芥菜	ti1 ga3 cee3	15000
@@ -8244,7 +8244,7 @@ use_preset_vocabulary: false
 白露刺	bba8 lou7 ci3	15000
 白頭翁	bba8 ddou5 ong1	15537
 白馬蘭	bba8 mu6 lo5	15000
-矮地茶	a2 ddei7 zzo5	15000
+矮地茶	a2 ddei7 zzu5	15000
 矮腳山落茄	a2 jio4 so1 lo8 jji5	15000
 秋棠	cou1 ddo5	15000
 秋葵花	cou1 jjyu5 hu1	15000
@@ -8357,7 +8357,7 @@ use_preset_vocabulary: false
 洋粉面	yeh5 fang2 mi7	15000
 海帶	hee2 da3	15967
 淮豆板	va5 ddou7 bo2	15000
-湯頭	to1 ddou5	15523
+湯頭	tu1 ddou5	15523
 澆粉面	jyu1 fang2 mi7	15000
 燒烤	xyu1 keh2	19112
 燙菜鹹	to3 cee3 hho5	15000
@@ -8511,7 +8511,7 @@ use_preset_vocabulary: false
 刑事官司	yang5 ssi7 gyu1 si1	15000
 判刑	pe3 yang5	16065
 叉死	co1 si2	15000
-吃紅湯圓	qi4 hhong5 to1 yu5	15000
+吃紅湯圓	qi4 hhong5 tu1 yu5	15000
 同謀	ddong5 meh5	15541
 命令	meng7 leng7	23769
 問案	vang7 e3	15457
@@ -9135,7 +9135,7 @@ use_preset_vocabulary: false
 鴨嘴帽	o4 zeu2 meh7	15000
 
 # 食
-做湯	zou3 to1	15000
+做湯	zou3 tu1	15000
 吃寡酒	qi4 gu2 zou2	15000
 吃白食	qi4 bba8 ssei8	15000
 吃相	qi4 xieh1	15000
@@ -9165,8 +9165,8 @@ use_preset_vocabulary: false
 老鼠吃	leh6 cei2 qi4	15000
 耐餓	nee7 ngu7	15000
 肚餓爻	ddeu6 ngu7 hho5	15000
-舀湯	yu6 to1	15402
-鏖湯	eh1 to1	15000
+舀湯	yu6 tu1	15402
+鏖湯	eh1 tu1	15000
 開飯	kee1 vo7	15805
 飯包	vo7 bo1	15000
 飯煮唔	vo7 zei2 ngu5	15000
@@ -9503,7 +9503,7 @@ use_preset_vocabulary: false
 生煎饅頭	sa1 ji1 meu5 ddou5	15014
 番薯鬆糕	fo1 ssei7 ssong5 geh1	15000
 發食	fo4 ssei8	15000
-白眼湯圓	bba8 ngo6 to1 yu5	15000
+白眼湯圓	bba8 ngo6 tu1 yu5	15000
 盆糕	bbe5 geh1	15000
 短切	de2 qi3	15000
 箬糕	ssio8 geh1	15000
@@ -10782,7 +10782,7 @@ use_preset_vocabulary: false
 減滋	go2 zi	10000
 滰粉	jang fang2	10000
 滰粉面	jang fang2 mi7	10000
-爊湯	e to1	10000
+爊湯	e tu1	10000
 爊糕	e geh1	10000
 米糊兒	mei6 vu5 ng5	10000
 肉碎兒	njau8 sai3 ng5	10000
@@ -10928,7 +10928,7 @@ use_preset_vocabulary: false
 河灰兒	vu5 fai1 ng5	7500
 流拕	lou5 dda	7500
 溪灘	qi1 ta	7500
-溫暾湯兒	yu1 te1 to1 ng5	7500
+溫暾湯兒	yu1 te1 tu1 ng5	7500
 潒心田	yi sang1 ddi5	7500
 潒界	yi ga3	7500
 潒頭下	yi ddou5 hhu6	7500
@@ -11379,7 +11379,7 @@ use_preset_vocabulary: false
 飯鑊枷兒	vo7 hhu8 gu1 ng5	7500
 
 # 煙茶酒
-開喉茶兒	kee1 hhau5 zzo5 ng5	7500
+開喉茶兒	kee1 hhau5 zzu5 ng5	7500
 香菸盒兒	xieh1 yi1 hhee8 ng5	7500
 香菸頭兒	xieh1 yi1 ddou5 ng5	7500
 
@@ -11789,7 +11789,7 @@ use_preset_vocabulary: false
 口頭兒	kau2 ddou5 ng5	10000
 吹兒	ceu1 ng5	10000
 咪嘴兒	mei1 zeu2 ng5	10000
-喝茶兒	he1 zzo5 ng5	10000
+喝茶兒	he1 zzu5 ng5	10000
 嘴兒	zeu2 ng5	10028
 壓歲包兒	o4 seu3 bo1 ng5	10000
 布帳鉤兒	byu3 jieh3 gau1 ng5	10000
@@ -11808,7 +11808,7 @@ use_preset_vocabulary: false
 絆兒	bo3 ng5	10000
 老虎鉗兒	leh6 fu2 jji5 ng5	10000
 臀兒	dde5 ng5	10000
-茶壺嘴兒	zzo5 vu5 zeu2 ng5	10000
+茶壺嘴兒	zzu5 vu5 zeu2 ng5	10000
 號牌兒	hheh7 bba5 ng5	10000
 覅響	fai1 xieh2	10000
 覅響兒	fai1 xieh2 ng5	10000
@@ -11999,12 +11999,12 @@ use_preset_vocabulary: false
 
 # 疾病一般
 丐兒壯	kyu4 ng5 zo3	7500
-伏茶	bbu7 zzo5	7500
+伏茶	bbu7 zzu5	7500
 吸官升筒兒	xia4 gyu1 seng1 ddong5 ng5	7500
 大殑年	dda7 jji nji5	7500
-平安茶兒	bbeng5 e1 zzo5 ng5	7500
+平安茶兒	bbeng5 e1 zzu5 ng5	7500
 摕藥	mo yo8	7500
-茶兒	zzo5 ng5	7500
+茶兒	zzu5 ng5	7500
 藥鍋兒	yo8 gvu1 ng5	7500
 
 # 米食
