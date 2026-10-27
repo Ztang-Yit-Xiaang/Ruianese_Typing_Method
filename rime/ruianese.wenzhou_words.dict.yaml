@@ -864,21 +864,21 @@ use_preset_vocabulary: false
 倒吸	deh2 xia4	30095
 偏軒	pi1 xi1	30000
 大門	dda7 mang5	35742
-天井	ti1 zeng2	30781
+天井	ti3 zeng2	30781
 客坐	ka4 sso6	30000
 客廳	ka4 teng1	35700
 封火牆	fong1 fu2 ssieh5	30000
 尿盆間	si2 bbe5 go1	30000
-屋	u4	3564
-屋基	u4 ji1	30466
-屋宕	u4 ddo7	30000
-屋檐頭	u4 ya6 ddou5	30000
-屋脊頭	u4 zei4 ddou5	30000
-屋裏	u4 lei6	32199
-屋頂	u4 deng2	31918
+屋	vu4	3564
+屋基	vu4 ji1	30466
+屋宕	vu4 ddo7	30000
+屋檐頭	vu4 ya6 ddou5	30000
+屋脊頭	vu4 zei4 ddou5	30000
+屋裏	vu4 lei6	32199
+屋頂	vu4 deng2	31918
 屏牆	beng2 ssieh5	30000
 平台	bbeng5 ddee5	30000
-平屋	bbeng5 u4	30000
+平屋	bbeng5 vu4	30000
 廚房間	zzeu5 vo5 go1	30016
 後半門	hhau6 beu3 mang5	30000
 後宕	hhau6 ddo7	30000
@@ -894,10 +894,10 @@ use_preset_vocabulary: false
 棟柱	dong3 zzeu6	30000
 椽	jjyu5	913
 榫頭	song2 ddou5	30431
-樓	lou5	14020
-樓上	lou5 yeh6	39856
-樓下	lou5 hhu6	35626
-樓梯	lou5 tei1	32544
+樓	lau5	14020
+樓上	lau5 yeh6	39856
+樓下	lau5 hhu6	35626
+樓梯	lau5 tei1	32544
 欄杆	lo5 ge1	31100
 欄檻	lo5 ko2	30000
 正門	zeng1 mang5	30901
@@ -933,7 +933,7 @@ use_preset_vocabulary: false
 豬欄間	zeu1 lo5 go1	30000
 豬食	zeu1 ssei8	30500
 走廊	zau2 lo5	31996
-起屋	qi2 u4	30000
+起屋	qi2 vu4	30000
 路廊	lou7 lo5	30000
 軒間	xi1 go1	30000
 道壇	ddeh6 ddo5	30000
@@ -1874,7 +1874,7 @@ use_preset_vocabulary: false
 秤盤	ceng3 bbe5	30456
 秤花	ceng3 hu1	30000
 秤錘	ceng3 zzeu5	30400
-稅屋宕	seu3 u4 ddo7	30000
+稅屋宕	seu3 vu4 ddo7	30000
 稱	ceng1	15072
 算盤	syu3 bbe5	30833
 糶米	tuo3 mei6	30000
@@ -2661,7 +2661,7 @@ use_preset_vocabulary: false
 中央	zong1 yeh1	39468
 倒走轉	deh2 zau2 jyu2	30000
 倒退轉	deh2 tai3 jyu2	30000
-別屋宕	bbi8 u4 ddo7	30000
+別屋宕	bbi8 vu4 ddo7	30000
 到處	deh3 ceu2	38192
 半中攔腰	beu3 zong1 lo5 yu1	30000
 團圈	dde5 qyu1	30000
@@ -2809,7 +2809,7 @@ use_preset_vocabulary: false
 # pearapple123·𫶝
 㶣紅	ddo5 hhong5	20000
 攏殼	long6 ku4	20000
-樓亭	lou5 ddeng5	20404
+樓亭	lau5 ddeng5	20404
 鹼死	go2 si2	20000
 龍鉛	luo5 ka1	20000
 
@@ -2826,7 +2826,7 @@ use_preset_vocabulary: false
 蠣灰壇	lei7 fai1 ddo5	20000
 蠻湯	mo5 tu1	20000
 訾奈	zi2 na7	20000
-騎鼓樓	jji5 gvu2 lou5	20000
+騎鼓樓	jji5 gvu2 lau5	20000
 
 # 一般動作
 並牀槓	beng3 yu5 gu1	15000
@@ -2940,7 +2940,7 @@ use_preset_vocabulary: false
 換新	hhuo7 sang1	16503
 搦權	njia4 jjyu5	15000
 搦筆	njia4 bi4	15000
-搬家屋	bbe5 gu1 u4	15000
+搬家屋	bbe5 gu1 vu4	15000
 搭對	dee4 dai3	15000
 搭格	dee4 ga4	15000
 搭隊	dee4 ddai7	15000
@@ -3418,13 +3418,13 @@ use_preset_vocabulary: false
 兩姊妹	la6 zi2 mee7	15000
 兩姑娘嫂	la6 gvu1 njieh5 seh2	15000
 兩對架	la6 dai3 gu3	15000
-女個屋裏	njyu6 gai3 u4 lei6	15000
+女個屋裏	njyu6 gai3 vu4 lei6	15000
 旁單	bbuo5 do1	15000
 殼宕	ku4 ddo7	15000
 狃倈	njiau6 lee5	15000
 狃個	njiau6 gai3	15000
 狃宕	njiau6 ddo7	15000
-男個屋裏	nee5 gai3 u4 lei6	15000
+男個屋裏	nee5 gai3 vu4 lei6	15000
 許倈	xyu2 lee5	30000
 許恁	xyu2 ssang7	15000
 許恁做	xyu2 ssang7 zou3	15000
@@ -3466,7 +3466,7 @@ use_preset_vocabulary: false
 天上	ti1 yeh6	17733
 天下	ti1 hhu6	29332
 小南門	xyu2 nee5 mang5	15031
-屋宕後邊	u4 ddo7 hhau6 bi1	15000
+屋宕後邊	vu4 ddo7 hhau6 bi1	15000
 屏牆上	beng2 ssieh5 yeh6	15000
 山上	so1 yeh6	17590
 山門前	so1 mang5 yi5	15000
@@ -3993,11 +3993,11 @@ use_preset_vocabulary: false
 圓洞門	yu5 ddong7 mang5	20000
 地板簀	ddei7 bo2 za4	20000
 廂房	xieh1 vo5	20607
-新屋	sang1 u4	20607
+新屋	sang1 vu4	20607
 方棱	fo1 lang5	20000
 板壁	bo2 bei4	20475
-樓板簀	lou5 bo2 za4	20000
-樓簀	lou5 za4	20000
+樓板簀	lau5 bo2 za4	20000
+樓簀	lau5 za4	20000
 茅棚廠	mo5 bba5 qieh2	20000
 踢腳線	tei4 jio4 xi3	20521
 鑊竈頭	hhu8 zeh3 ddou5	20000
@@ -4207,7 +4207,7 @@ use_preset_vocabulary: false
 地界	ddei7 ga3	15608
 地脈	ddei7 ma8	15534
 城基	sseng5 ji1	15000
-城樓	sseng5 lou5	15669
+城樓	sseng5 lau5	15669
 城牆	sseng5 ssieh5	17570
 城門	sseng5 mang5	15989
 城門齒	sseng5 mang5 ci2	15000
@@ -4263,7 +4263,7 @@ use_preset_vocabulary: false
 棧橋	zzo7 jjia5	15597
 棱甌	lang5 au1	15000
 橋基	jjia5 ji1	15000
-橋屋	jjia5 u4	15000
+橋屋	jjia5 vu4	15000
 橋底	jjia5 dei2	15516
 機磚	ji1 jyu1	15000
 橫瀆	va5 ddou8	15000
@@ -4393,7 +4393,7 @@ use_preset_vocabulary: false
 鹼水	go2 seu2	15518
 黃泥山	hhu5 nji5 so1	15000
 黃金灰	hhu5 jiang1 fai1	15000
-鼓樓	gvu2 lou5	16092
+鼓樓	gvu2 lau5	16092
 龍噴水	luo5 pang1 seu2	15000
 
 # 壽辰喪葬
@@ -4451,7 +4451,7 @@ use_preset_vocabulary: false
 收屍	sou1 si1	15532
 斷七	dde6 ca4	15360
 斷氣	dde6 qi3	15578
-棺材屋	gyu1 ssee5 u4	15000
+棺材屋	gyu1 ssee5 vu4	15000
 殯殮	beng3 li7	15362
 沉坑	zzang5 ka1	15000
 照冥路	jyu3 meng5 lou7	15000
@@ -5199,7 +5199,7 @@ use_preset_vocabulary: false
 就用	ssou7 yu7	20912
 尷尬	go1 ga3	24129
 屁輕	pei3 qiang1	15000
-屋底大	u4 dei2 dda7	15000
+屋底大	vu4 dei2 dda7	15000
 幹僵	ge1 jieh1	15000
 底里叨嘮	dei2 lei6 teh1 leh7	20000
 彌絲斷縫	mei5 si1 dde6 vong5	15000
@@ -5622,30 +5622,30 @@ use_preset_vocabulary: false
 地基	ddei7 ji1	16132
 地板洞	ddei7 bo2 ddong7	15000
 培地基	bbai5 ddei7 ji1	15000
-子屋	zi2 u4	15000
+子屋	zi2 vu4	15000
 孤老堂	gvu1 leh6 ddo5	15000
 客宕	ka4 ddo7	15000
-屋料	u4 luo7	15000
+屋料	vu4 luo7	15000
 屏牆洞	beng2 ssieh5 ddong7	15000
 後邊間	hhau6 bi1 go1	15000
 房間	vo5 go1	29659
-抬樓	ddee5 lou5	15000
-明樓	meng5 lou5	15000
+抬樓	ddee5 lau5	15000
+明樓	meng5 lau5	15000
 梯凳	tei1 dang3	15000
 棧房	zzo7 vo5	15376
-樓板	lou5 bo2	15787
-樓梯檔	lou5 tei1 do3	15000
-樓梯盤	lou5 tei1 bbe5	15000
-樓梯間	lou5 tei1 go1	15573
-樓簣	lou5 jjyu7	15000
+樓板	lau5 bo2	15787
+樓梯檔	lau5 tei1 do3	15000
+樓梯盤	lau5 tei1 bbe5	15000
+樓梯間	lau5 tei1 go1	15573
+樓簣	lau5 jjyu7	15000
 橫軒	va5 xi1	15000
 水落管	seu2 lo8 gyu2	15316
 洋房式	yeh5 vo5 sei4	15000
 漁寮	njyu5 luo5	15000
 火燒基	fu2 xyu1 ji1	15000
 眠牀間	mi5 yu5 go1	15000
-老屋	leh6 u4	15736
-走馬樓	zau2 mu6 lou5	15045
+老屋	leh6 vu4	15736
+走馬樓	zau2 mu6 lau5	15045
 遊廊	yau5 lo5	15493
 邊間	bi1 go1	15510
 鎮宅石	zang3 zza8 ssei8	15000
@@ -5662,8 +5662,8 @@ use_preset_vocabulary: false
 地板	ddei7 bo2	18272
 地板簣	ddei7 bo2 jjyu7	15000
 封角	fong1 gu4	15000
-屋架	u4 gu3	15505
-屋殼	u4 ku4	15000
+屋架	vu4 gu3	15505
+屋殼	vu4 ku4	15000
 屏牆基	beng2 ssieh5 ji1	15000
 屏牆桶	beng2 ssieh5 ddong6	15000
 屏牆腳	beng2 ssieh5 jio4	15000
@@ -5692,7 +5692,7 @@ use_preset_vocabulary: false
 窗盤	qyu1 bbe5	15000
 窗簹	qyu1 do1	15000
 竹籬門	zou4 lei5 mang5	15000
-糞鬥樓	fang3 dau2 lou5	15000
+糞鬥樓	fang3 dau2 lau5	15000
 結牆	ji4 ssieh5	15000
 老虎窗	leh6 fu2 qyu1	15000
 過間	gvu3 go1	15000
@@ -6840,7 +6840,7 @@ use_preset_vocabulary: false
 
 # 特徵詞·第七節 七字詞
 一枚釘釘一個窟	yi8 mee5 deng1 deng1 yi8 gai3 kyu4	20000
-三世修來朝南屋	so1 sei3 sou1 lei5 jyu1 nee5 u4	20000
+三世修來朝南屋	so1 sei3 sou1 lei5 jyu1 nee5 vu4	20000
 千年道行做一拂	qi1 nji5 ddeh6 hha5 zou3 yi8 fa4	20000
 千金難買兄弟情	qi1 jiang1 no5 ma6 xiong1 ddei6 sseng5	20000
 千金難買心頭願	qi1 jiang1 no5 ma6 sang1 ddou5 njyu7	20000
@@ -7112,7 +7112,7 @@ use_preset_vocabulary: false
 巷口	hhu7 kau2	20607
 巷口頭	hhu7 kau2 ddou5	20000
 扁擔頭	bi2 do1 ddou5	20000
-樓梯頭	lou5 tei1 ddou5	20000
+樓梯頭	lau5 tei1 ddou5	20000
 白鼻	bba8 bbei7	20000
 白鼻頭	bba8 bbei7 ddou5	20000
 皮頭	bbei5 ddou5	20000
@@ -7152,7 +7152,7 @@ use_preset_vocabulary: false
 大官	dda7 gyu1	20763
 大頭	dda7 ddou5	23197
 對頭	dai3 ddou5	21252
-屋檐	u4 ya6	20952
+屋檐	vu4 ya6	20952
 手指	sou2 zi2	30955
 木頭	mu8 ddou5	23510
 東頭	dong1 ddou5	20041
@@ -7782,7 +7782,7 @@ use_preset_vocabulary: false
 僑販	jjyu5 fo3	15000
 兌換莊	ddai7 hhuo7 zo1	15000
 兜生意	dau1 sa1 yi3	15333
-典屋宕	dieh2 u4 ddo7	15000
+典屋宕	dieh2 vu4 ddo7	15000
 判青山	pe3 ceng1 so1	15000
 判青柑	pe3 ceng1 ge1	15000
 剃頭擔	tei3 ddou5 do1	15000
@@ -8519,8 +8519,8 @@ use_preset_vocabulary: false
 執照	za4 jyu3	16298
 字眼寫爻	ssi7 ngo6 sei2 hho5	15000
 對證	dai3 zeng3	15531
-屋契	u4 qi3	15000
-屋里個事幹	u4 lei6 gai3 ssi7 ge3	15000
+屋契	vu4 qi3	15000
+屋里個事幹	vu4 lei6 gai3 ssi7 ge3	15000
 師爺	si1 yi5	15683
 律師	li8 si1	37726
 手印	sou2 yang3	15801
@@ -9815,8 +9815,8 @@ use_preset_vocabulary: false
 # H房屋建筑
 客宕兒	ka4 ddo7 ng5	15000
 廠兒	qieh2 ng5	15000
-樓閣兒	lou5 gee4 ng5	15000
-矮屋兒	a2 u4 ng5	15000
+樓閣兒	lau5 gee4 ng5	15000
+矮屋兒	a2 vu4 ng5	15000
 腰門兒	yu1 mang5 ng5	15000
 踏步級	dda8 bbyu7 jia4	15000
 邊門	sai2 mang5	15490
@@ -9926,7 +9926,7 @@ use_preset_vocabulary: false
 娭	na1	742
 孫兒	se1 ng5	15575
 守寡老安人	sou2 gu2 leh6 e1 njang5	15000
-屋里人	u4 lei6 nang5	15000
+屋里人	vu4 lei6 nang5	15000
 山頭人	so1 ddou5 nang5	15000
 差人	ca1 nang5	15550
 後生兒	hhau6 sa1 ng5	15000
@@ -10071,7 +10071,7 @@ use_preset_vocabulary: false
 團圓讖來	dde5 qyu1 cang3 lei5	15000
 對不住	dai3 fu2 zzeu7	15895
 對不起	dai3 fu2 qi2	23292
-屋租錢	u4 zeu1 ddi5	15000
+屋租錢	vu4 zeu1 ddi5	15000
 慢慢踏	mo7 mo7 dda8	15000
 打後枕晃	da2 hhau6 zang2 gguo6	15000
 承認	sseng5 njang7	26224
@@ -10632,7 +10632,7 @@ use_preset_vocabulary: false
 不退	fu2 tai3	8425
 五條面	ng6 dduo5 mi7	10000
 人家	nang5 gu1	57500
-人家屋底	nang5 gu1 u4 dei2	7500
+人家屋底	nang5 gu1 vu4 dei2	7500
 人種	nang5 jyu2	9060
 大人家	dda7 nang5 gu1	7500
 旗兒	jji5 ng5	7855
@@ -11064,7 +11064,7 @@ use_preset_vocabulary: false
 三妹子兒	so1 mee7 zi2 ng5	7500
 同輩人	ddong5 bai3 nang5	7500
 四老爺兒	si3 leh6 yi5 ng5	7500
-屋底人兒	u4 dei2 nang5 ng5	7500
+屋底人兒	vu4 dei2 nang5 ng5	7500
 阿大兒	a1 dda7 ng5	7500
 阿奼兒	a1 co2 ng5	7500
 阿嫂兒	a1 seh2 ng5	7500
@@ -11136,11 +11136,11 @@ use_preset_vocabulary: false
 
 # 房子
 二間	ng7 go1	7500
-人家屋	nang5 gu1 u4	7500
+人家屋	nang5 gu1 vu4	7500
 地伏	ddei7 bbu7	7500
 椽兒	jjyu5 ng5	7500
-樓梯兒	lou5 tei1 ng5	7500
-樓梯髈	lou5 tei1 puo	7500
+樓梯兒	lau5 tei1 ng5	7500
+樓梯髈	lau5 tei1 puo	7500
 牆窠兒	ssieh5 kvu1 ng5	7500
 番人館	fo1 nang5 gyu2	7500
 軒耳朵兒	xi1 ng6 du2 ng5	7500
@@ -11356,7 +11356,7 @@ use_preset_vocabulary: false
 紙人兒	zei2 nang5 ng5	7500
 趕坎兒	ge2 ke2 ng5	7500
 趟起挈	qi3 qi2 qi4	7500
-跳屋宕	tee3 u4 ddo7	7500
+跳屋宕	tee3 vu4 ddo7	7500
 辦窟兒	bbo7 kyu4 ng5	7500
 遁地砲	dde7 ddei7 puo	7500
 雀兒彈	jio4 ng5 ddo7	7500
@@ -11843,7 +11843,7 @@ use_preset_vocabulary: false
 小蠻指頭兒	xyu2 mo5 zi2 ddou5 ng5	10000
 布衫頭兒	byu3 so1 ddou5 ng5	10000
 扁擔頭兒	bi2 do1 ddou5 ng5	10000
-樓梯頭兒	lou5 tei1 ddou5 ng5	10000
+樓梯頭兒	lau5 tei1 ddou5 ng5	10000
 皮頭兒	bbei5 ddou5 ng5	10000
 紙頭兒	zei2 ddou5 ng5	10000
 細兒頭	sei3 ng5 ddou5	10000
@@ -12072,7 +12072,7 @@ use_preset_vocabulary: false
 官兒	gyu1 ng5	8035
 官官顛兒	gyu1 gyu1 di1 ng5	7500
 居士	gei4 ssi6	8683
-屋主人	u4 zeu2 nang5	7500
+屋主人	vu4 zeu2 nang5	7500
 打船人	da2 yu5 nang5	7500
 摸海人	mo8 hee2 nang5	7500
 撐船人	ca1 yu5 nang5	7500
