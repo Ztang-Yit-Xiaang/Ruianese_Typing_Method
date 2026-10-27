@@ -342,7 +342,7 @@ use_preset_vocabulary: false
 冬筍	dong1 song2	30581
 包羅粟	bo1 lou5 xyu4	30000
 吃米	qi4 mei6	30000
-四季豆	si3 ji3 ddau7	30569
+四季豆	si3 ji3 ddou7	30569
 圓眼	yu5 ngo6	30000
 大蒜	dda7 syu3	31591
 大蒜子	dda7 syu3 zi2	30000
@@ -357,7 +357,7 @@ use_preset_vocabulary: false
 小麥	xyu2 ma8	33191
 山茶花	so1 zzo5 hu1	30572
 懦柿	nou7 ssi6	30000
-扁豆	bi2 ddau7	30607
+扁豆	bi2 ddou7	30607
 指甲花	zi2 gu4 hu1	30000
 摘花	za4 hu1	30540
 攀粟	po1 xyu4	30000
@@ -402,8 +402,8 @@ use_preset_vocabulary: false
 油菜心	yau5 cee3 sang1	30000
 泡	po3	6809
 消梨	xyu1 lei5	30000
-淮豆	va5 ddau7	30000
-烏豆	vu1 ddau7	30430
+淮豆	va5 ddou7	30000
+烏豆	vu1 ddou7	30430
 球菜	jjiau5 cee3	30000
 瓜子	gu1 zi2	31079
 瓜心	gu1 sang1	30000
@@ -418,7 +418,7 @@ use_preset_vocabulary: false
 番薯藤	fo1 ssei7 ddang5	30000
 白腳蟆衣	bba8 jio4 mo5 yi1	30000
 白菜	bba8 cee3	32349
-白豆	bba8 ddau7	30000
+白豆	bba8 ddou7	30000
 皮	bbei5	6166
 盆菜	bbe5 cee3	30011
 礱糠	long5 ku1	30384
@@ -442,10 +442,10 @@ use_preset_vocabulary: false
 糧	lieh5	2025
 糯米	nou7 mei6	31421
 紅菜	hhong5 cee3	30000
-紅豆	hhong5 ddau7	31479
-紫帶豆	zi2 da3 ddau7	30000
+紅豆	hhong5 ddou7	31479
+紫帶豆	zi2 da3 ddou7	30000
 絡麻	lo8 mo5	30000
-綠豆	lu8 ddau7	31170
+綠豆	lu8 ddou7	31170
 艾	ngee7	3731
 芋	vyu7	1027
 芙蓉	vu5 yong5	31679
@@ -479,12 +479,12 @@ use_preset_vocabulary: false
 薯蕷	ssei7 vyu7	30022
 薸	bbi5	738
 藕	ngau6	1503
-蠶豆	sse5 ddau7	30736
+蠶豆	sse5 ddou7	30736
 西瓜	sei1 gu1	33291
 西瓜子	sei1 gu1 zi2	30478
 谷	gvu4	3647
-豆芽	ddau7 ngu5	30907
-豇豆	gu1 ddau7	30576
+豆芽	ddou7 ngu5	30907
+豇豆	gu1 ddou7	30576
 辣椒	lo8 jyu1	35380
 金城	jiang1 sseng5	30879
 金彈	jiang1 ddo7	30376
@@ -507,7 +507,7 @@ use_preset_vocabulary: false
 黃狗李李	hhu5 gau2 lei6 lei6	30000
 黃瓜	hhu5 gu1	31758
 黃菱	hhu5 leng5	30000
-龍牙豆	luo5 ngu5 ddau7	30000
+龍牙豆	luo5 ngu5 ddou7	30000
 
 # E牲畜动物
 九里達	jiau2 lei6 ddo8	30000
@@ -711,11 +711,11 @@ use_preset_vocabulary: false
 葷個	xiang1 gai3	30000
 藠蒜	jyu2 syu3	30000
 蜜林檎	mi8 leng5 jjiang5	30000
-豆腐	ddau7 vyu6	32575
-豆腐乳	ddau7 vyu6 sseu6	30506
-豆腐乾	ddau7 vyu6 ge1	30702
-豆腐渣	ddau7 vyu6 zo1	30603
-豆腐被	ddau7 vyu6 bbei6	30000
+豆腐	ddou7 veu6	32575
+豆腐乳	ddou7 veu6 sseu6	30506
+豆腐乾	ddou7 veu6 ge1	30702
+豆腐渣	ddou7 veu6 zo1	30603
+豆腐被	ddou7 veu6 bbei6	30000
 豬口近	zeu1 kau2 jjiang6	30000
 豬油	zeu1 yau5	31004
 豬肝	zeu1 ge1	30809
@@ -726,7 +726,7 @@ use_preset_vocabulary: false
 醋	ceu3	2140
 醬油	jieh3 yau5	34986
 開水	kee1 seu2	31656
-陰豆豉	yang1 ddau7 ssi7	30000
+陰豆豉	yang1 ddou7 ssi7	30000
 陳飯	zzang5 vo7	30000
 雞卵	ji1 lang6	30000
 雞肫	ji1 zong1	30000
@@ -4057,7 +4057,7 @@ use_preset_vocabulary: false
 
 # 分類詞匯·麥
 板栗	bo2 li8	20847
-槐豆	va5 ddau7	20000
+槐豆	va5 ddou7	20000
 河浹筍	vu5 ji4 song2	20000
 油悶筍	yau5 mang1 song2	20000
 洋山芋	yeh5 so1 vyu7	20357
@@ -5438,7 +5438,7 @@ use_preset_vocabulary: false
 褪寬	tang3 kyu1	15000
 規矩	jyu1 jyu2	19600
 覷難過	ceu3 no5 gvu3	15000
-豆沙色	ddau7 so1 see4	15000
+豆沙色	ddou7 so1 see4	15000
 豬肝黑	zeu1 ge1 hee4	15000
 貴氣	jyu3 qi3	15227
 費煩	fei3 vo5	15000
@@ -6195,7 +6195,7 @@ use_preset_vocabulary: false
 米真柏	mei6 zang1 ba4	15000
 糉箬	zong3 ssio8	15000
 紅花茶子	hhong5 hu1 zzo5 zi2	15000
-紅豆樹	hhong5 ddau7 sseu7	15000
+紅豆樹	hhong5 ddou7 sseu7	15000
 紫玉蘭	zi2 njyu8 lo5	15000
 紫珠	zi2 zeu1	15000
 綠竹	lu8 zou4	15547
@@ -6310,7 +6310,7 @@ use_preset_vocabulary: false
 落花生糖	lo8 hu1 sa1 ddo5	15000
 落花生酥	lo8 hu1 sa1 seu1	15000
 落花生醬	lo8 hu1 sa1 jieh3	15000
-豆板醬	ddau7 bo2 jieh3	15000
+豆板醬	ddou7 bo2 jieh3	15000
 辣油	lo8 yau5	15492
 麥麥糕	ma8 ma8 geh1	15000
 麥麥糖	ma8 ma8 ddo5	15000
@@ -6323,7 +6323,7 @@ use_preset_vocabulary: false
 勵鐵環	lei7 ti4 vuo5	15000
 古記	gvu2 ji3	15000
 字眼寓	ssi7 ngo6 njyu7	15000
-彈淮豆子	ddo7 va5 ddau7 zi2	15000
+彈淮豆子	ddo7 va5 ddou7 zi2	15000
 手氣	sou2 qi3	15709
 打上游	da2 yeh6 yau5	15000
 打大通	da2 dda7 tong1	15000
@@ -6556,7 +6556,7 @@ use_preset_vocabulary: false
 光眼盯盯	gu1 ngo6 zza5 zza5	20000
 出膊袒裸	qyu4 bo4 ddo6 lou6	20000
 小氣貓貓	xyu2 qi3 mi5 mi5	20000
-憨豆珊珊	he1 ddau7 so1 so1	20000
+憨豆珊珊	he1 ddou7 so1 so1	20000
 水泡零零	seu2 po3 leng5 leng5	20000
 爛眼糟糟	lo7 ngo6 zeh1 zeh1	20000
 百草蛛蛛	ba4 ceh2 zeu1 zeu1	20000
@@ -7671,7 +7671,7 @@ use_preset_vocabulary: false
 金橘	jiang1 jyu4	15522
 金櫻	jiang1 yang1	15000
 金絲蜜棗	jiang1 si1 mi8 zeh2	15000
-金豆	jiang1 ddau7	15054
+金豆	jiang1 ddou7	15054
 魁圓	kai1 yu5	15000
 鮮荔枝	xi1 lei7 zei1	15000
 黃岩橘	hhu5 ngo5 jyu4	15000
@@ -7744,7 +7744,7 @@ use_preset_vocabulary: false
 白米飯	bba8 mei6 vo7	15450
 白糉	bba8 zong3	15000
 硬飯羹	nga7 vo7 ga1	15000
-米豆腐	mei6 ddau7 vyu6	15023
+米豆腐	mei6 ddou7 veu6	15023
 米面	mei6 mi7	15000
 米食	mei6 ssei8	15440
 米飯	mei6 vo7	20156
@@ -7752,7 +7752,7 @@ use_preset_vocabulary: false
 糖粥	ddo5 zou4	15000
 糯米食	nou7 mei6 ssei8	15000
 糯米飯	nou7 mei6 vo7	15171
-綠豆粥	lu8 ddau7 zou4	15521
+綠豆粥	lu8 ddou7 zou4	15521
 芝腳糖	zi1 jio4 ddo5	15000
 菜飯	cee3 vo7	15052
 薄粥湯	bbuo8 zou4 to1	15000
@@ -7904,7 +7904,7 @@ use_preset_vocabulary: false
 行情	hha5 sseng5	22512
 解板坦	ga2 bo2 to2	15000
 解板廠	ga2 bo2 qieh2	15000
-豆麥行	ddau7 ma8 hha5	15000
+豆麥行	ddou7 ma8 hha5	15000
 豬行	zeu1 hha5	15000
 貨腳	fu3 jio4	15000
 販艚	fo3 sseh5	15000
@@ -8212,7 +8212,7 @@ use_preset_vocabulary: false
 水荷花	seu2 vu5 hu1	15000
 水蓮船	seu2 li5 yu5	15000
 法夏	fo4 hhu7	15000
-泥豆	nji5 ddau7	15000
+泥豆	nji5 ddou7	15000
 活血丹	vuo8 xyu4 do1	15000
 海芥菜	hee2 ga3 cee3	15000
 溫鬱金	yu1 you4 jiang1	15000
@@ -8348,15 +8348,15 @@ use_preset_vocabulary: false
 拼盤	ba1 bbe5	15616
 敲蝦	ko1 hu1	15000
 新菜鹹	sang1 cee3 hho5	15000
-松豆	ssong5 ddau7	15000
+松豆	ssong5 ddou7	15000
 正菜	zeng1 cee3	15000
 水果羹	seu2 gvu2 ga1	15000
 水花腐	seu2 hu1 vyu6	15000
 油味	yau5 mei7	15000
-油松豆	yau5 ssong5 ddau7	15000
+油松豆	yau5 ssong5 ddou7	15000
 洋粉面	yeh5 fang2 mi7	15000
 海帶	hee2 da3	15967
-淮豆板	va5 ddau7 bo2	15000
+淮豆板	va5 ddou7 bo2	15000
 湯頭	to1 ddou5	15523
 澆粉面	jyu1 fang2 mi7	15000
 燒烤	xyu1 keh2	19112
@@ -8364,7 +8364,7 @@ use_preset_vocabulary: false
 盆菜生	bbe5 cee3 sa1	15000
 盤腳	bbe5 jio4	15000
 盤頭	bbe5 ddou5	15519
-筍豆	song2 ddau7	15000
+筍豆	song2 ddou7	15000
 筍鹹	song2 hho5	15000
 素菜	sou3 cee3	15772
 素雞	sou3 ji1	15493
@@ -8378,18 +8378,18 @@ use_preset_vocabulary: false
 菜頭髒	cee3 ddou5 sso7	15000
 葷菜	xiang1 cee3	15593
 藕粉	ngau6 fang2	15545
-豆板	ddau7 bo2	15000
-豆漿	ddau7 jieh1	16858
-豆腐泡	ddau7 vyu6 po3	15000
-豆腐生	ddau7 vyu6 sa1	15000
-豆腐羹	ddau7 vyu6 ga1	15018
+豆板	ddou7 bo2	15000
+豆漿	ddou7 jieh1	16858
+豆腐泡	ddou7 veu6 po3	15000
+豆腐生	ddou7 veu6 sa1	15000
+豆腐羹	ddou7 veu6 ga1	15018
 路菜	lou7 cee3	15000
 酒配	zou2 pai3	15000
 酥棚骨	seu1 bba5 gyu4	15000
 醜腐	cou2 vyu6	15000
 醬瓜	jieh3 gu1	15476
 醬盆菜	jieh3 bbe5 cee3	15000
-青草豆腐	ceng1 ceh2 ddau7 vyu6	15000
+青草豆腐	ceng1 ceh2 ddou7 veu6	15000
 頭碗菜	ddou5 yu2 cee3	15000
 飯配	vo7 pai3	15000
 餚配	hho5 pai3	20000
@@ -8654,8 +8654,8 @@ use_preset_vocabulary: false
 丁字姜	deng1 ssi7 jieh1	15000
 九頭芥	jiau2 ddou5 ga3	15000
 八棱瓜	bo4 lang5 gu1	15000
-刀豆	deh1 ddau7	15050
-刀豆乾	deh1 ddau7 ge1	15000
+刀豆	deh1 ddou7	15050
+刀豆乾	deh1 ddou7 ge1	15000
 匏瓜	bbo5 gu1	15042
 含泥茭筍	hhe5 nji5 go1 song2	15000
 圓匏	yu5 bbo5	15000
@@ -8666,7 +8666,7 @@ use_preset_vocabulary: false
 子心芥	zi2 sang1 ga3	15000
 尖刀菜	ji1 deh1 cee3	15000
 山東菜	so1 dong1 cee3	15077
-早果淮豆	zeh2 gvu2 va5 ddau7	15000
+早果淮豆	zeh2 gvu2 va5 ddou7	15000
 早芥	zeh2 ga3	15000
 朝天姜	jyu1 ti1 jieh1	15000
 榨菜	zo3 cee3	15729
@@ -8674,28 +8674,28 @@ use_preset_vocabulary: false
 沙蒜	so1 syu3	15000
 油冬菜	yau5 dong1 cee3	15000
 泥蒜	nji5 syu3	15000
-泥鰍豆	nji5 cou1 ddau7	15000
+泥鰍豆	nji5 cou1 ddou7	15000
 洋金瓜	yeh5 jiang1 gu1	15000
-淮豆子	va5 ddau7 zi2	15000
-淮豆芽	va5 ddau7 ngu5	15000
-淮豆莢	va5 ddau7 ma6	15000
+淮豆子	va5 ddou7 zi2	15000
+淮豆芽	va5 ddou7 ngu5	15000
+淮豆莢	va5 ddou7 ma6	15000
 烏筋芥	vu1 jiang1 ga3	15000
 牛皮菜	ngau5 bbei5 cee3	15385
 甜菜	ddieh5 cee3	15616
 番姜	fo1 jieh1	15000
 番蔥	fo1 cong1	15000
-白扁豆	bba8 bi2 ddau7	15044
-白銀豆	bba8 njiang5 ddau7	15000
+白扁豆	bba8 bi2 ddou7	15044
+白銀豆	bba8 njiang5 ddou7	15000
 盤菜	bbe5 cee3	15000
 空心菜	kong1 sang1 cee3	15572
 筒菜	ddong5 cee3	15000
 紅瓤	hhong5 ssieh5	15000
 綠花菜	lu8 hu1 cee3	15000
-羹豆	ga1 ddau7	15000
+羹豆	ga1 ddou7	15000
 芥菜心	ga3 cee3 sang1	15000
 苦菜	kvu2 cee3	15043
 茄蘿果菜	jji5 lou5 gvu2 cee3	15000
-茴香豆	vai5 xieh1 ddau7	15060
+茴香豆	vai5 xieh1 ddou7	15060
 菜園瓜	cee3 yu5 gu1	15000
 菜姜	cee3 jieh1	15000
 菜子	cee3 zi2	15531
@@ -8707,27 +8707,27 @@ use_preset_vocabulary: false
 菜蕻	cee3 hhong7	15000
 蔥白	cong1 bba8	15584
 蘆筍	lou5 song2	15619
-蘭花豆	lo5 hu1 ddau7	15000
-豆稈	ddau7 ge2	15000
-豬髒豆	zeu1 sso7 ddau7	15000
-赤豆	cei4 ddau7	15541
+蘭花豆	lo5 hu1 ddou7	15000
+豆稈	ddou7 ge2	15000
+豬髒豆	zeu1 sso7 ddou7	15000
+赤豆	cei4 ddou7	15541
 辣姜	lo8 jieh1	15000
 遲芥	zzi5 ga3	15000
 野蒜	yeh6 syu3	15000
 金瓜子	jiang1 gu1 zi2	15000
-銀豆	njiang5 ddau7	15000
-鍺莢豆	jieh2 ma6 ddau7	15000
-鐵豆	ti4 ddau7	15000
+銀豆	njiang5 ddou7	15000
+鍺莢豆	jieh2 ma6 ddou7	15000
+鐵豆	ti4 ddou7	15000
 鐵釘姜	ti4 deng1 jieh1	15000
 長匏	jjieh5 bbo5	15000
 雪里蕻	xyu4 lei6 hhong7	15000
 青姜	ceng1 jieh1	15000
-飯豆	vo7 ddau7	15000
+飯豆	vo7 ddou7	15000
 香菇菜	xieh1 gvu1 cee3	15000
-鮮蠶豆	xi1 sse5 ddau7	15000
+鮮蠶豆	xi1 sse5 ddou7	15000
 麻風瓜	mo5 fong1 gu1	15000
 黃葉菜	hhu5 yi8 cee3	15000
-黃豆	hhu5 ddau7	16004
+黃豆	hhu5 ddou7	16004
 龍牙菜	luo5 ngu5 cee3	15000
 
 # 賬目度量衡
@@ -9510,7 +9510,7 @@ use_preset_vocabulary: false
 粟餅	xyu4 beng2	15000
 糖粿粉	ddo5 gvu2 fang2	15000
 糯米糕	nou7 mei6 geh1	15426
-綠豆糕	lu8 ddau7 geh1	15522
+綠豆糕	lu8 ddou7 geh1	15522
 老劑	leh6 zei3	15000
 芙蓉糖	vu5 yong5 ddo5	15000
 芝麻餅	zi1 mo5 beng2	15445
@@ -9519,9 +9519,9 @@ use_preset_vocabulary: false
 薄餅	bbuo8 beng2	15556
 蘇餅	seu1 beng2	15000
 蜂糕	fong1 geh1	15343
-豆沙	ddau7 so1	15737
-豆沙粉	ddau7 so1 fang2	15000
-豆酥糖	ddau7 seu1 ddo5	15000
+豆沙	ddou7 so1	15737
+豆沙粉	ddou7 so1 fang2	15000
+豆酥糖	ddou7 seu1 ddo5	15000
 豬油糕	zeu1 yau5 geh1	15000
 賞月食	xieh2 njyu8 ssei8	15000
 鍋貼	gvu1 duo4	15579
@@ -9666,7 +9666,7 @@ use_preset_vocabulary: false
 稻稼	ddeh6 sa4	15000
 笐	hhuo	588
 紅䒧	hhong5 nji5	15000
-紅豆兒	hhong5 ddau7 ng	15000
+紅豆兒	hhong5 ddou7 ng	15000
 苧麻	zzei6 mo5	15569
 茄兒	jji5 ng5	15000
 菜園籬	cee3 njyu8 lei5	15000
@@ -9717,7 +9717,7 @@ use_preset_vocabulary: false
 蛇蛐兒	ssei5 qyu4 ng5	15000
 蛇魚	ssei5 ngeu5	15000
 蜆蜆兒	xi2 xi2 ng5	15000
-蝦兒	hu1 ng5	15000
+蝦兒	hu1 ng5	31000
 蝦蚼彈	hu1 gau2 ddo7	15000
 蝦蟆蟲子兒	hhu5 mo5 zzong7 zi2 ng5	15000
 蟶蜓	xang1 ddeng5	15000
@@ -9776,7 +9776,7 @@ use_preset_vocabulary: false
 肉鬆	njau8 song1	15642
 肥肉	bbei5 njau8	16334
 落花生油	lo8 gu1 sa1 yau5	15000
-豆腐軟	ddau7 vyu6 njyu6	15000
+豆腐軟	ddou7 veu6 njyu6	15000
 餃兒	jyu2 ng5	15000
 餅兒	beng2 ng5	15000
 餡心	gga7 sang1	15026
@@ -12231,7 +12231,7 @@ use_preset_vocabulary: false
 冬瓜條兒	dong1 gu1 dduo5 ng5	7500
 木耳菜	mu8 ng6 cee3	7500
 燈缸姜	dang1 guo1 jieh1	7500
-田岸豆	ddi5 yu7 ddau7	7500
+田岸豆	ddi5 yu7 ddou7	7500
 白殕冬瓜	bba8 feu dong1 gu1	7500
 菠薐菜	bu1 lang cee3	7500
 蕌蒜	jjee syu3	7500
