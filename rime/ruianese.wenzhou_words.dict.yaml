@@ -970,7 +970,7 @@ use_preset_vocabulary: false
 吃飯桌	qi4 vo7 jyu4	30000
 器物家生	qi3 va8 gu1 sa1	30000
 困椅	kang3 yi2	30000
-圓凳	yu5 dang3	30024
+圓凳	yu5 ddang3	30024
 圓桌	yu5 jyu4	30766
 地拖	ddei7 tou3	30000
 埕	zzeng5	876
@@ -993,10 +993,10 @@ use_preset_vocabulary: false
 搽掃	zzo5 seh2	30000
 撣帚	do2 zou2	30000
 斧頭	fu2 ddou5	31112
-方凳	fo1 dang3	30000
+方凳	fo1 ddang3	30000
 方桌	fo1 jyu4	30554
 書案桌	seu1 e3 jyu4	30000
-板凳	bo2 dang3	31519
+板凳	bo2 ddang3	31519
 板砧	bo2 zang1	30000
 枕頭	zang2 ddou5	32141
 枕頭套	zang2 ddou5 teh3	30450
@@ -1178,7 +1178,7 @@ use_preset_vocabulary: false
 剪綹	jji6 lou6	30000
 十三點	ssa8 so1 dieh2	30496
 叔伯兄弟	sou4 ba4 xiong1 ddei6	30024
-叔伯姊妹	sou4 ba4 zi2 mee7	30000
+叔伯姊妹	sou4 ba4 zi2 mi7	30000
 取米個	ceu2 mei6 gai3	30000
 同學	ddong5 hhu8	80000
 呆大	ngee5 dda7	30000
@@ -1198,8 +1198,8 @@ use_preset_vocabulary: false
 妹夫	mee7 fu1	30758
 妹妹	mee7 mee7	40889
 姊夫	zi2 fu1	30449
-姊妹	zi2 mee7	31091
-姊妹隊	zi2 mee7 ddai7	30000
+姊妹	zi2 mi7	31091
+姊妹隊	zi2 mi7 ddai7	30000
 姑娘	gvu1 njieh5	43390
 姑婆娘	gvu1 bbyu5 njieh5	30000
 姘頭	peng1 ddou5	30503
@@ -1260,7 +1260,7 @@ use_preset_vocabulary: false
 老公	leh6 gong1	45123
 老太	leh6 ta3	31238
 老婆舅	leh6 bbyu5 jjiau6	30000
-老安	leh6 e1	30000
+老安	leh6 e1	46000
 老老	leh6 leh6	30677
 老老孃	leh6 leh6 njieh5	30000
 老闆	leh6 bo2	75650
@@ -1274,7 +1274,7 @@ use_preset_vocabulary: false
 表兄弟	bi2 xiong1 ddei6	30513
 表妹	bi2 mee7	31507
 表姊	bi2 zi2	30427
-表姊妹	bi2 zi2 mee7	30358
+表姊妹	bi2 zi2 mi7	30358
 表弟	bi2 ddei6	31337
 裁縫老師	ssee5 vong5 leh6 si1	30000
 補鑊老師	byu2 hhu8 leh6 si1	30000
@@ -1310,7 +1310,7 @@ use_preset_vocabulary: false
 阿嬸	a1 sang2	30501
 阿孃	a1 njieh5	30509
 阿弟	a1 ddei6	30507
-阿爸	a1 bbu6	30582
+阿爸	a1 bba6	30582
 阿爺	a1 yi5	30510
 阿舅	a1 jjiau6	30406
 頭貓	ddou5 mi5	30000
@@ -3056,17 +3056,17 @@ use_preset_vocabulary: false
 板箱	bo2 xieh1	15000
 板箱桶	bo2 xieh1 ddong6	15000
 桌圍	jyu4 vyu5	15000
-桌椅板凳	jyu4 yi2 bo2 dang3	15491
+桌椅板凳	jyu4 yi2 bo2 ddang3	15491
 桌櫃	jyu4 jjyu7	15000
 棉胎櫃	mi5 tee1 jjyu7	15000
 椅披	yi2 pei1	15273
 樟樹箱	jieh1 sseu7 xieh1	15000
 櫥格	zzeu5 ga4	15000
 沙發椅	so1 fo4 yi2	15564
-浪凳	lo7 dang3	15000
+浪凳	lo7 ddang3	15000
 牀頭櫃	yu5 ddou5 jjyu7	15738
 牢奶	leh5 na6	15000
-琴凳	jjiang5 dang3	15000
+琴凳	jjiang5 ddang3	15000
 矮椅背	a2 yi2 bai1	15000
 紙迫箱	zei2 ba4 xieh1	15000
 花鼓桶	hu1 gvu2 ddong6	15000
@@ -3074,9 +3074,9 @@ use_preset_vocabulary: false
 衣櫥箱	yi1 zzeu5 xieh1	15000
 重櫥	jjyu6 zzeu5	15000
 重盛	jjyu6 sseng7	15000
-長凳	jjieh5 dang3	15563
+長凳	jjieh5 ddang3	15563
 開門箱	kee1 mang5 xieh1	15000
-高凳	geh1 dang3	15000
+高凳	geh1 ddang3	15000
 麻將桌	mo5 jieh1 jyu4	15072
 
 # 一般稱謂
@@ -3415,7 +3415,7 @@ use_preset_vocabulary: false
 兩兄弟	la6 xiong1 ddei6	15760
 兩叔侄	la6 sou4 zza8	15000
 兩地家新婦	la6 ddei7 gu1 sang1 vyu6	15000
-兩姊妹	la6 zi2 mee7	15000
+兩姊妹	la6 zi2 mi7	15000
 兩姑娘嫂	la6 gvu1 njieh5 seh2	15000
 兩對架	la6 dai3 gu3	15000
 女個屋裏	njyu6 gai3 vu4 lei6	15000
@@ -3739,7 +3739,7 @@ use_preset_vocabulary: false
 洋傘	yeh5 so2	20467
 洋灰	yeh5 fai1	20404
 眠宋	mi5 song3	20000
-矮凳	a2 dang3	20455
+矮凳	a2 ddang3	20455
 砂鍋	so1 gvu1	20869
 胰皁	yi5 sseh6	20000
 鍘刀	sso8 deh1	20494
@@ -4036,7 +4036,7 @@ use_preset_vocabulary: false
 叔叔	sou4 sou4	24714
 叔父	sou4 vyu6	20599
 房份兄弟	vo5 vang7 xiong1 ddei6	20000
-房份姊妹	vo5 vang7 zi2 mee7	20000
+房份姊妹	vo5 vang7 zi2 mi7	20000
 爸爸	bbu6 bbu6	36688
 舅老爺	jjiau6 leh6 yi5	20012
 表姐	bi2 zei2	21278
@@ -5094,19 +5094,19 @@ use_preset_vocabulary: false
 叔伯阿弟	sou4 ba4 a1 ddei6	15000
 同輩	ddong5 bai3	15589
 堂房兄弟	ddo5 vo5 xiong1 ddei6	15000
-堂房姊妹	ddo5 vo5 zi2 mee7	15000
+堂房姊妹	ddo5 vo5 zi2 mi7	15000
 堂房阿哥	ddo5 vo5 a1 gvu1	15000
 堂房阿奼	ddo5 vo5 a1 co2	15000
 堂房阿妹	ddo5 vo5 a1 mee7	15000
 堂房阿弟	ddo5 vo5 a1 ddei6	15000
 大奼	dda7 co2	15000
 大嫂	dda7 seh2	16013
-姊妹夫	zi2 mee7 fu1	15000
+姊妹夫	zi2 mi7 fu1	15000
 正娘	zeng1 njieh5	15000
 瑣奼	sou2 co2	15000
-盟姊妹	meng5 zi2 mee7	15000
+盟姊妹	meng5 zi2 mi7	15000
 結拜兄弟	ji4 ba3 xiong1 ddei6	15507
-結拜姊妹	ji4 ba3 zi2 mee7	15000
+結拜姊妹	ji4 ba3 zi2 mi7	15000
 表哥	bi2 gvu1	16629
 表奼	bi2 co2	15000
 路頭妻	lou7 ddou5 cei1	15000
@@ -5117,7 +5117,7 @@ use_preset_vocabulary: false
 三等三樣	so1 dang2 so1 yeh7	15000
 三般兩樣	so1 be1 la6 yeh7	15000
 三面見同	so1 mi7 ji3 ddong5	15000
-上凳上桌	yeh6 dang3 yeh6 jyu4	15000
+上凳上桌	yeh6 ddang3 yeh6 jyu4	15000
 中等過	zong1 dang2 gvu3	15000
 乾燥	ge1 seh3	19588
 些少	sei1 xyu2	15530
@@ -5313,7 +5313,7 @@ use_preset_vocabulary: false
 爛污相	lo7 u1 xieh1	15000
 爛淪	lo7 lang5	15000
 爛漫	lo7 mo7	15856
-爛臀凳	lo7 dde5 dang3	15000
+爛臀凳	lo7 dde5 ddang3	15000
 爛良心	lo7 lieh5 sang1	15000
 爛賤	lo7 ssi7	15000
 版版六十四	bo2 bo2 lou8 ssa8 si3	15000
@@ -5631,7 +5631,7 @@ use_preset_vocabulary: false
 房間	vo5 go1	29659
 抬樓	ddee5 lau5	15000
 明樓	meng5 lau5	15000
-梯凳	tei1 dang3	15000
+梯凳	tei1 ddang3	15000
 棧房	zzo7 vo5	15376
 樓板	lau5 bo2	15787
 樓梯檔	lau5 tei1 do3	15000
@@ -5877,7 +5877,7 @@ use_preset_vocabulary: false
 六月六	lou8 njyu8 lou8	15000
 六梅	lou8 mee5	15000
 冬節	dong1 ji4	15437
-凳板龍	dang3 bo2 luo5	15000
+凳板龍	ddang3 bo2 luo5	15000
 出年	qyu4 nji5	15000
 分歲燭	fang1 seu3 jyu4	15000
 分歲酒	fang1 seu3 zou2	15000
@@ -6970,7 +6970,7 @@ use_preset_vocabulary: false
 梭	sou1	1180
 欠欠	qi3 qi3	20000
 洗手盂	sei2 sou2 vyu5	20000
-洗浴凳	sei2 yu8 dang3	20000
+洗浴凳	sei2 yu8 ddang3	20000
 洞洞絲	ddong7 ddong7 si1	20000
 爛腳疤	lo7 jio4 buo1	20000
 瓜子臉	gu1 zi2 li6	20574
@@ -9920,7 +9920,7 @@ use_preset_vocabulary: false
 奶兒孫	na6 ng5 se1	15000
 妗孃兒	jjiang7 njieh5 ng5	15000
 妹妹兒	mee7 mee7 ng8	15000
-姊妹兒	zi2 mee7 ng8	15000
+姊妹兒	zi2 mi7 ng8	15000
 姑娘兒	gvu1 njieh5 ng8	15000
 姨娘兒	yi5 njieh5 ng5	15000
 娭	na1	742
@@ -10368,7 +10368,7 @@ use_preset_vocabulary: false
 打跳	da2 tee3	7500
 拗不牢	o2 fu2 leh5	7500
 指頭兒彈起	zi2 ddou5 ng5 ddo7 qi2	7500
-掇舊矮凳兒	de4 jjiau7 a2 dang3 ng5	7500
+掇舊矮凳兒	de4 jjiau7 a2 ddang3 ng5	7500
 摕賺	mo zzo7	7500
 敨大氣	tau dda7 qi3	7500
 敨氣	tau qi3	7500
@@ -10390,8 +10390,8 @@ use_preset_vocabulary: false
 庎櫥	ga zzeu5	7500
 挈盒兒	qi4 hhee8 ng5	7500
 板箱兒	bo2 xieh1 ng5	7500
-洗浴凳兒	sei2 yu8 dang3 ng5	7500
-矮凳兒	a2 dang3 ng5	7500
+洗浴凳兒	sei2 yu8 ddang3 ng5	7500
+矮凳兒	a2 ddang3 ng5	7500
 矮椅兒	a2 yi2 ng5	7500
 紙迫箱兒	zei2 ba4 xieh1 ng5	7500
 高五斗	geh1 ng6 dau2	7500
