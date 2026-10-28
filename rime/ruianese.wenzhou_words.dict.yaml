@@ -865,7 +865,7 @@ use_preset_vocabulary: false
 偏軒	pi1 xi1	30000
 大門	dda7 mang5	35742
 天井	ti3 zeng2	30781
-客坐	ka4 sso6	30000
+客坐	ka4 ssu6	30000
 客廳	ka4 teng1	35700
 封火牆	fong1 fu2 ssieh5	30000
 尿盆間	si2 bbe5 go1	30000
@@ -1648,7 +1648,7 @@ use_preset_vocabulary: false
 生壽墳	sa1 ssou7 vang5	30000
 生妹	sa1 mee7	30000
 生肖	sa1 xio1	31116
-當坐月	do3 sso6 njyu8	30000
+當坐月	do3 ssu6 njyu8	30000
 發喪	fo4 so1	30466
 百歲	ba4 seu3	30833
 皇天	hhu5 ti1	30556
@@ -1716,7 +1716,7 @@ use_preset_vocabulary: false
 做隊	zou3 ddai7	30000
 公印	gong1 yang3	30000
 共親家	jjyu7 cang1 gu1	30000
-冇講話	nau6 gu2 va7	30000
+冇講話	nau6 gu2 hhu7	30000
 冇關系	nau6 guo1 yi7	30000
 冤家	yu1 gu1	30887
 冤枉	yu1 yu2	31612
@@ -1756,7 +1756,7 @@ use_preset_vocabulary: false
 打圓場	da2 yu5 jjieh6	30540
 打官司	da2 gyu1 si1	31661
 打巴掌	da2 bu1 jieh2	30000
-打電話	da2 ddi7 va7	41053
+打電話	da2 ddi7 hhu7	41053
 拍馬屁	pa4 mu6 pei3	30748
 拔	bbo8	2906
 招待	jyu1 ddee6	31478
@@ -1801,9 +1801,9 @@ use_preset_vocabulary: false
 討好	teh2 heh2	32624
 請客	ceng2 ka4	32723
 請酒	ceng2 zou2	30000
-講瞎話	gu2 ho4 va7	30000
+講瞎話	gu2 ho4 hhu7	30000
 講笑	gu2 xyu3	30000
-講話	gu2 va7	34650
+講話	gu2 hhu7	34650
 講閑談	gu2 hho5 ddo5	30000
 謝謝	ssei7 ssei7	78389
 護	vu7	2284
@@ -2074,9 +2074,9 @@ use_preset_vocabulary: false
 花旦	hu1 do3	30810
 行頭	hha5 ddou5	30737
 講古人	gu2 gvu2 ssang5	30286
-講古話	gu2 gvu2 va7	30000
+講古話	gu2 gvu2 hhu7	30000
 講故事	gu2 gvu3 ssi7	33767
-講笑話	gu2 xyu3 va7	30220
+講笑話	gu2 xyu3 hhu7	30220
 變把戲	bi3 bu2 xi3	30277
 賤螺陀	ssi7 lou5 ddou5	30000
 賽跑	see3 po2	30864
@@ -2196,7 +2196,7 @@ use_preset_vocabulary: false
 嘴繃開	zeu2 ba1 kee1	30000
 噴	pang1	3144
 嚼	ssio8	1619
-坐	sso6	12725
+坐	ssu6	12725
 埋怨	ma5 yu3	31438
 堵	deu2	2336
 塞	see4	3901
@@ -2802,7 +2802,7 @@ use_preset_vocabulary: false
 大早天	dda7 zeh2 ti1	20000
 山溝讀	so1 gau1 ddou8	20000
 水溝清	seu2 gau1 ceng1	20000
-溫州話	yu1 zou1 va7	20000
+溫州話	yu1 zou1 hhu7	20000
 硬穀雨	nga7 gvu4 vyu6	20000
 蟹眼桶	ha2 ngo6 ddong6	20000
 
@@ -2986,7 +2986,7 @@ use_preset_vocabulary: false
 粗用	ceu1 yu7	15000
 糧布	lieh5 byu3	15000
 經理	jiang1 lei6	25871
-聽話	teng1 va7	17234
+聽話	teng1 hhu7	17234
 背刀	bai1 deh1	15000
 背順風旗	bai1 ssong7 fong1 jji5	15000
 腳抖起	jio4 dau2 qi2	15000
@@ -3384,7 +3384,7 @@ use_preset_vocabulary: false
 名色	meng5 see4	15487
 回聘	vai5 peng3	15000
 大出手	dda7 qyu4 sou2	15366
-天話	ti1 va7	15000
+天話	ti1 hhu7	15000
 女客	njyu6 ka4	15014
 子午心	zi2 ngu6 sang1	15000
 巴級	bu1 jia4	15000
@@ -3394,13 +3394,13 @@ use_preset_vocabulary: false
 望節	vo7 ji4	15000
 板頭	bo2 ddou5	15000
 正本額	zeng1 bang2 nga8	15000
-死話	si2 va7	15000
+死話	si2 hhu7	15000
 殺聲	so4 seng1	15000
 派頭浪	pa3 ddou5 lo7	15000
 牌頭	bba5 ddou5	15000
 由頭	yau5 ddou5	15571
 男客	nee5 ka4	15477
-白話	bba8 va7	15985
+白話	bba8 hhu7	15985
 禮數	lei6 sou3	15562
 背景	bai1 jiang2	49780
 覷起	ceu3 qi2	15000
@@ -3585,7 +3585,7 @@ use_preset_vocabulary: false
 吃用	qi4 yu7	15000
 和身勵	vu5 sang1 lei7	15000
 噓噓	xyu1 xyu1	15573
-大話	dda7 va7	16525
+大話	dda7 hhu7	16525
 太平龍	ta3 bbeng5 luo5	15000
 學樣	hhu8 yeh7	15534
 小擺設	xyu2 ba2 sei4	15000
@@ -4680,9 +4680,9 @@ use_preset_vocabulary: false
 喜事	xi2 ssi7	15920
 喜酒	xi2 zou2	15843
 圓房	yu5 vo5	15478
-坐家招夫	sso6 gu1 jyu1 fu1	15000
-坐筵	sso6 yi5	15000
-坐筵客	sso6 yi5 ka4	15000
+坐家招夫	ssu6 gu1 jyu1 fu1	15000
+坐筵	ssu6 yi5	15000
+坐筵客	ssu6 yi5 ka4	15000
 填房	ddi5 vo5	15424
 大定	dda7 ddeng7	15551
 大腳	dda7 jio4	16077
@@ -4767,7 +4767,7 @@ use_preset_vocabulary: false
 
 # 學校
 上書院	yeh6 seu1 yu7	15000
-坐館	sso6 gyu2	15020
+坐館	ssu6 gyu2	15020
 失教	sa4 go3	15000
 女書院	njyu6 seu1 yu7	15000
 學費	hhu8 fei3	25268
@@ -5248,7 +5248,7 @@ use_preset_vocabulary: false
 昏頭搭腦	xyu1 ddou5 dee4 neh6	15000
 暈暈動	yang7 yang7 ddong6	15000
 暖芬芬	ne6 fang1 fang1	15000
-會講會話	vai7 gu2 vai7 va7	15000
+會講會話	vai7 gu2 vai7 hhu7	15000
 有坯	yau6 pai1	15000
 有奐堆	yau6 xyu3 dai1	15000
 有數	yau6 sou3	16052
@@ -5599,7 +5599,7 @@ use_preset_vocabulary: false
 蟒袍	mo6 bbeh5	15443
 覷白戲	ceu3 bba8 xi3	15000
 覷西洋鏡	ceu3 sei1 yeh5 jiang3	15000
-話劇	va7 jji8	16870
+話劇	hhu7 jji8	16870
 講笑紅	gu2 xyu3 hhong5	15000
 買臉殼	ma6 li6 ku4	15000
 走台	zau2 ddee5	15000
@@ -6764,7 +6764,7 @@ use_preset_vocabulary: false
 對胃口	dai3 vyu7 kau2	20468
 戳蹩腳	qyu4 bbi8 jio4	20000
 扇巴張	xi1 bu1 jieh1	20000
-打官話	da2 gyu1 va7	20234
+打官話	da2 gyu1 hhu7	20234
 打屙漿	da2 u3 jieh1	20000
 打差使	da2 ca1 si2	20000
 打憋氣	da2 bei4 qi3	20000
@@ -6784,12 +6784,12 @@ use_preset_vocabulary: false
 眙風水	yi5 fong1 seu2	20000
 耨耨動	njiau7 njiau7 ddong6	20000
 觸黴頭	qyu4 mee5 ddou5	20000
-講大話	gu2 dda7 va7	20000
-講天話	gu2 ti1 va7	20000
-講死話	gu2 si2 va7	20000
-講謊話	gu2 hu1 va7	20000
+講大話	gu2 dda7 hhu7	20000
+講天話	gu2 ti1 hhu7	20000
+講死話	gu2 si2 hhu7	20000
+講謊話	gu2 hu1 hhu7	20000
 講道理	gu2 ddeh6 lei6	23185
-講陳話	gu2 zzang5 va7	20000
+講陳話	gu2 zzang5 hhu7	20000
 赤膊裸	cei4 bo4 lou6	20000
 趕潮船	ge2 jjyu5 yu5	20000
 轉念頭	jyu2 njieh7 ddou5	20000
@@ -6877,7 +6877,7 @@ use_preset_vocabulary: false
 無債一身輕	vu5 za3 yi8 sang1 qiang1	20018
 無風三尺浪	vu5 fong1 so1 cei4 lo7	20000
 獨腳戲難做	ddou8 jio4 xi3 no5 zou3	20000
-空口講白話	kong1 kau2 gu2 bba8 va7	20000
+空口講白話	kong1 kau2 gu2 bba8 hhu7	20000
 空殼大好佬	kong1 ku4 dda7 heh2 leh6	20000
 肚痛兩頭爬	ddeu6 tong3 la6 ddou5 bbuo5	20000
 肺里想出個	fei3 lei6 xieh2 qyu4 gai3	20000
@@ -7396,9 +7396,9 @@ use_preset_vocabulary: false
 在	ssi6	50300
 在彀	ssi6 gau3	20000
 在搭	ssi6 dee4	20000
-坐拉	sso6 lo8	20000
-坐拉落	sso6 lo8 lo8	20000
-坐搭	sso6 dee4	20000
+坐拉	ssu6 lo8	20000
+坐拉落	ssu6 lo8 lo8	20000
+坐搭	ssu6 dee4	20000
 急爻	jia4 hho5	20000
 搭	dee4	3339
 摸賺爻	mo8 zzo7 hho5	20000
@@ -7455,7 +7455,7 @@ use_preset_vocabulary: false
 自從	ssi7 yu8	28997
 
 # 特殊語法詞·第五節 溫州話連詞
-個講話	gai3 gu2 va7	20000
+個講話	gai3 gu2 hhu7	20000
 寧教	njiang5 go3	20000
 能密	nang5 mi8	20000
 
@@ -7589,15 +7589,15 @@ use_preset_vocabulary: false
 老三老四	leh6 so1 leh6 si3	20020
 自掙自力	ssi7 za1 ssi7 lei8	20000
 自覺自願	ssi7 gu4 ssi7 njyu7	20515
-自說自話	ssi7 xyu4 ssi7 va7	20558
+自說自話	ssi7 xyu4 ssi7 hhu7	20558
 自講自熟	ssi7 gu2 ssi7 ssou8	20000
-自講自話	ssi7 gu2 ssi7 va7	20000
+自講自話	ssi7 gu2 ssi7 hhu7	20000
 要緊要慢	yu1 jiang2 yu1 mo7	20000
 講好講毛	gu2 heh2 gu2 meh5	20000
 蹈腳蹈手	ddeh7 jio4 ddeh7 sou2	20000
 邋里邋遢	lo8 lei6 lo8 to4	20445
 關前關後	guo1 yi5 guo1 hhau6	20000
-陪講陪話	bbai5 gu2 bbai5 va7	20000
+陪講陪話	bbai5 gu2 bbai5 hhu7	20000
 露筋露骨	lou7 jiang1 lou7 gyu4	20000
 鬼頭鬼腦	jyu2 ddou5 jyu2 neh6	20435
 
@@ -7798,7 +7798,7 @@ use_preset_vocabulary: false
 圓木店	yu5 mu8 dieh3	15000
 土貨	teu2 fu3	15392
 地頭	ddei7 ddou5	15768
-坐商	sso6 xieh1	15435
+坐商	ssu6 xieh1	15435
 坦戶	to2 vu6	15000
 垃圾擔	lo1 njia4 do1	15000
 堂口	ddo5 kau2	15105
@@ -8515,7 +8515,7 @@ use_preset_vocabulary: false
 同謀	ddong5 meh5	15541
 命令	meng7 leng7	23769
 問案	vang7 e3	15457
-坐牢監	sso6 leh5 go1	15000
+坐牢監	ssu6 leh5 go1	15000
 執照	za4 jyu3	16298
 字眼寫爻	ssi7 ngo6 sei2 hho5	15000
 對證	dai3 zeng3	15531
@@ -8574,9 +8574,9 @@ use_preset_vocabulary: false
 呸聲煞掃	pai1 seng1 so3 seh2	15000
 唔處講	ngu5 ceu2 gu2	15000
 商量相處	xieh1 lieh5 xieh1 ceu2	15000
-回話	vai5 va7	16063
+回話	vai5 hhu7	16063
 土叫	teu2 jyu3	15000
-土話	teu2 va7	15550
+土話	teu2 hhu7	15550
 墊舌	dieh3 ssi8	15000
 多板蘭腔	dou1 bo2 lo5 ku1	15000
 大顙翻	dda7 so2 fo1	15000
@@ -8599,34 +8599,34 @@ use_preset_vocabulary: false
 溜口出	lou1 kau2 qyu4	15000
 漏口風	lau7 kau2 fong1	15000
 無空講	vu5 kong1 gu2	15000
-番話	fo1 va7	15858
+番話	fo1 hhu7	15858
 白眼罩	bba8 ngo6 zo3	15000
-福建話	fu4 ji3 va7	15000
+福建話	fu4 ji3 hhu7	15000
 空講	kong1 gu2	15000
 自講自是	ssi7 gu2 ssi7 ssi6	15000
 蠻爭	mo5 za1	15000
 蠻講	mo5 gu2	15000
-說話	xyu4 va7	38358
-謊話	hu1 va7	15823
+說話	xyu4 hhu7	38358
+謊話	hu1 hhu7	15823
 講圓俠	gu2 yu5 yi8	15000
 講墮爻	gu2 ddou6 hho5	15000
 講大來	gu2 dda7 lei5	15000
 講是	gu2 ssi6	15000
 講演說	gu2 yi6 xyu4	15000
-講現成話	gu2 yi7 sseng5 va7	15000
-講說話	gu2 xyu4 va7	15000
+講現成話	gu2 yi7 sseng5 hhu7	15000
+講說話	gu2 xyu4 hhu7	15000
 講講爽	gu2 gu2 su2	15000
 講讕誕	gu2 lo5 to2	15000
 講趣笑	gu2 ceu3 xyu3	15000
-講閑話	gu2 hho5 va7	15000
+講閑話	gu2 hho5 hhu7	15000
 講零頭	gu2 leng5 ddou5	15000
-賠講賠話	bbai5 gu2 bbai5 va7	15000
+賠講賠話	bbai5 gu2 bbai5 hhu7	15000
 賭打	deu2 da2	15000
 開口腔	kee1 kau2 ku1	15000
 開粗口	kee1 ceu1 kau2	15000
 開聲	kee1 seng1	15000
 閑勃	hho5 bbe8	15000
-閑話一句	hho5 va7 yi8 jyu3	15000
+閑話一句	hho5 hhu7 yi8 jyu3	15000
 鬧工切	no7 gong1 qi3	15000
 
 # 讀書識字
@@ -10386,7 +10386,7 @@ use_preset_vocabulary: false
 
 # 一般家具
 五斗櫥	ng6 dau2 zzeu5	7913
-坐椅兒	sso6 yi2 ng5	7500
+坐椅兒	ssu6 yi2 ng5	7500
 庎櫥	ga zzeu5	7500
 挈盒兒	qi4 hhee8 ng5	7500
 板箱兒	bo2 xieh1 ng5	7500
@@ -10570,7 +10570,7 @@ use_preset_vocabulary: false
 青田船兒	ceng1 ddi5 yu5 ng5	7500
 
 # 交際
-外路話	va7 lou7 va7	7500
+外路話	va7 lou7 hhu7	7500
 套頭兒	teh3 ddou5 ng5	7500
 覷不起	ceu3 fu2 qi2	7500
 
@@ -10755,7 +10755,7 @@ use_preset_vocabulary: false
 腳骨手軟	jio4 gyu4 sou2 njyu6	10000
 
 # 分類詞匯·十一、衣着、穿戴
-外坐衣	va7 sso6 yi1	10000
+外坐衣	va7 ssu6 yi1	10000
 衫袖套兒	so1 ssou7 teh3 ng5	10000
 袥肩	to ji1	10000
 
