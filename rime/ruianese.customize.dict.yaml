@@ -84,3 +84,8 @@ use_preset_vocabulary: false
 出去	qyu4 qyu3	30000
 進來	zang3 lei5	30000
 轉來	jyu2 lei5	35000
+嬉嬉	xi4 xi1	32000
+睏覺	kang3 gu3	30000
+不曉得	fu2 xio2 dei4	35000
+# 口語「不曉得」也說 xiao dei，本字未明，暫掛在不曉得下
+不曉得	xiao2 dei4	30000

@@ -1158,7 +1158,7 @@ use_preset_vocabulary: false
 倒散賴	deh2 so3 la7	30000
 做息	zou3 sei4	30000
 做木老師	zou3 mu8 leh6 si1	30000
-做生活	zou3 sa1 vuo8	30528
+做生活	zou3 sa1 hhuo8	30528
 做鞋老師	zou3 hha5 leh6 si1	30000
 兄叔	xiong1 sou4	30000
 兄嫂	xiong1 seh2	30488
@@ -2213,7 +2213,7 @@ use_preset_vocabulary: false
 尋着	ssang5 jjio8	30089
 心痛	sang1 tong3	32091
 忘記爻	vo7 ji3 hho5	30000
-快活	ka3 vuo8	31083
+快活	ka3 hhuo8	31083
 念	njieh7	3249
 怕	pu3	23960
 急	jia4	9127
@@ -2460,8 +2460,8 @@ use_preset_vocabulary: false
 歲大	seu3 dda7	30000
 死執	si2 za4	30000
 死板	si2 bo2	31225
-活動	vuo8 ddong6	80000
-活潑	vuo8 pe4	32029
+活動	hhuo8 ddong6	80000
+活潑	hhuo8 pe4	32029
 涼	lieh5	3323
 淡	ddo6	3100
 淡水味	ddo6 seu2 mei7	30000
@@ -3862,7 +3862,7 @@ use_preset_vocabulary: false
 打石老司	da2 ssei8 leh6 si1	20000
 木頭老司	mu8 ddou5 leh6 si1	20000
 泥水老司	nji5 seu2 leh6 si1	20000
-生活	sa1 vuo8	70000
+生活	sa1 hhuo8	70000
 白鐵老司	bba8 ti4 leh6 si1	20000
 裁縫老司	ssee5 vong5 leh6 si1	20000
 髹漆	xiau1 ca4	20000
@@ -4090,7 +4090,7 @@ use_preset_vocabulary: false
 勁起	jiang3 qi2	15000
 唔名唔姓	ngu5 meng5 ngu5 seng3	15000
 唔有	ngu5 yau6	15000
-夾活	go4 vuo8	15000
+夾活	go4 hhuo8	15000
 好比	heh2 bei2	17913
 好雖	heh2 seu1	15000
 密密	mi8 mi8	15792
@@ -5141,7 +5141,7 @@ use_preset_vocabulary: false
 勞碌命	leh5 lou8 meng7	15487
 十手會	ssa8 sou2 vai7	15000
 半新舊	beu3 sang1 jjiau7	15000
-半死辣活	beu3 si2 lo8 vuo8	15000
+半死辣活	beu3 si2 lo8 hhuo8	15000
 半燥溼	beu3 seh3 sa4	15000
 半生熟	beu3 sa1 ssou8	15000
 厚秩秩	hhau6 zza8 zza8	15000
@@ -5184,7 +5184,7 @@ use_preset_vocabulary: false
 太保相	ta3 beh2 xieh1	15000
 太濫方	ta3 lo7 fo1	15000
 夾夾搭搭	go4 go4 dee4 dee4	15000
-夾活劃	go4 vuo8 va8	15000
+夾活劃	go4 hhuo8 va8	15000
 好高	heh2 geh1	15636
 嫩黃	ne7 hhu5	15529
 孤獨相	gvu1 ddou8 xieh1	15000
@@ -5358,7 +5358,7 @@ use_preset_vocabulary: false
 相情願服	xieh1 sseng5 njyu7 vu8	15000
 相能	xieh1 nang5	15000
 真會	zang1 vai7	15878
-真生活	zang1 sa1 vuo8	15000
+真生活	zang1 sa1 hhuo8	15000
 眼快手緊	ngo6 ka3 sou2 jiang2	15000
 矮登登	a2 dang1 dang1	15000
 破布臭	pyu3 byu3 cou3	15000
@@ -5405,7 +5405,7 @@ use_preset_vocabulary: false
 老到	leh6 deh3	15585
 老古式	leh6 gvu2 sei4	15000
 老定	leh6 ddeng7	15000
-老極夾活	leh6 jji8 go4 vuo8	15000
+老極夾活	leh6 jji8 go4 hhuo8	15000
 老灰	leh6 fai1	15000
 老策	leh6 ca4	15000
 老茄茄	leh6 jji5 jji5	15000
@@ -5503,12 +5503,12 @@ use_preset_vocabulary: false
 黑沓沓	hee4 ddee8 ddee8	15000
 鼻頭鑽泥	bbei7 ddou5 ze1 nji5	15000
 齆臭	ong3 cou3	15000
-龍活	luo5 vuo8	15000
+龍活	luo5 hhuo8	15000
 
 # 心理活動
 單條心	do1 dduo5 sang1	15000
 思想	si1 xieh2	44686
-急死急活	jia4 si2 jia4 vuo8	15000
+急死急活	jia4 si2 jia4 hhuo8	15000
 想想	xieh2 xieh2	33031
 想着罷	xieh2 jjio8 bba6	15000
 打摸	da2 mo8	15000
@@ -6346,7 +6346,7 @@ use_preset_vocabulary: false
 春燈	cong1 dang1	15000
 油泥塑	yau5 nji5 seu3	15000
 洋蠟姆姆	yeh5 lo8 mu6 mu6	15000
-活手	vuo8 sou2	15000
+活手	hhuo8 sou2	15000
 炮仗	po3 jjieh6	15529
 炮仗紙	po3 jjieh6 zei2	15000
 烏桃	vu1 ddeh5	15000
@@ -6534,7 +6534,7 @@ use_preset_vocabulary: false
 石臘	ssei8 lo8	20000
 破布末	pyu3 byu3 me8	20000
 礌子	lai7 zi2	20000
-粗生活	ceu1 sa1 vuo8	20000
+粗生活	ceu1 sa1 hhuo8	20000
 老虎竈	leh6 fu2 zeh3	20388
 腳躄	jio4 bei4	20000
 花路	hu1 lou7	20523
@@ -6623,7 +6623,7 @@ use_preset_vocabulary: false
 歲小	seu3 xyu2	20000
 毛草	meh5 ceh2	20000
 泡湯	po3 tu1	20870
-活絡	vuo8 lo8	20633
+活絡	hhuo8 lo8	20633
 淨空	sseng7 kong1	20126
 清心	ceng1 sang1	20769
 清淡	ceng1 ddo6	21650
@@ -6713,7 +6713,7 @@ use_preset_vocabulary: false
 家長里短	gu1 jjieh5 lei6 de2	20000
 寅時卯月	yang5 ssi5 mo6 njyu8	20000
 寸草無留	ce3 ceh2 vu5 lou5	20000
-尋死活漏	ssang5 si2 vuo8 lau7	20000
+尋死活漏	ssang5 si2 hhuo8 lau7	20000
 小八癩子	xyu2 bo4 la7 zi2	20000
 嵌牙齒縫	ko3 ngu5 ci2 vong5	20000
 打大轉匯	da2 dda7 jyu2 vai6	20000
@@ -7058,7 +7058,7 @@ use_preset_vocabulary: false
 團團圈圈	dde5 dde5 qyu1 qyu1	20000
 小小磊磊	xyu2 xyu2 lai6 lai6	20000
 小磊	xyu2 lai6	20065
-快快活活	ka3 ka3 vuo8 vuo8	20000
+快快活活	ka3 ka3 hhuo8 hhuo8	20000
 扯扯拔拔	cei2 cei2 bbo8 bbo8	20000
 扯拔	cei2 bbo8	20000
 指呶	zi2 no5	20000
@@ -7189,8 +7189,8 @@ use_preset_vocabulary: false
 黃昏頭	hhu5 xyu1 ddou5	20000
 
 # 特殊語法詞·五、拓展法
-半死爛活	beu3 si2 lo7 vuo8	20000
-半死賴活	beu3 si2 la7 vuo8	20000
+半死爛活	beu3 si2 lo7 hhuo8	20000
+半死賴活	beu3 si2 la7 hhuo8	20000
 彎藤八翹	uo1 ddang5 bo4 qyu3	20000
 牽絲反藤	qi1 si1 fo2 ddang5	20000
 牽絲攀藤	qi1 si1 po1 ddang5	20000
@@ -7564,14 +7564,14 @@ use_preset_vocabulary: false
 懵講懵聽	mong6 gu2 mong6 teng1	20000
 扭皮扭休	njiau6 bbei5 njiau6 xiau1	20000
 拉尿拉屙	lo8 si2 lo8 u3	20000
-拼死拼活	ba1 si2 ba1 vuo8	20529
+拼死拼活	ba1 si2 ba1 hhuo8	20529
 搭七搭八	dee4 ca4 dee4 bo4	20000
 搭嘴搭舌	dee4 zeu2 dee4 ssi8	20000
 擔尿擔屙	do1 si2 do1 u3	20000
 暈頭暈腦	yang7 ddou5 yang7 neh6	20000
 有板有眼	yau6 bo2 yau6 ngo6	20535
 洋里洋氣	yeh5 lei6 yeh5 qi3	20000
-活靈活現	vuo8 leng5 vuo8 yi7	20577
+活靈活現	hhuo8 leng5 hhuo8 yi7	20577
 流里流氣	lou5 lei6 lou5 qi3	20000
 滑頭滑腦	vuo8 ddou5 vuo8 neh6	20293
 滴水滴東	dei4 seu2 dei4 dong1	20000
@@ -8213,7 +8213,7 @@ use_preset_vocabulary: false
 水蓮船	seu2 li5 yu5	15000
 法夏	fo4 hhu7	15000
 泥豆	nji5 ddou7	15000
-活血丹	vuo8 xyu4 do1	15000
+活血丹	hhuo8 xyu4 do1	15000
 海芥菜	hee2 ga3 cee3	15000
 溫鬱金	yu1 you4 jiang1	15000
 滿天星	me6 ti1 seng1	15613
@@ -10451,7 +10451,7 @@ use_preset_vocabulary: false
 會講兒	vai7 gu2 ng5	7500
 東洋人	dong1 yeh5 nang5	7500
 歲大人	seu3 dda7 nang5	7500
-活死人	vuo8 si2 nang5	8081
+活死人	hhuo8 si2 nang5	8081
 流灡姆	lou5 la mu6	7500
 清水人兒	ceng1 seu2 nang5 ng5	7500
 濫水雞兒	lo7 seu2 ji1 ng5	7500
@@ -11071,7 +11071,7 @@ use_preset_vocabulary: false
 阿弟兒	a1 ddei6 ng5	7500
 
 # 形容詞
-不乜死活	fu2 mi6 si2 vuo8	7500
+不乜死活	fu2 mi6 si2 hhuo8	7500
 不倈緊	fu2 lee5 jiang2	7500
 不是頭	fu2 ssi6 ddou5	7500
 不犯	fu2 vo6	8119
@@ -11598,7 +11598,7 @@ use_preset_vocabulary: false
 十補九不足	ssa8 byu2 jiau2 fu2 jyu4	10000
 好狗不當路	heh2 gau2 fu2 do3 lou7	10000
 救急不救窮	jiau3 jia4 fu2 jiau3 jjiong5	10373
-死店活人開	si2 dieh3 vuo8 nang5 kee1	10000
+死店活人開	si2 dieh3 hhuo8 nang5 kee1	10000
 無風樹不響	vu5 fong1 sseu7 fu2 xieh2	10000
 狗肉不上桌	gau2 njau8 fu2 yeh6 jyu4	10000
 窮人不窮路	jjiong5 nang5 fu2 jjiong5 lou7	10000
@@ -11981,8 +11981,8 @@ use_preset_vocabulary: false
 不癲不仙	fu2 di1 fu2 xi1	10000
 唔廉唔恥	ng5 li5 ng5 ci2	10000
 學人學樣	hhu8 nang5 hhu8 yeh7	10000
-跁死跁活	bo si2 bo vuo8	10000
-鈵死鈵活	beng si2 beng vuo8	10000
+跁死跁活	bo si2 bo hhuo8	10000
+鈵死鈵活	beng si2 beng hhuo8	10000
 
 # 瓜果
 丁呑梅	deng1 eh mee5	7500
