@@ -6,6 +6,19 @@
 
 Contact: [ztangyitxiaang@gmail.com](mailto:ztangyitxiaang@gmail.com)
 
+<!-- BEGIN portfolio-project-animations -->
+## Animated project guide
+
+These self-contained SVG animations explain the project workflow. They are illustrative guides, not recorded experiments or new performance results. Static content remains available when reduced motion is requested.
+
+### Ruianese typing
+
+![Ruianese typing — illustrative animation](docs/portfolio-animations/wenzhounese-input-method.svg)
+
+The ssang → 人 example was verified in the public typing demo. This animation does not run the input engine.
+
+<!-- END portfolio-project-animations -->
+
 ## Features
 
 - Ready-to-install Rime keyboard in [`rime/`](rime/) (see [Installation](#installation))
