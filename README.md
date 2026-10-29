@@ -7,15 +7,17 @@
 Contact: [ztangyitxiaang@gmail.com](mailto:ztangyitxiaang@gmail.com)
 
 <!-- BEGIN portfolio-project-animations -->
-## Animated project guide
+## Recorded project interactions
 
-These self-contained SVG animations explain the project workflow. They are illustrative guides, not recorded experiments or new performance results. Static content remains available when reduced motion is requested.
+These previews record interaction with original project figures, saved notebook outputs, source tests, or the actual project interface. They do not represent new experiments, model inference, or benchmark runs. Pointer-driven inspection, saved-result selection, and browser controls are captured below.
 
-### Ruianese typing
+### Type in the real input-method demo
 
-![Ruianese typing — illustrative animation](docs/portfolio-animations/wenzhounese-input-method.svg)
+![Type in the real input-method demo - recorded project interaction](docs/portfolio-previews/wenzhounese-input-method.gif)
 
-The ssang → 人 example was verified in the public typing demo. This animation does not run the input engine.
+The public browser demo runs here. Type ssang and select 人; this uses the project interface, not a scripted typing loop.
+
+[Original project material](https://github.com/Ztang-Yit-Xiaang/Ruianese_Typing_Method)
 
 <!-- END portfolio-project-animations -->
 
