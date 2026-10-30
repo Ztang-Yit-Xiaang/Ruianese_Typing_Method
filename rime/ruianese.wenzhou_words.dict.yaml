@@ -1399,7 +1399,7 @@ use_preset_vocabulary: false
 眼白	ngo6 bba8	30534
 眼皮	ngo6 bbei5	31848
 眼睫毛	ngo6 yi8 meh5	30567
-眼細毛	ngo6 sei3 meh5	30000
+眼細毛	ngo6 sai3 meh5	30000
 眼袋	ngo6 ddee7	30936
 眼黧毛	ngo6 lei5 meh5	30000
 瞳人	ddong5 ssang5	30000
@@ -2503,7 +2503,7 @@ use_preset_vocabulary: false
 精	zeng1	4607
 糊	vu5	1766
 糊塗	vu5 ddeu5	32246
-細	sei3	4321
+細	sai3	4321
 統身	tong3 sang1	30000
 緊	jiang2	5830
 罪過黴	ssai6 gvu3 mee5	30000
@@ -3108,7 +3108,7 @@ use_preset_vocabulary: false
 大朦	dda7 mong5	15000
 大毛	dda7 meh5	15565
 大毛宕	dda7 meh5 ddo7	15000
-大男細女	dda7 nee5 sei3 njyu6	15000
+大男細女	dda7 nee5 sai3 njyu6	15000
 大蠻院主	dda7 mo5 yu7 zeu2	15000
 大賊	dda7 ssee8	15000
 太監老	ta3 go1 leh6	15000
@@ -4350,7 +4350,7 @@ use_preset_vocabulary: false
 紅磚	hhong5 jyu1	15597
 純鹼	ssong5 go2	15595
 紙山	zei2 so1	15000
-細蠣灰	sei3 lei7 fai1	15000
+細蠣灰	sai3 lei7 fai1	15000
 臘石	lo8 ssei8	15000
 茶湯	zzu5 tu1	15626
 草坦	ceh2 to2	15000
@@ -5150,7 +5150,7 @@ use_preset_vocabulary: false
 吃涼	qi4 lieh5	15000
 吃益	qi4 yi4	15000
 吃粗	qi4 ceu1	15000
-吃細	qi4 sei3	15000
+吃細	qi4 sai3	15000
 吃補	qi4 byu2	15000
 合切	hhee8 qi3	15000
 和里夾綜	vu5 lei6 go4 zong3	15000
@@ -5189,7 +5189,7 @@ use_preset_vocabulary: false
 嫩黃	ne7 hhu5	15529
 孤獨相	gvu1 ddou8 xieh1	15000
 定板	ddeng7 bo2	15000
-密牙細嚼	mi8 ngu5 sei3 ssio8	15000
+密牙細嚼	mi8 ngu5 sai3 ssio8	15000
 尋常	ssang5 ssieh5	16356
 對頭排面	dai3 ddou5 bba5 mi7	15000
 小樣	xyu2 yeh7	16922
@@ -5378,7 +5378,7 @@ use_preset_vocabulary: false
 粉紅	fang2 hhong5	16496
 粗大	ceu1 dda7	15925
 精工	zeng1 gong1	16208
-精細	zeng1 sei3	17942
+精細	zeng1 sai3	17942
 精靈	zeng1 leng5	26323
 糊垛迫漿	vu5 ddou6 ba4 jieh1	15000
 糖甜蜜滯	ddo5 ddieh5 mi8 zzei7	15000
@@ -5388,13 +5388,13 @@ use_preset_vocabulary: false
 紅勢	hhong5 sei3	15000
 紅影色	hhong5 yang2 see4	15000
 紅粉色	hhong5 fang2 see4	15000
-紅蔥細白	hhong5 cong1 sei3 bba8	15000
+紅蔥細白	hhong5 cong1 sai3 bba8	15000
 紅蠟蠟	hhong5 lo8 lo8	15000
 紅頭面赤	hhong5 ddou5 mi7 cei4	15000
 紫紅	zi2 hhong5	15597
 累堆	lei6 dai1	20224
-細碎	sei3 sai3	15774
-細達	sei3 ddo8	20000
+細碎	sai3 sai3	15774
+細達	sai3 ddo8	20000
 經用	jiang1 yu7	15025
 綠鸚鵡	lu8 yang1 vu6	15000
 緊夾	jiang2 go4	15000
@@ -5591,7 +5591,7 @@ use_preset_vocabulary: false
 笛師	ddei8 si1	15000
 紅旦	hhong5 do3	15000
 紗帽翼	so1 meh7 yi8	15000
-細樂	sei3 lo8	15000
+細樂	sai3 lo8	15000
 花臉末	hu1 li6 me8	15000
 花臉檔	hu1 li6 do3	15000
 荒腔脫板	hu1 ku1 te4 bo2	15000
@@ -6425,7 +6425,7 @@ use_preset_vocabulary: false
 糯米酒	nou7 mei6 zou2	15000
 紅丸	hhong5 yu5	15086
 紅曲	hhong5 qiou4	15540
-細茶葉	sei3 zzu5 yi8	15000
+細茶葉	sai3 zzu5 yi8	15000
 紹興酒	ssyu6 xiang1 zou2	15492
 老酒汗	leh6 zou2 hhe7	15000
 茶子	zzu5 zi2	15000
@@ -6734,7 +6734,7 @@ use_preset_vocabulary: false
 白眼泥漦	bba8 ngo6 nji5 ssi5	20000
 皇天三寶	hhu5 ti1 so1 beh2	20000
 磐嶼撐篙	bbe5 sseu6 ca1 geh1	20000
-紅粉細白	hhong5 fang2 sei3 bba8	20000
+紅粉細白	hhong5 fang2 sai3 bba8	20000
 翹嘴篤舌	qyu3 zeu2 dou4 ssi8	20000
 肝經健顯	ge1 jiang1 jji7 xi2	20000
 蓬頭散發	bbong5 ddou5 so3 fo4	20000
@@ -7013,7 +7013,7 @@ use_preset_vocabulary: false
 梗直	ga2 zzei8	20432
 碧清	bei4 ceng1	20000
 碧綠	bei4 lu8	20866
-蒙細	mong5 sei3	20000
+蒙細	mong5 sai3	20000
 雪白	xyu4 bba8	21252
 鯁直	ga2 zzei8	20309
 鸚綠	yang1 lu8	20000
@@ -8265,7 +8265,7 @@ use_preset_vocabulary: false
 紫菜薹	zi2 cee3 ddee5	15323
 紫蒜	zi2 syu3	15000
 紫薇	zi2 vei5	15908
-細珠草	sei3 zeu1 ceh2	15000
+細珠草	sai3 zeu1 ceh2	15000
 老奶頭	leh6 na6 ddou5	15000
 胭脂梅	yi1 zi1 mee5	15000
 脫力草	te4 lei8 ceh2	15000
@@ -9433,7 +9433,7 @@ use_preset_vocabulary: false
 竹雀	zou4 jio4	15000
 糠飯	ku1 vo7	15000
 紅頭鷺鷥	hhong5 ddou5 lou7 si1	15000
-細毛雞	sei3 meh5 ji1	15000
+細毛雞	sai3 meh5 ji1	15000
 翀翀	zzong5 zzong5	15000
 翠花鳥	cai3 hu1 nio2	15000
 老猴大	leh6 hhau5 dda7	15000
@@ -9575,7 +9575,7 @@ use_preset_vocabulary: false
 田岸	ddi5 yu7	15299
 石頭子兒	ssei8 ddou5 zi2 ng5	15000
 磚頭鐾	jyu1 ddou5 ggyu8	15000
-細蠣灰兒	sei3 lei7 fai1 ng5	15000
+細蠣灰兒	sai3 lei7 fai1 ng5	15000
 
 # B时令时间
 一下兒	yi8 hhu6 ng5	15441
@@ -9945,16 +9945,16 @@ use_preset_vocabulary: false
 瑣個兒	sou2 gai3 ng5	15000
 瑣兒	sou2 ng8	15000
 瑣叔兒	sou2 sou4 ng5	15000
-瑣細兒	sou2 sei3 ng5	15000
+瑣細兒	sou2 sai3 ng5	15000
 生意人	sa1 yi3 nang5	15808
 男兒	nee5 ng5	16163
 番人	fo1 nang5	15448
 當大兒	do3 dda7 ng5	15000
 癲人	di1 nang5	15000
-看牛細兒	ke3 ngau5 sei3 ng5	15000
+看牛細兒	ke3 ngau5 sai3 ng5	15000
 種田人	jyu2 ddi5 nang5	15000
 空手飯人	kong1 sou2 vo7 nang5	15000
-細兒	sei3 ng5	15000
+細兒	sai3 ng5	15000
 繞額	njee6 nga8	15000
 老人客	leh6 njang5 ka4	15000
 老安人	leh6 e1 njang5	15000
@@ -10112,7 +10112,7 @@ use_preset_vocabulary: false
 梭船兒	sou1 yu5 ng8	15000
 汽艇	qi3 teng2	15501
 渡船兒	ddeu7 yu5 ng5	15000
-細船兒	sei3 yu5 ng5	15000
+細船兒	sai3 yu5 ng5	15000
 跳板	tee3 bo2	16296
 踏腳車	dda8 jio4 co1	15000
 
@@ -10229,7 +10229,7 @@ use_preset_vocabulary: false
 不是	fu2 ssi6	65000
 不會	fu2 vai7	65000
 不用	fu2 yu7	60534
-乘細兒	sseng5 sei3 ng5	15000
+乘細兒	sseng5 sai3 ng5	15000
 先不先	xi1 fu2 xi1	15238
 兩下兒	la6 hhu6 ng5	15000
 只特兒能	zi2 ddee8 ng5 nang5	15000
@@ -10440,7 +10440,7 @@ use_preset_vocabulary: false
 局兒	jjyu8 ng5	7500
 山底人	so1 dei2 nang5	7500
 山頭踩巖兒	so1 ddou5 cee2 ngo5 ng5	7500
-後生細兒	hhau6 sa1 sei3 ng5	7500
+後生細兒	hhau6 sa1 sai3 ng5	7500
 後生院主兒	hhau6 sa1 yu7 zeu2 ng5	7500
 心清人	sang1 ceng1 nang5	7500
 懦懦佛兒	nou7 nou7 va8 ng5	7500
@@ -10478,8 +10478,8 @@ use_preset_vocabulary: false
 笑面虎臉兒	xyu3 mi7 fu2 li6 ng5	7500
 紅人	hhong5 nang5	8372
 紅花男兒	hhong5 hu1 nee5 ng5	7500
-細兒伷兒	sei3 ng qyu ng	7500
-細兒頭氣	sei3 ng5 ddou5 qi3	7500
+細兒伷兒	sai3 ng qyu ng	7500
+細兒頭氣	sai3 ng5 ddou5 qi3	7500
 老不大	leh6 fu2 dda7	7500
 老人客兒	leh6 nang5 ka4 ng5	7500
 老人客相	leh6 nang5 ka4 xieh1	7500
@@ -11003,7 +11003,7 @@ use_preset_vocabulary: false
 生人婦	sa1 nang5 vyu6	7500
 男兒肚	nee5 ng5 ddeu6	7500
 病兒	bbeng7 ng5	8039
-細兒缺	sei3 ng5 qyu4	7500
+細兒缺	sai3 ng5 qyu4	7500
 老孺人	leh6 sseu7 nang5	7500
 送三日兒	song3 so1 nee8 ng5	7500
 送日	song3 nee8	7500
@@ -11418,7 +11418,7 @@ use_preset_vocabulary: false
 白殕	bba8 feu	10000
 白身人	bba8 sang1 nang5	10000
 白鬻灡	bba8 you4 la	10000
-蟹飯細兒	ha2 vo7 sei3 ng5	10000
+蟹飯細兒	ha2 vo7 sai3 ng5	10000
 軟骨頭	njyu6 gyu4 ddou5	10468
 隑士林	ggee ssi6 leng5	10000
 雙生娒	xyu1 sa1 mai	10000
@@ -11514,7 +11514,7 @@ use_preset_vocabulary: false
 牙兒塌開	ngu5 ng5 to4 kee1	10000
 眼黃兒熱	ngo6 hhu5 ng5 nji8	10000
 瞎七搭八	dduo5 ca4 dee4 bo4	10000
-細達薄肉	sei3 ddo8 bbuo8 njau8	10000
+細達薄肉	sai3 ddo8 bbuo8 njau8	10000
 蟹醬恁兒	ha2 jieh3 ssang7 ng5	10000
 蠻人蠻講	mo5 nang5 mo5 gu2	10000
 角落峽兒	gu4 lo8 hho8 ng5	10000
@@ -11846,8 +11846,8 @@ use_preset_vocabulary: false
 樓梯頭兒	lau5 tei1 ddou5 ng5	10000
 皮頭兒	bbei5 ddou5 ng5	10000
 紙頭兒	zei2 ddou5 ng5	10000
-細兒頭	sei3 ng5 ddou5	10000
-細兒頭兒	sei3 ng5 ddou5 ng5	10000
+細兒頭	sai3 ng5 ddou5	10000
+細兒頭兒	sai3 ng5 ddou5 ng5	10000
 腳盂頭兒	jio4 vyu5 ddou5 ng5	10000
 蠟燭頭兒	lo8 jyu4 ddou5 ng5	10000
 角落頭兒	gu4 lo8 ddou5 ng5	10000
@@ -12029,7 +12029,7 @@ use_preset_vocabulary: false
 當店貓兒	do3 dieh3 mi5 ng5	7500
 碗窰	yu2 yee	7500
 糖兒客	ddo5 ng5 ka4	7500
-細兒貨	sei3 ng5 fu3	7500
+細兒貨	sai3 ng5 fu3	7500
 缸窰	guo1 yee	7500
 耳朵兒	ng6 du2 ng5	7500
 肉砧板	njau8 zang1 bo2	7500
@@ -12089,12 +12089,12 @@ use_preset_vocabulary: false
 科頭兒	kvu1 ddou5 ng5	7500
 種山人	jyu2 so1 nang5	7500
 粗人	ceu1 nang5	8061
-細奶兒	sei3 na6 ng5	7500
+細奶兒	sai3 na6 ng5	7500
 老師母	leh6 si1 ng6	7500
 腳兒	jio4 ng5	7906
 菜園人	cee3 yu5 nang5	7500
 薦頭人	ji3 ddou5 nang5	7500
-讀書細兒	ddou8 seu1 sei3 ng5	7500
+讀書細兒	ddou8 seu1 sai3 ng5	7500
 走差兒	zau2 ca1 ng5	7500
 辦事員兒	bbo7 ssi7 yu5 ng5	7500
 頂個兒	deng2 gai3 ng5	7500
@@ -12374,7 +12374,7 @@ use_preset_vocabulary: false
 白鮸魚	bba8 mi6 ngeu5	7500
 石斑魚	ssei8 bo1 ngeu5	8039
 紅魚	hhong5 ngeu5	8018
-細鰆兒	sei3 cong1 ng5	7500
+細鰆兒	sai3 cong1 ng5	7500
 綠頭團魚	lu8 ddou5 dde5 ngeu5	7500
 莢兒	ma6 ng5	7500
 藏魚	sso5 ngeu5	7500
