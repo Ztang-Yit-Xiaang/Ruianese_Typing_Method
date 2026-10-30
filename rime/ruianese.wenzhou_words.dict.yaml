@@ -807,8 +807,8 @@ use_preset_vocabulary: false
 皮袍	bbei5 bbeh5	30000
 皮襖	bbei5 eh2	30508
 盤巾	bbe5 jiang1	30000
-短打	de2 da2	30540
-短筒襪	de2 ddong5 mo8	30000
+短打	deu2 da2	30540
+短筒襪	deu2 ddong5 mo8	30000
 紐珠	njiau6 zeu1	30000
 紐珠窟	njiau6 zeu1 kyu4	30000
 紐珠襻	njiau6 zeu1 po3	30000
@@ -2493,7 +2493,7 @@ use_preset_vocabulary: false
 相似	xieh1 ssi6	40220
 相像	xieh1 yeh6	30786
 省徑	sa2 jiang3	30000
-短	de2	6394
+短	deu2	6394
 矮	a2	2092
 破	pyu3	8469
 硬	nga7	5654
@@ -2628,7 +2628,7 @@ use_preset_vocabulary: false
 直頭	zzei8 ddou5	30000
 相	xieh1	13559
 真真	zang1 zang1	30982
-短命	de2 meng7	30763
+短命	deu2 meng7	30763
 稍微	so1 vei5	58120
 稍須	so1 seu1	30000
 統統	tong3 tong3	33977
@@ -3152,8 +3152,8 @@ use_preset_vocabulary: false
 癆丁	leh7 deng1	15000
 相能姆	xieh1 nang5 mu6	15000
 真院主	zang1 yu7 zeu2	15000
-短命相	de2 meng7 xieh1	15000
-短命鬼	de2 meng7 jyu2	15000
+短命相	deu2 meng7 xieh1	15000
+短命鬼	deu2 meng7 jyu2	15000
 矮頹	a2 ddai5	15000
 破貨	pyu3 fu3	15000
 空殼大老官	kong1 ku4 dda7 leh6 gyu1	15000
@@ -3853,7 +3853,7 @@ use_preset_vocabulary: false
 百襉裙	ba4 go3 jjiang5	20000
 絨線衫	ssong5 xi3 so1	20343
 鉛鈕	ka1 njiau6	20000
-長衫短打	jjieh5 so1 de2 da2	20000
+長衫短打	jjieh5 so1 deu2 da2	20000
 高桶	geh1 ddong6	20000
 
 # 分類詞匯·十七、手藝、百工
@@ -5193,7 +5193,7 @@ use_preset_vocabulary: false
 尋常	ssang5 ssieh5	16356
 對頭排面	dai3 ddou5 bba5 mi7	15000
 小樣	xyu2 yeh7	16922
-少短	xyu2 de2	15000
+少短	xyu2 deu2	15000
 尖溜溜	ji1 lou1 lou1	15234
 尤路	yau5 lou7	15000
 就用	ssou7 yu7	20912
@@ -5562,7 +5562,7 @@ use_preset_vocabulary: false
 戲館	xi3 gyu2	15000
 打八仙	da2 bo4 xi1	15000
 打戲	da2 xi3	15734
-打短手	da2 de2 sou2	15000
+打短手	da2 deu2 sou2	15000
 打臉	da2 li6	19069
 打號	da2 hheh7	15000
 抬閣	ddee5 gee4	15000
@@ -6710,7 +6710,7 @@ use_preset_vocabulary: false
 嚴幹正色	nji5 ge3 zeng1 see4	20000
 天晴落雨	ti1 sseng5 lo8 vyu6	20000
 奇形古怪	jji5 yang5 gvu2 ga3	20000
-家長里短	gu1 jjieh5 lei6 de2	20000
+家長里短	gu1 jjieh5 lei6 deu2	20000
 寅時卯月	yang5 ssi5 mo6 njyu8	20000
 寸草無留	ce3 ceh2 vu5 lou5	20000
 尋死活漏	ssang5 si2 hhuo8 lau7	20000
@@ -6917,7 +6917,7 @@ use_preset_vocabulary: false
 玻璃瓶	bu1 lei5 bbeng5	20816
 番薯棗	fo1 ssei7 zeh2	20000
 番薯餅	fo1 ssei7 beng2	20000
-短褲頭	de2 kvu3 ddou5	20000
+短褲頭	deu2 kvu3 ddou5	20000
 破布頭	pyu3 byu3 ddou5	20000
 破漏船	pyu3 lau7 yu5	20000
 糯米餅	nou7 mei6 beng2	20000
@@ -7703,7 +7703,7 @@ use_preset_vocabulary: false
 病好罷	bbeng7 heh2 bba6	15000
 百草糕	ba4 ceh2 geh1	15000
 眼藥	ngo6 yo8	15523
-短命橫夭	de2 meng7 va5 yu2	15000
+短命橫夭	deu2 meng7 va5 yu2	15000
 祛溼	qyu1 sa4	15000
 祛風	qyu1 fong1	15609
 神經	ssang5 jiang1	23168
@@ -9104,7 +9104,7 @@ use_preset_vocabulary: false
 皮草鞋	bbei5 ceh2 hha5	15000
 皮鞋	bbei5 hha5	16455
 皮鞋油	bbei5 hha5 yau5	15342
-短桶襪	de2 ddong6 mo8	15000
+短桶襪	deu2 ddong6 mo8	15000
 絨帽	ssong5 meh7	15000
 緊襪帶	jiang2 mo8 da3	15000
 膝褲	sa4 kvu3	15000
@@ -9505,7 +9505,7 @@ use_preset_vocabulary: false
 發食	fo4 ssei8	15000
 白眼湯圓	bba8 ngo6 tu1 yu5	15000
 盆糕	bbe5 geh1	15000
-短切	de2 qi3	15000
+短切	deu2 qi3	15000
 箬糕	ssio8 geh1	15000
 粟餅	xyu4 beng2	15000
 糖粿粉	ddo5 gvu2 fang2	15000
@@ -10468,7 +10468,7 @@ use_preset_vocabulary: false
 白鼻頭兒	bba8 bbei7 ddou5 ng5	7500
 皮領甲兒	bbei5 leng6 gu4 ng5	7500
 瞎屄三	dduo5 bei so1	7500
-短命花娘兒	de2 meng7 hu1 njieh5 ng5	7500
+短命花娘兒	deu2 meng7 hu1 njieh5 ng5	7500
 破人	pyu3 nang5	7500
 破娜兒	pyu3 nou5 ng5	7500
 硬命丁兒	nga7 meng7 deng1 ng5	7500
@@ -10496,7 +10496,7 @@ use_preset_vocabulary: false
 酒頭人	zou2 ddou5 nang5	7500
 金錢反	jiang1 ddi5 fo2	7500
 銀人	njiang5 nang5	7500
-長短兒佛	jjieh5 de2 ng5 va8	7500
+長短兒佛	jjieh5 deu2 ng5 va8	7500
 阿壯兒	a1 zo3 ng5	7500
 阿寶兒	a1 beh2 ng5	7500
 阿會兒	a1 vai7 ng5	7500
@@ -11166,7 +11166,7 @@ use_preset_vocabulary: false
 指頭骨兒	zi2 ddou5 gyu4 ng5	7500
 放慢袋兒	fo3 mo7 ddee7 ng5	7500
 瓜子拳兒	gu1 zi2 jjyu5 ng5	7500
-短短腳兒	de2 de2 jio4 ng5	7500
+短短腳兒	deu2 deu2 jio4 ng5	7500
 肉錘兒	njau8 zzeu5 ng5	7500
 肚臍兒	ddeu6 ssei5 ng5	31000
 脬兒	po1 ng5	7500
@@ -11699,7 +11699,7 @@ use_preset_vocabulary: false
 玻璃瓶兒	bu1 lei5 bbeng5 ng5	10000
 皮𥫷	bbei5 qau	10000
 皮𥫷兒	bbei5 qau ng5	10000
-短褲頭兒	de2 kvu3 ddou5 ng5	10000
+短褲頭兒	deu2 kvu3 ddou5 ng5	10000
 破布頭兒	pyu3 byu3 ddou5 ng5	10000
 紅布衫兒	hhong5 byu3 so1 ng5	10000
 紅棗兒	hhong5 zeh2 ng5	10000
