@@ -101,3 +101,12 @@ use_preset_vocabulary: false
 乾淨	geu1 zzeng7	32000
 # 齷齪 lu zeh：看起來髒（邋遢 lo8 to4 說人）；本字未定
 齷齪	lu8 zeh4	25000
+# 厚：白讀 ggau6，文讀 hhau6（文讀待定）
+厚	ggau6	5000
+# 薄：bbu7 最常用，bbuo8 用於薄荷、無情薄義
+薄	bbu7	5000
+# 壯：平常口語的「胖」，白讀 jyu3；文讀 zo3
+壯	jyu3	5000
+# 肥：口語說「胖」用壯，肥多在搭配中出現，讀 veh5（待確認）；肥皂 仍讀 vei5
+肥	veh5	4000
+# 肉：njau8 與 njiou8 兩讀並存
